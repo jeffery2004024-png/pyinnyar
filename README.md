@@ -45,3 +45,19 @@ GitHub Actions 从 `main` 构建、运行检查并将 `dist/` 上传到 GitHub P
 5. 更新旧站跳转目标、站长工具属性、sitemap 和 Facebook 网站栏；保留旧域名的跳转。
 
 本项目当前没有 CNAME，也没有虚构电话、地址、学生评价或录取案例。
+
+## 本次迁移验收（2026-10-15）
+
+- GitHub Actions 构建和部署成功；Pages `build_type=workflow`、`https_enforced=true`、`cname=null`。
+- 23项 Node 检查全部通过；Safari 在375、768、1440px的三语首页和成绩页完成55项检查，0失败（含选考、录入、匹配、语言切换、保存/导出/导入和加载骨架）。
+- 线上根入口、15个语言页面、sitemap、robots、分享图、favicon及三个数据 JSON 均HTTP200，响应与本地构建逐字节一致。
+- 原站由 Sites 插件保留为三语跳转入口；旧站默认中文、my/en保持语言，页面、查询参数和片段保留。`scripts/build-legacy-redirects.mjs <旧站dist绝对路径>` 提供迁移生成器，请勿指向本仓库dist。旧站保留自己的 Google 验证文件/标记。
+
+### 站长本人后续操作
+
+1. Google Search Console 添加 URL-prefix 属性 `https://jeffery2004024-png.github.io/pyinnyar/`，使用 Google 返回的新 HTML 验证文件或 meta（填写 `config/seo.json` 后重建）。旧站的验证标记不代表新站已验证。
+2. 提交 `https://jeffery2004024-png.github.io/pyinnyar/sitemap.xml`，可分别请求收录三语首页及主要功能页。
+3. Bing Webmaster Tools 添加新站并验证、提交同一个 sitemap（也可按其流程从已验证的 Google 属性导入）。
+4. Facebook专页“网站”栏及其他公开简介、宣传材料改成新网址。保留旧站，供旧链接和搜索引擎逐步迁移。
+
+搜索引擎需要自行抓取并更新索引；静态站发布和跳转不代表已经收录或达到特定排名。
