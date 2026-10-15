@@ -1,0 +1,18 @@
+import {SITE} from '../dist/site-config.mjs';
+import {SITE_COPY} from '../dist/site-copy.mjs';
+import {CONTACT} from '../dist/site-config.mjs';
+import {headerHtml,footerHtml,messengerHtml,studentCasesHtml,messengerIcon} from '../dist/site-components.mjs';
+import fs from 'node:fs';
+import {spawnSync} from 'node:child_process';
+import {UI} from '../dist/portal-i18n.mjs';
+import {D} from '../dist/destinations-i18n.mjs';
+import {S} from '../dist/scholarships-i18n.mjs';
+import {CONSULTATION} from '../dist/consultation-i18n.mjs';
+import {SEO} from '../dist/seo-i18n.mjs';
+const app=fs.readFileSync('dist/app.js','utf8');
+const HOME=Function(app.slice(0,app.indexOf('let language ='))+'return translations;')();
+const verification=fs.existsSync('config/seo.json')?JSON.parse(fs.readFileSync('config/seo.json','utf8')):{};
+const CHROME=Object.fromEntries(['zh','en','my'].map(lang=>[lang,{headers:Object.fromEntries(['index','match','universities','destinations','scholarships'].map(page=>[page,headerHtml(lang,page)])),footer:footerHtml(lang),floating:messengerHtml(lang,'',true),cases:studentCasesHtml(lang)}]));
+const data={CHROME,SITE_COPY,CONTACT,messengerIcon,HOME,UI,D,S,CONSULTATION,SEO,...verification,origin:new URL(SITE.url).origin,basePath:new URL(SITE.url).pathname,siteUrl:SITE.url};
+const result=spawnSync('python3',['scripts/build-seo.py'],{input:JSON.stringify(data),encoding:'utf8'});
+if(result.stdout)process.stdout.write(result.stdout);if(result.stderr)process.stderr.write(result.stderr);if(result.status)process.exit(result.status);

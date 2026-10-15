@@ -1,0 +1,279 @@
+{
+  "id": "hongkong-macao",
+  "country": "CN",
+  "checkedAt": "2026-10-08",
+  "title": {
+    "zh": "港澳",
+    "en": "Hong Kong & Macao",
+    "my": "ဟောင်ကောင်နှင့် မကာအို"
+  },
+  "tag": {
+    "zh": "分别核查申请和入境",
+    "en": "Separate admission and immigration checks",
+    "my": "ဝင်ခွင့်နှင့် လူဝင်မှုကို သီးခြားစစ်ဆေးပါ"
+  },
+  "overview": {
+    "zh": "港澳有综合性和科技研究型高校，可按学科、授课语言和校园学习方式比较选择。香港与澳门的国际生招生、学生入境及逗留流程分别办理；缅甸籍学生应按实际护照、学历与目标专业确认通道。",
+    "en": "Hong Kong and Macao offer comprehensive and science-focused research universities. Compare subjects, teaching languages and campus learning models. International admissions, student entry and stay procedures are handled separately in Hong Kong and Macao; Myanmar applicants should check their passport, qualifications and chosen course.",
+    "my": "ဟောင်ကောင်နှင့် မကာအိုတွင် ဘက်စုံနှင့် သိပ္ပံနည်းပညာသုတေသန တက္ကသိုလ်များ ရှိသည်။ ဘာသာရပ်၊ သင်ကြားဘာသာစကားနှင့် ကျောင်းဝင်းသင်ယူမှုကို နှိုင်းယှဉ်နိုင်သည်။ နိုင်ငံတကာဝင်ခွင့်နှင့် ကျောင်းသားဝင်ရောက်နေထိုင်ခွင့်ကို ဒေသနှစ်ခုတွင် သီးခြားဆောင်ရွက်ရသည်။ မြန်မာကျောင်းသားများသည် မိမိနိုင်ငံကူးလက်မှတ်၊ ပညာအရည်အချင်းနှင့် သင်တန်းအလိုက် စစ်ဆေးရန် လိုသည်။"
+  },
+  "sections": [
+    {
+      "id": "hk-application",
+      "title": {
+        "zh": "香港：按学历与学生身份申请",
+        "en": "Hong Kong: choose the correct admission route",
+        "my": "ဟောင်ကောင် — ဝင်ခွင့်လမ်းကြောင်း ရွေးချယ်မှု"
+      },
+      "body": {
+        "zh": "香港大学及香港科技大学设有国际学历申请通道，并分别审核一般资格、专业和英语要求。缅甸高中、华校、GED或A-Level须核对学校认可的资格表；未列出的学历可能需要个案审查。缅甸籍华裔学生与持中国籍的华侨生，应按实际护照、居留及学历身份确认通道，不能仅凭族裔或学校名称判断。",
+        "en": "HKU and HKUST have international-qualification admission routes and assess academic, program-specific and English requirements. Check recognition of Myanmar school qualifications, GED or A-Level; an unlisted qualification may need individual review. Myanmar citizens of Chinese ancestry and Chinese citizens living overseas must confirm their route using actual nationality, residence and qualifications, rather than ethnicity or school name alone.",
+        "my": "HKU နှင့် HKUST တွင် နိုင်ငံတကာအရည်အချင်းဖြင့် လျှောက်ထားနိုင်သော လမ်းကြောင်းများ ရှိသည်။ မြန်မာအထက်တန်း၊ တရုတ်ဘာသာသင်ကျောင်း၊ GED သို့မဟုတ် A-Level ကို အသိအမှတ်ပြုမှုရှိမရှိ စစ်ဆေးရန် လိုသည်။ မြန်မာနိုင်ငံသားနှင့် ပြည်ပနေ တရုတ်နိုင်ငံသားတို့သည် နိုင်ငံကူးလက်မှတ်၊ နေထိုင်ခွင့်နှင့် ပညာအရည်အချင်းအလိုက် လမ်းကြောင်းကို အတည်ပြုရမည်။"
+      },
+      "sources": [
+        {
+          "title": "HKU International/Non-JUPAS Admissions",
+          "url": "https://admissions.hku.hk/apply/international-qualifications",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "HKUST International Qualifications",
+          "url": "https://join.hkust.edu.hk/admissions/international-qualifications?general_requirement=All",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "hk-student-entry",
+      "title": {
+        "zh": "香港：学生签证或进入许可",
+        "en": "Hong Kong: student visa or entry permit",
+        "my": "ဟောင်ကောင် — ကျောင်းသားဗီဇာ သို့မဟုတ် ဝင်ခွင့်ပါမစ်"
+      },
+      "body": {
+        "zh": "录取后按香港入境事务处的来港就读规定核查签证或进入许可。申请涉及学校录取、本地保证人、旅行证件和经济支持等材料；未满18岁的申请人另须核查监护安排。不同国籍及居留身份可能适用不同文件。",
+        "en": "After admission, check the Immigration Department’s study visa or entry-permit requirements. These include admission, a local sponsor, travel documents and financial-support evidence; applicants under 18 need to check guardian arrangements. Documents depend on nationality and residence status.",
+        "my": "ကျောင်းဝင်ခွင့်ရပြီးနောက် ဟောင်ကောင်လူဝင်မှုကြီးကြပ်ရေးဌာန၏ ကျောင်းသားဗီဇာ စည်းမျဉ်းများကို စစ်ဆေးရန် လိုသည်။ ကျောင်းဝင်ခွင့်စာ၊ အာမခံသူ၊ နိုင်ငံကူးလက်မှတ်နှင့် ငွေကြေးအထောက်အထားတို့ လိုအပ်နိုင်သည်။ အသက် ၁၈ နှစ်အောက်အတွက် အုပ်ထိန်းသူအစီအစဉ်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "香港入境事务处：来港就读",
+          "url": "https://www.immd.gov.hk/eng/services/visas/study.html",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "macao-application",
+      "title": {
+        "zh": "澳门：核对国际生申请通道",
+        "en": "Macao: verify the international admission route",
+        "my": "မကာအို — နိုင်ငံတကာကျောင်းသား ဝင်ခွင့်လမ်းကြောင်း"
+      },
+      "body": {
+        "zh": "澳门大学的国际申请页面明确面向持外国护照的申请人。请逐项核查认可学历、专业和授课语言要求，必要时接受面试。缅甸籍学生与中国籍华侨生应分别确认适用通道；高中成绩或语言成绩达到某项要求，不代表整体申请已合格。",
+        "en": "The University of Macau’s international application page is for foreign-passport holders. Check the accepted qualification, chosen program and teaching-language requirements; an interview may be needed. Myanmar citizens and Chinese citizens living overseas should confirm their applicable routes separately. Meeting one academic or language condition does not establish complete eligibility.",
+        "my": "University of Macau ၏ နိုင်ငံတကာလျှောက်လွှာစာမျက်နှာသည် နိုင်ငံခြားနိုင်ငံကူးလက်မှတ်ကိုင်ဆောင်သူများအတွက် ဖြစ်သည်။ အသိအမှတ်ပြုအရည်အချင်း၊ သင်တန်းနှင့် ဘာသာစကားလိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။ အင်တာဗျူးလိုနိုင်သည်။ မြန်မာနိုင်ငံသားနှင့် ပြည်ပနေ တရုတ်နိုင်ငံသားတို့၏ လမ်းကြောင်းကို သီးခြားအတည်ပြုရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "University of Macau: International undergraduate applicants",
+          "url": "https://reg.um.edu.mo/admissions/nonlocal/others-regions/news/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "University of Macau: Application Requirement",
+          "url": "https://reg.um.edu.mo/admissions/nonlocal/others-regions/app-adm-rules/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "macao-study-stay",
+      "title": {
+        "zh": "澳门：留学逗留特别许可",
+        "en": "Macao: special authorization to stay for study",
+        "my": "မကာအို — ပညာသင်ရန် အထူးနေထိုင်ခွင့်"
+      },
+      "body": {
+        "zh": "澳门治安警察局规定，在获认可高等院校就读的外地学生，应在入境时获准的逗留期限届满前申请外地学生逗留特别许可。持有录取通知不代表自动取得居留身份；入境文件、许可及续期应按实际国籍、证件和学校通知核查。",
+        "en": "Macao’s Public Security Police requires non-resident students at approved higher-education institutions to apply for Special Authorization to Stay before their entry permission expires. An admission letter does not automatically grant residence status. Check entry documents, authorization and extensions according to nationality, travel documents and university instructions.",
+        "my": "မကာအိုရှိ အသိအမှတ်ပြု တက္ကသိုလ်တွင် တက်မည့် ပြည်ပကျောင်းသားများသည် ဝင်ရောက်ချိန်ရရှိသော နေထိုင်ခွင့်သက်တမ်း မကုန်မီ ပညာသင်ရန် အထူးနေထိုင်ခွင့်ကို လျှောက်ရမည်။ ကျောင်းဝင်ခွင့်စာတစ်ခုတည်းဖြင့် နေထိုင်ခွင့်ကို အလိုအလျောက် မရပါ။ နိုင်ငံသားနှင့် ခရီးသွားစာရွက်စာတမ်းအလိုက် စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "澳门治安警察局：外地学生逗留特别许可",
+          "url": "https://www.fsm.gov.mo/psp/WebReserveSystem/std/std_e.aspx",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "id": "hku",
+      "nameZh": "香港大学",
+      "nameEn": "The University of Hong Kong",
+      "location": {
+        "zh": "香港",
+        "en": "Hong Kong",
+        "my": "ဟောင်ကောင်"
+      },
+      "type": {
+        "zh": "多学科大学",
+        "en": "Multidisciplinary university",
+        "my": "ဘာသာရပ်စုံ တက္ကသိုလ်"
+      },
+      "description": {
+        "zh": "香港大学提供多个学科的本科课程，并设国际学历及Non-JUPAS招生通道。可从官方招生网站比较课程、英语要求与申请材料。",
+        "en": "HKU offers undergraduate programs across multiple disciplines and an International/Non-JUPAS admission route. Compare programs, English requirements and application materials on its official admissions site.",
+        "my": "HKU တွင် ဘာသာရပ်စုံ ဘွဲ့ကြိုသင်တန်းများနှင့် International/Non-JUPAS လျှောက်လွှာလမ်းကြောင်း ရှိသည်။ သင်တန်းနှင့် လိုအပ်ချက်ကို တရားဝင်ဝက်ဘ်ဆိုက်တွင် စစ်ဆေးရန် လိုသည်။"
+      },
+      "website": "https://www.hku.hk/",
+      "aboutUrl": "https://www.hku.hk/",
+      "admissionsUrl": "https://admissions.hku.hk/apply/international-qualifications",
+      "sources": [
+        {
+          "title": "HKU International/Non-JUPAS Admissions",
+          "url": "https://admissions.hku.hk/apply/international-qualifications",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "HKU official university introduction entry (general homepage)",
+          "url": "https://www.hku.hk/",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "verificationNote": "Program range and international application route verified from admissions pages; detailed about-page history was not checked."
+    },
+    {
+      "id": "cuhk",
+      "nameZh": "香港中文大学",
+      "nameEn": "The Chinese University of Hong Kong",
+      "location": {
+        "zh": "香港",
+        "en": "Hong Kong",
+        "my": "ဟောင်ကောင်"
+      },
+      "type": {
+        "zh": "综合性研究大学",
+        "en": "Comprehensive research university",
+        "my": "ဘက်စုံသုတေသနတက္ကသိုလ်"
+      },
+      "description": {
+        "zh": "创办于1963年的综合性研究大学，采用书院制，并强调双语、多元文化及通识教育。多个学院提供不同学科选择；国际学生须查看对应招生通道与专业条件。",
+        "en": "Founded in 1963, CUHK is a comprehensive research university with a collegiate system and an emphasis on bilingual, multicultural and general education. Its faculties offer varied disciplines; international applicants should check the relevant admissions route and programme conditions.",
+        "my": "၁၉၆၃ ခုနှစ်တွင် တည်ထောင်ခဲ့သော ဘက်စုံသုတေသနတက္ကသိုလ်ဖြစ်ပြီး ကောလိပ်စနစ်၊ နှစ်ဘာသာ၊ ယဉ်ကျေးမှုမျိုးစုံနှင့် အထွေထွေပညာရေးကို အလေးထားသည်။ ဘာသာရပ်မျိုးစုံရှိ၍ နိုင်ငံတကာလျှောက်ထားသူများက သက်ဆိုင်ရာဝင်ခွင့်နှင့် သင်တန်းစည်းကမ်းကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "website": "https://www.cuhk.edu.hk/",
+      "aboutUrl": "https://www.cuhk.edu.hk/",
+      "admissionsUrl": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/",
+      "sources": [
+        {
+          "title": "CUHK official website: university and admissions navigation entry",
+          "url": "https://www.cuhk.edu.hk/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "CUHK: Introducing the University",
+          "url": "https://cuhk.edu.hk/english/aboutus/university-intro.html",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "CUHK: International admissions requirements",
+          "url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "verificationNote": "Official university entry retained. Detailed about and international admissions pages were not accessed; this is not verified eligibility data."
+    },
+    {
+      "id": "hkust",
+      "nameZh": "香港科技大学",
+      "nameEn": "The Hong Kong University of Science and Technology",
+      "location": {
+        "zh": "香港",
+        "en": "Hong Kong",
+        "my": "ဟောင်ကောင်"
+      },
+      "type": {
+        "zh": "研究型大学",
+        "en": "Research university",
+        "my": "သုတေသနတက္ကသိုလ်"
+      },
+      "description": {
+        "zh": "香港科技大学于1991年创办，官网介绍强调研究与创新。国际学历申请人须分别符合一般、学校或专业及英语要求；未列入资格表的学历可由学校个案审查。",
+        "en": "Founded in 1991, HKUST emphasizes research and innovation. International-qualification applicants must meet general, school/program and English requirements; unlisted qualifications may be assessed individually.",
+        "my": "HKUST ကို ၁၉၉၁ ခုနှစ်တွင် စတင်ခဲ့ပြီး သုတေသနနှင့် တီထွင်မှုကို အလေးထားပါသည်။ နိုင်ငံတကာလျှောက်ထားသူများသည် အထွေထွေ၊ သင်တန်းနှင့် အင်္ဂလိပ်ဘာသာလိုအပ်ချက်များကို ဖြည့်ဆည်းရမည်။"
+      },
+      "website": "https://hkust.edu.hk/",
+      "aboutUrl": "https://hkust.edu.hk/zh-hant/about",
+      "admissionsUrl": "https://join.hkust.edu.hk/admissions/international-qualifications?general_requirement=All",
+      "sources": [
+        {
+          "title": "HKUST: About the university",
+          "url": "https://hkust.edu.hk/zh-hant/about",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "HKUST International Qualifications",
+          "url": "https://join.hkust.edu.hk/admissions/international-qualifications?general_requirement=All",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "HKUST: Apply Now",
+          "url": "https://join.hkust.edu.hk/apply",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "um",
+      "nameZh": "澳门大学",
+      "nameEn": "University of Macau",
+      "location": {
+        "zh": "澳门",
+        "en": "Macao",
+        "my": "မကာအို"
+      },
+      "type": {
+        "zh": "公立综合性研究大学",
+        "en": "Public comprehensive research university",
+        "my": "အစိုးရဘက်စုံသုတေသနတက္ကသိုလ်"
+      },
+      "description": {
+        "zh": "综合性公立研究大学，创办于1981年，以英语为主要教学语言。学科涵盖人文、工商管理、教育、健康科学、法律、科技及社会科学，并设住宿书院。具体课程的授课语言和国际生要求须分别核对。",
+        "en": "Founded in 1981, UM is a comprehensive public research university with English as its main teaching language. Its faculties span humanities, business, education, health sciences, law, science and technology, and social sciences, alongside residential colleges. Check language and international entry conditions for each course.",
+        "my": "၁၉၈၁ ခုနှစ်တွင် တည်ထောင်ခဲ့သော အစိုးရဘက်စုံသုတေသနတက္ကသိုလ်ဖြစ်ပြီး အင်္ဂလိပ်ကို အဓိကသင်ကြားဘာသာစကားအဖြစ် သုံးသည်။ လူ့ယဉ်ကျေးမှု၊ စီးပွားရေး၊ ပညာရေး၊ ကျန်းမာရေး၊ ဥပဒေ၊ သိပ္ပံနည်းပညာနှင့် လူမှုသိပ္ပံဌာနများ၊ နေထိုင်ရာကောလိပ်များ ရှိသည်။ သင်တန်းအလိုက် ဘာသာစကားနှင့် ဝင်ခွင့်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "website": "https://www.um.edu.mo/",
+      "aboutUrl": "https://www.um.edu.mo/",
+      "admissionsUrl": "https://reg.um.edu.mo/admissions/nonlocal/others-regions/news/",
+      "sources": [
+        {
+          "title": "University of Macau official university introduction entry",
+          "url": "https://www.um.edu.mo/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "University of Macau: International undergraduate applicants",
+          "url": "https://reg.um.edu.mo/admissions/nonlocal/others-regions/news/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "University of Macau: Application Requirement",
+          "url": "https://reg.um.edu.mo/admissions/nonlocal/others-regions/app-adm-rules/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "University of Macau: Introduction",
+          "url": "https://www.um.edu.mo/about-um/introduction/",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "verificationNote": "International admissions route verified. Detailed about-page facts were not added without access."
+    }
+  ],
+  "scopeNote": "No fees, rankings, qualification equivalence or individual immigration eligibility are inferred. CUHK profile/admissions details and university about-page details not accessed are explicitly marked.",
+  "researchNotes": "CUHK and UM basic introductions were supplemented with official university pages after the bounded initial research; entry thresholds remain subject to current prospectuses."
+}

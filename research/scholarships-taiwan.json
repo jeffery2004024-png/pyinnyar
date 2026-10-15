@@ -1,0 +1,384 @@
+{
+  "checkedAt": "2026-10-08",
+  "scholarships": [
+    {
+      "id": "taiwan-moe-scholarship",
+      "country": "CN",
+      "region": "taiwan",
+      "institutionIds": [],
+      "name": {
+        "zh": "教育部台湾奖学金（本科）",
+        "en": "MOE Taiwan Scholarship — Bachelor’s",
+        "my": "MOE Taiwan Scholarship — ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "台湾教育部",
+        "en": "Taiwan Ministry of Education",
+        "my": "ထိုင်ဝမ်ပညာရေးဝန်ကြီးဌာန"
+      },
+      "eligibility": {
+        "zh": "外国籍高中毕业生须具优良学业与品行；侨生、已在台同层级就学者等不适用。非全英课程按驻外馆处规则核查 TOCFL 3级及补交情形，全英课程须提交认可的英语证明。",
+        "en": "Foreign high-school graduates need strong academic records and good conduct; overseas Chinese students and certain prior/current Taiwan students are excluded. Mission rules govern TOCFL Level 3 evidence or permitted later submission for non-English programmes, and accepted English evidence for fully English programmes.",
+        "my": "နိုင်ငံခြားသား အထက်တန်းအောင်မြင်သူများသည် ပညာရေးနှင့် အကျင့်စာရိတ္တကောင်းရမည်။ ပင်လယ်ရပ်ခြားတရုတ်နွယ်ဖွား ကျောင်းသားအမျိုးအစားနှင့် အချို့ ယခင်/လက်ရှိ ထိုင်ဝမ်ကျောင်းသားများ မပါဝင်ဘဲ၊ အင်္ဂလိပ်သီးသန့်မဟုတ်သော သင်တန်းအတွက် TOCFL 3 နှင့် အင်္ဂလိပ်သင်တန်းအတွက် လက်ခံသည့်အထောက်အထားကို ကိုယ်စားလှယ်ရုံးစည်းမျဉ်းအတိုင်း စစ်ဆေးရသည်။"
+      },
+      "coverage": {
+        "zh": "每学期学杂费用补助最高新台币40,000；本科每月生活费新台币15,000，最长4年。超额及未涵盖费用自理。",
+        "en": "Up to NTD 40,000 per semester for eligible tuition/fees, plus NTD 15,000 monthly for up to four undergraduate years. Excess and excluded costs remain payable.",
+        "my": "သတ်မှတ်ကျောင်းလခ/ကြေးအတွက် တစ်စာသင်နှစ်ဝက် NTD 40,000 အထိနှင့် ဘွဲ့ကြိုအတွက် လစဉ် NTD 15,000 ကို အများဆုံး ၄ နှစ်ပေးသည်။ ပိုလျှံနှင့် မပါဝင်သောစရိတ်များကို ကိုယ်တိုင်ပေးရသည်။"
+      },
+      "application": {
+        "zh": "奖学金须经国籍对应的负责驻外馆处申请，同时另向大学申请入学。官方系统列有 Myanmar，但当前未列开放日期；须向教育部计划办公室核实缅甸籍办理馆处及年度名额。",
+        "en": "Apply through the mission responsible for your citizenship and separately apply to a university. The official system lists Myanmar without available dates; confirm the current responsible mission and allocation with the MOE programme office.",
+        "my": "နိုင်ငံသားအလိုက် တာဝန်ရှိကိုယ်စားလှယ်ရုံးမှ ဆုလျှောက်ပြီး တက္ကသိုလ်ဝင်ခွင့်ကို သီးခြားလျှောက်ထားရန် လိုသည်။ တရားဝင်စနစ်တွင် Myanmar ပါရှိသော်လည်း ရက်စွဲမရှိသဖြင့် လက်ရှိတာဝန်ရှိရုံးနှင့် နှစ်စဉ်ခွဲတမ်းကို MOE အစီအစဉ်ရုံးနှင့် အတည်ပြုရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "须符合学业、出勤及语言续领规则；其他台湾政府或学校奖助一般不可兼领，补足超额学费的获准补助例外。资助评审与续领按项目规则进行。",
+        "en": "Maintain academic, attendance and language requirements. Other Taiwan government/institution awards are generally incompatible, apart from permitted tuition-gap subsidies.",
+        "my": "ပညာရေး၊ တက်ရောက်မှုနှင့် ဘာသာစကားဆိုင်ရာ သတ်မှတ်ချက်ကို ထိန်းသိမ်းရန် လိုသည်။ ခွင့်ပြုထားသော ကျောင်းလခကွာဟမှုထောက်ပံ့မှုမှလွဲ၍ ထိုင်ဝမ်အစိုးရ/ကျောင်းဆုများကို ယေဘုယျအားဖြင့် တွဲမယူနိုင်ပါ။"
+      },
+      "timing": {
+        "zh": "2027年度缅甸籍公告及截止日未核实，当前系统未开放。以负责馆处新公告为准。",
+        "en": "Myanmar’s 2027 call and deadline are unverified; the system currently shows no opening. Follow the responsible mission’s new announcement.",
+        "my": "မြန်မာနိုင်ငံသားအတွက် ၂၀၂၇ ကြေညာချက်နှင့် နောက်ဆုံးရက် မအတည်ပြုရသေးဘဲ လက်ရှိစနစ် မဖွင့်ထားပါ။ တာဝန်ရှိရုံး၏ ကြေညာချက်အသစ်ကို လိုက်နာရန် လိုသည်။"
+      },
+      "nationalityStatus": "verify",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2027",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "MOE — Taiwan Scholarship Program",
+          "url": "https://english.moe.gov.tw/cp-24-16833-23C09-1.html",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "MOE — Taiwan Scholarship Directions",
+          "url": "https://edu.law.moe.gov.tw/EngLawContent.aspx?id=250&lan=E",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "MOE — Applications by Mission and Country",
+          "url": "https://taiwanscholarship.moe.gov.tw/Apply/Enroll/AvailabilityStatus",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NTHU OGA — Scholarships for International Students",
+          "url": "https://www.oga.nthu.edu.tw/TabContentView/49",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-ntu-international-undergraduate",
+      "country": "CN",
+      "region": "taiwan",
+      "institutionIds": [
+        "taiwan-ntu"
+      ],
+      "name": {
+        "zh": "台大国际本科生奖学金",
+        "en": "NTU International Undergraduate Student Scholarship",
+        "my": "NTU နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသား ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "国立台湾大学",
+        "en": "National Taiwan University",
+        "my": "National Taiwan University"
+      },
+      "eligibility": {
+        "zh": "国际本科学位申请人可申请；台湾奖学金受奖者不得申请此校奖。",
+        "en": "International undergraduate degree applicants may apply; Taiwan Scholarship recipients should not apply.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြိုလျှောက်ထားသူများ လျှောက်နိုင်သည်။ Taiwan Scholarship ရသူများ ဤဆုကို မလျှောက်ရပါ။"
+      },
+      "coverage": {
+        "zh": "每学期学费补助最高新台币100,000，并每月新台币8,000；部分杂项及住宿等不包含。",
+        "en": "Up to NTD 100,000 tuition subsidy per semester and NTD 8,000 monthly; excluded charges include accommodation and other specified costs.",
+        "my": "တစ်စာသင်နှစ်ဝက် ကျောင်းလခ NTD 100,000 အထိနှင့် လစဉ် NTD 8,000 ပေးသည်။ နေရာထိုင်ခင်းနှင့် သတ်မှတ်အပိုစရိတ်များ မပါဝင်ပါ။"
+      },
+      "application": {
+        "zh": "入学在线申请中勾选奖学金，无须额外程序。",
+        "en": "Tick the scholarship box in the degree application; no separate procedure.",
+        "my": "ဘွဲ့လျှောက်လွှာတွင် ပညာသင်ဆုအကွက်ကို ရွေးချယ်ရန် လိုသည်။ သီးခြားလုပ်ငန်းစဉ် မလိုပါ။"
+      },
+      "obligations": {
+        "zh": "每学年GPA须达3.38；延迟入学会丧失原奖资格。",
+        "en": "Maintain annual GPA of at least 3.38; admission deferral forfeits the award.",
+        "my": "နှစ်စဉ် GPA 3.38 အနည်းဆုံး ထိန်းသိမ်းရန် လိုသည်။ ဝင်ခွင့်ရွှေ့ဆိုင်းလျှင် ဆုဆုံးရှုံးသည်။"
+      },
+      "timing": {
+        "zh": "常规机制，随当年入学申请办理；最长为专业规定修业年限。",
+        "en": "Standing scheme tied to the admission cycle; maximum duration follows the programme’s designated study period.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်ပြီး ဝင်ခွင့်ကာလအတိုင်း လျှောက်ထားရန် လိုသည်။ အများဆုံးကာလသည် ဘာသာရပ်သင်ယူကာလအတိုင်းဖြစ်သည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NTU — Scholarships for International Undergraduate Students",
+          "url": "https://admissions.ntu.edu.tw/fees-scholarships/scholarships/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-nthu-international-student",
+      "country": "CN",
+      "region": "taiwan",
+      "institutionIds": [
+        "taiwan-nthu"
+      ],
+      "name": {
+        "zh": "清华大学国际学生奖学金（本科）",
+        "en": "NTHU International Student Scholarship — Bachelor’s",
+        "my": "NTHU နိုင်ငံတကာကျောင်းသားပညာသင်ဆု — ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "国立清华大学全球事务处",
+        "en": "NTHU Office of Global Affairs",
+        "my": "NTHU Office of Global Affairs"
+      },
+      "eligibility": {
+        "zh": "适用于外国学位生；台北政经学院及半导体研究学院不适用。",
+        "en": "Foreign degree students; excludes the Taipei School of Economics and Political Science and College of Semiconductor Research.",
+        "my": "နိုင်ငံခြားဘွဲ့ကျောင်းသားများအတွက်ဖြစ်သည်။ Taipei School of Economics and Political Science နှင့် College of Semiconductor Research မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "A类补助学杂学分费及本科每月新台币5,000；B类仅补助学杂学分费。",
+        "en": "Category A covers tuition/required fees plus NTD 5,000 monthly for undergraduates; Category B covers fees only.",
+        "my": "A အမျိုးအစားသည် ကျောင်းလခ/သတ်မှတ်ကြေးနှင့် ဘွဲ့ကြိုအတွက် လစဉ် NTD 5,000 ပေးသည်။ B အမျိုးအစားသည် ကြေးများသာ ထောက်ပံ့သည်။"
+      },
+      "application": {
+        "zh": "新生在入学在线申请中选择申请此奖，交学校评审。",
+        "en": "New applicants select the scholarship in the admission system for university review.",
+        "my": "ဝင်ခွင့်အွန်လိုင်းလျှောက်လွှာတွင် ဆုကို ရွေး၍ ကျောင်းစိစစ်မှုခံယူရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "每次一年、本科最长4年，按年度成绩及续领规定复核；部分符合条件者免重新申请。兼领规则须查当年实施要点。",
+        "en": "Awards last one year, up to four undergraduate years, subject to academic renewal review; eligible renewals may waive reapplication. Check current rules before combining funding.",
+        "my": "တစ်ကြိမ်တစ်နှစ်၊ ဘွဲ့ကြိုအများဆုံး ၄ နှစ်ဖြစ်ပြီး ပညာရေးနှင့် ဆက်လက်ရရှိမှုကို ပြန်စစ်သည်။ သတ်မှတ်ချက်ပြည့်သူအချို့ ပြန်မလျှောက်ရဘဲ ဆုတွဲယူရန် လက်ရှိစည်းမျဉ်းကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "timing": {
+        "zh": "常规机制；新生随入学申请，旧生按全球事务处公告。",
+        "en": "Standing scheme; new students follow admissions, current students follow OGA notices.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်သည်။ ကျောင်းသားသစ်များ ဝင်ခွင့်ကာလ၊ လက်ရှိကျောင်းသားများ OGA ကြေညာချက်အတိုင်း လျှောက်ထားရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NTHU OGA — Scholarships for International Students",
+          "url": "https://www.oga.nthu.edu.tw/TabContentView/49",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NTHU — International Student Scholarship",
+          "url": "https://apply.nthu.edu.tw/en/article/102-nthu-scholarship",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NTHU IBP — Scholarship Application and Renewal",
+          "url": "https://ibp.nthu.edu.tw/faq-8.html",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-nycu-international-student",
+      "country": "CN",
+      "region": "taiwan",
+      "institutionIds": [
+        "taiwan-nycu"
+      ],
+      "name": {
+        "zh": "阳明交通大学国际学生奖学金（本科）",
+        "en": "NYCU International Student Scholarship — Bachelor’s",
+        "my": "NYCU နိုင်ငံတကာကျောင်းသားပညာသင်ဆု — ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "国立阳明交通大学",
+        "en": "National Yang Ming Chiao Tung University",
+        "my": "National Yang Ming Chiao Tung University"
+      },
+      "eligibility": {
+        "zh": "国际学位生可申请；旧生本科累计GPA至少3.0，且不得领取台湾政府奖助。",
+        "en": "International degree students may apply; current undergraduates need cumulative GPA of at least 3.0 and no Taiwan government award.",
+        "my": "နိုင်ငံတကာဘွဲ့ကျောင်းသားများ လျှောက်နိုင်သည်။ လက်ရှိဘွဲ့ကြိုကျောင်းသားများ GPA 3.0 အနည်းဆုံးရှိပြီး ထိုင်ဝမ်အစိုးရဆု မယူထားရပါ။"
+      },
+      "coverage": {
+        "zh": "月津贴与学费奖可一起或分别发放；学费奖可能为减免或按本地生收费，金额以获奖通知为准。",
+        "en": "Stipend and tuition support may be awarded together or separately; tuition support may be a waiver or local-student rate. Amount follows the award letter.",
+        "my": "လစဉ်ထောက်ပံ့မှုနှင့် ကျောင်းလခဆုကို တွဲ၍ သို့မဟုတ် သီးခြားပေးနိုင်သည်။ ကျောင်းလခကင်းလွတ်မှု သို့မဟုတ် ဒေသခံနှုန်းထားဖြစ်နိုင်ပြီး ပမာဏကို ဆုစာအတိုင်း သတ်မှတ်သည်။"
+      },
+      "application": {
+        "zh": "新生随入学申请勾选奖学金；旧生通过学校奖学金系统申请。",
+        "en": "New applicants select it with admission; current students use the scholarship system.",
+        "my": "ကျောင်းသားသစ်များ ဝင်ခွင့်နှင့်အတူ ရွေးချယ်ရန် လိုသည်။ လက်ရှိကျောင်းသားများ ပညာသင်ဆုစနစ်မှ လျှောက်ထားရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "须按时交成绩及缴费凭证，本科须修至少4门华语课或获准豁免；不得兼领台湾政府奖助。",
+        "en": "Submit transcripts/receipts on time; take at least four Mandarin courses or obtain an approved exemption. Taiwan government funding is incompatible.",
+        "my": "အမှတ်စာရင်း/ငွေပေးချေမှတ်တမ်းကို အချိန်မီတင်၍ မန်ဒရင်သင်တန်း အနည်းဆုံး ၄ ခုတက်ပါ သို့မဟုတ် ကင်းလွတ်ခွင့်ရယူရန် လိုသည်။ ထိုင်ဝမ်အစိုးရဆုနှင့် တွဲမယူနိုင်ပါ။"
+      },
+      "timing": {
+        "zh": "常规机制，通常每次一年，本科最长按专业规定通常4年；当前本科申请批次另查招生公告。",
+        "en": "Standing scheme, normally one year per award and up to the regulated undergraduate period, generally four years; confirm the current bachelor admission cycle.",
+        "my": "ပုံမှန်အားဖြင့် တစ်ကြိမ်တစ်နှစ်နှင့် ဘွဲ့ကြိုသတ်မှတ်ကာလ ပုံမှန် ၄ နှစ်အထိဖြစ်သည်။ လက်ရှိဘွဲ့ကြိုဝင်ခွင့်ကာလကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NYCU — University Scholarships",
+          "url": "https://oia.nycu.edu.tw/oia/en/app/data/view?id=792&module=nycu0012&serno=0f046f83-4147-4ec7-8921-bbaccd8c678f",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NYCU — International Student Scholarship FAQ",
+          "url": "https://www.nycu.edu.tw/oia/en/app/data/list?id=799&module=nycu0015",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-ncku-distinguished-international",
+      "country": "CN",
+      "region": "taiwan",
+      "institutionIds": [
+        "taiwan-ncku"
+      ],
+      "name": {
+        "zh": "成功大学优秀国际学生奖学金（本科）",
+        "en": "NCKU Distinguished International Student Scholarship — Bachelor’s",
+        "my": "NCKU ထူးချွန်နိုင်ငံတကာကျောင်းသားပညာသင်ဆု — ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "国立成功大学",
+        "en": "National Cheng Kung University",
+        "my": "National Cheng Kung University"
+      },
+      "eligibility": {
+        "zh": "国际本科申请人经学校评审；持工作签证或ARC居留事由为就业者不适用。",
+        "en": "International undergraduate applicants undergo university review; work-visa holders and those with employment status on their ARC are excluded.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြိုလျှောက်ထားသူများ ကျောင်းစိစစ်မှုခံယူရသည်။ အလုပ်ဗီဇာ သို့မဟုတ် ARC တွင် အလုပ်လုပ်ကိုင်မှုအမျိုးအစားရှိသူများ မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "2026/27学年起入学新生：学费减免及由各学院决定金额的月津贴。不把旧制新台币8,000津贴套用于新生。",
+        "en": "For entrants from AY2026/27: tuition waiver and a monthly stipend determined by the college. The earlier NTD 8,000 stipend is not assumed for new entrants.",
+        "my": "၂၀၂၆/၂၇ ပညာသင်နှစ်မှ စတင်ဝင်သူများအတွက် ကျောင်းလခကင်းလွတ်မှုနှင့် ဌာနအလိုက် သတ်မှတ်လစဉ်ထောက်ပံ့မှုရှိသည်။ စည်းမျဉ်းဟောင်း NTD 8,000 ကို ကျောင်းသားသစ်အတွက် အလိုအလျောက်မသုံးပါ။"
+      },
+      "application": {
+        "zh": "首年根据入学申请材料评审，无须额外申请文件，结果随录取通知发出。",
+        "en": "First-year awards are assessed from admission documents without extra scholarship documents; the result accompanies admission.",
+        "my": "ပထမနှစ်ဆုကို ဝင်ခွင့်စာရွက်စာတမ်းများမှ စစ်ပြီး သီးခြားဆုစာရွက်စာတမ်း မလိုပါ။ ရလဒ်ကို ဝင်ခွင့်နှင့်အတူ ပေးသည်။"
+      },
+      "obligations": {
+        "zh": "续领须按新制重新申请；不可兼领台湾政府国际学生奖助。延迟入学须重新评审。",
+        "en": "Reapply for renewal under the new rules; Taiwan government international-student funding is incompatible. Deferred admission requires reassessment.",
+        "my": "စည်းမျဉ်းအသစ်အတိုင်း ဆက်လက်ရယူရန် ပြန်လျှောက်ထားရန် လိုသည်။ ထိုင်ဝမ်အစိုးရ နိုင်ငံတကာကျောင်းသားဆုနှင့် တွဲမယူနိုင်ဘဲ ဝင်ခွင့်ရွှေ့ဆိုင်းလျှင် ပြန်စစ်ရသည်။"
+      },
+      "timing": {
+        "zh": "常规机制，适用2026/27学年起新生；跟随相应入学周期，不代表当前本科已开放。",
+        "en": "Standing mechanism for entrants from AY2026/27; follows the relevant admission cycle, rather than confirming a bachelor call is currently open.",
+        "my": "၂၀၂၆/၂၇ မှ ဝင်သူများအတွက် ပုံမှန်အစီအစဉ်ဖြစ်သည်။ သက်ဆိုင်ရာဝင်ခွင့်ကာလအတိုင်းဖြစ်ပြီး လက်ရှိဘွဲ့ကြိုလျှောက်လွှာ ဖွင့်ထားသည်ဟု မဆိုလိုပါ။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NCKU — Degree Scholarships, updated 2026-08-31",
+          "url": "https://oia.ncku.edu.tw/p/404-1032-229890.php?Lang=en",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "schoolEvidence": [
+    {
+      "schoolId": "taiwan-ntu",
+      "status": "verified",
+      "note": {
+        "zh": "官方已核实本科国际学生奖学金机制；按申请身份与当年评审要求准备材料。",
+        "en": "Official undergraduate international-student award mechanism verified; prepare your application according to the relevant status and cycle rules.",
+        "my": "တရားဝင် နိုင်ငံတကာဘွဲ့ကြိုပညာသင်ဆုအစီအစဉ်ကို အတည်ပြုထားသည်။ လျှောက်ထားသူအမျိုးအစားနှင့် နှစ်စဉ်စည်းမျဉ်းအလိုက် စာရွက်စာတမ်းများ ပြင်ဆင်နိုင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "NTU — Scholarships for International Undergraduate Students",
+          "url": "https://admissions.ntu.edu.tw/fees-scholarships/scholarships/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "taiwan-nthu",
+      "status": "verified",
+      "note": {
+        "zh": "官方已核实本科国际学生奖学金机制；按申请身份与当年评审要求准备材料。",
+        "en": "Official undergraduate international-student award mechanism verified; prepare your application according to the relevant status and cycle rules.",
+        "my": "တရားဝင် နိုင်ငံတကာဘွဲ့ကြိုပညာသင်ဆုအစီအစဉ်ကို အတည်ပြုထားသည်။ လျှောက်ထားသူအမျိုးအစားနှင့် နှစ်စဉ်စည်းမျဉ်းအလိုက် စာရွက်စာတမ်းများ ပြင်ဆင်နိုင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "NTHU OGA — Scholarships for International Students",
+          "url": "https://www.oga.nthu.edu.tw/TabContentView/49",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "taiwan-nycu",
+      "status": "verified",
+      "note": {
+        "zh": "官方已核实本科国际学生奖学金机制；按申请身份与当年评审要求准备材料。",
+        "en": "Official undergraduate international-student award mechanism verified; prepare your application according to the relevant status and cycle rules.",
+        "my": "တရားဝင် နိုင်ငံတကာဘွဲ့ကြိုပညာသင်ဆုအစီအစဉ်ကို အတည်ပြုထားသည်။ လျှောက်ထားသူအမျိုးအစားနှင့် နှစ်စဉ်စည်းမျဉ်းအလိုက် စာရွက်စာတမ်းများ ပြင်ဆင်နိုင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "NYCU — University Scholarships",
+          "url": "https://oia.nycu.edu.tw/oia/en/app/data/view?id=792&module=nycu0012&serno=0f046f83-4147-4ec7-8921-bbaccd8c678f",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "taiwan-ncku",
+      "status": "verified",
+      "note": {
+        "zh": "官方已核实本科国际学生奖学金机制；按申请身份与当年评审要求准备材料。",
+        "en": "Official undergraduate international-student award mechanism verified; prepare your application according to the relevant status and cycle rules.",
+        "my": "တရားဝင် နိုင်ငံတကာဘွဲ့ကြိုပညာသင်ဆုအစီအစဉ်ကို အတည်ပြုထားသည်။ လျှောက်ထားသူအမျိုးအစားနှင့် နှစ်စဉ်စည်းမျဉ်းအလိုက် စာရွက်စာတမ်းများ ပြင်ဆင်နိုင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "NCKU — Degree Scholarships, updated 2026-08-31",
+          "url": "https://oia.ncku.edu.tw/p/404-1032-229890.php?Lang=en",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    }
+  ]
+}

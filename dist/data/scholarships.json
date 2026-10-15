@@ -1,0 +1,3093 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-08",
+  "audience": "Myanmar citizens",
+  "level": "bachelor",
+  "institutions": [
+    {
+      "id": "cn-pku",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京大学",
+      "en": "Peking University",
+      "website": "https://www.pku.edu.cn/",
+      "admissionsUrl": "https://www.isd.pku.edu.cn/en/detail.php?id=818"
+    },
+    {
+      "id": "cn-tsinghua",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "清华大学",
+      "en": "Tsinghua University",
+      "website": "https://www.tsinghua.edu.cn/",
+      "admissionsUrl": "https://international.join-tsinghua.edu.cn/info/1024/1023.htm"
+    },
+    {
+      "id": "cn-ruc",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国人民大学",
+      "en": "Renmin University of China",
+      "website": "https://www.ruc.edu.cn/",
+      "admissionsUrl": "https://iso.ruc.edu.cn/docs/2025-11/f79cdb88f9d74a9d9905712db70b3a3f.pdf"
+    },
+    {
+      "id": "cn-bnu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京师范大学",
+      "en": "Beijing Normal University",
+      "website": "https://www.bnu.edu.cn/",
+      "admissionsUrl": "https://international.bnu.edu.cn/user/sysNews/detail/22"
+    },
+    {
+      "id": "cn-buaa",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京航空航天大学",
+      "en": "Beihang University",
+      "website": "https://www.buaa.edu.cn/",
+      "admissionsUrl": "https://is.buaa.edu.cn/lxsq/bks1.htm"
+    },
+    {
+      "id": "cn-bit",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京理工大学",
+      "en": "Beijing Institute of Technology",
+      "website": "https://www.bit.edu.cn/",
+      "admissionsUrl": "https://isc.bit.edu.cn/aboutbit/faq/70fe36ccf5f64defb9ecda409efd2b71.htm"
+    },
+    {
+      "id": "cn-cau",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国农业大学",
+      "en": "China Agricultural University",
+      "website": "https://www.cau.edu.cn/",
+      "admissionsUrl": "https://admissions.cau.edu.cn/art/2025/10/11/art_48280_1084207.html"
+    },
+    {
+      "id": "cn-muc",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中央民族大学",
+      "en": "Minzu University of China",
+      "website": "https://www.muc.edu.cn/",
+      "admissionsUrl": "https://cie.muc.edu.cn/info/1666/8589.htm"
+    },
+    {
+      "id": "cn-bjtu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京交通大学",
+      "en": "Beijing Jiaotong University",
+      "website": "https://www.bjtu.edu.cn/",
+      "admissionsUrl": "https://www.bjtu.edu.cn/docs/2024-05/e64a5adc066441c3a587f1dc56d237bd.pdf"
+    },
+    {
+      "id": "cn-bjut",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京工业大学",
+      "en": "Beijing University of Technology",
+      "website": "https://www.bjut.edu.cn/",
+      "admissionsUrl": "https://isa.bjut.edu.cn/__local/B/A3/B2/69DCE244B953DEB7673801CFF5B_425639CD_9BD8A.pdf"
+    },
+    {
+      "id": "cn-ustb",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京科技大学",
+      "en": "University of Science and Technology Beijing",
+      "website": "https://www.ustb.edu.cn/",
+      "admissionsUrl": "https://isc.ustb.edu.cn/bmsq/4204b9af3b0f4e1abaad855f212fec05.htm"
+    },
+    {
+      "id": "cn-buct",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京化工大学",
+      "en": "Beijing University of Chemical Technology",
+      "website": "https://www.buct.edu.cn/",
+      "admissionsUrl": "https://apply.buct.edu.cn/14866/list.htm"
+    },
+    {
+      "id": "cn-bupt",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京邮电大学",
+      "en": "Beijing University of Posts and Telecommunications",
+      "website": "https://www.bupt.edu.cn/",
+      "admissionsUrl": "https://ois.bupt.edu.cn/info/1010/1552.htm"
+    },
+    {
+      "id": "cn-bjfu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京林业大学",
+      "en": "Beijing Forestry University",
+      "website": "https://www.bjfu.edu.cn/",
+      "admissionsUrl": "https://english.bjfu.edu.cn/docs/2025-11/4092e0495fdc4546ab0774035f5ab258.pdf"
+    },
+    {
+      "id": "cn-bucm",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京中医药大学",
+      "en": "Beijing University of Chinese Medicine",
+      "website": "https://www.bucm.edu.cn/",
+      "admissionsUrl": "https://iec.bucm.edu.cn/ZSJZ/8c24201b3e8745ed80b537d909c8d06b.htm"
+    },
+    {
+      "id": "cn-bfsu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京外国语大学",
+      "en": "Beijing Foreign Studies University",
+      "website": "https://www.bfsu.edu.cn/",
+      "admissionsUrl": "https://lb.bfsu.edu.cn/info/2612/4701.htm"
+    },
+    {
+      "id": "cn-cuc",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国传媒大学",
+      "en": "Communication University of China",
+      "website": "https://www.cuc.edu.cn/",
+      "admissionsUrl": "https://icuc.cuc.edu.cn/2026/0204/c7289a266930/page.htm"
+    },
+    {
+      "id": "cn-cufe",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中央财经大学",
+      "en": "Central University of Finance and Economics",
+      "website": "https://www.cufe.edu.cn/",
+      "admissionsUrl": "https://sice.cufe.edu.cn/admissions/info/1045/3420.htm"
+    },
+    {
+      "id": "cn-uibe",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "对外经济贸易大学",
+      "en": "University of International Business and Economics",
+      "website": "https://www.uibe.edu.cn/",
+      "admissionsUrl": "https://sie.uibe.edu.cn/en/Prgr/BacDegPro/OfEn/abc864a25c554202bf5c9acbf53d2729.htm"
+    },
+    {
+      "id": "cn-cupl",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国政法大学",
+      "en": "China University of Political Science and Law",
+      "website": "https://www.cupl.edu.cn/",
+      "admissionsUrl": "https://sis.cupl.edu.cn/"
+    },
+    {
+      "id": "cn-bsu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "北京体育大学",
+      "en": "Beijing Sport University",
+      "website": "https://www.bsu.edu.cn/",
+      "admissionsUrl": "https://zs.bsu.edu.cn/lxszsw/lxstzgg/66d8ebf30f85422688e099f28f51b58e.htm"
+    },
+    {
+      "id": "cn-ccom",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中央音乐学院",
+      "en": "Central Conservatory of Music",
+      "website": "https://www.ccom.edu.cn/",
+      "admissionsUrl": "https://liuxue.ccom.edu.cn/uploads/attached/file/20260113/E113895183690720.pdf"
+    },
+    {
+      "id": "cn-ncepu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "华北电力大学",
+      "en": "North China Electric Power University",
+      "website": "https://www.ncepu.edu.cn/",
+      "admissionsUrl": "https://studyatncepu.ncepu.edu.cn/Admissions/YearlyAdmission/2ff0bc031fdd4e63a9fab6f926630897.htm"
+    },
+    {
+      "id": "cn-cumtb",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国矿业大学（北京）",
+      "en": "China University of Mining and Technology Beijing",
+      "website": "https://www.cumtb.edu.cn/",
+      "admissionsUrl": "https://international.cumtb.edu.cn/info/1037/4473.htm"
+    },
+    {
+      "id": "cn-cup",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国石油大学（北京）",
+      "en": "China University of Petroleum Beijing",
+      "website": "https://www.cup.edu.cn/",
+      "admissionsUrl": "https://www.cup.edu.cn/overseas/docs/2025-10/29c769b3744248d8bf7678848d415210.pdf"
+    },
+    {
+      "id": "cn-cugb",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国地质大学（北京）",
+      "en": "China University of Geosciences Beijing",
+      "website": "https://www.cugb.edu.cn/",
+      "admissionsUrl": "https://bm.cugb.edu.cn/gjhzyjl-en/upload/resources/file/2025/10/12/274996.pdf"
+    },
+    {
+      "id": "cn-nankai",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "南开大学",
+      "en": "Nankai University",
+      "website": "https://www.nankai.edu.cn/",
+      "admissionsUrl": "https://sie.nankai.edu.cn/info/1097/1162.htm"
+    },
+    {
+      "id": "cn-tju",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "天津大学",
+      "en": "Tianjin University",
+      "website": "https://www.tju.edu.cn/",
+      "admissionsUrl": "https://sie.tju.edu.cn/en/xwxm/UNDERGRADUATE/202609/t20260930_324729.html"
+    },
+    {
+      "id": "cn-tmu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "天津医科大学",
+      "en": "Tianjin Medical University",
+      "website": "https://www.tmu.edu.cn/",
+      "admissionsUrl": "https://www.tmu.edu.cn/"
+    },
+    {
+      "id": "cn-hebut",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "河北工业大学",
+      "en": "Hebei University of Technology",
+      "website": "https://www.hebut.edu.cn/",
+      "admissionsUrl": "https://eweb.hebut.edu.cn/admission/InternationalStudents/prospectus/c795f3af378e422ea89ea12c573eeb2f.htm"
+    },
+    {
+      "id": "cn-tyut",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "太原理工大学",
+      "en": "Taiyuan University of Technology",
+      "website": "https://www.tyut.edu.cn/",
+      "admissionsUrl": "https://is.tyut.edu.cn/html/article_content/202606/6B86A9FF2F5A4850B814BFFA0F84D85E.shtml"
+    },
+    {
+      "id": "cn-imu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "内蒙古大学",
+      "en": "Inner Mongolia University",
+      "website": "https://www.imu.edu.cn/",
+      "admissionsUrl": "https://iec.imu.edu.cn/en/danpian.jsp?urltype=tree.TreeTempUrl&wbtreeid=1195"
+    },
+    {
+      "id": "cn-dlut",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "大连理工大学",
+      "en": "Dalian University of Technology",
+      "website": "https://www.dlut.edu.cn/",
+      "admissionsUrl": "https://sie.dlut.edu.cn/info/1179/2480.htm"
+    },
+    {
+      "id": "cn-neu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "东北大学",
+      "en": "Northeastern University",
+      "website": "https://www.neu.edu.cn/",
+      "admissionsUrl": "https://studyinneu.neu.edu.cn/html/article_content/202604/55185DB2D9B14A00AD885F95988B76F8.shtml"
+    },
+    {
+      "id": "cn-lnu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "辽宁大学",
+      "en": "Liaoning University",
+      "website": "https://www.lnu.edu.cn/",
+      "admissionsUrl": "https://ie.lnu.edu.cn/info/13193/2206.htm"
+    },
+    {
+      "id": "cn-dlmu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "大连海事大学",
+      "en": "Dalian Maritime University",
+      "website": "https://www.dlmu.edu.cn/",
+      "admissionsUrl": "https://iec.dlmu.edu.cn/English/ADMISSION/Bachelor_s_Degree/Chinese_Taught_Programs.htm"
+    },
+    {
+      "id": "cn-jlu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "吉林大学",
+      "en": "Jilin University",
+      "website": "https://www.jlu.edu.cn/",
+      "admissionsUrl": "https://cie.jlu.edu.cn/info/1047/3653.htm"
+    },
+    {
+      "id": "cn-nenu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "东北师范大学",
+      "en": "Northeast Normal University",
+      "website": "https://www.nenu.edu.cn/",
+      "admissionsUrl": "https://iso.nenu.edu.cn/chinese/dongbeishifandaxue2026nianguojixueshengbenkezhuanyemulu.pdf"
+    },
+    {
+      "id": "cn-ybu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "延边大学",
+      "en": "Yanbian University",
+      "website": "https://www.ybu.edu.cn/",
+      "admissionsUrl": "https://liuxue.ybu.edu.cn/zsxx/xls/bks.htm"
+    },
+    {
+      "id": "cn-hit",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "哈尔滨工业大学",
+      "en": "Harbin Institute of Technology",
+      "website": "https://www.hit.edu.cn/",
+      "admissionsUrl": "https://cie.hit.edu.cn/18285/list.htm"
+    },
+    {
+      "id": "cn-hrbeu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "哈尔滨工程大学",
+      "en": "Harbin Engineering University",
+      "website": "https://www.hrbeu.edu.cn/",
+      "admissionsUrl": "https://studyheu.hrbeu.edu.cn/info/1026/1393.htm"
+    },
+    {
+      "id": "cn-neau",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "东北农业大学",
+      "en": "Northeast Agricultural University",
+      "website": "https://www.neau.edu.cn/",
+      "admissionsUrl": "https://gjxy.neau.edu.cn/info/1029/1032.htm"
+    },
+    {
+      "id": "cn-nefu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "东北林业大学",
+      "en": "Northeast Forestry University",
+      "website": "https://www.nefu.edu.cn/",
+      "admissionsUrl": "https://siee.nefu.edu.cn/jjy/bksxm.htm"
+    },
+    {
+      "id": "cn-fudan",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "复旦大学",
+      "en": "Fudan University",
+      "website": "https://www.fudan.edu.cn/",
+      "admissionsUrl": "https://iso.fudan.edu.cn/_upload/article/files/bc/ed/37f712cb4e3f8316f4ec2ebc4ba2/6c9fce5d-d137-4934-b484-1c4630f18aa5.pdf"
+    },
+    {
+      "id": "cn-sjtu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "上海交通大学",
+      "en": "Shanghai Jiao Tong University",
+      "website": "https://www.sjtu.edu.cn/",
+      "admissionsUrl": "https://isc.sjtu.edu.cn/CN/show.aspx?info_id=1671&info_lb=133"
+    },
+    {
+      "id": "cn-tongji",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "同济大学",
+      "en": "Tongji University",
+      "website": "https://www.tongji.edu.cn/",
+      "admissionsUrl": "https://study.tongji.edu.cn/__local/7/F3/BB/C0BD5398885666DBDC4FB4C2007_31B4DDB5_4E0E8.pdf"
+    },
+    {
+      "id": "cn-ecnu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "华东师范大学",
+      "en": "East China Normal University",
+      "website": "https://www.ecnu.edu.cn/",
+      "admissionsUrl": "https://lxs.ecnu.edu.cn/cn_admission_degree_programs_undergraduate_program/list.htm"
+    },
+    {
+      "id": "cn-ecust",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "华东理工大学",
+      "en": "East China University of Science and Technology",
+      "website": "https://www.ecust.edu.cn/",
+      "admissionsUrl": "https://cie.ecust.edu.cn/notices/514.html"
+    },
+    {
+      "id": "cn-dhu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "东华大学",
+      "en": "Donghua University",
+      "website": "https://www.dhu.edu.cn/",
+      "admissionsUrl": "https://iec.dhu.edu.cn/2025/1121/c20526a368999/page.htm"
+    },
+    {
+      "id": "cn-shisu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "上海外国语大学",
+      "en": "Shanghai International Studies University",
+      "website": "https://www.shisu.edu.cn/",
+      "admissionsUrl": "https://www.oisa.shisu.edu.cn/index.php/index/lxxm/cid/87.html"
+    },
+    {
+      "id": "cn-shufe",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "上海财经大学",
+      "en": "Shanghai University of Finance and Economics",
+      "website": "https://www.shufe.edu.cn/",
+      "admissionsUrl": "https://intlstu.sufe.edu.cn/ch/f8/21/c12423a260129/page.htm"
+    },
+    {
+      "id": "cn-shu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "上海大学",
+      "en": "Shanghai University",
+      "website": "https://www.shu.edu.cn/",
+      "admissionsUrl": "https://apply.shu.edu.cn/application/index?from=index&language=en&type=requirements"
+    },
+    {
+      "id": "cn-nju",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "南京大学",
+      "en": "Nanjing University",
+      "website": "https://www.nju.edu.cn/",
+      "admissionsUrl": "https://hwxy.nju.edu.cn/lxnd/zsxx/bkxm/sbzn/index.html"
+    },
+    {
+      "id": "cn-seu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "东南大学",
+      "en": "Southeast University",
+      "website": "https://www.seu.edu.cn/",
+      "admissionsUrl": "https://cis.seu.edu.cn/2025/1125/c14298a546679/page.htm"
+    },
+    {
+      "id": "cn-suda",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "苏州大学",
+      "en": "Soochow University",
+      "website": "https://www.suda.edu.cn/",
+      "admissionsUrl": "https://oversea.suda.edu.cn/bb/c8/c11297a703432/page.htm"
+    },
+    {
+      "id": "cn-nuaa",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "南京航空航天大学",
+      "en": "Nanjing University of Aeronautics and Astronautics",
+      "website": "https://www.nuaa.edu.cn/",
+      "admissionsUrl": "https://cie.nuaa.edu.cn/2025/1121/c16499a388281/page.htm"
+    },
+    {
+      "id": "cn-njust",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "南京理工大学",
+      "en": "Nanjing University of Science and Technology",
+      "website": "https://www.njust.edu.cn/",
+      "admissionsUrl": "https://sie.njust.edu.cn/_upload/article/files/79/a7/24fc4e784385bcff62e9f63ee514/95138cab-d964-48ec-9317-37a8d1e66b2c.pdf"
+    },
+    {
+      "id": "cn-cumt",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国矿业大学",
+      "en": "China University of Mining and Technology",
+      "website": "https://www.cumt.edu.cn/",
+      "admissionsUrl": "https://sac.cumt.edu.cn/info/1030/4729.htm"
+    },
+    {
+      "id": "cn-hhu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "河海大学",
+      "en": "Hohai University",
+      "website": "https://www.hhu.edu.cn/",
+      "admissionsUrl": "https://cie.hhu.edu.cn/2025/1128/c14607a313426/page.htm"
+    },
+    {
+      "id": "cn-jiangnan",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "江南大学",
+      "en": "Jiangnan University",
+      "website": "https://www.jiangnan.edu.cn/",
+      "admissionsUrl": "https://studyabroad.jiangnan.edu.cn/zs/bkxm.htm"
+    },
+    {
+      "id": "cn-njau",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "南京农业大学",
+      "en": "Nanjing Agricultural University",
+      "website": "https://www.njau.edu.cn/",
+      "admissionsUrl": "https://coie.njau.edu.cn/__local/4/D0/08/45AD330E13342933F19FBD41E0F_F8C426A6_7A3F7.pdf"
+    },
+    {
+      "id": "cn-cpu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国药科大学",
+      "en": "China Pharmaceutical University",
+      "website": "https://www.cpu.edu.cn/",
+      "admissionsUrl": "https://international.cpu.edu.cn/_upload/article/files/b3/5e/1bb6cd1746ae973244d7d52a1266/4cae143f-2d64-464b-b227-edea104e22b6.pdf"
+    },
+    {
+      "id": "cn-njnu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "南京师范大学",
+      "en": "Nanjing Normal University",
+      "website": "https://www.njnu.edu.cn/",
+      "admissionsUrl": "https://gjc.njnu.edu.cn/"
+    },
+    {
+      "id": "cn-zju",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "浙江大学",
+      "en": "Zhejiang University",
+      "website": "https://www.zju.edu.cn/",
+      "admissionsUrl": "https://iczu.zju.edu.cn/admissionsen/2024/1030/c68988a2981659/page.htm"
+    },
+    {
+      "id": "cn-ustc",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "website": "https://www.ustc.edu.cn/",
+      "admissionsUrl": "https://ic.ustc.edu.cn/?abroad=%E6%A6%82%E5%86%B5"
+    },
+    {
+      "id": "cn-ahu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "安徽大学",
+      "en": "Anhui University",
+      "website": "https://www.ahu.edu.cn/",
+      "admissionsUrl": "https://sie.ahu.edu.cn/"
+    },
+    {
+      "id": "cn-hfut",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "合肥工业大学",
+      "en": "Hefei University of Technology",
+      "website": "https://www.hfut.edu.cn/",
+      "admissionsUrl": "https://iec.hfut.edu.cn/2025/1128/c11677a316558/page.htm"
+    },
+    {
+      "id": "cn-xmu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "厦门大学",
+      "en": "Xiamen University",
+      "website": "https://www.xmu.edu.cn/",
+      "admissionsUrl": "https://admissions.xmu.edu.cn/cn/info/1019/2036.htm"
+    },
+    {
+      "id": "cn-fzu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "福州大学",
+      "en": "Fuzhou University",
+      "website": "https://www.fzu.edu.cn/",
+      "admissionsUrl": "https://oce.fzu.edu.cn/info/1025/8036.htm"
+    },
+    {
+      "id": "cn-ncu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "南昌大学",
+      "en": "Nanchang University",
+      "website": "https://www.ncu.edu.cn/",
+      "admissionsUrl": "https://iec.ncu.edu.cn/lxnd/bkxm.htm"
+    },
+    {
+      "id": "cn-sdu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "山东大学",
+      "en": "Shandong University",
+      "website": "https://www.sdu.edu.cn/",
+      "admissionsUrl": "https://istudy.sdu.edu.cn/info/1291/3973.htm"
+    },
+    {
+      "id": "cn-ouc",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国海洋大学",
+      "en": "Ocean University of China",
+      "website": "https://www.ouc.edu.cn/",
+      "admissionsUrl": "https://sie.ouc.edu.cn/english/2025/1212/c18028a513110/page.htm"
+    },
+    {
+      "id": "cn-upc",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国石油大学（华东）",
+      "en": "China University of Petroleum East China",
+      "website": "https://www.upc.edu.cn/",
+      "admissionsUrl": "https://cie.upc.edu.cn/admission_en/Admission/Entry_Requirements.htm"
+    },
+    {
+      "id": "cn-zzu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "郑州大学",
+      "en": "Zhengzhou University",
+      "website": "https://www.zzu.edu.cn/",
+      "admissionsUrl": "https://www5.zzu.edu.cn/sie/info/1145/1208.htm"
+    },
+    {
+      "id": "cn-whu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "武汉大学",
+      "en": "Wuhan University",
+      "website": "https://www.whu.edu.cn/",
+      "admissionsUrl": "https://admission.whu.edu.cn/index.htm"
+    },
+    {
+      "id": "cn-hust",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "华中科技大学",
+      "en": "Huazhong University of Science and Technology",
+      "website": "https://www.hust.edu.cn/",
+      "admissionsUrl": "https://iso.hust.edu.cn/info/1194/4638.htm"
+    },
+    {
+      "id": "cn-cug",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中国地质大学（武汉）",
+      "en": "China University of Geosciences Wuhan",
+      "website": "https://www.cug.edu.cn/",
+      "admissionsUrl": "https://eniec.cug.edu.cn/gjjyen/info/1023/3903.htm"
+    },
+    {
+      "id": "cn-whut",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "武汉理工大学",
+      "en": "Wuhan University of Technology",
+      "website": "https://www.whut.edu.cn/",
+      "admissionsUrl": "https://sie.whut.edu.cn/lhlx/xmjs/202512/P020251226622391345408.pdf"
+    },
+    {
+      "id": "cn-hzau",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "华中农业大学",
+      "en": "Huazhong Agricultural University",
+      "website": "https://www.hzau.edu.cn/",
+      "admissionsUrl": "https://studyin.hzau.edu.cn/"
+    },
+    {
+      "id": "cn-ccnu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "华中师范大学",
+      "en": "Central China Normal University",
+      "website": "https://www.ccnu.edu.cn/",
+      "admissionsUrl": "https://dge.ccnu.edu.cn/info/1381/28421.htm"
+    },
+    {
+      "id": "cn-zuel",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中南财经政法大学",
+      "en": "Zhongnan University of Economics and Law",
+      "website": "https://www.zuel.edu.cn/",
+      "admissionsUrl": "https://ies.zuel.edu.cn/"
+    },
+    {
+      "id": "cn-hnu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "湖南大学",
+      "en": "Hunan University",
+      "website": "https://www.hnu.edu.cn/",
+      "admissionsUrl": "https://www-en.hnu.edu.cn/__local/1/D4/C0/0A6AC6A418F491ADEC7EE62655D_437210C1_5304C.pdf"
+    },
+    {
+      "id": "cn-csu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中南大学",
+      "en": "Central South University",
+      "website": "https://www.csu.edu.cn/",
+      "admissionsUrl": "https://intl.csu.edu.cn/info/1075/3804.htm"
+    },
+    {
+      "id": "cn-hunnu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "湖南师范大学",
+      "en": "Hunan Normal University",
+      "website": "https://www.hunnu.edu.cn/",
+      "admissionsUrl": "https://oiec.hunnu.edu.cn/info/1061/4194.htm"
+    },
+    {
+      "id": "cn-sysu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "中山大学",
+      "en": "Sun Yat-sen University",
+      "website": "https://www.sysu.edu.cn/",
+      "admissionsUrl": "https://iso.sysu.edu.cn/cn/zfxm/1420524.htm"
+    },
+    {
+      "id": "cn-scut",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "华南理工大学",
+      "en": "South China University of Technology",
+      "website": "https://www.scut.edu.cn/",
+      "admissionsUrl": "https://www.scut.edu.cn/en/2025/1127/c606a58695/page.htm"
+    },
+    {
+      "id": "cn-jnu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "暨南大学",
+      "en": "Jinan University",
+      "website": "https://www.jnu.edu.cn/",
+      "admissionsUrl": "https://zsb.jnu.edu.cn/2025/1205/c40322a847522/page.htm"
+    },
+    {
+      "id": "cn-scnu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "华南师范大学",
+      "en": "South China Normal University",
+      "website": "https://www.scnu.edu.cn/",
+      "admissionsUrl": "https://english.scnu.edu.cn/a/20260508/1633.html"
+    },
+    {
+      "id": "cn-gxu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "广西大学",
+      "en": "Guangxi University",
+      "website": "https://www.gxu.edu.cn/",
+      "admissionsUrl": "https://gjxy.gxu.edu.cn/gjxy_en/"
+    },
+    {
+      "id": "cn-hainanu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "海南大学",
+      "en": "Hainan University",
+      "website": "https://www.hainanu.edu.cn/",
+      "admissionsUrl": "https://sie.hainanu.edu.cn/info/1549/6234.htm"
+    },
+    {
+      "id": "cn-cqu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "重庆大学",
+      "en": "Chongqing University",
+      "website": "https://www.cqu.edu.cn/",
+      "admissionsUrl": "https://study.cqu.edu.cn/info/1887/2789.htm"
+    },
+    {
+      "id": "cn-swu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "西南大学",
+      "en": "Southwest University",
+      "website": "https://www.swu.edu.cn/",
+      "admissionsUrl": "https://gjxy.swu.edu.cn/info/1028/1356.htm"
+    },
+    {
+      "id": "cn-scu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "四川大学",
+      "en": "Sichuan University",
+      "website": "https://www.scu.edu.cn/",
+      "admissionsUrl": "https://global.scu.edu.cn/oso/article/index/1094?lang=zh"
+    },
+    {
+      "id": "cn-uestc",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "电子科技大学",
+      "en": "University of Electronic Science and Technology of China",
+      "website": "https://www.uestc.edu.cn/",
+      "admissionsUrl": "https://en.uestc.edu.cn/UESTC_Admission_Brochure-CN.pdf"
+    },
+    {
+      "id": "cn-swjtu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "西南交通大学",
+      "en": "Southwest Jiaotong University",
+      "website": "https://www.swjtu.edu.cn/",
+      "admissionsUrl": "https://sie.swjtu.edu.cn/info/1130/3112.htm"
+    },
+    {
+      "id": "cn-sicau",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "四川农业大学",
+      "en": "Sichuan Agricultural University",
+      "website": "https://www.sicau.edu.cn/",
+      "admissionsUrl": "https://ghc.sicau.edu.cn/info/1218/7991.htm"
+    },
+    {
+      "id": "cn-swufe",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "西南财经大学",
+      "en": "Southwestern University of Finance and Economics",
+      "website": "https://www.swufe.edu.cn/",
+      "admissionsUrl": "https://international.swufe.edu.cn/info/1020/7401.htm"
+    },
+    {
+      "id": "cn-gzu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "贵州大学",
+      "en": "Guizhou University",
+      "website": "https://www.gzu.edu.cn/",
+      "admissionsUrl": "https://cie.gzu.edu.cn/2025/1128/c8268a262404/page.htm"
+    },
+    {
+      "id": "cn-ynu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "云南大学",
+      "en": "Yunnan University",
+      "website": "https://www.ynu.edu.cn/",
+      "admissionsUrl": "https://english.ynu.edu.cn/ynuundergraduate.html"
+    },
+    {
+      "id": "cn-utibet",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "西藏大学",
+      "en": "Tibet University",
+      "website": "https://www.utibet.edu.cn/",
+      "admissionsUrl": "https://www.xzu.edu.cn/"
+    },
+    {
+      "id": "cn-xjtu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "西安交通大学",
+      "en": "Xi'an Jiaotong University",
+      "website": "https://www.xjtu.edu.cn/",
+      "admissionsUrl": "https://sie.xjtu.edu.cn/en/info/1119/2943.htm"
+    },
+    {
+      "id": "cn-nwpu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "西北工业大学",
+      "en": "Northwestern Polytechnical University",
+      "website": "https://www.nwpu.edu.cn/",
+      "admissionsUrl": "https://npuinternationalcollege.nwpu.edu.cn/info/1141/2928.htm"
+    },
+    {
+      "id": "cn-nwafu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "西北农林科技大学",
+      "en": "Northwest A&F University",
+      "website": "https://www.nwafu.edu.cn/",
+      "admissionsUrl": "https://gjs.nwafu.edu.cn/sqzn/8f65fd5acf68446ab8e44d5b9c437655.htm"
+    },
+    {
+      "id": "cn-nwu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "西北大学",
+      "en": "Northwest University",
+      "website": "https://www.nwu.edu.cn/",
+      "admissionsUrl": "https://sie.nwu.edu.cn/info/1122/2526.htm"
+    },
+    {
+      "id": "cn-xidian",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "西安电子科技大学",
+      "en": "Xidian University",
+      "website": "https://www.xidian.edu.cn/",
+      "admissionsUrl": "https://xdgjxs.xidian.edu.cn/internationalEducationStudent/2026/1"
+    },
+    {
+      "id": "cn-chd",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "长安大学",
+      "en": "Chang'an University",
+      "website": "https://www.chd.edu.cn/",
+      "admissionsUrl": "https://webplus.chd.edu.cn/en/2025/1128/c8645a257445/page.psp"
+    },
+    {
+      "id": "cn-snnu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "陕西师范大学",
+      "en": "Shaanxi Normal University",
+      "website": "https://www.snnu.edu.cn/",
+      "admissionsUrl": "https://study.snnu.edu.cn/en/info/1090/1886.htm"
+    },
+    {
+      "id": "cn-lzu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "兰州大学",
+      "en": "Lanzhou University",
+      "website": "https://www.lzu.edu.cn/",
+      "admissionsUrl": "https://sice.lzu.edu.cn/hdupf/fil/202206/202206171655453269737059.pdf"
+    },
+    {
+      "id": "cn-qhu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "青海大学",
+      "en": "Qinghai University",
+      "website": "https://www.qhu.edu.cn/",
+      "admissionsUrl": "https://www.qhu.edu.cn/"
+    },
+    {
+      "id": "cn-nxu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "宁夏大学",
+      "en": "Ningxia University",
+      "website": "https://www.nxu.edu.cn/",
+      "admissionsUrl": "https://hzjl.nxu.edu.cn/info/1035/1781.htm"
+    },
+    {
+      "id": "cn-xju",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "新疆大学",
+      "en": "Xinjiang University",
+      "website": "https://www.xju.edu.cn/",
+      "admissionsUrl": "https://gjjl.xju.edu.cn/info/1015/2590.htm"
+    },
+    {
+      "id": "cn-shzu",
+      "country": "CN",
+      "region": "mainland",
+      "zh": "石河子大学",
+      "en": "Shihezi University",
+      "website": "https://www.shzu.edu.cn/",
+      "admissionsUrl": "https://yixy.shzu.edu.cn/2026/0203/c6725a228934/page.htm"
+    },
+    {
+      "id": "th-chula",
+      "country": "TH",
+      "region": null,
+      "zh": "朱拉隆功大学",
+      "en": "Chulalongkorn University",
+      "website": "https://www.bistech.sc.chula.ac.th/inter-admission/",
+      "admissionsUrl": null
+    },
+    {
+      "id": "th-mahidol",
+      "country": "TH",
+      "region": null,
+      "zh": "玛希隆大学",
+      "en": "Mahidol University",
+      "website": "https://muic.mahidol.ac.th/en/study-at-muic/admissions-requirement/undergraduate-admission/overseas-students/",
+      "admissionsUrl": null
+    },
+    {
+      "id": "th-thammasat",
+      "country": "TH",
+      "region": null,
+      "zh": "法政大学",
+      "en": "Thammasat University",
+      "website": "https://oia.tu.ac.th/wp-content/uploads/2025/11/2.4-BBM-Inter-2.pdf",
+      "admissionsUrl": null
+    },
+    {
+      "id": "th-kmitl",
+      "country": "TH",
+      "region": null,
+      "zh": "先皇理工学院（拉甲邦）",
+      "en": "King Mongkut's Institute of Technology Ladkrabang",
+      "website": "https://www1.reg.kmitl.ac.th/TCAS_old/news/files/2569_1_news1_4075_2025_09_11-09-48-56_a1691.pdf",
+      "admissionsUrl": null
+    },
+    {
+      "id": "th-bangkok",
+      "country": "TH",
+      "region": null,
+      "zh": "曼谷大学",
+      "en": "Bangkok University",
+      "website": "https://www.bu.ac.th/en/admission-info/international-programs",
+      "admissionsUrl": null
+    },
+    {
+      "id": "th-assumption",
+      "country": "TH",
+      "region": null,
+      "zh": "易三仓大学",
+      "en": "Assumption University of Thailand",
+      "website": "https://www.au.edu/criteria/",
+      "admissionsUrl": null
+    },
+    {
+      "id": "th-payap",
+      "country": "TH",
+      "region": null,
+      "zh": "西北大学（清迈）",
+      "en": "Payap University",
+      "website": "https://iit.payap.ac.th/?page_id=4730",
+      "admissionsUrl": null
+    },
+    {
+      "id": "th-siam",
+      "country": "TH",
+      "region": null,
+      "zh": "暹罗大学",
+      "en": "Siam University",
+      "website": "https://globalacademy.siam.edu/entry-requirements/",
+      "admissionsUrl": null
+    },
+    {
+      "id": "th-stamford",
+      "country": "TH",
+      "region": null,
+      "zh": "斯坦福国际大学（泰国）",
+      "en": "Stamford International University",
+      "website": "https://www.stamford.edu/campus-life/international-students/bachelors-degree/",
+      "admissionsUrl": null
+    },
+    {
+      "id": "my-um",
+      "country": "MY",
+      "region": null,
+      "zh": "马来亚大学",
+      "en": "Universiti Malaya",
+      "website": "https://aasd.um.edu.my/faq-ug-international-admission",
+      "admissionsUrl": null
+    },
+    {
+      "id": "my-ukm",
+      "country": "MY",
+      "region": null,
+      "zh": "马来西亚国立大学",
+      "en": "Universiti Kebangsaan Malaysia",
+      "website": "https://ftsm.ukm.my/v6/30thftsm",
+      "admissionsUrl": null
+    },
+    {
+      "id": "my-upm",
+      "country": "MY",
+      "region": null,
+      "zh": "马来西亚博特拉大学",
+      "en": "Universiti Putra Malaysia",
+      "website": "https://econ.upm.edu.my/upload/dokumen/20260130172349INTERNATIONAL_BROUCHURE_30_JAN_2026.pdf",
+      "admissionsUrl": null
+    },
+    {
+      "id": "my-usm",
+      "country": "MY",
+      "region": null,
+      "zh": "马来西亚理科大学",
+      "en": "Universiti Sains Malaysia",
+      "website": "https://admission.usm.my/undergraduate/undergraduate-international",
+      "admissionsUrl": null
+    },
+    {
+      "id": "my-utm",
+      "country": "MY",
+      "region": null,
+      "zh": "马来西亚理工大学",
+      "en": "Universiti Teknologi Malaysia",
+      "website": "https://admission.utm.my/entry-requirements-ug-international/",
+      "admissionsUrl": null
+    },
+    {
+      "id": "my-taylor",
+      "country": "MY",
+      "region": null,
+      "zh": "泰莱大学",
+      "en": "Taylor's University",
+      "website": "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-business.html",
+      "admissionsUrl": null
+    },
+    {
+      "id": "my-sunway",
+      "country": "MY",
+      "region": null,
+      "zh": "双威大学",
+      "en": "Sunway University",
+      "website": "https://sunwayuniversity.edu.my/sunway-business-school/courses/bachelor-of-science-honours-business-studies",
+      "admissionsUrl": null
+    },
+    {
+      "id": "my-nottingham",
+      "country": "MY",
+      "region": null,
+      "zh": "诺丁汉大学马来西亚校区",
+      "en": "University of Nottingham Malaysia",
+      "website": "https://www.nottingham.edu.my/ugstudy/course/international-business-management-bsc-hons",
+      "admissionsUrl": null
+    },
+    {
+      "id": "my-monash",
+      "country": "MY",
+      "region": null,
+      "zh": "蒙纳士大学马来西亚校区",
+      "en": "Monash University Malaysia",
+      "website": "https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce",
+      "admissionsUrl": null
+    },
+    {
+      "id": "sg-nus",
+      "country": "SG",
+      "region": null,
+      "zh": "新加坡国立大学",
+      "en": "National University of Singapore",
+      "website": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/other-high-school-qualifications",
+      "admissionsUrl": null
+    },
+    {
+      "id": "sg-ntu",
+      "country": "SG",
+      "region": null,
+      "zh": "南洋理工大学",
+      "en": "Nanyang Technological University",
+      "website": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/myanmar-matriculation-exam",
+      "admissionsUrl": null
+    },
+    {
+      "id": "sg-smu",
+      "country": "SG",
+      "region": null,
+      "zh": "新加坡管理大学",
+      "en": "Singapore Management University",
+      "website": "https://admissions.smu.edu.sg/admissions-requirements/international-and-other-qualifications",
+      "admissionsUrl": null
+    },
+    {
+      "id": "sg-sutd",
+      "country": "SG",
+      "region": null,
+      "zh": "新加坡科技设计大学",
+      "en": "Singapore University of Technology and Design",
+      "website": "https://www.sutd.edu.sg/admissions/undergraduate/admission-requirements/international-qualifications",
+      "admissionsUrl": null
+    },
+    {
+      "id": "sg-sit",
+      "country": "SG",
+      "region": null,
+      "zh": "新加坡理工大学",
+      "en": "Singapore Institute of Technology",
+      "website": "https://www.singaporetech.edu.sg/admissions/undergraduate/requirements/international-qualifications",
+      "admissionsUrl": null
+    },
+    {
+      "id": "sg-suss",
+      "country": "SG",
+      "region": null,
+      "zh": "新跃社科大学",
+      "en": "Singapore University of Social Sciences",
+      "website": "https://www.suss.edu.sg/admissions/application-process/eligibility/full-time-undergraduate-admission-criteria",
+      "admissionsUrl": null
+    },
+    {
+      "id": "sg-jcu",
+      "country": "SG",
+      "region": null,
+      "zh": "詹姆斯库克大学新加坡校区",
+      "en": "James Cook University Singapore",
+      "website": "https://www.jcu.edu.sg/courses-and-study/courses/course/pre-university-foundation-program",
+      "admissionsUrl": null
+    },
+    {
+      "id": "sg-sim",
+      "country": "SG",
+      "region": null,
+      "zh": "新加坡管理学院",
+      "en": "Singapore Institute of Management",
+      "website": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/international-foundation-programme",
+      "admissionsUrl": null
+    },
+    {
+      "id": "sg-kaplan",
+      "country": "SG",
+      "region": null,
+      "zh": "楷博高等教育学院新加坡",
+      "en": "Kaplan Higher Education Academy Singapore",
+      "website": "https://www.kaplan.com.sg/academic-levels/diplomas-courses",
+      "admissionsUrl": null
+    },
+    {
+      "id": "sg-psb",
+      "country": "SG",
+      "region": null,
+      "zh": "PSB 学院",
+      "en": "PSB Academy",
+      "website": "https://www.psb-academy.edu.sg/resources/others/common/Entry-Requirement-Myanmar.pdf",
+      "admissionsUrl": null
+    },
+    {
+      "id": "hku",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "zh": "香港大学",
+      "en": "The University of Hong Kong",
+      "website": "https://www.hku.hk/",
+      "admissionsUrl": "https://admissions.hku.hk/apply/international-qualifications"
+    },
+    {
+      "id": "cuhk",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "zh": "香港中文大学",
+      "en": "The Chinese University of Hong Kong",
+      "website": "https://www.cuhk.edu.hk/",
+      "admissionsUrl": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/"
+    },
+    {
+      "id": "hkust",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "zh": "香港科技大学",
+      "en": "The Hong Kong University of Science and Technology",
+      "website": "https://hkust.edu.hk/",
+      "admissionsUrl": "https://join.hkust.edu.hk/admissions/international-qualifications?general_requirement=All"
+    },
+    {
+      "id": "um",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "zh": "澳门大学",
+      "en": "University of Macau",
+      "website": "https://www.um.edu.mo/",
+      "admissionsUrl": "https://reg.um.edu.mo/admissions/nonlocal/others-regions/news/"
+    },
+    {
+      "id": "taiwan-ntu",
+      "country": "CN",
+      "region": "taiwan",
+      "zh": "国立台湾大学",
+      "en": "National Taiwan University (NTU)",
+      "website": "https://www.ntu.edu.tw/english/",
+      "admissionsUrl": "https://admissions.ntu.edu.tw/apply/degree-students/international-students/"
+    },
+    {
+      "id": "taiwan-nthu",
+      "country": "CN",
+      "region": "taiwan",
+      "zh": "国立清华大学",
+      "en": "National Tsing Hua University (NTHU)",
+      "website": "https://www.nthu.edu.tw/",
+      "admissionsUrl": "https://admission.nthu.edu.tw/p/412-1207-10069.php?Lang=en"
+    },
+    {
+      "id": "taiwan-nycu",
+      "country": "CN",
+      "region": "taiwan",
+      "zh": "国立阳明交通大学",
+      "en": "National Yang Ming Chiao Tung University (NYCU)",
+      "website": "https://www.nycu.edu.tw/nycu/en/index",
+      "admissionsUrl": "https://www.nycu.edu.tw/oia/en/app/data/list?id=798&module=nycu0015"
+    },
+    {
+      "id": "taiwan-ncku",
+      "country": "CN",
+      "region": "taiwan",
+      "zh": "国立成功大学",
+      "en": "National Cheng Kung University (NCKU)",
+      "website": "https://web.ncku.edu.tw/?Lang=en",
+      "admissionsUrl": "https://web.ncku.edu.tw/p/412-1000-28616.php?Lang=en"
+    }
+  ],
+  "scholarships": [
+    {
+      "id": "cn-csc-type-a",
+      "country": "CN",
+      "region": "mainland",
+      "institutionIds": [],
+      "name": {
+        "zh": "中国政府奖学金：国别项目Type A",
+        "en": "Chinese Government Scholarship: Bilateral Program (Type A)",
+        "my": "တရုတ်အစိုးရ Type A ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "中国政府／国家留学基金委及派遣机构",
+        "en": "Chinese government / CSC and dispatching authorities",
+        "my": "တရုတ်အစိုးရ၊ CSC နှင့် သက်ဆိုင်ရာအဖွဲ့"
+      },
+      "eligibility": {
+        "zh": "外国本科申请人须通过本国派遣机构申请，并满足学校、CSC及国别要求；本科CSCA、年龄和语言条件须按当年核查。此处未核实缅甸2027具体名额。",
+        "en": "Foreign undergraduate applicants apply through their home-country authority and must meet university, CSC and country rules. Check the intake’s CSCA, age and language conditions; Myanmar’s 2027 quota is not verified here.",
+        "my": "နိုင်ငံခြားဘွဲ့ကြိုလျှောက်ထားသူသည် မိမိနိုင်ငံ၏ သက်ဆိုင်ရာအဖွဲ့မှ လျှောက်ရမည်။ အသက်၊ ဘာသာစကားနှင့် CSCA လိုအပ်ချက်ကို နှစ်အလိုက် စစ်ဆေးရန် လိုသည်။"
+      },
+      "coverage": {
+        "zh": "按获批方案提供学费、住宿、医疗保险及生活补助；具体以奖学金通知为准。",
+        "en": "Approved funding may cover tuition, accommodation, medical insurance and a living allowance; the award notice governs.",
+        "my": "ခွင့်ပြုချက်အရ ကျောင်းလခ၊ နေထိုင်မှု၊ အာမခံနှင့် နေထိုင်စားစရိတ် ပံ့ပိုးနိုင်သည်။"
+      },
+      "application": {
+        "zh": "向驻所在国中国使领馆或派遣机构核查，CSC系统选Type A；学校申请仍需另行完成。",
+        "en": "Check with the Chinese embassy/consulate or dispatching authority, select Type A in the CSC system, and complete university admission separately.",
+        "my": "သံရုံး သို့မဟုတ် သက်ဆိုင်ရာအဖွဲ့ထံ မေးမြန်းပြီး CSC တွင် Type A ကို ရွေးချယ်ရန် လိုသည်။ ကျောင်းဝင်ခွင့်ကိုလည်း လျှောက်ထားရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "须通过学校审查；获奖后按规定参加年度评审，续领条件按当年规定核对。",
+        "en": "University assessment and annual scholarship review apply; renewal is not automatic.",
+        "my": "ကျောင်းစစ်ဆေးမှုနှင့် နှစ်စဉ်ပညာသင်ဆုသုံးသပ်မှု လိုအပ်သည်။"
+      },
+      "timing": {
+        "zh": "清华页面提示2027通常在2026年11月至2027年4月，国别日期不同；缅甸开放及截止日待核实。",
+        "en": "Tsinghua lists a usual November 2026–April 2027 period, varying by country. Myanmar’s opening and deadline remain unverified.",
+        "my": "၂၀၂၇ အတွက် ပုံမှန်ကာလမှာ ၂၀၂၆ နိုဝင်ဘာမှ ၂၀၂၇ ဧပြီ ဖြစ်နိုင်ပြီး နိုင်ငံအလိုက် ကွာခြားသည်။"
+      },
+      "nationalityStatus": "verify",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2027",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "PKU 2026 Undergraduate Entrance Examination: Scholarships",
+          "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Tsinghua Freshmen Scholarships: updated 2027 guidance",
+          "url": "https://international.join-tsinghua.edu.cn/info/1053/1042.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "cn-pku-international-scholarship",
+      "country": "CN",
+      "region": "mainland",
+      "institutionIds": [
+        "cn-pku"
+      ],
+      "name": {
+        "zh": "北京大学国际学生奖学金（2026校考路线）",
+        "en": "PKU Scholarship for International Students (2026 entrance-exam route)",
+        "my": "PKU နိုင်ငံတကာကျောင်းသား ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "北京大学",
+        "en": "Peking University",
+        "my": "Peking University"
+      },
+      "eligibility": {
+        "zh": "面向获本科录取的合资格外国学生，竞争性综合评定；学校学历、国籍、年龄及校考要求仍须满足。",
+        "en": "Eligible admitted international undergraduates are assessed competitively; academic, nationality, age and entrance-exam requirements still apply.",
+        "my": "ဝင်ခွင့်ရသော နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသားများကို အရည်အချင်းအလိုက် ရွေးချယ်သည်။"
+      },
+      "coverage": {
+        "zh": "全额或部分学费减免、医疗保险及生活补助，金额以获奖通知为准。",
+        "en": "Full or partial tuition waiver, medical insurance and living support; amounts depend on the award.",
+        "my": "ကျောင်းလခအပြည့် သို့မဟုတ် တစ်စိတ်တစ်ပိုင်း၊ အာမခံနှင့် နေထိုင်စားစရိတ်။"
+      },
+      "application": {
+        "zh": "本科招生综合评定，无须单独奖学金申请；并非每位录取生获奖。",
+        "en": "Considered through undergraduate selection without a separate scholarship application.",
+        "my": "သီးခြားပညာသင်ဆုလျှောက်လွှာ မလိုဘဲ ရွေးချယ်ပေးသည်။ လူတိုင်းမရပါ။"
+      },
+      "obligations": {
+        "zh": "奖学金获得者须参加年度评审；具体续领条件见学校及获奖通知。",
+        "en": "Annual review is required; consult university and award terms for continuation.",
+        "my": "နှစ်စဉ်သုံးသပ်မှုကို ဖြတ်သန်းရမည်။"
+      },
+      "timing": {
+        "zh": "此2026校考路线2月28日截止，已结束；2027须查新简章。",
+        "en": "The 2026 examination-route deadline was 28 February and has passed; check the new guide for 2027.",
+        "my": "၂၀၂၆ ဖေဖော်ဝါရီ ၂၈ တွင် ဤလမ်းကြောင်း၏ လျှောက်လွှာ ပိတ်ခဲ့သည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": "2026-02-28",
+      "status": "closed",
+      "sources": [
+        {
+          "title": "PKU 2026 Undergraduate Entrance Examination: Scholarships",
+          "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "cn-tsinghua-freshmen-scholarship",
+      "country": "CN",
+      "region": "mainland",
+      "institutionIds": [
+        "cn-tsinghua"
+      ],
+      "name": {
+        "zh": "清华大学国际本科新生奖学金",
+        "en": "Tsinghua International Undergraduate Freshmen Scholarship",
+        "my": "Tsinghua နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသားသစ် ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "清华大学及捐赠者",
+        "en": "Tsinghua University and donors",
+        "my": "Tsinghua University နှင့် အလှူရှင်များ"
+      },
+      "eligibility": {
+        "zh": "优秀国际本科新生竞争申请；须满足2027本科的学历、国籍和语言条件，不单凭HSK或IELTS获奖。",
+        "en": "Outstanding international undergraduate freshmen compete for awards and must meet 2027 academic, nationality and language requirements. A language score alone does not secure funding.",
+        "my": "ထူးချွန်သော နိုင်ငံတကာကျောင်းသားသစ်များကို ရွေးချယ်သည်။ ကျောင်းဝင်ခွင့်နှင့် ဘာသာစကားလိုအပ်ချက်ကို ဖြည့်ရမည်။"
+      },
+      "coverage": {
+        "zh": "第一学年全额、半额或部分学费支持。",
+        "en": "Full, half or partial tuition support for the first academic year.",
+        "my": "ပထမနှစ်ကျောင်းလခကို အပြည့်၊ တစ်ဝက် သို့မဟုတ် တစ်စိတ်တစ်ပိုင်း ပံ့ပိုးပါသည်။"
+      },
+      "application": {
+        "zh": "在清华申请系统内申请，须经评定授予。",
+        "en": "Apply through Tsinghua’s application system; selection is competitive.",
+        "my": "Tsinghua လျှောက်လွှာစနစ်မှ လျှောက်ထားရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "同类新生奖学金不得重复领取；第2至4年须按表现申请其他奖，不是自动续领原新生奖。",
+        "en": "Freshman awards of the same type cannot be combined. In years 2–4, other scholarships require application and performance review.",
+        "my": "တူညီသည့်ကျောင်းသားသစ်ပညာသင်ဆုများကို တွဲမယူနိုင်ပါ။ နောက်နှစ်များအတွက် သီးခြားရွေးချယ်မှုရှိသည်။"
+      },
+      "timing": {
+        "zh": "2027信息已公布，具体本科项目申请轮次及奖学金系统开放需核查；未标为已开放。",
+        "en": "2027 guidance is published; confirm the program round and scholarship-system opening. This record is not marked open.",
+        "my": "၂၀၂၇ လမ်းညွှန်ရှိပြီး လျှောက်လွှာဖွင့်မည့်ကာလကို ပြန်လည်စစ်ဆေးရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2027",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "Tsinghua Freshmen Scholarships: updated 2027 guidance",
+          "url": "https://international.join-tsinghua.edu.cn/info/1053/1042.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "cn-xmu-new-international-2026",
+      "country": "CN",
+      "region": "mainland",
+      "institutionIds": [
+        "cn-xmu"
+      ],
+      "name": {
+        "zh": "厦门大学国际学生新生奖学金（2026本科）",
+        "en": "XMU New International Students Scholarship — 2026 Bachelor’s",
+        "my": "XMU နိုင်ငံတကာကျောင်းသားသစ်ပညာသင်ဆု — ၂၀၂၆ ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "厦门大学",
+        "en": "Xiamen University",
+        "my": "Xiamen University"
+      },
+      "eligibility": {
+        "zh": "国际本科新生须满足课程录取条件，高中及以上学历；英文简章为入学年9月1日未满25岁，中文写不超过25岁，边界年龄须校方确认。",
+        "en": "International undergraduate applicants need programme eligibility and a high-school diploma. English rules say under 25 at 1 September; Chinese wording allows 25, so confirm boundary-age cases.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြိုလျှောက်ထားသူသည် အထက်တန်းအောင်လက်မှတ်ရှိပြီး သင်တန်းဝင်ခွင့်သတ်မှတ်ချက်များကို ပြည့်မီရမည်။ စက်တင်ဘာ ၁ ရက်တွင် အသက် ၂၅ နှစ်အောက်ဟု အင်္ဂလိပ်လမ်းညွှန်၌ ဖော်ပြထားပြီး တရုတ်လမ်းညွှန်၌ ၂၅ နှစ်မကျော်ဟု ဖော်ပြထားသည်။ အသက်ကန့်သတ်ချက်နှင့် ကပ်နေသူများသည် တက္ကသိုလ်ထံ အတည်ပြုရန် လိုသည်။"
+      },
+      "coverage": {
+        "zh": "本科仅免学费，2026列5个名额；不包含研究生生活津贴。",
+        "en": "Tuition only; five bachelor awards listed for 2026, without postgraduate stipends.",
+        "my": "ဘွဲ့ကြိုအတွက် ကျောင်းလခသာ၊ ၂၀၂၆ တွင် ၅ နေရာဖြစ်ပြီး ဘွဲ့လွန်လစဉ်ထောက်ပံ့မှု မပါဝင်ပါ။"
+      },
+      "application": {
+        "zh": "在学校系统申请入学并上传签名奖学金表；获录取后评选。",
+        "en": "Apply for admission and upload the signed award form; selection follows admission.",
+        "my": "ကျောင်းဝင်ခွင့်လျှောက်၍ လက်မှတ်ရေးထိုးထားသော ဆုလျှောက်လွှာတင်ပြရန် လိုသည်။ ဝင်ခွင့်ရပြီးမှ ရွေးချယ်သည်။"
+      },
+      "obligations": {
+        "zh": "本科最长4或5年，须通过年度评审续领。",
+        "en": "Four or five undergraduate years, conditional on annual review.",
+        "my": "ဘွဲ့ကြို ၄ သို့မဟုတ် ၅ နှစ်အထိ၊ နှစ်စဉ်စစ်ဆေးမှုအောင်ရမည်။"
+      },
+      "timing": {
+        "zh": "2026年4月10日截止，已结束；2027新公告待核实。",
+        "en": "Closed on 10 April 2026; confirm the 2027 call.",
+        "my": "၂၀၂၆ ဧပြီ ၁၀ ပိတ်ပြီး၊ ၂၀၂၇ ကြေညာချက်ကို အတည်ပြုရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": "2026-04-10",
+      "status": "closed",
+      "sources": [
+        {
+          "title": "XMU — New International Students Scholarships for 2026",
+          "url": "https://admissions.xmu.edu.cn/info/1061/3880.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "XMU — 国际学生新生奖学金",
+          "url": "https://admissions.xmu.edu.cn/cn/Scholarships/smdxjxj.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "hku-computing-entrance-2026",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "institutionIds": [
+        "hku"
+      ],
+      "name": {
+        "zh": "港大计算与数据科学学院入学奖学金",
+        "en": "HKU Computing and Data Science Entrance Scholarship",
+        "my": "HKU Computing and Data Science ဝင်ခွင့်ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "香港大学",
+        "en": "The University of Hong Kong",
+        "my": "The University of Hong Kong"
+      },
+      "eligibility": {
+        "zh": "2026/27获该学院指定本科课程录取、公开考试成绩优秀的本地或非本地新生；仍需满足课程及英语入学条件。",
+        "en": "Local and non-local freshmen admitted to specified undergraduate programs of the School in 2026/27, with outstanding public-exam results; program and English admission conditions still apply.",
+        "my": "သတ်မှတ်ထားသော ဘွဲ့ကြိုသင်တန်းတွင် ဝင်ခွင့်ရပြီး စာမေးပွဲရလဒ် ထူးချွန်သော ကျောင်းသားသစ်များအတွက် ဖြစ်သည်။"
+      },
+      "coverage": {
+        "zh": "合计港币200,000，分四次等额年度发放。",
+        "en": "HK$200,000 in total, paid in four equal annual instalments.",
+        "my": "စုစုပေါင်း HK$200,000 ကို နှစ်စဉ်လေးကြိမ် ခွဲပေးပါသည်။"
+      },
+      "application": {
+        "zh": "无需另申，合资格学生自动获考虑。",
+        "en": "No separate application; eligible students are automatically considered.",
+        "my": "သီးခြားလျှောက်ရန် မလိုဘဲ ရွေးချယ်စဉ်းစားပေးသည်။"
+      },
+      "obligations": {
+        "zh": "具体发放、学业和其他承诺以获奖条款为准；已读页面未列统一服务合约。",
+        "en": "Disbursement, academic and other commitments follow the award terms; no universal service bond was stated in the page read.",
+        "my": "ဆုပေးစာပါ ပညာရေးနှင့် အခြားစည်းမျဉ်းများကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "timing": {
+        "zh": "页面明确为2026招生，2027条款可能修改；2026新生申请周期已过。",
+        "en": "The page expressly covers 2026 admission and says 2027 terms may change; the 2026 freshman cycle has passed.",
+        "my": "၂၀၂၆ အတွက် ဖြစ်ပြီး ၂၀၂၇ စည်းမျဉ်းများ ပြောင်းလဲနိုင်သည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": null,
+      "status": "closed",
+      "sources": [
+        {
+          "title": "HKU School of Computing and Data Science Entrance Scholarship",
+          "url": "https://admissions.hku.hk/fees-and-scholarships/scholarships/school-of-computing-and-data-science-entrance-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "cuhk-admission-scholarships",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "institutionIds": [
+        "cuhk"
+      ],
+      "name": {
+        "zh": "香港中文大学本科入学奖学金",
+        "en": "CUHK Undergraduate Admission Scholarships",
+        "my": "CUHK ဘွဲ့ကြိုဝင်ခွင့်ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "香港中文大学",
+        "en": "The Chinese University of Hong Kong",
+        "my": "The Chinese University of Hong Kong"
+      },
+      "eligibility": {
+        "zh": "依据优秀学业或非学业表现评选本地及非本地本科新生；学校录取及英语要求另审。",
+        "en": "Local and non-local undergraduate freshmen are selected for academic or non-academic excellence; admission and English requirements are assessed separately.",
+        "my": "ပညာရေး သို့မဟုတ် အခြားထူးချွန်မှုရှိသော ဘွဲ့ကြိုကျောင်းသားသစ်များကို ရွေးချယ်သည်။"
+      },
+      "coverage": {
+        "zh": "奖项由部分资助至全学费不等，部分另有生活津贴；依具体奖项。",
+        "en": "Awards range from partial support to full tuition, with allowances for some awards; terms vary.",
+        "my": "တစ်စိတ်တစ်ပိုင်းမှ ကျောင်းလခအပြည့်အထိ ရှိနိုင်သည်။ ဆုအလိုက် ကွာခြားသည်။"
+      },
+      "application": {
+        "zh": "无需单独申请，学校识别并通知获选者。",
+        "en": "No separate application; the university identifies and notifies selected recipients.",
+        "my": "သီးခြားလျှောက်ရန် မလိုပါ။ ရွေးချယ်ခံရသူကို ကျောင်းက အသိပေးသည်။"
+      },
+      "obligations": {
+        "zh": "许多奖项可在正常学制内续领，但须学业进展满意；奖项承诺以通知为准。",
+        "en": "Many awards are renewable during normal study subject to satisfactory academic progress; any commitments follow the award notice.",
+        "my": "ပုံမှန်သင်တန်းကာလအတွင်း ဆက်ရနိုင်သော်လည်း ပညာရေးတိုးတက်မှု ကောင်းမွန်ရမည်။"
+      },
+      "timing": {
+        "zh": "一般制度持续公布；具体2027奖项和申请截止日需确认。",
+        "en": "The general scheme is published on an ongoing basis; confirm specific 2027 awards and admission deadlines.",
+        "my": "အထွေထွေစနစ်ရှိပြီး ၂၀၂၇ အသေးစိတ်နှင့် ရက်စွဲကို ပြန်လည်စစ်ဆေးရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "CUHK Admission Scholarships for undergraduates",
+          "url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "hkust-academic-admission-2027",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "institutionIds": [
+        "hkust"
+      ],
+      "name": {
+        "zh": "香港科大学术入学奖学金（2027优先轮）",
+        "en": "HKUST Academic Admissions Scholarships — 2027 Priority Round",
+        "my": "HKUST ပညာရေးဝင်ခွင့်ပညာသင်ဆု — ၂၀၂၇ ဦးစားပေးအသုတ်"
+      },
+      "provider": {
+        "zh": "香港科技大学",
+        "en": "Hong Kong University of Science and Technology",
+        "my": "Hong Kong University of Science and Technology"
+      },
+      "eligibility": {
+        "zh": "各背景及国际学历的优秀申请人获学术评奖考虑；须满足一般、专业及英语入学要求。",
+        "en": "Outstanding applicants from different backgrounds and qualifications are considered; general, program and English admission requirements still apply.",
+        "my": "အရည်အချင်းနောက်ခံအမျိုးမျိုးရှိသော ထူးချွန်သူများကို စဉ်းစားပေးသည်။ ကျောင်းဝင်ခွင့်စည်းမျဉ်းများ လိုအပ်သည်။"
+      },
+      "coverage": {
+        "zh": "金额及学费／生活资助随学历和奖项不同，查看具体奖项，不套用单一金额。",
+        "en": "Amount and tuition/living support vary by qualification and award; consult the applicable scheme.",
+        "my": "ငွေပမာဏနှင့် ပံ့ပိုးမှုသည် အရည်အချင်းနှင့် ဆုအလိုက် ကွာခြားသည်။"
+      },
+      "application": {
+        "zh": "所有申请人自动获学术奖学金考虑，无需另申；非学术奖项另有申请。",
+        "en": "All applicants are considered for academic scholarships without a separate application; non-academic awards require separate applications.",
+        "my": "ပညာရေးဆုကို သီးခြားမလျှောက်ရပါ။ အခြားဆုများအတွက် သီးခြားလျှောက်ရနိုင်သည်။"
+      },
+      "obligations": {
+        "zh": "是否一次性、续领成绩要求及承诺须按具体奖项和offer核查，续领须按相应年度条件审核。",
+        "en": "Check whether the award is one-off, its renewal grades and commitments in the scheme and offer.",
+        "my": "တစ်ကြိမ်သာရမရ၊ ဆက်ရရန်အမှတ်နှင့် အခြားစည်းမျဉ်းများကို ဆုအလိုက် စစ်ဆေးရန် လိုသည်။"
+      },
+      "timing": {
+        "zh": "2027/28本科申请已开放；优先轮截止为2026年11月25日。本条开放状态仅指该优先轮；之后的申请轮次与具体奖项规则须另查。",
+        "en": "2027/28 undergraduate applications are open. The priority round closes on 25 November 2026; the open status here refers only to that round. Check later rounds and specific award rules separately.",
+        "my": "၂၀၂၇/၂၈ ဘွဲ့ကြိုဝင်ခွင့် ဖွင့်ထားပြီး ဦးစားပေးအသုတ်သည် ၂၀၂၆ နိုဝင်ဘာ ၂၅ တွင်ပိတ်မည်။ ဤဖွင့်နေသည့်အခြေအနေသည် ထိုအသုတ်ကိုသာ ရည်ညွှန်းသည်။ နောက်အသုတ်နှင့် ဆုစည်းမျဉ်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2027",
+      "deadline": "2026-11-25",
+      "status": "open",
+      "sources": [
+        {
+          "title": "HKUST Fees and Scholarships: 2027 undergraduate admission",
+          "url": "https://www.join.hkust.edu.hk/fees-and-scholarships",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "HKUST Apply Now: 2027/28 entry",
+          "url": "https://join.hkust.edu.hk/apply",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "um-international-bachelor-scholarship",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "institutionIds": [
+        "um"
+      ],
+      "name": {
+        "zh": "澳门大学国际本科生奖学金",
+        "en": "UM International Student Scholarship (Bachelor Students)",
+        "my": "UM နိုင်ငံတကာဘွဲ့ကြိုပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "澳门大学",
+        "en": "University of Macau",
+        "my": "University of Macau"
+      },
+      "eligibility": {
+        "zh": "学业及评估优秀的国际本科生；国际类别排除中国内地、香港和台湾地区学生。外国护照、学历及语言入学要求仍须核查。",
+        "en": "Outstanding international undergraduates; this category excludes mainland China, Hong Kong and Taiwan students. Foreign-passport, qualification and language admission rules still require review.",
+        "my": "ထူးချွန်သော နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသားများအတွက် ဖြစ်သည်။ နိုင်ငံကူးလက်မှတ်၊ အရည်အချင်းနှင့် ဘာသာစကားကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "coverage": {
+        "zh": "全免或半免学费及住宿书院费，依具体奖项授予。",
+        "en": "Full or half waiver of tuition and residential-college fees, depending on the award.",
+        "my": "ကျောင်းလခနှင့် Residential College အခကြေးငွေကို အပြည့် သို့မဟုတ် တစ်ဝက် လျှော့ပေးနိုင်သည်။"
+      },
+      "application": {
+        "zh": "本科录取时竞争性授予；当前具体申请方式及新周期日期需向注册处确认。",
+        "en": "Awarded competitively on undergraduate admission; confirm the current procedure and next-cycle dates with the Registry.",
+        "my": "ဝင်ခွင့်အချိန်တွင် ယှဉ်ပြိုင်ရွေးချယ်သည်။ လက်ရှိလုပ်ငန်းစဉ်ကို Registry ထံ အတည်ပြုရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "正常学制内续领须满足具体学业及书院要求，不能自动认定续领。",
+        "en": "Continuation during normal study requires the specified academic and residential-college conditions.",
+        "my": "ဆက်လက်ရရှိရန် သတ်မှတ်ထားသော ပညာရေးနှင့် Residential College စည်းမျဉ်းများကို ဖြည့်ရမည်။"
+      },
+      "timing": {
+        "zh": "一般奖学金制度已核实，2027新生窗口和名额未核实；HTML访问受限，保留官方学年历证据。",
+        "en": "The general scheme is verified; 2027 dates and quotas are not. HTML access was restricted; official calendar evidence is retained.",
+        "my": "အထွေထွေဆုစနစ်ကို စစ်ဆေးထားပြီး ၂၀၂၇ ရက်စွဲနှင့် အရေအတွက်ကို မစစ်ဆေးရသေးပါ။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "UM Scholarships: international undergraduate students",
+          "url": "https://reg.um.edu.mo/admissions/general-information/sch-info/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "UM Academic Calendar: undergraduate international student full/half scholarships",
+          "url": "https://reg.um.edu.mo/download/um-academic-calendar/12a-ss-us.pdf",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "cn-zju-zhejiang-new-undergraduate",
+      "country": "CN",
+      "region": "mainland",
+      "institutionIds": [
+        "cn-zju"
+      ],
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": null,
+      "status": "closed",
+      "nationalityStatus": "international-eligible",
+      "name": {
+        "zh": "浙江省政府奖学金（浙江大学本科新生）",
+        "en": "Zhejiang Government Scholarship — ZJU Undergraduate Freshmen",
+        "my": "Zhejiang အစိုးရပညာသင်ဆု — ZJU ဘွဲ့ကြိုကျောင်းသားသစ်"
+      },
+      "provider": {
+        "zh": "浙江省政府／浙江大学",
+        "en": "Zhejiang Government / Zhejiang University",
+        "my": "Zhejiang အစိုးရ / Zhejiang University"
+      },
+      "eligibility": {
+        "zh": "符合浙大国际本科资格，申请中文授课专业，成绩优良且未同时获其他奖学金。",
+        "en": "Eligible international bachelor applicants in Chinese-taught programmes, with strong grades and no concurrent scholarship.",
+        "my": "တရုတ်ဘာသာသင် ဘွဲ့ကြိုသင်တန်းအတွက် နိုင်ငံတကာဝင်ခွင့်သတ်မှတ်ချက်ပြည့်မီ၊ အမှတ်ကောင်းပြီး အခြားဆုမယူထားရပါ။"
+      },
+      "coverage": {
+        "zh": "人民币20,000，资助一年。",
+        "en": "RMB 20,000 for one year.",
+        "my": "တစ်နှစ်အတွက် RMB 20,000။"
+      },
+      "application": {
+        "zh": "入学系统中提交省政府奖学金表，学校综合材料及视频面试推荐。",
+        "en": "Upload the award form with admission; university nomination follows document and interview review.",
+        "my": "ဝင်ခွင့်စနစ်တွင် ဆုလျှောက်လွှာတင်ပြရန် လိုသည်။ စာရွက်စာတမ်းနှင့် အင်တာဗျူးစစ်ပြီး ကျောင်းမှ အမည်စာရင်းတင်သည်။"
+      },
+      "obligations": {
+        "zh": "在校表现优秀者可重新申请；不得兼领其他奖学金，续年并不自动。",
+        "en": "Strong current students may reapply; no concurrent scholarship or automatic renewal.",
+        "my": "ကျောင်းတွင် ထူးချွန်သူ ပြန်လျှောက်နိုင်သော်လည်း အခြားဆုနှင့် တွဲမယူနိုင်၊ အလိုအလျောက်သက်တမ်းမတိုးပါ။"
+      },
+      "timing": {
+        "zh": "2026批次已结束；汉语言专业列5月31日截止，其他截止年份原页存在笔误，须校方确认。2027待公布。",
+        "en": "2026 cycle closed. Chinese-language major lists 31 May; another deadline year has a source typo. Confirm with ZJU and await 2027 rules.",
+        "my": "၂၀၂၆ အသုတ်ပိတ်ပြီး၊ တရုတ်ဘာသာအထူးပြုအတွက် မေ ၃၁ ဟု ဖော်ပြသည်။ အခြားနောက်ဆုံးရက်နှစ်တွင် စာမှားရှိ၍ ZJU နှင့် အတည်ပြုပြီး ၂၀၂၇ စည်းမျဉ်းကို စောင့်ကြည့်ရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "ZJU — 浙江省政府来华留学生（国际本科生新生）奖学金 2026",
+          "url": "https://iczu.zju.edu.cn/admissions/2022/0530/c68875a2568326/page.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "hk-belt-road-designated",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "institutionIds": [],
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "nationalityStatus": "myanmar-explicit",
+      "name": {
+        "zh": "香港一带一路奖学金（指定国家）",
+        "en": "Hong Kong Belt and Road Scholarship — Designated Countries",
+        "my": "ဟောင်ကောင် Belt and Road ပညာသင်ဆု — သတ်မှတ်နိုင်ငံများ"
+      },
+      "provider": {
+        "zh": "香港教育局",
+        "en": "Hong Kong Education Bureau",
+        "my": "ဟောင်ကောင်ပညာရေးဌာန"
+      },
+      "eligibility": {
+        "zh": "明确包含缅甸；香港全日制政府资助本科一年级非本地优秀学生。澳门课程不适用。",
+        "en": "Myanmar included; outstanding first-year non-local students in publicly-funded Hong Kong bachelor programmes. Not for Macao courses.",
+        "my": "မြန်မာနိုင်ငံသားများ ပါဝင်သည်။ ဟောင်ကောင်အစိုးရထောက်ပံ့သော အချိန်ပြည့်ဘွဲ့ကြိုသင်တန်း၏ ပထမနှစ်သို့ ဝင်ခွင့်ရသည့် ထူးချွန်သော နိုင်ငံခြားကျောင်းသားများအတွက်ဖြစ်သည်။ မကာအိုသင်တန်းများ မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "正常学制内全额学费。",
+        "en": "Full tuition for normal programme duration.",
+        "my": "ပုံမှန်သင်တန်းကာလအတွက် ကျောင်းလခအပြည့်။"
+      },
+      "application": {
+        "zh": "向录取大学核对遴选／提名流程。",
+        "en": "Confirm selection/nomination with the admitting university.",
+        "my": "ဝင်ခွင့်တက္ကသိုလ်နှင့် ရွေးချယ်/အမည်တင်နည်းကို အတည်ပြုရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "学业表现满意才可逐年续领。",
+        "en": "Annual renewal requires satisfactory academic performance.",
+        "my": "နှစ်စဉ်သက်တမ်းတိုးရန် ပညာရေးရလဒ်ကောင်းရမည်။"
+      },
+      "timing": {
+        "zh": "常设机制；2027期限及名额须向大学确认。",
+        "en": "Standing scheme; confirm 2027 dates and quotas with the university.",
+        "my": "ပုံမှန်အစီအစဉ်၊ ၂၀၂၇ ရက်နှင့် ခွဲတမ်းကို တက္ကသိုလ်နှင့် အတည်ပြုရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Education Bureau — Belt and Road Scholarship",
+          "url": "https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/publicly-funded-programmes/scholarship.html",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-moe-scholarship",
+      "country": "CN",
+      "region": "taiwan",
+      "institutionIds": [],
+      "name": {
+        "zh": "教育部台湾奖学金（本科）",
+        "en": "MOE Taiwan Scholarship — Bachelor’s",
+        "my": "MOE Taiwan Scholarship — ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "台湾教育部",
+        "en": "Taiwan Ministry of Education",
+        "my": "ထိုင်ဝမ်ပညာရေးဝန်ကြီးဌာန"
+      },
+      "eligibility": {
+        "zh": "外国籍高中毕业生须具优良学业与品行；侨生、已在台同层级就学者等不适用。非全英课程按驻外馆处规则核查 TOCFL 3级及补交情形，全英课程须提交认可的英语证明。",
+        "en": "Foreign high-school graduates need strong academic records and good conduct; overseas Chinese students and certain prior/current Taiwan students are excluded. Mission rules govern TOCFL Level 3 evidence or permitted later submission for non-English programmes, and accepted English evidence for fully English programmes.",
+        "my": "နိုင်ငံခြားသား အထက်တန်းအောင်မြင်သူများသည် ပညာရေးနှင့် အကျင့်စာရိတ္တကောင်းရမည်။ ပင်လယ်ရပ်ခြားတရုတ်နွယ်ဖွား ကျောင်းသားအမျိုးအစားနှင့် အချို့ ယခင်/လက်ရှိ ထိုင်ဝမ်ကျောင်းသားများ မပါဝင်ဘဲ၊ အင်္ဂလိပ်သီးသန့်မဟုတ်သော သင်တန်းအတွက် TOCFL 3 နှင့် အင်္ဂလိပ်သင်တန်းအတွက် လက်ခံသည့်အထောက်အထားကို ကိုယ်စားလှယ်ရုံးစည်းမျဉ်းအတိုင်း စစ်ဆေးရသည်။"
+      },
+      "coverage": {
+        "zh": "每学期学杂费用补助最高新台币40,000；本科每月生活费新台币15,000，最长4年。超额及未涵盖费用自理。",
+        "en": "Up to NTD 40,000 per semester for eligible tuition/fees, plus NTD 15,000 monthly for up to four undergraduate years. Excess and excluded costs remain payable.",
+        "my": "သတ်မှတ်ကျောင်းလခ/ကြေးအတွက် တစ်စာသင်နှစ်ဝက် NTD 40,000 အထိနှင့် ဘွဲ့ကြိုအတွက် လစဉ် NTD 15,000 ကို အများဆုံး ၄ နှစ်ပေးသည်။ ပိုလျှံနှင့် မပါဝင်သောစရိတ်များကို ကိုယ်တိုင်ပေးရသည်။"
+      },
+      "application": {
+        "zh": "奖学金须经国籍对应的负责驻外馆处申请，同时另向大学申请入学。官方系统列有 Myanmar，但当前未列开放日期；须向教育部计划办公室核实缅甸籍办理馆处及年度名额。",
+        "en": "Apply through the mission responsible for your citizenship and separately apply to a university. The official system lists Myanmar without available dates; confirm the current responsible mission and allocation with the MOE programme office.",
+        "my": "နိုင်ငံသားအလိုက် တာဝန်ရှိကိုယ်စားလှယ်ရုံးမှ ဆုလျှောက်ပြီး တက္ကသိုလ်ဝင်ခွင့်ကို သီးခြားလျှောက်ထားရန် လိုသည်။ တရားဝင်စနစ်တွင် Myanmar ပါရှိသော်လည်း ရက်စွဲမရှိသဖြင့် လက်ရှိတာဝန်ရှိရုံးနှင့် နှစ်စဉ်ခွဲတမ်းကို MOE အစီအစဉ်ရုံးနှင့် အတည်ပြုရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "须符合学业、出勤及语言续领规则；其他台湾政府或学校奖助一般不可兼领，补足超额学费的获准补助例外。资助评审与续领按项目规则进行。",
+        "en": "Maintain academic, attendance and language requirements. Other Taiwan government/institution awards are generally incompatible, apart from permitted tuition-gap subsidies.",
+        "my": "ပညာရေး၊ တက်ရောက်မှုနှင့် ဘာသာစကားဆိုင်ရာ သတ်မှတ်ချက်ကို ထိန်းသိမ်းရန် လိုသည်။ ခွင့်ပြုထားသော ကျောင်းလခကွာဟမှုထောက်ပံ့မှုမှလွဲ၍ ထိုင်ဝမ်အစိုးရ/ကျောင်းဆုများကို ယေဘုယျအားဖြင့် တွဲမယူနိုင်ပါ။"
+      },
+      "timing": {
+        "zh": "2027年度缅甸籍公告及截止日未核实，当前系统未开放。以负责馆处新公告为准。",
+        "en": "Myanmar’s 2027 call and deadline are unverified; the system currently shows no opening. Follow the responsible mission’s new announcement.",
+        "my": "မြန်မာနိုင်ငံသားအတွက် ၂၀၂၇ ကြေညာချက်နှင့် နောက်ဆုံးရက် မအတည်ပြုရသေးဘဲ လက်ရှိစနစ် မဖွင့်ထားပါ။ တာဝန်ရှိရုံး၏ ကြေညာချက်အသစ်ကို လိုက်နာရန် လိုသည်။"
+      },
+      "nationalityStatus": "verify",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2027",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "MOE — Taiwan Scholarship Program",
+          "url": "https://english.moe.gov.tw/cp-24-16833-23C09-1.html",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "MOE — Taiwan Scholarship Directions",
+          "url": "https://edu.law.moe.gov.tw/EngLawContent.aspx?id=250&lan=E",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "MOE — Applications by Mission and Country",
+          "url": "https://taiwanscholarship.moe.gov.tw/Apply/Enroll/AvailabilityStatus",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NTHU OGA — Scholarships for International Students",
+          "url": "https://www.oga.nthu.edu.tw/TabContentView/49",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-ntu-international-undergraduate",
+      "country": "CN",
+      "region": "taiwan",
+      "institutionIds": [
+        "taiwan-ntu"
+      ],
+      "name": {
+        "zh": "台大国际本科生奖学金",
+        "en": "NTU International Undergraduate Student Scholarship",
+        "my": "NTU နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသား ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "国立台湾大学",
+        "en": "National Taiwan University",
+        "my": "National Taiwan University"
+      },
+      "eligibility": {
+        "zh": "国际本科学位申请人可申请；台湾奖学金受奖者不得申请此校奖。",
+        "en": "International undergraduate degree applicants may apply; Taiwan Scholarship recipients should not apply.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြိုလျှောက်ထားသူများ လျှောက်နိုင်သည်။ Taiwan Scholarship ရသူများ ဤဆုကို မလျှောက်ရပါ။"
+      },
+      "coverage": {
+        "zh": "每学期学费补助最高新台币100,000，并每月新台币8,000；部分杂项及住宿等不包含。",
+        "en": "Up to NTD 100,000 tuition subsidy per semester and NTD 8,000 monthly; excluded charges include accommodation and other specified costs.",
+        "my": "တစ်စာသင်နှစ်ဝက် ကျောင်းလခ NTD 100,000 အထိနှင့် လစဉ် NTD 8,000 ပေးသည်။ နေရာထိုင်ခင်းနှင့် သတ်မှတ်အပိုစရိတ်များ မပါဝင်ပါ။"
+      },
+      "application": {
+        "zh": "入学在线申请中勾选奖学金，无须额外程序。",
+        "en": "Tick the scholarship box in the degree application; no separate procedure.",
+        "my": "ဘွဲ့လျှောက်လွှာတွင် ပညာသင်ဆုအကွက်ကို ရွေးချယ်ရန် လိုသည်။ သီးခြားလုပ်ငန်းစဉ် မလိုပါ။"
+      },
+      "obligations": {
+        "zh": "每学年GPA须达3.38；延迟入学会丧失原奖资格。",
+        "en": "Maintain annual GPA of at least 3.38; admission deferral forfeits the award.",
+        "my": "နှစ်စဉ် GPA 3.38 အနည်းဆုံး ထိန်းသိမ်းရန် လိုသည်။ ဝင်ခွင့်ရွှေ့ဆိုင်းလျှင် ဆုဆုံးရှုံးသည်။"
+      },
+      "timing": {
+        "zh": "常规机制，随当年入学申请办理；最长为专业规定修业年限。",
+        "en": "Standing scheme tied to the admission cycle; maximum duration follows the programme’s designated study period.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်ပြီး ဝင်ခွင့်ကာလအတိုင်း လျှောက်ထားရန် လိုသည်။ အများဆုံးကာလသည် ဘာသာရပ်သင်ယူကာလအတိုင်းဖြစ်သည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NTU — Scholarships for International Undergraduate Students",
+          "url": "https://admissions.ntu.edu.tw/fees-scholarships/scholarships/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-nthu-international-student",
+      "country": "CN",
+      "region": "taiwan",
+      "institutionIds": [
+        "taiwan-nthu"
+      ],
+      "name": {
+        "zh": "清华大学国际学生奖学金（本科）",
+        "en": "NTHU International Student Scholarship — Bachelor’s",
+        "my": "NTHU နိုင်ငံတကာကျောင်းသားပညာသင်ဆု — ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "国立清华大学全球事务处",
+        "en": "NTHU Office of Global Affairs",
+        "my": "NTHU Office of Global Affairs"
+      },
+      "eligibility": {
+        "zh": "适用于外国学位生；台北政经学院及半导体研究学院不适用。",
+        "en": "Foreign degree students; excludes the Taipei School of Economics and Political Science and College of Semiconductor Research.",
+        "my": "နိုင်ငံခြားဘွဲ့ကျောင်းသားများအတွက်ဖြစ်သည်။ Taipei School of Economics and Political Science နှင့် College of Semiconductor Research မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "A类补助学杂学分费及本科每月新台币5,000；B类仅补助学杂学分费。",
+        "en": "Category A covers tuition/required fees plus NTD 5,000 monthly for undergraduates; Category B covers fees only.",
+        "my": "A အမျိုးအစားသည် ကျောင်းလခ/သတ်မှတ်ကြေးနှင့် ဘွဲ့ကြိုအတွက် လစဉ် NTD 5,000 ပေးသည်။ B အမျိုးအစားသည် ကြေးများသာ ထောက်ပံ့သည်။"
+      },
+      "application": {
+        "zh": "新生在入学在线申请中选择申请此奖，交学校评审。",
+        "en": "New applicants select the scholarship in the admission system for university review.",
+        "my": "ဝင်ခွင့်အွန်လိုင်းလျှောက်လွှာတွင် ဆုကို ရွေး၍ ကျောင်းစိစစ်မှုခံယူရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "每次一年、本科最长4年，按年度成绩及续领规定复核；部分符合条件者免重新申请。兼领规则须查当年实施要点。",
+        "en": "Awards last one year, up to four undergraduate years, subject to academic renewal review; eligible renewals may waive reapplication. Check current rules before combining funding.",
+        "my": "တစ်ကြိမ်တစ်နှစ်၊ ဘွဲ့ကြိုအများဆုံး ၄ နှစ်ဖြစ်ပြီး ပညာရေးနှင့် ဆက်လက်ရရှိမှုကို ပြန်စစ်သည်။ သတ်မှတ်ချက်ပြည့်သူအချို့ ပြန်မလျှောက်ရဘဲ ဆုတွဲယူရန် လက်ရှိစည်းမျဉ်းကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "timing": {
+        "zh": "常规机制；新生随入学申请，旧生按全球事务处公告。",
+        "en": "Standing scheme; new students follow admissions, current students follow OGA notices.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်သည်။ ကျောင်းသားသစ်များ ဝင်ခွင့်ကာလ၊ လက်ရှိကျောင်းသားများ OGA ကြေညာချက်အတိုင်း လျှောက်ထားရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NTHU OGA — Scholarships for International Students",
+          "url": "https://www.oga.nthu.edu.tw/TabContentView/49",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NTHU — International Student Scholarship",
+          "url": "https://apply.nthu.edu.tw/en/article/102-nthu-scholarship",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NTHU IBP — Scholarship Application and Renewal",
+          "url": "https://ibp.nthu.edu.tw/faq-8.html",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-nycu-international-student",
+      "country": "CN",
+      "region": "taiwan",
+      "institutionIds": [
+        "taiwan-nycu"
+      ],
+      "name": {
+        "zh": "阳明交通大学国际学生奖学金（本科）",
+        "en": "NYCU International Student Scholarship — Bachelor’s",
+        "my": "NYCU နိုင်ငံတကာကျောင်းသားပညာသင်ဆု — ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "国立阳明交通大学",
+        "en": "National Yang Ming Chiao Tung University",
+        "my": "National Yang Ming Chiao Tung University"
+      },
+      "eligibility": {
+        "zh": "国际学位生可申请；旧生本科累计GPA至少3.0，且不得领取台湾政府奖助。",
+        "en": "International degree students may apply; current undergraduates need cumulative GPA of at least 3.0 and no Taiwan government award.",
+        "my": "နိုင်ငံတကာဘွဲ့ကျောင်းသားများ လျှောက်နိုင်သည်။ လက်ရှိဘွဲ့ကြိုကျောင်းသားများ GPA 3.0 အနည်းဆုံးရှိပြီး ထိုင်ဝမ်အစိုးရဆု မယူထားရပါ။"
+      },
+      "coverage": {
+        "zh": "月津贴与学费奖可一起或分别发放；学费奖可能为减免或按本地生收费，金额以获奖通知为准。",
+        "en": "Stipend and tuition support may be awarded together or separately; tuition support may be a waiver or local-student rate. Amount follows the award letter.",
+        "my": "လစဉ်ထောက်ပံ့မှုနှင့် ကျောင်းလခဆုကို တွဲ၍ သို့မဟုတ် သီးခြားပေးနိုင်သည်။ ကျောင်းလခကင်းလွတ်မှု သို့မဟုတ် ဒေသခံနှုန်းထားဖြစ်နိုင်ပြီး ပမာဏကို ဆုစာအတိုင်း သတ်မှတ်သည်။"
+      },
+      "application": {
+        "zh": "新生随入学申请勾选奖学金；旧生通过学校奖学金系统申请。",
+        "en": "New applicants select it with admission; current students use the scholarship system.",
+        "my": "ကျောင်းသားသစ်များ ဝင်ခွင့်နှင့်အတူ ရွေးချယ်ရန် လိုသည်။ လက်ရှိကျောင်းသားများ ပညာသင်ဆုစနစ်မှ လျှောက်ထားရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "须按时交成绩及缴费凭证，本科须修至少4门华语课或获准豁免；不得兼领台湾政府奖助。",
+        "en": "Submit transcripts/receipts on time; take at least four Mandarin courses or obtain an approved exemption. Taiwan government funding is incompatible.",
+        "my": "အမှတ်စာရင်း/ငွေပေးချေမှတ်တမ်းကို အချိန်မီတင်၍ မန်ဒရင်သင်တန်း အနည်းဆုံး ၄ ခုတက်ပါ သို့မဟုတ် ကင်းလွတ်ခွင့်ရယူရန် လိုသည်။ ထိုင်ဝမ်အစိုးရဆုနှင့် တွဲမယူနိုင်ပါ။"
+      },
+      "timing": {
+        "zh": "常规机制，通常每次一年，本科最长按专业规定通常4年；当前本科申请批次另查招生公告。",
+        "en": "Standing scheme, normally one year per award and up to the regulated undergraduate period, generally four years; confirm the current bachelor admission cycle.",
+        "my": "ပုံမှန်အားဖြင့် တစ်ကြိမ်တစ်နှစ်နှင့် ဘွဲ့ကြိုသတ်မှတ်ကာလ ပုံမှန် ၄ နှစ်အထိဖြစ်သည်။ လက်ရှိဘွဲ့ကြိုဝင်ခွင့်ကာလကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NYCU — University Scholarships",
+          "url": "https://oia.nycu.edu.tw/oia/en/app/data/view?id=792&module=nycu0012&serno=0f046f83-4147-4ec7-8921-bbaccd8c678f",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NYCU — International Student Scholarship FAQ",
+          "url": "https://www.nycu.edu.tw/oia/en/app/data/list?id=799&module=nycu0015",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-ncku-distinguished-international",
+      "country": "CN",
+      "region": "taiwan",
+      "institutionIds": [
+        "taiwan-ncku"
+      ],
+      "name": {
+        "zh": "成功大学优秀国际学生奖学金（本科）",
+        "en": "NCKU Distinguished International Student Scholarship — Bachelor’s",
+        "my": "NCKU ထူးချွန်နိုင်ငံတကာကျောင်းသားပညာသင်ဆု — ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "国立成功大学",
+        "en": "National Cheng Kung University",
+        "my": "National Cheng Kung University"
+      },
+      "eligibility": {
+        "zh": "国际本科申请人经学校评审；持工作签证或ARC居留事由为就业者不适用。",
+        "en": "International undergraduate applicants undergo university review; work-visa holders and those with employment status on their ARC are excluded.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြိုလျှောက်ထားသူများ ကျောင်းစိစစ်မှုခံယူရသည်။ အလုပ်ဗီဇာ သို့မဟုတ် ARC တွင် အလုပ်လုပ်ကိုင်မှုအမျိုးအစားရှိသူများ မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "2026/27学年起入学新生：学费减免及由各学院决定金额的月津贴。不把旧制新台币8,000津贴套用于新生。",
+        "en": "For entrants from AY2026/27: tuition waiver and a monthly stipend determined by the college. The earlier NTD 8,000 stipend is not assumed for new entrants.",
+        "my": "၂၀၂၆/၂၇ ပညာသင်နှစ်မှ စတင်ဝင်သူများအတွက် ကျောင်းလခကင်းလွတ်မှုနှင့် ဌာနအလိုက် သတ်မှတ်လစဉ်ထောက်ပံ့မှုရှိသည်။ စည်းမျဉ်းဟောင်း NTD 8,000 ကို ကျောင်းသားသစ်အတွက် အလိုအလျောက်မသုံးပါ။"
+      },
+      "application": {
+        "zh": "首年根据入学申请材料评审，无须额外申请文件，结果随录取通知发出。",
+        "en": "First-year awards are assessed from admission documents without extra scholarship documents; the result accompanies admission.",
+        "my": "ပထမနှစ်ဆုကို ဝင်ခွင့်စာရွက်စာတမ်းများမှ စစ်ပြီး သီးခြားဆုစာရွက်စာတမ်း မလိုပါ။ ရလဒ်ကို ဝင်ခွင့်နှင့်အတူ ပေးသည်။"
+      },
+      "obligations": {
+        "zh": "续领须按新制重新申请；不可兼领台湾政府国际学生奖助。延迟入学须重新评审。",
+        "en": "Reapply for renewal under the new rules; Taiwan government international-student funding is incompatible. Deferred admission requires reassessment.",
+        "my": "စည်းမျဉ်းအသစ်အတိုင်း ဆက်လက်ရယူရန် ပြန်လျှောက်ထားရန် လိုသည်။ ထိုင်ဝမ်အစိုးရ နိုင်ငံတကာကျောင်းသားဆုနှင့် တွဲမယူနိုင်ဘဲ ဝင်ခွင့်ရွှေ့ဆိုင်းလျှင် ပြန်စစ်ရသည်။"
+      },
+      "timing": {
+        "zh": "常规机制，适用2026/27学年起新生；跟随相应入学周期，不代表当前本科已开放。",
+        "en": "Standing mechanism for entrants from AY2026/27; follows the relevant admission cycle, rather than confirming a bachelor call is currently open.",
+        "my": "၂၀၂၆/၂၇ မှ ဝင်သူများအတွက် ပုံမှန်အစီအစဉ်ဖြစ်သည်။ သက်ဆိုင်ရာဝင်ခွင့်ကာလအတိုင်းဖြစ်ပြီး လက်ရှိဘွဲ့ကြိုလျှောက်လွှာ ဖွင့်ထားသည်ဟု မဆိုလိုပါ။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NCKU — Degree Scholarships, updated 2026-08-31",
+          "url": "https://oia.ncku.edu.tw/p/404-1032-229890.php?Lang=en",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "th-muic-asian-low-income",
+      "country": "TH",
+      "region": null,
+      "institutionIds": [
+        "th-mahidol"
+      ],
+      "name": {
+        "zh": "MUIC 亚洲低收入国家学生奖学金",
+        "en": "MUIC Scholarship for Asian Students from Low-Income Countries",
+        "my": "MUIC အာရှဝင်ငွေနည်းနိုင်ငံ ကျောင်းသားပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "玛希隆大学国际学院",
+        "en": "Mahidol University International College",
+        "my": "Mahidol University International College"
+      },
+      "eligibility": {
+        "zh": "现行条件为指定低收入亚洲国家的国籍及高中背景。缅甸是否符合当前国家定义，需向 MUIC 确认。",
+        "en": "Current criteria concern nationality and high-school study in eligible low-income Asian countries. Ask MUIC to confirm Myanmar eligibility.",
+        "my": "သတ်မှတ်အာရှနိုင်ငံ၏ နိုင်ငံသားနှင့် အထက်တန်းနောက်ခံ လိုအပ်သည်။ Myanmar အရည်အချင်းကို MUIC ထံ အတည်ပြုရန် လိုသည်။"
+      },
+      "coverage": {
+        "zh": "四年学费减免 50%；每年四个名额。",
+        "en": "50% tuition waiver for four years; four awards yearly.",
+        "my": "လေးနှစ်အတွက် သင်တန်းကြေး 50% လျှော့ပေးပြီး တစ်နှစ်လျှင် လေးဦး ရွေးချယ်သည်။"
+      },
+      "application": {
+        "zh": "申请期提交奖学金申请信、作品/活动档案及招生材料。",
+        "en": "Submit a scholarship request letter, portfolio and admission documents during the application period.",
+        "my": "လျှောက်လွှာကာလတွင် ပညာသင်ဆုတောင်းခံစာ၊ portfolio နှင့် ဝင်ခွင့်စာရွက်စာတမ်းများ တင်ပြရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "每学期累计 GPA 须高于 3.00，并在四年内毕业。其他义务按获奖协议确认。",
+        "en": "Maintain cumulative GPA above 3.00 each trimester and graduate within four years. Confirm other award terms.",
+        "my": "trimester တိုင်း GPA 3.00 ထက်မြင့်ပြီး လေးနှစ်အတွင်း ပြီးဆုံးရမည်။ အခြားသတ်မှတ်ချက်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "timing": {
+        "zh": "2026 年 5 月更新的项目；当前截止日未公布在该页。2027 批次待确认。",
+        "en": "Programme updated in May 2026; no current deadline is shown. The 2027 cycle requires confirmation.",
+        "my": "2026 မေလတွင် ပြင်ဆင်ထားသောအစီအစဉ်ဖြစ်သည်။ လက်ရှိနောက်ဆုံးရက်နှင့် 2027 ကာလကို အတည်ပြုရန်လိုသည်။"
+      },
+      "nationalityStatus": "verify",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "MUIC Scholarships, updated 7 May 2026",
+          "url": "https://muic.mahidol.ac.th/en/study-at-muic/scholarships-financial-aid/muic-scholarships/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "my-monash-high-achiever-new",
+      "country": "MY",
+      "region": null,
+      "institutionIds": [
+        "my-monash"
+      ],
+      "name": {
+        "zh": "Monash Malaysia 新生成绩优异奖",
+        "en": "Monash High Achiever Award — new students",
+        "my": "Monash High Achiever Award — ကျောင်းသားသစ်"
+      },
+      "provider": {
+        "zh": "马来西亚蒙纳士大学",
+        "en": "Monash University Malaysia",
+        "my": "Monash University Malaysia"
+      },
+      "eligibility": {
+        "zh": "接受的高中资格成绩优异且取得完整录取；开放国际学生。医学与药学指定课程及已有大学学习/转学抵学分者除外。",
+        "en": "International students with outstanding accepted senior-secondary results and a full offer. Listed medicine/pharmacy programmes and prior tertiary study or credit-transfer applicants are excluded.",
+        "my": "လက်ခံထားသော အထက်တန်းအမှတ်ကောင်းနှင့် full offer ရှိသည့် နိုင်ငံတကာကျောင်းသားများအတွက်ဖြစ်သည်။ သတ်မှတ်ဆေး/ဆေးဝါးမေဂျာနှင့် ယခင်တက္ကသိုလ်သင်ယူမှုရှိသူများ မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "每年 RM10,000 学费减免，每学期 RM5,000。",
+        "en": "RM10,000 annual tuition waiver, allocated RM5,000 per semester.",
+        "my": "တစ်နှစ် RM10,000၊ semester တစ်ခု RM5,000 သင်တန်းကြေးလျှော့ပေးသည်။"
+      },
+      "application": {
+        "zh": "合格的入学申请自动纳入评选，随录取通知授奖结果。",
+        "en": "Eligible admission applications are considered automatically; awards accompany the admission offer.",
+        "my": "အရည်အချင်းမီ ဝင်ခွင့်လျှောက်လွှာကို အလိုအလျောက် စဉ်းစားပြီး offer နှင့်အတူ အကြောင်းကြားသည်။"
+      },
+      "obligations": {
+        "zh": "维持获奖信规定成绩、每学期修满 24 学分、按期毕业；不得同时接受其他资助。",
+        "en": "Meet the offer’s maintenance score, take 24 credits per semester and finish on time; no concurrent financial assistance.",
+        "my": "သတ်မှတ်အမှတ်၊ semester တစ်ခု 24 credits နှင့် သင်တန်းသက်တမ်းကို ထိန်းသိမ်းရမည်။ အခြားထောက်ပံ့မှုကို တွဲမယူရ။"
+      },
+      "timing": {
+        "zh": "常设机制，截止日跟随课程申请日期。当前批次是否开放须查课程时间表。",
+        "en": "Standing mechanism; deadlines follow course applications. Check the current intake schedule.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်ပြီး နောက်ဆုံးရက်သည် မေဂျာလျှောက်လွှာရက်အလိုက်ဖြစ်သည်။ လက်ရှိကာလကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "Monash Malaysia: High Achiever Award for new students",
+          "url": "https://www.monash.edu.my/student-services/financial-assistance/scholarships-and-study-loans/merit-scholarships",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "my-sunway-entrance-degree",
+      "country": "MY",
+      "region": null,
+      "institutionIds": [
+        "my-sunway"
+      ],
+      "name": {
+        "zh": "Sunway Entrance Scholarship（本科）",
+        "en": "Sunway Entrance Scholarship — degree programmes",
+        "my": "Sunway Entrance Scholarship — ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "双威大学／Jeffrey Cheah Foundation",
+        "en": "Sunway University / Jeffrey Cheah Foundation",
+        "my": "Sunway University / Jeffrey Cheah Foundation"
+      },
+      "eligibility": {
+        "zh": "开放马来西亚及国际学生，须符合认可资格与课程要求。A-Level 等有分档门槛；缅甸华校自颁证书不可当作 UEC。",
+        "en": "Malaysian and international students must meet recognised qualification and course criteria. A-Level has award bands; Myanmar school diplomas are not automatically UEC.",
+        "my": "နိုင်ငံတကာကျောင်းသားများလည်း လျှောက်နိုင်ပြီး အသိအမှတ်ပြုအရည်အချင်း လိုအပ်သည်။ Myanmar ကျောင်းလက်မှတ်ကို UEC ဟု အလိုအလျောက် မယူဆရ။"
+      },
+      "coverage": {
+        "zh": "本科奖项按资格及课程分档提供学费减免。当前年度具体额度须确认。",
+        "en": "Tuition reductions depend on qualification and programme. Confirm the applicable year’s award amount.",
+        "my": "သင်တန်းကြေးလျှော့ပမာဏသည် အရည်အချင်းနှင့် မေဂျာအလိုက်ဖြစ်သည်။ လက်ရှိနှစ်ပမာဏကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "application": {
+        "zh": "在线提交申请及认证成绩文件，并向奖学金部门确认适用年度。",
+        "en": "Apply online with certified academic records; confirm the applicable award year with the scholarship office.",
+        "my": "အတည်ပြုအမှတ်စာရင်းနှင့် အွန်လိုင်းလျှောက်ပြီး သက်ဆိုင်ရာနှစ်ကို ပညာသင်ဆုဌာနထံ စစ်ဆေးရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "本科减免有年度成绩续领要求；不得默认覆盖住宿或生活费。获奖协议决定续领条件。",
+        "en": "Annual academic renewal requirements apply. Accommodation and living costs are not stated as covered; follow the award agreement.",
+        "my": "နှစ်စဉ်အမှတ်အလိုက် ဆက်လက်ထောက်ပံ့မှုကို စစ်ဆေးသည်။ နေထိုင်စားသောက်စရိတ်ပါဝင်မည်ဟု မယူဆပါနှင့်။"
+      },
+      "timing": {
+        "zh": "总条款标注 2026，但项目页保留部分 2025 年号。2026/2027 批次及相对截止日需确认。",
+        "en": "General terms specify 2026, while parts of the programme page retain 2025 wording. Confirm the intake and relative deadline.",
+        "my": "အထွေထွေစည်းမျဉ်းတွင် 2026 ဟုဖော်ပြသော်လည်း စာမျက်နှာတွင် 2025 စာသားအချို့ ကျန်ရှိသည်။ ကာလနှင့် နောက်ဆုံးရက်ကို အတည်ပြုရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "Sunway: Academic Excellence Scholarships",
+          "url": "https://scholarship.sunway.edu.my/scholarships/academic-excellence-scholarships",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Sunway: Scholarship Terms and Conditions, 2026",
+          "url": "https://scholarship.sunway.edu.my/scholarship-terms-conditions",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "my-um-pte-2026",
+      "country": "MY",
+      "region": null,
+      "institutionIds": [
+        "my-um"
+      ],
+      "name": {
+        "zh": "PTE × 马来亚大学奖学金竞赛 2026",
+        "en": "PTE x Universiti Malaya Scholarship Competition 2026",
+        "my": "PTE x Universiti Malaya Scholarship Competition 2026"
+      },
+      "provider": {
+        "zh": "Pearson Malaysia 与马来亚大学",
+        "en": "Pearson Malaysia and Universiti Malaya",
+        "my": "Pearson Malaysia နှင့် Universiti Malaya"
+      },
+      "eligibility": {
+        "zh": "18 岁以上国际学生，申请指定 2026 年本科批次；入围须验证参加过 PTE。竞赛仅设一名获奖者。",
+        "en": "International students aged 18+, applying to listed 2026 bachelor intakes; shortlisted entrants must validate a PTE test. One winner.",
+        "my": "အသက် 18 နှစ်နှင့်အထက် နိုင်ငံတကာကျောင်းသား၊ သတ်မှတ် 2026 ဘွဲ့ကြိုကာလလျှောက်သူဖြစ်ရမည်။ PTE စာမေးပွဲအထောက်အထား လိုအပ်ပြီး တစ်ဦးသာ ရွေးချယ်သည်။"
+      },
+      "coverage": {
+        "zh": "一次性 GBP3,000，用于 UM 学费账户。",
+        "en": "One GBP3,000 award credited towards UM tuition.",
+        "my": "UM သင်တန်းကြေးအတွက် GBP3,000 တစ်ကြိမ် ပေးသည်။"
+      },
+      "application": {
+        "zh": "申请 UM 课程并填竞赛表，以英文回答选 UM 的原因及 PTE 备考建议。",
+        "en": "Apply to UM and submit the contest form with English responses on choosing UM and PTE preparation.",
+        "my": "UM သို့လျှောက်ပြီး ကျောင်းရွေးချယ်ရသည့်အကြောင်းနှင့် PTE ပြင်ဆင်နည်းကို အင်္ဂလိပ်လို ဖြေဆိုတင်ပြရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "同意竞赛及宣传使用条款；奖金不可兑现金。当前条款未列工作服务义务。",
+        "en": "Accept contest and promotional-use terms; no cash alternative. The reviewed terms list no employment service bond.",
+        "my": "ပြိုင်ပွဲနှင့် ကြော်ငြာအသုံးပြုမှုစည်းမျဉ်းကို လက်ခံရမည်။ ငွေသားမလဲနိုင်ဘဲ ဖတ်ရှုထားသောစည်းမျဉ်းတွင် အလုပ်ဝန်ဆောင်မှုတာဝန် မဖော်ပြရန် လိုသည်။"
+      },
+      "timing": {
+        "zh": "2026 年 6 月 1 日至 12 月 31 日，截止当晚 23:59 MYT。适用入学批次限 2026 年 3 月及 10 月。",
+        "en": "1 June–31 December 2026, closing 23:59 MYT; listed intakes are March and October 2026.",
+        "my": "2026 ဇွန် 1 မှ ဒီဇင်ဘာ 31၊ MYT 23:59 အထိဖြစ်သည်။ သတ်မှတ်ဝင်ခွင့်ကာလသည် 2026 မတ်နှင့် အောက်တိုဘာဖြစ်သည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": "2026-12-31",
+      "status": "open",
+      "sources": [
+        {
+          "title": "UM Financial Aid for Undergraduate, updated 7 October 2026",
+          "url": "https://aasd.um.edu.my/financial-aid-for-undergraduate",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "PTE x Universiti Malaya Scholarship 2026",
+          "url": "https://www.pearsonpte.com/pte-universiti-malaya-scholarship-2026/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "PTE x UM Scholarship 2026: official competition terms",
+          "url": "https://www.pearsonpte.com/pte-universiti-malaya-scholarship-2026/terms-and-conditions/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sg-nus-asean",
+      "country": "SG",
+      "region": null,
+      "institutionIds": [
+        "sg-nus"
+      ],
+      "name": {
+        "zh": "NUS ASEAN 本科奖学金",
+        "en": "NUS ASEAN Undergraduate Scholarship",
+        "my": "NUS ASEAN ဘွဲ့ကြိုပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "NUS 大学",
+        "en": "NUS",
+        "my": "NUS"
+      },
+      "eligibility": {
+        "zh": "官网明确包含缅甸公民；须有优异高中成绩、课外活动和领导潜力，并申请全日制首个本科学位。转学申请者不符合。",
+        "en": "Myanmar citizens are explicitly included; outstanding school results, activities and leadership are required for a first full-time undergraduate degree. Transfer applicants are excluded.",
+        "my": "Myanmar နိုင်ငံသား ပါဝင်သည်။ ပထမဘွဲ့ကြိုအတွက် အထက်တန်းအမှတ်ကောင်း၊ လှုပ်ရှားမှုနှင့် ခေါင်းဆောင်မှု လိုအပ်သည်။ တက္ကသိုလ်ပြောင်းသူ မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "MOE Tuition Grant 后补贴学费全额，以及生活、住宿和一次性电脑津贴。",
+        "en": "Full subsidised tuition after MOE Tuition Grant, plus living, accommodation and one-time computer allowances.",
+        "my": "MOE Tuition Grant ပြီးနောက် သင်တန်းကြေးနှင့် နေထိုင်စားသောက်၊ ကွန်ပျူတာထောက်ပံ့ကြေး ပါဝင်သည်။"
+      },
+      "application": {
+        "zh": "合格本科入学申请自动考虑；入围参加面试。",
+        "en": "Eligible admission applicants are automatically considered; shortlisted candidates attend interviews.",
+        "my": "အရည်အချင်းမီဝင်ခွင့်လျှောက်သူကို အလိုအလျောက် စဉ်းစားပြီး လူတွေ့ရွေးချယ်သည်။"
+      },
+      "obligations": {
+        "zh": "MOE Tuition Grant 要求毕业后为新加坡注册公司工作三年；续领 GPA 至少 3.50。医学／牙医另有六年／五年卫生部服务义务。",
+        "en": "MOE Tuition Grant requires three years of work for a Singapore-registered company; renewal GPA is at least 3.50. Medicine/dentistry have separate six-/five-year health-ministry service obligations.",
+        "my": "MOE Tuition Grant အရ ဘွဲ့ပြီးနောက် Singapore မှတ်ပုံတင်ကုမ္ပဏီတွင် သုံးနှစ် အလုပ်လုပ်ရမည်။ GPA 3.50 ထိန်းသိမ်းရမည်။ ဆေးပညာ/သွားဆေးအတွက် ခြောက်နှစ်/ငါးနှစ် ဝန်ဆောင်မှုတာဝန်လည်း ရှိသည်။"
+      },
+      "timing": {
+        "zh": "常设机制，申请时间随本科入学批次；2027 年具体窗口尚未核实。获奖经竞争评选。",
+        "en": "Standing mechanism tied to undergraduate admission cycles; the 2027 window is not verified. Selection is competitive.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်ပြီး ဝင်ခွင့်ကာလအလိုက် လျှောက်ရသည်။ 2027 ကာလကို မအတည်ပြုရသေးဘဲ ယှဉ်ပြိုင်ရွေးချယ်သည်။"
+      },
+      "nationalityStatus": "myanmar-explicit",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NUS ASEAN Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sg-ntu-asean",
+      "country": "SG",
+      "region": null,
+      "institutionIds": [
+        "sg-ntu"
+      ],
+      "name": {
+        "zh": "NTU ASEAN 本科奖学金",
+        "en": "NTU ASEAN Undergraduate Scholarship",
+        "my": "NTU ASEAN ဘွဲ့ကြိုပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "NTU 大学",
+        "en": "NTU",
+        "my": "NTU"
+      },
+      "eligibility": {
+        "zh": "官网明确包含缅甸公民；须有优异高中成绩、课外活动和领导潜力，并申请全日制首个本科学位。不适用于 Renaissance Engineering Programme。",
+        "en": "Myanmar citizens are explicitly included; outstanding school results, activities and leadership are required for a first full-time undergraduate degree. Renaissance Engineering Programme is excluded.",
+        "my": "Myanmar နိုင်ငံသား ပါဝင်သည်။ ပထမဘွဲ့ကြိုအတွက် အထက်တန်းအမှတ်ကောင်း၊ လှုပ်ရှားမှုနှင့် ခေါင်းဆောင်မှု လိုအပ်သည်။ Renaissance Engineering Programme မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "MOE Tuition Grant 后补贴学费全额，以及生活、住宿和一次性电脑津贴。",
+        "en": "Full subsidised tuition after MOE Tuition Grant, plus living, accommodation and one-time computer allowances.",
+        "my": "MOE Tuition Grant ပြီးနောက် သင်တန်းကြေးနှင့် နေထိုင်စားသောက်၊ ကွန်ပျူတာထောက်ပံ့ကြေး ပါဝင်သည်။"
+      },
+      "application": {
+        "zh": "先申请入学，再在相应学历截止日前提交奖学金申请、短文及教师评价。",
+        "en": "Apply for admission first, then submit the scholarship form, essay and teacher appraisal by the qualification deadline.",
+        "my": "ဝင်ခွင့်ဦးစွာလျှောက်ပြီး နောက်ဆုံးရက်မတိုင်မီ ပညာသင်ဆုလျှောက်လွှာ၊ စာတိုနှင့် ဆရာအကဲဖြတ်ချက် တင်ပြရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "MOE Tuition Grant 要求毕业后为新加坡注册公司工作三年；续领 GPA 至少 3.5/5.0。NTU 另要求参加社区项目。",
+        "en": "MOE Tuition Grant requires three years of work for a Singapore-registered company; renewal GPA is at least 3.5/5.0. NTU also requires community involvement.",
+        "my": "MOE Tuition Grant အရ ဘွဲ့ပြီးနောက် Singapore မှတ်ပုံတင်ကုမ္ပဏီတွင် သုံးနှစ် အလုပ်လုပ်ရမည်။ GPA 3.5/5.0 ထိန်းသိမ်းရမည်။ NTU လူမှုလုပ်ငန်းတွင် ပါဝင်ရမည်။"
+      },
+      "timing": {
+        "zh": "常设机制，申请时间随本科入学批次；2027 年具体窗口尚未核实。获奖经竞争评选。",
+        "en": "Standing mechanism tied to undergraduate admission cycles; the 2027 window is not verified. Selection is competitive.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်ပြီး ဝင်ခွင့်ကာလအလိုက် လျှောက်ရသည်။ 2027 ကာလကို မအတည်ပြုရသေးဘဲ ယှဉ်ပြိုင်ရွေးချယ်သည်။"
+      },
+      "nationalityStatus": "myanmar-explicit",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NTU ASEAN Undergraduate Scholarship",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sg-smu-asean",
+      "country": "SG",
+      "region": null,
+      "institutionIds": [
+        "sg-smu"
+      ],
+      "name": {
+        "zh": "SMU ASEAN 本科奖学金",
+        "en": "SMU ASEAN Undergraduate Scholarship",
+        "my": "SMU ASEAN ဘွဲ့ကြိုပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "SMU 大学",
+        "en": "SMU",
+        "my": "SMU"
+      },
+      "eligibility": {
+        "zh": "官网明确包含缅甸公民；须有优异高中成绩、课外活动和领导潜力，并申请全日制首个本科学位。",
+        "en": "Myanmar citizens are explicitly included; outstanding school results, activities and leadership are required for a first full-time undergraduate degree. ",
+        "my": "Myanmar နိုင်ငံသား ပါဝင်သည်။ ပထမဘွဲ့ကြိုအတွက် အထက်တန်းအမှတ်ကောင်း၊ လှုပ်ရှားမှုနှင့် ခေါင်းဆောင်မှု လိုအပ်သည်။"
+      },
+      "coverage": {
+        "zh": "MOE Tuition Grant 后补贴学费全额，以及生活、住宿和一次性电脑津贴。",
+        "en": "Full subsidised tuition after MOE Tuition Grant, plus living, accommodation and one-time computer allowances.",
+        "my": "MOE Tuition Grant ပြီးနောက် သင်တန်းကြေးနှင့် နေထိုင်စားသောက်၊ ကွန်ပျူတာထောက်ပံ့ကြေး ပါဝင်သည်။"
+      },
+      "application": {
+        "zh": "完成入学申请后，在 Applicant Self Service Portal 同期申请奖学金。",
+        "en": "After applying for admission, submit the scholarship application through the Applicant Self Service Portal in the same cycle.",
+        "my": "ဝင်ခွင့်လျှောက်ပြီး Applicant Self Service Portal မှ ကာလတူအတွင်း ပညာသင်ဆုလျှောက်ထားရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "MOE Tuition Grant 要求毕业后为新加坡注册公司工作三年；续领 GPA 至少 3.0/4.0。提前退出可能须偿还。",
+        "en": "MOE Tuition Grant requires three years of work for a Singapore-registered company; renewal GPA is at least 3.0/4.0. Early termination may require repayment.",
+        "my": "MOE Tuition Grant အရ ဘွဲ့ပြီးနောက် Singapore မှတ်ပုံတင်ကုမ္ပဏီတွင် သုံးနှစ် အလုပ်လုပ်ရမည်။ GPA 3.0/4.0 ထိန်းသိမ်းရမည်။ စောစီးစွာရပ်ဆိုင်းပါက ပြန်လည်ပေးဆပ်ရနိုင်သည်။"
+      },
+      "timing": {
+        "zh": "常设机制，申请时间随本科入学批次；2027 年具体窗口尚未核实。获奖经竞争评选。",
+        "en": "Standing mechanism tied to undergraduate admission cycles; the 2027 window is not verified. Selection is competitive.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်ပြီး ဝင်ခွင့်ကာလအလိုက် လျှောက်ရသည်။ 2027 ကာလကို မအတည်ပြုရသေးဘဲ ယှဉ်ပြိုင်ရွေးချယ်သည်။"
+      },
+      "nationalityStatus": "myanmar-explicit",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "SMU ASEAN Undergraduate Scholarship",
+          "url": "https://admissions.smu.edu.sg/financial-aid/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sg-jcu-merit-international",
+      "country": "SG",
+      "region": null,
+      "institutionIds": [
+        "sg-jcu"
+      ],
+      "name": {
+        "zh": "JCU Singapore 国际生 Merit 奖学金",
+        "en": "JCU Merit Scholarships (International)",
+        "my": "JCU Merit Scholarships (International)"
+      },
+      "provider": {
+        "zh": "James Cook University Singapore",
+        "en": "James Cook University Singapore",
+        "my": "James Cook University Singapore"
+      },
+      "eligibility": {
+        "zh": "新入学全日制国际本科生，满足学术录取及国别条件；官网列缅甸联络渠道。Bachelor of Psychological Science (Honours) 除外。",
+        "en": "New full-time international undergraduates meeting academic and country-specific criteria; Myanmar contacts are listed. Bachelor of Psychological Science (Honours) is excluded.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသားသစ်အတွက်ဖြစ်ပြီး နိုင်ငံအလိုက်စည်းမျဉ်း လိုက်နာရမည်။ သတ်မှတ် Psychology Honours မေဂျာ မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "最高 S$20,000，实际额度取决于成绩及课程。",
+        "en": "Up to S$20,000, depending on results and programme.",
+        "my": "အမှတ်နှင့် မေဂျာအလိုက် အများဆုံး S$20,000 ဖြစ်သည်။"
+      },
+      "application": {
+        "zh": "提交完整入学及奖学金表和证明文件；联系缅甸地区招生人员核对条件。",
+        "en": "Submit complete admission and scholarship forms with evidence; confirm criteria with the Myanmar regional contact.",
+        "my": "ဝင်ခွင့်နှင့် ပညာသင်ဆုပုံစံ၊ အထောက်အထားများ တင်ပြီး Myanmar တာဝန်ရှိသူထံ အတည်ပြုရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "不可同时获得 JCU 的其他奖学金；转专业与额度按正式条款处理。当前页未确认工作服务义务。",
+        "en": "No other JCU scholarship may be held concurrently; course changes follow award terms. An employment bond was not verified.",
+        "my": "JCU အခြားပညာသင်ဆုကို တွဲမယူနိုင်ပါ။ မေဂျာပြောင်းစည်းမျဉ်းကို လိုက်နာပြီး အလုပ်တာဝန်ကို အတည်ပြုရန်လိုသည်။"
+      },
+      "timing": {
+        "zh": "仅适用于指定入学批次。当前开放期及 2027 时间未核实，联系学校确认。",
+        "en": "Available only for selected intakes. Current availability and 2027 dates require confirmation.",
+        "my": "သတ်မှတ်ဝင်ခွင့်ကာလများအတွက်သာဖြစ်သည်။ လက်ရှိဖွင့်လှစ်မှုနှင့် 2027 ရက်စွဲကို ကျောင်းထံ အတည်ပြုရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "JCU Singapore: International Merit Scholarships",
+          "url": "https://www.jcu.edu.sg/scholarships",
+          "checkedAt": "2026-10-08",
+          "accessNote": "Official search-index content retrieved on checkedAt; direct page returned 403. Current selected intakes and country-specific criteria require confirmation."
+        }
+      ]
+    }
+  ],
+  "schoolEvidence": [
+    {
+      "schoolId": "cn-pku",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "PKU 2026 Undergraduate Entrance Examination: Scholarships",
+          "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "cn-tsinghua",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Tsinghua Freshmen Scholarships: updated 2027 guidance",
+          "url": "https://international.join-tsinghua.edu.cn/info/1053/1042.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "cn-zju",
+      "status": "verified",
+      "note": {
+        "zh": "已核实2026本科新生奖学金；该批次已结束，2027条件及申请期须查新公告。",
+        "en": "2026 freshman award verified; that cycle is closed. Check the new 2027 conditions and window.",
+        "my": "၂၀၂၆ ဘွဲ့ကြိုကျောင်းသားသစ်ဆုကို စစ်ဆေးပြီး ထိုအသုတ်ပိတ်ထားသည်။ ၂၀၂၇ သတ်မှတ်ချက်နှင့် လျှောက်ထားချိန်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "ZJU — 浙江省政府来华留学生（国际本科生新生）奖学金 2026",
+          "url": "https://iczu.zju.edu.cn/admissions/2022/0530/c68875a2568326/page.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "cn-xmu",
+      "status": "verified",
+      "note": {
+        "zh": "已核实2026本科新生奖学金；该批次已结束，2027条件及申请期须查新公告。",
+        "en": "2026 freshman award verified; that cycle is closed. Check the new 2027 conditions and window.",
+        "my": "၂၀၂၆ ဘွဲ့ကြိုကျောင်းသားသစ်ဆုကို စစ်ဆေးပြီး ထိုအသုတ်ပိတ်ထားသည်။ ၂၀၂၇ သတ်မှတ်ချက်နှင့် လျှောက်ထားချိန်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "XMU — New International Students Scholarships for 2026",
+          "url": "https://admissions.xmu.edu.cn/info/1061/3880.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "XMU — 国际学生新生奖学金",
+          "url": "https://admissions.xmu.edu.cn/cn/Scholarships/smdxjxj.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "hku",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "HKU School of Computing and Data Science Entrance Scholarship",
+          "url": "https://admissions.hku.hk/fees-and-scholarships/scholarships/school-of-computing-and-data-science-entrance-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "cuhk",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "CUHK Admission Scholarships for undergraduates",
+          "url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "hkust",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "HKUST Fees and Scholarships: 2027 undergraduate admission",
+          "url": "https://www.join.hkust.edu.hk/fees-and-scholarships",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "HKUST Apply Now: 2027/28 entry",
+          "url": "https://join.hkust.edu.hk/apply",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "um",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "UM Scholarships: international undergraduate students",
+          "url": "https://reg.um.edu.mo/admissions/general-information/sch-info/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "UM Academic Calendar: undergraduate international student full/half scholarships",
+          "url": "https://reg.um.edu.mo/download/um-academic-calendar/12a-ss-us.pdf",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "taiwan-ntu",
+      "status": "verified",
+      "note": {
+        "zh": "官方已核实本科国际学生奖学金机制；按申请身份与当年评审要求准备材料。",
+        "en": "Official undergraduate international-student award mechanism verified; prepare your application according to the relevant status and cycle rules.",
+        "my": "တရားဝင် နိုင်ငံတကာဘွဲ့ကြိုပညာသင်ဆုအစီအစဉ်ကို အတည်ပြုထားသည်။ လျှောက်ထားသူအမျိုးအစားနှင့် နှစ်စဉ်စည်းမျဉ်းအလိုက် စာရွက်စာတမ်းများ ပြင်ဆင်နိုင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "NTU — Scholarships for International Undergraduate Students",
+          "url": "https://admissions.ntu.edu.tw/fees-scholarships/scholarships/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "taiwan-nthu",
+      "status": "verified",
+      "note": {
+        "zh": "官方已核实本科国际学生奖学金机制；按申请身份与当年评审要求准备材料。",
+        "en": "Official undergraduate international-student award mechanism verified; prepare your application according to the relevant status and cycle rules.",
+        "my": "တရားဝင် နိုင်ငံတကာဘွဲ့ကြိုပညာသင်ဆုအစီအစဉ်ကို အတည်ပြုထားသည်။ လျှောက်ထားသူအမျိုးအစားနှင့် နှစ်စဉ်စည်းမျဉ်းအလိုက် စာရွက်စာတမ်းများ ပြင်ဆင်နိုင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "NTHU OGA — Scholarships for International Students",
+          "url": "https://www.oga.nthu.edu.tw/TabContentView/49",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "taiwan-nycu",
+      "status": "verified",
+      "note": {
+        "zh": "官方已核实本科国际学生奖学金机制；按申请身份与当年评审要求准备材料。",
+        "en": "Official undergraduate international-student award mechanism verified; prepare your application according to the relevant status and cycle rules.",
+        "my": "တရားဝင် နိုင်ငံတကာဘွဲ့ကြိုပညာသင်ဆုအစီအစဉ်ကို အတည်ပြုထားသည်။ လျှောက်ထားသူအမျိုးအစားနှင့် နှစ်စဉ်စည်းမျဉ်းအလိုက် စာရွက်စာတမ်းများ ပြင်ဆင်နိုင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "NYCU — University Scholarships",
+          "url": "https://oia.nycu.edu.tw/oia/en/app/data/view?id=792&module=nycu0012&serno=0f046f83-4147-4ec7-8921-bbaccd8c678f",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "taiwan-ncku",
+      "status": "verified",
+      "note": {
+        "zh": "官方已核实本科国际学生奖学金机制；按申请身份与当年评审要求准备材料。",
+        "en": "Official undergraduate international-student award mechanism verified; prepare your application according to the relevant status and cycle rules.",
+        "my": "တရားဝင် နိုင်ငံတကာဘွဲ့ကြိုပညာသင်ဆုအစီအစဉ်ကို အတည်ပြုထားသည်။ လျှောက်ထားသူအမျိုးအစားနှင့် နှစ်စဉ်စည်းမျဉ်းအလိုက် စာရွက်စာတမ်းများ ပြင်ဆင်နိုင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "NCKU — Degree Scholarships, updated 2026-08-31",
+          "url": "https://oia.ncku.edu.tw/p/404-1032-229890.php?Lang=en",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "th-chula",
+      "status": "verify",
+      "note": {
+        "zh": "官网列国际本科项目奖学金；缅甸资格、额度及当前期限需各项目确认。",
+        "en": "Official international bachelor scholarship listings exist; Myanmar criteria, coverage and dates need programme confirmation.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြိုဆုများ ရှိသော်လည်း Myanmar အရည်အချင်းနှင့် ရက်စွဲကို မေဂျာထံ မေးမြန်းအတည်ပြုရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Chula Registrar: Undergraduate programme scholarships",
+          "url": "https://www.reg.chula.ac.th/admissions/english/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "th-mahidol",
+      "status": "verify",
+      "note": {
+        "zh": "现行 2026 MUIC 奖项为亚洲低收入国家机制；不能沿用历史 ASEAN 奖名确认缅甸资格。",
+        "en": "Current MUIC 2026 scheme concerns low-income Asian countries; historical ASEAN awards do not establish current Myanmar eligibility.",
+        "my": "လက်ရှိ MUIC ဆု၏ Myanmar အရည်အချင်းကို အတည်ပြုရန်လိုသည်။ ယခင် ASEAN ဆုကို လက်ရှိဆုဟု မယူဆရ။"
+      },
+      "sources": [
+        {
+          "title": "MUIC Scholarships, updated 7 May 2026",
+          "url": "https://muic.mahidol.ac.th/en/study-at-muic/scholarships-financial-aid/muic-scholarships/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "th-bangkok",
+      "status": "verify",
+      "note": {
+        "zh": "官网 2027 BBA Talent 列国际学生，但详细条款访问受限；额度及期限待确认。",
+        "en": "The 2027 BBA Talent listing includes international students; detailed terms were inaccessible. Confirm amounts and deadlines.",
+        "my": "2027 BBA Talent စာရင်းတွင် နိုင်ငံတကာကျောင်းသား ပါဝင်သော်လည်း အသေးစိတ်စည်းမျဉ်းကို အတည်ပြုရန်လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Bangkok University: 2027 scholarship listings",
+          "url": "https://www.bu.ac.th/en/tuition-fees/bachelor-degree/2027?faculty=accounting",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "my-um",
+      "status": "verified",
+      "note": {
+        "zh": "2026 新公告确认 PTE × UM 国际生竞赛，18 岁以上、指定本科批次及 PTE 验证条件。",
+        "en": "New 2026 notice verifies PTE x UM for international entrants aged 18+, with specified intakes and PTE verification.",
+        "my": "2026 PTE x UM ဆုကို အတည်ပြုထားသည်။ အသက် 18+၊ သတ်မှတ်ကာလနှင့် PTE အထောက်အထား လိုအပ်သည်။"
+      },
+      "sources": [
+        {
+          "title": "UM Financial Aid for Undergraduate, updated 7 October 2026",
+          "url": "https://aasd.um.edu.my/financial-aid-for-undergraduate",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "PTE x UM Scholarship 2026: official competition terms",
+          "url": "https://www.pearsonpte.com/pte-universiti-malaya-scholarship-2026/terms-and-conditions/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "my-monash",
+      "status": "verified",
+      "note": {
+        "zh": "马来西亚校区 High Achiever Award 允许国际本科新生；不使用澳大利亚校区奖项。",
+        "en": "Malaysia-campus High Achiever Award admits international new undergraduates; Australian-campus awards are not substituted.",
+        "my": "Malaysia campus ဆုတွင် နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသားသစ် ပါဝင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "Monash Malaysia: High Achiever Award for new students",
+          "url": "https://www.monash.edu.my/student-services/financial-assistance/scholarships-and-study-loans/merit-scholarships",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "my-sunway",
+      "status": "verify",
+      "note": {
+        "zh": "国际本科资格已列，但页面年度措辞不一致；须确认当前批次及金额。",
+        "en": "International undergraduate eligibility is listed, but cycle wording conflicts; confirm current intake and amounts.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြို အရည်အချင်းဖော်ပြထားသော်လည်း နှစ်စာသားမတူပါ။ လက်ရှိကာလနှင့် ပမာဏကို အတည်ပြုရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Sunway: Academic Excellence Scholarships",
+          "url": "https://scholarship.sunway.edu.my/scholarships/academic-excellence-scholarships",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Sunway: Scholarship Terms and Conditions, 2026",
+          "url": "https://scholarship.sunway.edu.my/scholarship-terms-conditions",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "sg-nus",
+      "status": "verified",
+      "note": {
+        "zh": "ASEAN 本科奖明确列缅甸，MOE Tuition Grant 有三年服务义务；医学牙医另有义务。",
+        "en": "ASEAN award explicitly includes Myanmar; MOE Tuition Grant has a three-year bond, with additional medicine/dentistry service obligations.",
+        "my": "Myanmar ပါဝင်ပြီး MOE သုံးနှစ်အလုပ်တာဝန်ရှိသည်။ ဆေး/သွားဆေးတွင် အပိုဝန်ဆောင်မှုရှိသည်။"
+      },
+      "sources": [
+        {
+          "title": "NUS ASEAN Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "sg-ntu",
+      "status": "verified",
+      "note": {
+        "zh": "ASEAN 本科奖明确列缅甸；须独立申请并接受 MOE 三年服务义务。",
+        "en": "ASEAN award explicitly includes Myanmar; a separate application and MOE three-year bond apply.",
+        "my": "Myanmar ပါဝင်ပြီး သီးခြားလျှောက်လွှာနှင့် MOE သုံးနှစ်အလုပ်တာဝန် လိုအပ်သည်။"
+      },
+      "sources": [
+        {
+          "title": "NTU ASEAN Undergraduate Scholarship",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "sg-smu",
+      "status": "verified",
+      "note": {
+        "zh": "ASEAN 本科奖明确列缅甸；申请门户及 MOE 三年服务义务已核实。",
+        "en": "ASEAN award explicitly includes Myanmar; application portal and MOE three-year bond are verified.",
+        "my": "Myanmar ပါဝင်ပြီး လျှောက်လွှာ portal နှင့် MOE သုံးနှစ်အလုပ်တာဝန်ကို အတည်ပြုထားသည်။"
+      },
+      "sources": [
+        {
+          "title": "SMU ASEAN Undergraduate Scholarship",
+          "url": "https://admissions.smu.edu.sg/financial-aid/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "sg-jcu",
+      "status": "verified",
+      "note": {
+        "zh": "官网国际 Merit 奖列本科及缅甸联络渠道；当前指定批次及国别门槛待确认。",
+        "en": "Official international Merit award covers undergraduate entry and lists Myanmar contacts; current intake and country thresholds need confirmation.",
+        "my": "နိုင်ငံတကာ Merit ဆုတွင် ဘွဲ့ကြိုနှင့် Myanmar ဆက်သွယ်မှု ပါဝင်သည်။ လက်ရှိကာလနှင့် နိုင်ငံအလိုက်အမှတ်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "JCU Singapore: International Merit Scholarships",
+          "url": "https://www.jcu.edu.sg/scholarships",
+          "checkedAt": "2026-10-08",
+          "accessNote": "Official search-index content retrieved on checkedAt; direct page returned 403. Current selected intakes and country-specific criteria require confirmation."
+        }
+      ]
+    }
+  ]
+}

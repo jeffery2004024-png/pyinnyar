@@ -1,0 +1,6144 @@
+{
+  "schemaVersion": 1,
+  "country": "China",
+  "checkedAt": "2026-10-08",
+  "planningIntakeYear": 2027,
+  "classificationNote": "985/211为历史建设项目标签，不等于国际学生招生资格。教育部历史口径211为112所、985为39所；本目录把矿业、石油、地质在北京和外地的独立招生学校分列，并将华北电力北京/保定合为一校，不重复分校区。军校不进入普通国际生自动匹配。",
+  "catalogSources": [
+    {
+      "url": "https://www.moe.gov.cn/srcsite/A22/s7065/200512/t20051223_82762.html",
+      "title": "教育部211工程历史学校名单（正文抓取受限；交叉核对阳光高考及高校官方历史目录）",
+      "year": 2005,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "url": "https://www.moe.gov.cn/srcsite/A22/s7065/200612/t20061206_128833.html",
+      "title": "教育部985工程学校名单",
+      "year": 2006,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "url": "https://gaokao.chsi.com.cn/gkxx/gxmd/211gc.shtml",
+      "title": "教育部阳光高考211工程学校目录",
+      "year": 2008,
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "url": "https://nuaa.edu.cn/2012/0102/c14607a126917/page.htm",
+      "title": "南京航空航天大学官网：211工程名单截止2011-03-31",
+      "year": 2012,
+      "checkedAt": "2026-10-08"
+    }
+  ],
+  "matchingPolicy": [
+    "仅有官方数字的语言和年龄条件可机器检查；语言达标不能证明学校认可该文凭",
+    "Matriculation、华校毕业、GED需核实文凭颁发机构、完整高中教育及大学入学资格；不编造缅甸分数录取线",
+    "2026规则仅用于2027规划参考，须显示年度并等待新简章；2027已发布规则按来源显示",
+    "竞赛是综合审查补充材料，不推导任意加分或录取概率",
+    "CSCA需按专业核实科目，未公布最低分时不自行设阈值"
+  ],
+  "universities": [
+    {
+      "id": "cn-pku",
+      "nameZh": "北京大学",
+      "nameEn": "Peking University",
+      "city": "北京",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.pku.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-tsinghua",
+      "nameZh": "清华大学",
+      "nameEn": "Tsinghua University",
+      "city": "北京",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.tsinghua.edu.cn/",
+      "admissionsUrl": "https://international.join-tsinghua.edu.cn/info/1024/1023.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://international.join-tsinghua.edu.cn/info/1024/1023.htm",
+          "title": "Eligibility: International Undergraduate Admissions 2027",
+          "year": 2027,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "thu-bilingual",
+          "label": "中英双语本科项目",
+          "teachingLanguage": "zh-en",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "sections": {
+                "listening": {
+                  "minimum": 60,
+                  "exclusive": true
+                },
+                "reading": {
+                  "minimum": 60,
+                  "exclusive": true
+                },
+                "writing": {
+                  "minimum": 60,
+                  "exclusive": true
+                }
+              }
+            }
+          },
+          "otherRequirements": [
+            "英语能力证明必交，具体项目另有标准；CSCA列为可提供的国际考试，非此页统一强制条件",
+            "高中教育必须全日制且线下完成；华校授课证明申请HSK豁免仍须清华批准",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2027,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://international.join-tsinghua.edu.cn/info/1024/1023.htm",
+          "sourceStatus": "current_published",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "thu-en",
+          "label": "英语授课本科项目",
+          "teachingLanguage": "en",
+          "machineRule": {},
+          "otherRequirements": [
+            "需官方英语能力成绩，具体项目阈值另核实；通用页未设IELTS数字标准",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2027,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://international.join-tsinghua.edu.cn/info/1024/1023.htm",
+          "sourceStatus": "current_published",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "要求全日制线下完成高中教育；承认国际考试成绩作为学业证据，列举A-Level、CSCA等；中英双语项目HSK5以上且听读写各超过60；英语成绩须提交但此通用页无统一IELTS分数。"
+    },
+    {
+      "id": "cn-ruc",
+      "nameZh": "中国人民大学",
+      "nameEn": "Renmin University of China",
+      "city": "北京",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ruc.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-bnu",
+      "nameZh": "北京师范大学",
+      "nameEn": "Beijing Normal University",
+      "city": "北京",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.bnu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-buaa",
+      "nameZh": "北京航空航天大学",
+      "nameEn": "Beihang University",
+      "city": "北京",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.buaa.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-bit",
+      "nameZh": "北京理工大学",
+      "nameEn": "Beijing Institute of Technology",
+      "city": "北京",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.bit.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-cau",
+      "nameZh": "中国农业大学",
+      "nameEn": "China Agricultural University",
+      "city": "北京",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cau.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-muc",
+      "nameZh": "中央民族大学",
+      "nameEn": "Minzu University of China",
+      "city": "北京",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.muc.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-bjtu",
+      "nameZh": "北京交通大学",
+      "nameEn": "Beijing Jiaotong University",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.bjtu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-bjut",
+      "nameZh": "北京工业大学",
+      "nameEn": "Beijing University of Technology",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.bjut.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-ustb",
+      "nameZh": "北京科技大学",
+      "nameEn": "University of Science and Technology Beijing",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ustb.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-buct",
+      "nameZh": "北京化工大学",
+      "nameEn": "Beijing University of Chemical Technology",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.buct.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-bupt",
+      "nameZh": "北京邮电大学",
+      "nameEn": "Beijing University of Posts and Telecommunications",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.bupt.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-bjfu",
+      "nameZh": "北京林业大学",
+      "nameEn": "Beijing Forestry University",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.bjfu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-bucm",
+      "nameZh": "北京中医药大学",
+      "nameEn": "Beijing University of Chinese Medicine",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.bucm.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-bfsu",
+      "nameZh": "北京外国语大学",
+      "nameEn": "Beijing Foreign Studies University",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.bfsu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-cuc",
+      "nameZh": "中国传媒大学",
+      "nameEn": "Communication University of China",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cuc.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-cufe",
+      "nameZh": "中央财经大学",
+      "nameEn": "Central University of Finance and Economics",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cufe.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-uibe",
+      "nameZh": "对外经济贸易大学",
+      "nameEn": "University of International Business and Economics",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.uibe.edu.cn/",
+      "admissionsUrl": "https://sie.uibe.edu.cn/en/Prgr/BacDegPro/OfEn/abc864a25c554202bf5c9acbf53d2729.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://sie.uibe.edu.cn/en/Prgr/BacDegPro/OfEn/abc864a25c554202bf5c9acbf53d2729.htm",
+          "title": "2026 UIBE+BUCT joint undergraduate dual-degree program",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "uibe-buct-joint",
+          "label": "国际经济发展合作+高分子材料联合双学位",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics",
+                "chemistry"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "maximum": 25
+            }
+          },
+          "otherRequirements": [
+            "项目包含北京化工大学，双方系统均需申请；18岁以下须北京监护证明；非一般UIBE商科录取规则",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://sie.uibe.edu.cn/en/Prgr/BacDegPro/OfEn/abc864a25c554202bf5c9acbf53d2729.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "仅核实UIBE与北京化工大学联合双学位项目，不能推广至所有UIBE本科。要求高中毕业有大学申请资格，18-25岁，IELTS6/TOEFL85；CSCA数学和化学；综合面试。"
+    },
+    {
+      "id": "cn-cupl",
+      "nameZh": "中国政法大学",
+      "nameEn": "China University of Political Science and Law",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cupl.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-bsu",
+      "nameZh": "北京体育大学",
+      "nameEn": "Beijing Sport University",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.bsu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-ccom",
+      "nameZh": "中央音乐学院",
+      "nameEn": "Central Conservatory of Music",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ccom.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-ncepu",
+      "nameZh": "华北电力大学",
+      "nameEn": "North China Electric Power University",
+      "city": "北京 / 保定",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ncepu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-cumtb",
+      "nameZh": "中国矿业大学（北京）",
+      "nameEn": "China University of Mining and Technology Beijing",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cumtb.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-cup",
+      "nameZh": "中国石油大学（北京）",
+      "nameEn": "China University of Petroleum Beijing",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cup.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-cugb",
+      "nameZh": "中国地质大学（北京）",
+      "nameEn": "China University of Geosciences Beijing",
+      "city": "北京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cugb.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-nankai",
+      "nameZh": "南开大学",
+      "nameEn": "Nankai University",
+      "city": "天津",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nankai.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-tju",
+      "nameZh": "天津大学",
+      "nameEn": "Tianjin University",
+      "city": "天津",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.tju.edu.cn/",
+      "admissionsUrl": "https://sie.tju.edu.cn/en/xwxm/UNDERGRADUATE/202609/t20260930_324729.html",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://sie.tju.edu.cn/en/xwxm/UNDERGRADUATE/202609/t20260930_324729.html",
+          "title": "Tianjin University undergraduate admissions: 2027 application window",
+          "year": 2027,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "tju-cn",
+          "label": "中文授课本科（国际教育学院除外）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2027,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://sie.tju.edu.cn/en/xwxm/UNDERGRADUATE/202609/t20260930_324729.html",
+          "sourceStatus": "current_published",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "tju-sie",
+          "label": "国际教育学院本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2027,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://sie.tju.edu.cn/en/xwxm/UNDERGRADUATE/202609/t20260930_324729.html",
+          "sourceStatus": "current_published",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "tju-en",
+          "label": "英文授课本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中英文授课证明可替代IELTS；中文授课毕业证明可申请HSK豁免",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2027,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://sie.tju.edu.cn/en/xwxm/UNDERGRADUATE/202609/t20260930_324729.html",
+          "sourceStatus": "current_published",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "新简章窗口2026年9月30日至2027年5月31日；年龄25岁以下；一般中文HSK5 180，国际教育学院HSK4 180；英语IELTS6；需CSCA，科目另表。官网年龄段仍有2026字样，2027监护材料条款已更新。"
+    },
+    {
+      "id": "cn-tmu",
+      "nameZh": "天津医科大学",
+      "nameEn": "Tianjin Medical University",
+      "city": "天津",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.tmu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-hebut",
+      "nameZh": "河北工业大学",
+      "nameEn": "Hebei University of Technology",
+      "city": "天津",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hebut.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-tyut",
+      "nameZh": "太原理工大学",
+      "nameEn": "Taiyuan University of Technology",
+      "city": "太原",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.tyut.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-imu",
+      "nameZh": "内蒙古大学",
+      "nameEn": "Inner Mongolia University",
+      "city": "呼和浩特",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.imu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-dlut",
+      "nameZh": "大连理工大学",
+      "nameEn": "Dalian University of Technology",
+      "city": "大连",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.dlut.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-neu",
+      "nameZh": "东北大学",
+      "nameEn": "Northeastern University",
+      "city": "沈阳",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.neu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-lnu",
+      "nameZh": "辽宁大学",
+      "nameEn": "Liaoning University",
+      "city": "沈阳",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.lnu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-dlmu",
+      "nameZh": "大连海事大学",
+      "nameEn": "Dalian Maritime University",
+      "city": "大连",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.dlmu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-jlu",
+      "nameZh": "吉林大学",
+      "nameEn": "Jilin University",
+      "city": "长春",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.jlu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-nenu",
+      "nameZh": "东北师范大学",
+      "nameEn": "Northeast Normal University",
+      "city": "长春",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nenu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-ybu",
+      "nameZh": "延边大学",
+      "nameEn": "Yanbian University",
+      "city": "延吉",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ybu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-hit",
+      "nameZh": "哈尔滨工业大学",
+      "nameEn": "Harbin Institute of Technology",
+      "city": "哈尔滨",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hit.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-hrbeu",
+      "nameZh": "哈尔滨工程大学",
+      "nameEn": "Harbin Engineering University",
+      "city": "哈尔滨",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hrbeu.edu.cn/",
+      "admissionsUrl": "https://studyheu.hrbeu.edu.cn/info/1026/1393.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://studyheu.hrbeu.edu.cn/info/1026/1393.htm",
+          "title": "2026年哈尔滨工程大学国际学生本科招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "heu-cn-eng",
+          "label": "中文工程本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": null
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics",
+                "physics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "maximum": 25
+            },
+            "academicAverage": {
+              "minimum": 75,
+              "scale": 100,
+              "appliesTo": "school_certified_high_school_average",
+              "automaticConversionAllowed": false
+            }
+          },
+          "otherRequirements": [
+            "高中平均成绩至少75/100，按学校认定的计分方式核算，不能把GED/A-Level等级机械换算",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查",
+            "官网未列统一HSK总分，只核实等级，不自设分数线"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://studyheu.hrbeu.edu.cn/info/1026/1393.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "heu-en-eng",
+          "label": "英文工程本科（人工智能/土木双学位）",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics",
+                "physics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "maximum": 25
+            },
+            "academicAverage": {
+              "minimum": 75,
+              "scale": 100,
+              "appliesTo": "school_certified_high_school_average",
+              "automaticConversionAllowed": false
+            }
+          },
+          "otherRequirements": [
+            "高中平均成绩至少75/100；土木双学位第四年到英国，另须满足赴英与合作大学要求",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://studyheu.hrbeu.edu.cn/info/1026/1393.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "heu-chinese",
+          "label": "汉语言本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 3,
+              "minimumTotal": null
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics",
+                "chineseHumanities"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "maximum": 25
+            },
+            "academicAverage": {
+              "minimum": 75,
+              "scale": 100,
+              "appliesTo": "school_certified_high_school_average",
+              "automaticConversionAllowed": false
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查",
+            "官网未列统一HSK总分，只核实等级，不自设分数线"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://studyheu.hrbeu.edu.cn/info/1026/1393.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "官网明确高中平均成绩至少75/100。中文一般HSK4，汉语言HSK3；英语IELTS6；CSCA工程要求数学和物理，文科及管理中文和数学；土木双学位第四年赴英国。"
+    },
+    {
+      "id": "cn-neau",
+      "nameZh": "东北农业大学",
+      "nameEn": "Northeast Agricultural University",
+      "city": "哈尔滨",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.neau.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-nefu",
+      "nameZh": "东北林业大学",
+      "nameEn": "Northeast Forestry University",
+      "city": "哈尔滨",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nefu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-fudan",
+      "nameZh": "复旦大学",
+      "nameEn": "Fudan University",
+      "city": "上海",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.fudan.edu.cn/",
+      "admissionsUrl": "https://iso.fudan.edu.cn/_upload/article/files/bc/ed/37f712cb4e3f8316f4ec2ebc4ba2/6c9fce5d-d137-4934-b484-1c4630f18aa5.pdf",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://iso.fudan.edu.cn/_upload/article/files/bc/ed/37f712cb4e3f8316f4ec2ebc4ba2/6c9fce5d-d137-4934-b484-1c4630f18aa5.pdf",
+          "title": "2026 Undergraduate International Program in Data Science and Big Data Technology",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "fudan-data-en",
+          "label": "数据科学与大数据技术（英语UIPDB）",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics",
+                "physics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            }
+          },
+          "otherRequirements": [
+            "CSCA数学及物理须英语试卷；高中主课英语授课者可申请语言成绩豁免",
+            "不代表复旦所有中文本科要求；竞争性综合评定",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://iso.fudan.edu.cn/_upload/article/files/bc/ed/37f712cb4e3f8316f4ec2ebc4ba2/6c9fce5d-d137-4934-b484-1c4630f18aa5.pdf",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "仅核实英文数据科学与大数据技术项目。高中毕业且有大学申请资格，IELTS6.5或TOEFL90；CSCA英语数学和物理；高中主课英文授课可申请语言豁免；成绩文件有效期及面试另审核。"
+    },
+    {
+      "id": "cn-sjtu",
+      "nameZh": "上海交通大学",
+      "nameEn": "Shanghai Jiao Tong University",
+      "city": "上海",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.sjtu.edu.cn/",
+      "admissionsUrl": "https://isc.sjtu.edu.cn/CN/show.aspx?info_id=1671&info_lb=133",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://isc.sjtu.edu.cn/CN/show.aspx?info_id=1671&info_lb=133",
+          "title": "2026上海交通大学国际本科生中文项目",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "sjtu-cn",
+          "label": "中文授课本科（医学院另行招生）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "alternatives": [
+                {
+                  "minimumLevel": 5,
+                  "minimumTotal": 200,
+                  "writingMinimum": 60
+                },
+                {
+                  "minimumLevel": 6,
+                  "minimumTotal": 180,
+                  "writingMinimum": 60
+                }
+              ]
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中汉语授课等豁免材料须经校方核准",
+            "CSCA科目依具体专业；需英文能力证明，不能只检查HSK",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://isc.sjtu.edu.cn/CN/show.aspx?info_id=1671&info_lb=133",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "中文项目需HSK5 200且书写60，或HSK6 180且书写60；需CSCA。医学院另行招生。"
+    },
+    {
+      "id": "cn-tongji",
+      "nameZh": "同济大学",
+      "nameEn": "Tongji University",
+      "city": "上海",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.tongji.edu.cn/",
+      "admissionsUrl": "https://study.tongji.edu.cn/__local/7/F3/BB/C0BD5398885666DBDC4FB4C2007_31B4DDB5_4E0E8.pdf",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://study.tongji.edu.cn/__local/7/F3/BB/C0BD5398885666DBDC4FB4C2007_31B4DDB5_4E0E8.pdf",
+          "title": "2026 Tongji six-year English-taught MBBS recruitment plan",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "tongji-mbbs-en",
+          "label": "临床医学MBBS（六年英语）",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6.5
+            },
+            "age": {
+              "maximum": 35
+            }
+          },
+          "otherRequirements": [
+            "年龄按申请年12月31日计算；18岁以下材料另见简章",
+            "该PDF未明确CSCA，须核实最新招生要求，不可把未提及当成不需要",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://study.tongji.edu.cn/__local/7/F3/BB/C0BD5398885666DBDC4FB4C2007_31B4DDB5_4E0E8.pdf",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "仅核实六年英语临床医学MBBS：高中毕业及以上、年龄18至35、IELTS6.5或TOEFL85；英语母语或英文高中可免英语证明。此PDF未检索到CSCA条款，不能推断2027免CSCA。"
+    },
+    {
+      "id": "cn-ecnu",
+      "nameZh": "华东师范大学",
+      "nameEn": "East China Normal University",
+      "city": "上海",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ecnu.edu.cn/",
+      "admissionsUrl": "https://lxs.ecnu.edu.cn/cn_admission_degree_programs_undergraduate_program/list.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://lxs.ecnu.edu.cn/cn_admission_degree_programs_undergraduate_program/list.htm",
+          "title": "2026年华东师范大学国际学生本科招生",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "ecnu-general",
+          "label": "一般中文本科（特殊学院另列）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://lxs.ecnu.edu.cn/cn_admission_degree_programs_undergraduate_program/list.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "ecnu-special",
+          "label": "英语/国际汉语文化学院/设计学院中文专业",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://lxs.ecnu.edu.cn/cn_admission_degree_programs_undergraduate_program/list.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "ecnu-communication",
+          "label": "传播学院中文本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 6,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://lxs.ecnu.edu.cn/cn_admission_degree_programs_undergraduate_program/list.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "英语、国际汉语文化学院及设计学院中文专业HSK4 180，传播学院HSK6 180，其余中文HSK5 180；CSCA无2026最低分数线，作为综合评估参考。"
+    },
+    {
+      "id": "cn-ecust",
+      "nameZh": "华东理工大学",
+      "nameEn": "East China University of Science and Technology",
+      "city": "上海",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ecust.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-dhu",
+      "nameZh": "东华大学",
+      "nameEn": "Donghua University",
+      "city": "上海",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.dhu.edu.cn/",
+      "admissionsUrl": "https://iec.dhu.edu.cn/2025/1121/c20526a368999/page.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://iec.dhu.edu.cn/2025/1121/c20526a368999/page.htm",
+          "title": "2026年东华大学本科项目申请指南",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "dhu-cn",
+          "label": "中文本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            }
+          },
+          "otherRequirements": [
+            "CSCA另须文科中文或理科中文，专业另有物理/化学；此处数学为共同必考项",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://iec.dhu.edu.cn/2025/1121/c20526a368999/page.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "dhu-en",
+          "label": "英文本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 5.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "IELTS Academic；英语豁免须按指南核实，不能仅凭自报母语判定",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://iec.dhu.edu.cn/2025/1121/c20526a368999/page.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "中文本科须真实HSK5 180以上，英语本科IELTS Academic5.5或TOEFL72；正式高中毕业证必须于2026年8月底前补齐；CSCA中文项目必考专业中文和数学，其他科目依专业目录。"
+    },
+    {
+      "id": "cn-shisu",
+      "nameZh": "上海外国语大学",
+      "nameEn": "Shanghai International Studies University",
+      "city": "上海",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.shisu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-shufe",
+      "nameZh": "上海财经大学",
+      "nameEn": "Shanghai University of Finance and Economics",
+      "city": "上海",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.shufe.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-shu",
+      "nameZh": "上海大学",
+      "nameEn": "Shanghai University",
+      "city": "上海",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.shu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-nju",
+      "nameZh": "南京大学",
+      "nameEn": "Nanjing University",
+      "city": "南京",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nju.edu.cn/",
+      "admissionsUrl": "https://hwxy.nju.edu.cn/lxnd/zsxx/bkxm/sbzn/index.html",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://hwxy.nju.edu.cn/lxnd/zsxx/bkxm/sbzn/index.html",
+          "title": "南京大学2027本科自费申报指南（2026-09-16更新）",
+          "year": 2027,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "nju-cn",
+          "label": "中文本科（汉语言和英语专业除外）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180,
+              "sectionMinimum": 60
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "三年全日制高中；两年制高中另需一年预科；2027年须达到18岁，未满18岁报到须监护人证明",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2027,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://hwxy.nju.edu.cn/lxnd/zsxx/bkxm/sbzn/index.html",
+          "sourceStatus": "current_published",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "nju-chinese",
+          "label": "汉语言本科一年级",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180,
+              "sectionMinimum": 60
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "马来西亚UEC可代替HSK，不自动适用于缅甸华校",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2027,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://hwxy.nju.edu.cn/lxnd/zsxx/bkxm/sbzn/index.html",
+          "sourceStatus": "current_published",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "nju-english",
+          "label": "英语专业（仍为汉语授课本科）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180,
+              "sectionMinimum": 60
+            },
+            "ielts": {
+              "overallMinimum": 5.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2027,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://hwxy.nju.edu.cn/lxnd/zsxx/bkxm/sbzn/index.html",
+          "sourceStatus": "current_published",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "要求三年全日制高中毕业证与三年全部成绩；两年制高中须额外一年预科证与成绩。一般HSK5 180、单项60；汉语言HSK4 180、单项60；英语专业额外IELTS5.5。CSCA科目依2027目录。豁免UEC适用于马来西亚华校，不能推及缅甸华校。"
+    },
+    {
+      "id": "cn-seu",
+      "nameZh": "东南大学",
+      "nameEn": "Southeast University",
+      "city": "南京",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.seu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-suda",
+      "nameZh": "苏州大学",
+      "nameEn": "Soochow University",
+      "city": "苏州",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.suda.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-nuaa",
+      "nameZh": "南京航空航天大学",
+      "nameEn": "Nanjing University of Aeronautics and Astronautics",
+      "city": "南京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nuaa.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-njust",
+      "nameZh": "南京理工大学",
+      "nameEn": "Nanjing University of Science and Technology",
+      "city": "南京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.njust.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-cumt",
+      "nameZh": "中国矿业大学",
+      "nameEn": "China University of Mining and Technology",
+      "city": "徐州",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cumt.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-hhu",
+      "nameZh": "河海大学",
+      "nameEn": "Hohai University",
+      "city": "南京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hhu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-jiangnan",
+      "nameZh": "江南大学",
+      "nameEn": "Jiangnan University",
+      "city": "无锡",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.jiangnan.edu.cn/",
+      "admissionsUrl": "https://studyabroad.jiangnan.edu.cn/zs/bkxm.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://studyabroad.jiangnan.edu.cn/zs/bkxm.htm",
+          "title": "江南大学2026本科国际学生招生",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "accepted",
+          "reason": "本科2026官网明确列A-Level文凭或同等资格；仍需高中教育材料、科目审查及综合录取"
+        }
+      },
+      "rules": [
+        {
+          "id": "jiangnan-cn",
+          "label": "中文本科（文史另列）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": null
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "毕业学校当年度列入华文学校名单可免HSK，须核实学校是否入名单",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查",
+            "官网未列统一HSK总分，只核实等级，不自设分数线"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "accepted",
+              "reason": "本科2026官网明确列A-Level文凭或同等资格；仍需高中教育材料、科目审查及综合录取"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://studyabroad.jiangnan.edu.cn/zs/bkxm.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "jiangnan-humanities",
+          "label": "中文文史本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": null
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查",
+            "官网未列统一HSK总分，只核实等级，不自设分数线"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "accepted",
+              "reason": "本科2026官网明确列A-Level文凭或同等资格；仍需高中教育材料、科目审查及综合录取"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://studyabroad.jiangnan.edu.cn/zs/bkxm.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "jiangnan-textile-en",
+          "label": "纺织工程（英语）",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 5.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics",
+                "physics",
+                "chemistry"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "全英文前置课程可豁免英语证明；设计专业还须作品集",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "accepted",
+              "reason": "本科2026官网明确列A-Level文凭或同等资格；仍需高中教育材料、科目审查及综合录取"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://studyabroad.jiangnan.edu.cn/zs/bkxm.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "jiangnan-design-en",
+          "label": "工业设计（英语）",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 5.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics",
+                "physics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "须至少3幅作品；全英文前置课程可豁免英语证明",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "accepted",
+              "reason": "本科2026官网明确列A-Level文凭或同等资格；仍需高中教育材料、科目审查及综合录取"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://studyabroad.jiangnan.edu.cn/zs/bkxm.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "高中毕业、A-Level或同等资格可申请；中文一般HSK4，文史HSK5，未列统一总分；英语IELTS5.5；所有本科须CSCA。英文纺织工程数学物理化学，工业设计数学物理；当年度名单华校可免HSK，学校名单必须核实。"
+    },
+    {
+      "id": "cn-njau",
+      "nameZh": "南京农业大学",
+      "nameEn": "Nanjing Agricultural University",
+      "city": "南京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.njau.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-cpu",
+      "nameZh": "中国药科大学",
+      "nameEn": "China Pharmaceutical University",
+      "city": "南京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cpu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-njnu",
+      "nameZh": "南京师范大学",
+      "nameEn": "Nanjing Normal University",
+      "city": "南京",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.njnu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-zju",
+      "nameZh": "浙江大学",
+      "nameEn": "Zhejiang University",
+      "city": "杭州",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.zju.edu.cn/",
+      "admissionsUrl": "https://iczu.zju.edu.cn/admissionsen/2024/1030/c68988a2981659/page.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://iczu.zju.edu.cn/admissionsen/2024/1030/c68988a2981659/page.htm",
+          "title": "Application Guide for Undergraduate Programs 2026",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://zibs.zju.edu.cn/enzibs/UndergraduateApplication/list.psp",
+          "title": "Global Communication and Management undergraduate application",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "zju-general",
+          "label": "本科通用要求（专业另核）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "通用简章无统一HSK总分；需查看拟选专业目录",
+            "初中和高中必修课程授课语言均为汉语才符合此页豁免条件",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://iczu.zju.edu.cn/admissionsen/2024/1030/c68988a2981659/page.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "zju-gcm",
+          "label": "Global Communication and Management（英语）",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "CSCA数学必须英语试卷；IELTS Academic；TOEFL80可替代；母语英语可豁免",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://iczu.zju.edu.cn/admissionsen/2024/1030/c68988a2981659/page.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "25岁以下，须高中毕业；2026/2027起本科国际生需CSCA；高中与初中必修课汉语授课可凭证明申请HSK豁免；语言分数须按专业目录查。"
+    },
+    {
+      "id": "cn-ustc",
+      "nameZh": "中国科学技术大学",
+      "nameEn": "University of Science and Technology of China",
+      "city": "合肥",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ustc.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-ahu",
+      "nameZh": "安徽大学",
+      "nameEn": "Anhui University",
+      "city": "合肥",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ahu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-hfut",
+      "nameZh": "合肥工业大学",
+      "nameEn": "Hefei University of Technology",
+      "city": "合肥",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hfut.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-xmu",
+      "nameZh": "厦门大学",
+      "nameEn": "Xiamen University",
+      "city": "厦门",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.xmu.edu.cn/",
+      "admissionsUrl": "https://admissions.xmu.edu.cn/cn/info/1019/2036.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://admissions.xmu.edu.cn/cn/info/1019/2036.htm",
+          "title": "厦门大学2026年国际学生本科招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "xmu-humanities",
+          "label": "中文人文社科、经管法、艺术本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 210
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics",
+                "chineseHumanities"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "汉语言专业另查学院要求；高中中文授课证明可替代HSK",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://admissions.xmu.edu.cn/cn/info/1019/2036.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "xmu-stem",
+          "label": "中文理工医、体育本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 210
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics",
+                "chineseStem"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "理工农医还须CSCA物理/化学至少一门；体育专业科目依目录",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://admissions.xmu.edu.cn/cn/info/1019/2036.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "xmu-en",
+          "label": "英语授课本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "理工农医CSCA物理/化学至少一门；测试语言与授课一致；英语授课证明经学校认可可替代",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://admissions.xmu.edu.cn/cn/info/1019/2036.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "高中毕业且具有大学申请资格；本科CSCA数学必考，中文项目专业中文必考，理工农医物理化学至少一门；中文人文经管法艺HSK5 210、理工医体育HSK4 210；英语IELTS6。"
+    },
+    {
+      "id": "cn-fzu",
+      "nameZh": "福州大学",
+      "nameEn": "Fuzhou University",
+      "city": "福州",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.fzu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-ncu",
+      "nameZh": "南昌大学",
+      "nameEn": "Nanchang University",
+      "city": "南昌",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ncu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-sdu",
+      "nameZh": "山东大学",
+      "nameEn": "Shandong University",
+      "city": "济南",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.sdu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-ouc",
+      "nameZh": "中国海洋大学",
+      "nameEn": "Ocean University of China",
+      "city": "青岛",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ouc.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-upc",
+      "nameZh": "中国石油大学（华东）",
+      "nameEn": "China University of Petroleum East China",
+      "city": "青岛",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.upc.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-zzu",
+      "nameZh": "郑州大学",
+      "nameEn": "Zhengzhou University",
+      "city": "郑州",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.zzu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-whu",
+      "nameZh": "武汉大学",
+      "nameEn": "Wuhan University",
+      "city": "武汉",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.whu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-hust",
+      "nameZh": "华中科技大学",
+      "nameEn": "Huazhong University of Science and Technology",
+      "city": "武汉",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hust.edu.cn/",
+      "admissionsUrl": "https://iso.hust.edu.cn/info/1194/4638.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://iso.hust.edu.cn/info/1194/4638.htm",
+          "title": "2026 HUST Application Guide for International Undergraduate Students",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "hust-stem",
+          "label": "中文理工医本科（人工智能学院除外）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://iso.hust.edu.cn/info/1194/4638.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "hust-humanities",
+          "label": "中文经管人文及人工智能学院",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://iso.hust.edu.cn/info/1194/4638.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "hust-en",
+          "label": "英文授课本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 5.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "TOEFL80或校方认可的其他英语证明可替代；前置学历英语授课/英语母语经确认可豁免",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://iso.hust.edu.cn/info/1194/4638.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "要求高中毕业、成绩单及CSCA；中文理工医HSK4 180，人文经管及人工智能学院HSK5 180；英语IELTS5.5。"
+    },
+    {
+      "id": "cn-cug",
+      "nameZh": "中国地质大学（武汉）",
+      "nameEn": "China University of Geosciences Wuhan",
+      "city": "武汉",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cug.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-whut",
+      "nameZh": "武汉理工大学",
+      "nameEn": "Wuhan University of Technology",
+      "city": "武汉",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.whut.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-hzau",
+      "nameZh": "华中农业大学",
+      "nameEn": "Huazhong Agricultural University",
+      "city": "武汉",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hzau.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-ccnu",
+      "nameZh": "华中师范大学",
+      "nameEn": "Central China Normal University",
+      "city": "武汉",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ccnu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-zuel",
+      "nameZh": "中南财经政法大学",
+      "nameEn": "Zhongnan University of Economics and Law",
+      "city": "武汉",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.zuel.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-hnu",
+      "nameZh": "湖南大学",
+      "nameEn": "Hunan University",
+      "city": "长沙",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hnu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-csu",
+      "nameZh": "中南大学",
+      "nameEn": "Central South University",
+      "city": "长沙",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.csu.edu.cn/",
+      "admissionsUrl": "https://intl.csu.edu.cn/info/1075/3804.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://intl.csu.edu.cn/info/1075/3804.htm",
+          "title": "2026年中南大学国际学生本科生（中文授课）招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "csu-stem",
+          "label": "中文理工科本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 260
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://intl.csu.edu.cn/info/1075/3804.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "csu-humanities-med",
+          "label": "中文医学和文科本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 200
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://intl.csu.edu.cn/info/1075/3804.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "须高中学历且提交CSCA规定科目；理工HSK4 260；医学和其他文科HSK5 200；相应汉语授课经历可凭证明申请豁免。"
+    },
+    {
+      "id": "cn-hunnu",
+      "nameZh": "湖南师范大学",
+      "nameEn": "Hunan Normal University",
+      "city": "长沙",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hunnu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-sysu",
+      "nameZh": "中山大学",
+      "nameEn": "Sun Yat-sen University",
+      "city": "广州",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.sysu.edu.cn/",
+      "admissionsUrl": "https://iso.sysu.edu.cn/cn/zfxm/1420524.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://iso.sysu.edu.cn/cn/zfxm/1420524.htm",
+          "title": "中山大学2026本科国际学生招生简章及专业目录",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://iso.sysu.edu.cn/docs/2025-12/20251209183332399352.pdf",
+          "title": "中山大学2026国际学生本科专业目录",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "sysu-literature",
+          "label": "汉语言文学（广州校区）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            }
+          },
+          "otherRequirements": [
+            "另须CSCA文科中文或理科中文；学历资格仍须审查",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://iso.sysu.edu.cn/cn/zfxm/1420524.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "sysu-biomed",
+          "label": "生物医学工程（深圳校区）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "chineseStem",
+                "mathematics",
+                "physics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://iso.sysu.edu.cn/cn/zfxm/1420524.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "专业目录确认汉语言文学HSK5 180，CSCA文科中文或理科中文及数学；生物医学工程HSK5 180，CSCA理科中文、数学、物理。目录每专业列HSK阈值，不能推及所有专业。"
+    },
+    {
+      "id": "cn-scut",
+      "nameZh": "华南理工大学",
+      "nameEn": "South China University of Technology",
+      "city": "广州",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.scut.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-jnu",
+      "nameZh": "暨南大学",
+      "nameEn": "Jinan University",
+      "city": "广州",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.jnu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-scnu",
+      "nameZh": "华南师范大学",
+      "nameEn": "South China Normal University",
+      "city": "广州",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.scnu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-gxu",
+      "nameZh": "广西大学",
+      "nameEn": "Guangxi University",
+      "city": "南宁",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.gxu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-hainanu",
+      "nameZh": "海南大学",
+      "nameEn": "Hainan University",
+      "city": "海口",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hainanu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-cqu",
+      "nameZh": "重庆大学",
+      "nameEn": "Chongqing University",
+      "city": "重庆",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cqu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-swu",
+      "nameZh": "西南大学",
+      "nameEn": "Southwest University",
+      "city": "重庆",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.swu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-scu",
+      "nameZh": "四川大学",
+      "nameEn": "Sichuan University",
+      "city": "成都",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.scu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-uestc",
+      "nameZh": "电子科技大学",
+      "nameEn": "University of Electronic Science and Technology of China",
+      "city": "成都",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.uestc.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-swjtu",
+      "nameZh": "西南交通大学",
+      "nameEn": "Southwest Jiaotong University",
+      "city": "成都",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.swjtu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-sicau",
+      "nameZh": "四川农业大学",
+      "nameEn": "Sichuan Agricultural University",
+      "city": "雅安 / 成都",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.sicau.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-swufe",
+      "nameZh": "西南财经大学",
+      "nameEn": "Southwestern University of Finance and Economics",
+      "city": "成都",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.swufe.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-gzu",
+      "nameZh": "贵州大学",
+      "nameEn": "Guizhou University",
+      "city": "贵阳",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.gzu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-ynu",
+      "nameZh": "云南大学",
+      "nameEn": "Yunnan University",
+      "city": "昆明",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ynu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-utibet",
+      "nameZh": "西藏大学",
+      "nameEn": "Tibet University",
+      "city": "拉萨",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.utibet.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-xjtu",
+      "nameZh": "西安交通大学",
+      "nameEn": "Xi'an Jiaotong University",
+      "city": "西安",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.xjtu.edu.cn/",
+      "admissionsUrl": "https://sie.xjtu.edu.cn/en/info/1119/2943.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://sie.xjtu.edu.cn/en/info/1119/2943.htm",
+          "title": "Xi’an Jiaotong University International Undergraduate Programs 2026",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "xjtu-cn",
+          "label": "中文本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": null
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查",
+            "官网未列统一HSK总分，只核实等级，不自设分数线"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://sie.xjtu.edu.cn/en/info/1119/2943.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "xjtu-en",
+          "label": "英文本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://sie.xjtu.edu.cn/en/info/1119/2943.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "25岁以下，须高中或高级文凭；国际考试包括A-Level可提供，仍要求高中毕业证；中文HSK4及以上未设统一总分，英语IELTS6或TOEFL80；需CSCA，综合面试择优。"
+    },
+    {
+      "id": "cn-nwpu",
+      "nameZh": "西北工业大学",
+      "nameEn": "Northwestern Polytechnical University",
+      "city": "西安",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nwpu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-nwafu",
+      "nameZh": "西北农林科技大学",
+      "nameEn": "Northwest A&F University",
+      "city": "杨凌",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nwafu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-nwu",
+      "nameZh": "西北大学",
+      "nameEn": "Northwest University",
+      "city": "西安",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nwu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-xidian",
+      "nameZh": "西安电子科技大学",
+      "nameEn": "Xidian University",
+      "city": "西安",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.xidian.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-chd",
+      "nameZh": "长安大学",
+      "nameEn": "Chang'an University",
+      "city": "西安",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.chd.edu.cn/",
+      "admissionsUrl": "https://webplus.chd.edu.cn/en/2025/1128/c8645a257445/page.psp",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://webplus.chd.edu.cn/en/2025/1128/c8645a257445/page.psp",
+          "title": "2026 Chang’an University International Student Bachelor’s Program Guide",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "changan-cn",
+          "label": "中文本科（人文学院另列）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180,
+              "exclusive": true
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "全部高中课程不得有不及格成绩；专业CSCA科目另查附表",
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://webplus.chd.edu.cn/en/2025/1128/c8645a257445/page.psp",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "changan-humanities",
+          "label": "人文学院中文本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180,
+              "exclusive": true
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://webplus.chd.edu.cn/en/2025/1128/c8645a257445/page.psp",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        },
+        {
+          "id": "changan-en",
+          "label": "英文授课本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证（或预毕业证明并按时补交）、高中成绩单、非中国籍资格审核；按学校要求完成综合审查"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证；须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求认可的高中毕业学历与完整成绩单；未逐项明确缅甸该类文凭，需学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://webplus.chd.edu.cn/en/2025/1128/c8645a257445/page.psp",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null
+        }
+      ],
+      "evidenceParaphrase": "25岁以下，完成高中或同等教育，成绩单不能有不及格课程；中文一般HSK4高于180、人文学部HSK5高于180；英文IELTS6；所有本科须CSCA专业指定科目。"
+    },
+    {
+      "id": "cn-snnu",
+      "nameZh": "陕西师范大学",
+      "nameEn": "Shaanxi Normal University",
+      "city": "西安",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.snnu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-lzu",
+      "nameZh": "兰州大学",
+      "nameEn": "Lanzhou University",
+      "city": "兰州",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.lzu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-qhu",
+      "nameZh": "青海大学",
+      "nameEn": "Qinghai University",
+      "city": "西宁",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.qhu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-nxu",
+      "nameZh": "宁夏大学",
+      "nameEn": "Ningxia University",
+      "city": "银川",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nxu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-xju",
+      "nameZh": "新疆大学",
+      "nameEn": "Xinjiang University",
+      "city": "乌鲁木齐",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.xju.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-shzu",
+      "nameZh": "石河子大学",
+      "nameEn": "Shihezi University",
+      "city": "石河子",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.shzu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-nudt",
+      "nameZh": "国防科技大学",
+      "nameEn": "National University of Defense Technology",
+      "city": "长沙",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": true,
+      "officialUrl": "https://www.nudt.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "military_requires_separate_confirmation",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-smmu",
+      "nameZh": "海军军医大学",
+      "nameEn": "Naval Medical University",
+      "city": "上海",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": true,
+      "officialUrl": "https://www.smmu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "military_requires_separate_confirmation",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    },
+    {
+      "id": "cn-fmmu",
+      "nameZh": "空军军医大学",
+      "nameEn": "Air Force Medical University",
+      "city": "西安",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": true,
+      "officialUrl": "https://www.fmmu.edu.cn/",
+      "admissionsUrl": null,
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "military_requires_separate_confirmation",
+      "sources": [],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实具体学历认可与本科招生规则"
+        }
+      },
+      "rules": []
+    }
+  ],
+  "stats": {
+    "directoryEntries": 115,
+    "classification985": 39,
+    "classification211": 115,
+    "verifiedUniversities": 18,
+    "projectRules": 41,
+    "militaryEntries": 3
+  }
+}

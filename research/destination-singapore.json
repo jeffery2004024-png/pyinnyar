@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "country": "SG",
+  "checkedAt": "2026-10-08",
+  "overview": {
+    "zh": "新加坡提供本地自治大学与海外大学校区等学习选择。缅甸学生应先区分本科、预科和Diploma，再核对学历认可、英文要求及Student’s Pass流程。",
+    "en": "Singapore offers local autonomous universities and overseas university campuses. Myanmar students should first distinguish bachelor, foundation and diploma routes, then check qualification acceptance, English requirements and Student’s Pass procedures.",
+    "my": "စင်ကာပူတွင် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ တက္ကသိုလ်များနှင့် နိုင်ငံခြားတက္ကသိုလ်ကျောင်းဝင်းများကို ရွေးချယ်နိုင်သည်။ မြန်မာကျောင်းသားများသည် ဘွဲ့၊ ဖောင်ဒေးရှင်းနှင့် ဒီပလိုမာလမ်းကြောင်းကို ခွဲခြားပြီး အောင်လက်မှတ်လက်ခံမှု၊ အင်္ဂလိပ်လိုအပ်ချက်နှင့် Student’s Pass လုပ်ငန်းစဉ်ကို စစ်ဆေးသင့်သည်။"
+  },
+  "sections": [
+    {
+      "id": "qualification",
+      "title": {
+        "zh": "先确认你的学历属于哪条申请路径",
+        "en": "Start with your qualification",
+        "my": "ပညာရေးအရည်အချင်းအလိုက် ဝင်ခွင့်လမ်းကြောင်းများ"
+      },
+      "body": {
+        "zh": "学校按所持学历和专业审核，不存在所有缅甸高中证书统一直入本科的规则。例如NTU的缅甸会考路径还要求AP或英国A-Level等补充资格。华校毕业证、GED及不同A-Level考试局须分别核对，不能仅凭学校授课语言推定学历认可。",
+        "en": "Each university reviews the qualification and programme. NTU’s Myanmar Matriculation route requires supplementary AP or UK A-Level qualifications. Chinese-school certificates, GED and different A-Level boards need separate checks; the school’s teaching language alone does not establish acceptance.",
+        "my": "တက္ကသိုလ်တစ်ခုစီက အောင်လက်မှတ်နှင့် ဘာသာရပ်အလိုက် စစ်ဆေးသည်။ NTU ၏ မြန်မာတက္ကသိုလ်ဝင်စာမေးပွဲလမ်းကြောင်းတွင် AP သို့မဟုတ် UK A-Level ကဲ့သို့ ထပ်ဆောင်းအရည်အချင်း လိုအပ်သည်။ တရုတ်ကျောင်းအောင်လက်မှတ်၊ GED နှင့် A-Level စာစစ်အဖွဲ့များကို သီးခြားစစ်ဆေးရမည်။"
+      },
+      "sources": [
+        {
+          "title": "NTU — Myanmar Matriculation Exam",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/myanmar-matriculation-exam",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "title": {
+        "zh": "英语学习与语言证明",
+        "en": "Study language and English evidence",
+        "my": "သင်ကြားဘာသာစကားနှင့် အင်္ဂလိပ်အရည်အချင်း"
+      },
+      "body": {
+        "zh": "英语是主要学习语言之一；NUS明确以英语授课，另有说明的课程除外。IELTS、TOEFL或授课语言证明的接受方式因学校、学历和专业而异，HSK不能替代英文入学要求。先查看具体课程的语言规则，再安排考试。",
+        "en": "English is a key study language. NUS teaches in English unless a course states otherwise. Accepted IELTS, TOEFL or instruction-language evidence varies by university, qualification and programme. HSK does not replace English entry requirements.",
+        "my": "အင်္ဂလိပ်သည် အဓိကသင်ကြားဘာသာစကားတစ်ခု ဖြစ်သည်။ NUS တွင် သီးခြားဖော်ပြထားသည့် သင်တန်းမှလွဲ၍ အင်္ဂလိပ်ဖြင့် သင်ကြားသည်။ IELTS၊ TOEFL သို့မဟုတ် သင်ကြားဘာသာစကားအထောက်အထားကို လက်ခံပုံသည် ကျောင်းနှင့် သင်တန်းအလိုက် ကွာခြားသည်။ HSK သည် အင်္ဂလိပ်ဝင်ခွင့်လိုအပ်ချက်ကို အစားမထိုးနိုင်ပါ။"
+      },
+      "sources": [
+        {
+          "title": "NUS — Education and medium of instruction",
+          "url": "https://nus.edu.sg/registrar/academic-information-policies/education-at-nus",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NTU — Myanmar English language requirements",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/myanmar-matriculation-exam",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "pathways",
+      "title": {
+        "zh": "本科、预科和Diploma分开选择",
+        "en": "Bachelor, foundation and diploma pathways",
+        "my": "ဘွဲ့ကြို၊ အကြိုတန်းနှင့် ဒီပလိုမာလမ်းကြောင်းများ"
+      },
+      "body": {
+        "zh": "本科申请与预科/Diploma申请是不同层次。JCU Singapore提供大学预科，面向尚未满足本科入口的学生，衔接指定商科、心理学、IT等本科。部分学院提供Diploma路径；升读哪所大学、能否转学分和所需成绩，须看明确的衔接协议，不能假设可自动进入NUS、NTU或SMU。",
+        "en": "Bachelor admission is separate from foundation or diploma admission. JCU Singapore’s foundation prepares students for specified bachelor programmes. Some colleges offer diplomas; progression, grades and credit transfer require a specific agreement, with no automatic entry to NUS, NTU or SMU.",
+        "my": "ဘွဲ့ကြိုဝင်ခွင့်၊ ဖောင်ဒေးရှင်းနှင့် ဒီပလိုမာဝင်ခွင့်တို့သည် မတူညီပါ။ JCU Singapore ၏ ဖောင်ဒေးရှင်းသည် သတ်မှတ်ထားသော ဘွဲ့သင်တန်းများအတွက် ပြင်ဆင်ပေးသည်။ အချို့ကောလိပ်များတွင် ဒီပလိုမာလမ်းကြောင်းရှိသည်။ ဘွဲ့ဆက်တက်ခြင်းနှင့် ခရက်ဒစ်လွှဲပြောင်းခြင်းကို သီးခြားသဘောတူညီချက်ဖြင့် စစ်ဆေးရမည်။ NUS၊ NTU၊ SMU သို့ အလိုအလျောက်ဝင်ခွင့် မရပါ။"
+      },
+      "sources": [
+        {
+          "title": "JCU Singapore — Pre-University Foundation Program",
+          "url": "https://www.jcu.edu.sg/courses-and-study/courses/course/pre-university-foundation-program",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "PSB Academy — Myanmar entry requirements for selected diploma routes",
+          "url": "https://www.psb-academy.edu.sg/resources/others/common/Entry-Requirement-Myanmar.pdf",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "application",
+      "title": {
+        "zh": "从选专业到正式申请",
+        "en": "From programme choice to application",
+        "my": "သင်တန်းရွေးချယ်ခြင်းမှ လျှောက်ထားခြင်းအထိ"
+      },
+      "body": {
+        "zh": "先选专业并核对学历、先修科目和语言要求，再按学校官网提交毕业证、成绩单、护照资料及所需考试证明；需要时提交英文认证译本。申请后跟进补件和面试，收到录取后按学校要求确认名额。学校录取和Student’s Pass是两个审核流程。",
+        "en": "Choose a programme and check qualifications, prerequisites and language rules. Apply through the university with certificates, transcripts, passport details and required test evidence, including certified English translations where required. Follow up on documents and interviews, then accept the offer as instructed. Admission and Student’s Pass are separate reviews.",
+        "my": "သင်တန်းရွေးပြီး အောင်လက်မှတ်၊ လိုအပ်သောဘာသာရပ်နှင့် ဘာသာစကားစည်းကမ်းများကို စစ်ဆေးရန် လိုသည်။ အောင်လက်မှတ်၊ အမှတ်စာရင်း၊ နိုင်ငံကူးလက်မှတ်နှင့် စာမေးပွဲအထောက်အထားများဖြင့် ကျောင်းဝက်ဘ်ဆိုက်မှ လျှောက်ထားရန် လိုသည်။ လိုအပ်ပါက အသိအမှတ်ပြု အင်္ဂလိပ်ဘာသာပြန်ကို တင်ပြရန် လိုသည်။ ထပ်တောင်းစာရွက်စာတမ်းနှင့် လူတွေ့ကို ဆက်လက်လုပ်ဆောင်ပြီး ဝင်ခွင့်ကို အတည်ပြုရန် လိုသည်။ ကျောင်းဝင်ခွင့်နှင့် Student’s Pass ကို သီးခြားစစ်ဆေးသည်။"
+      },
+      "sources": [
+        {
+          "title": "NTU — Myanmar application procedures",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/myanmar-matriculation-exam",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "JCU Singapore — International student admissions",
+          "url": "https://www.jcu.edu.sg/courses-and-study/admissions/admissions-procedures-And-requirements/admissions-international-students",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "pass-course",
+      "title": {
+        "zh": "Student’s Pass第一步：核对课程和学校类型",
+        "en": "Student’s Pass: check the institution",
+        "my": "Student’s Pass — ပညာရေးအဖွဲ့အစည်း အမျိုးအစား"
+      },
+      "body": {
+        "zh": "获批的全日制课程通常需要Student’s Pass，法定豁免另计。NUS、NTU、SMU按ICA高等教育机构路径申请；私立教育机构须核对EduTrust资格，再按私校路径办理。兼职、夜间或周末课程不符合这一申请类别。",
+        "en": "Approved full-time study generally requires a Student’s Pass, subject to ICA exemptions. NUS, NTU and SMU use the IHL route. For private institutions, check EduTrust and use the PEI route. Part-time, evening and weekend courses are ineligible.",
+        "my": "ICA ကင်းလွတ်ခွင့်မရှိပါက ခွင့်ပြုထားသော အချိန်ပြည့်သင်တန်းအတွက် Student’s Pass လိုအပ်သည်။ NUS၊ NTU၊ SMU သည် IHL လမ်းကြောင်းကို သုံးသည်။ ပုဂ္ဂလိကကျောင်းအတွက် EduTrust နှင့် PEI လမ်းကြောင်းကို စစ်ဆေးရန် လိုသည်။ အချိန်ပိုင်း၊ ညနေနှင့် စနေတနင်္ဂနွေသင်တန်းများသည် ဤလျှောက်လွှာအတွက် မကိုက်ညီပါ။"
+      },
+      "sources": [
+        {
+          "title": "ICA — Student’s Pass overview",
+          "url": "https://www.ica.gov.sg/reside/STP/apply",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "ICA — Institutes of Higher Learning",
+          "url": "https://www.ica.gov.sg/reside/STP/apply/ihl",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "ICA — Approved Private Education Institutions",
+          "url": "https://www.ica.gov.sg/reside/STP/apply/pei",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "pass-documents",
+      "title": {
+        "zh": "准备登记确认信、身份和支持材料",
+        "en": "Prepare registration and identity documents",
+        "my": "မှတ်ပုံတင်အတည်ပြုစာနှင့် လိုအပ်သောစာရွက်စာတမ်းများ"
+      },
+      "body": {
+        "zh": "准备学校Registration Acknowledgement Letter、护照资料页、适用的出生证明、近期数码照片，以及教育、家庭、资金支持和新加坡地址资料。非英文文件须按ICA认可方式提供正式英文翻译；具体补件以ICA要求为准。",
+        "en": "Prepare the school’s Registration Acknowledgement Letter, passport biodata, applicable birth certificate, recent digital photo, and education, family, funding and Singapore address details. Non-English documents need official English translations accepted by ICA.",
+        "my": "ကျောင်း၏ Registration Acknowledgement Letter၊ နိုင်ငံကူးလက်မှတ်အချက်အလက်စာမျက်နှာ၊ လိုအပ်သောမွေးစာရင်း၊ လတ်တလောဒစ်ဂျစ်တယ်ဓာတ်ပုံ၊ ပညာရေး၊ မိသားစု၊ ငွေကြေးထောက်ပံ့မှုနှင့် စင်ကာပူလိပ်စာအချက်အလက်များကို ပြင်ဆင်ရန် လိုသည်။ အင်္ဂလိပ်မဟုတ်သော စာရွက်စာတမ်းများကို ICA လက်ခံသော တရားဝင်အင်္ဂလိပ်ဘာသာပြန်နှင့် တင်ရမည်။"
+      },
+      "sources": [
+        {
+          "title": "ICA — IHL documents required",
+          "url": "https://www.ica.gov.sg/reside/STP/apply/ihl",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "ICA — PEI documents required",
+          "url": "https://www.ica.gov.sg/reside/STP/apply/pei",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "pass-submit",
+      "title": {
+        "zh": "开课前2–3个月在线申请",
+        "en": "Apply online 2–3 months before study",
+        "my": "သင်တန်းမစမီ ၂–၃ လအတွင်း အွန်လိုင်းလျှောက်ထားမှု"
+      },
+      "body": {
+        "zh": "ICA当前规定IHL和PEI新申请在开课前至少2个月、不超过3个月提交。按学校登记资料使用ICA在线服务，并在赴新加坡前处理申请；不应依赖短期停留延期等待结果。课程或学校变更须另核对新的申请要求。",
+        "en": "For new IHL and PEI applications, ICA currently requires submission 2–3 months before the course starts. Use the school’s registration details and apply before travelling. Do not rely on extending a short visit while waiting.",
+        "my": "IHL နှင့် PEI အသစ်လျှောက်လွှာကို သင်တန်းမစမီ အနည်းဆုံး ၂ လ၊ အများဆုံး ၃ လကြိုတင်၍ တင်ရန် ICA က သတ်မှတ်ထားသည်။ ကျောင်းမှပေးသော မှတ်ပုံတင်အချက်အလက်ကို သုံးပြီး ခရီးမသွားမီ လျှောက်ထားရန် လိုသည်။ အဖြေစောင့်နေစဉ် ခဏတာနေထိုင်ခွင့် သက်တမ်းတိုးမည်ဟု မယူဆပါနှင့်။"
+      },
+      "sources": [
+        {
+          "title": "ICA — IHL application procedure",
+          "url": "https://www.ica.gov.sg/reside/STP/apply/ihl",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "ICA — PEI new application procedure",
+          "url": "https://www.ica.gov.sg/reside/STP/apply/pei",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "pass-complete",
+      "title": {
+        "zh": "获IPA后完成入境与签发手续",
+        "en": "Complete formalities after IPA approval",
+        "my": "IPA ရရှိပြီးနောက် ဆက်လက်ဆောင်ရွက်ရမည့်အဆင့်များ"
+      },
+      "body": {
+        "zh": "获In-Principle Approval（IPA）后，按信件要求准备适用的体检和原件。在有效入境身份下，按学校安排或ICA预约完成手续与生物信息登记，再领取电子Student’s Pass。如需入境签证，ICA说明会包含在IPA中。",
+        "en": "After IPA approval, follow its document and medical instructions. Enter on a valid immigration pass, complete the school-arranged or ICA appointment and biometrics, then retrieve the digital Student’s Pass. Any required entry visa is included in the IPA.",
+        "my": "IPA ခွင့်ပြုစာရပြီးနောက် စာထဲပါ စာရွက်စာတမ်းနှင့် လိုအပ်သောဆေးစစ်ညွှန်ကြားချက်များကို လိုက်နာရန် လိုသည်။ တရားဝင်ဝင်ရောက်နေထိုင်ခွင့်ဖြင့် ကျောင်းစီစဉ်မှု သို့မဟုတ် ICA ချိန်းဆိုမှုအတိုင်း ကိုယ်ရေးအချက်အလက်မှတ်တမ်းတင်ပြီး ဒစ်ဂျစ်တယ် Student’s Pass ကို ရယူရန် လိုသည်။ လိုအပ်သောဝင်ခွင့်ဗီဇာသည် IPA တွင် ပါဝင်မည်။"
+      },
+      "sources": [
+        {
+          "title": "ICA — Completion and digital Student’s Pass",
+          "url": "https://www.ica.gov.sg/reside/STP/collect",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "id": "sg-nus",
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore (NUS)",
+      "location": {
+        "zh": "肯特岗主校区；另有武吉知马和欧南园校区",
+        "en": "Kent Ridge, with Bukit Timah and Outram campuses",
+        "my": "Kent Ridge အဓိကကျောင်းဝင်း၊ Bukit Timah နှင့် Outram ကျောင်းဝင်းများ"
+      },
+      "type": {
+        "zh": "新加坡本地自治大学",
+        "en": "Local autonomous university",
+        "my": "စင်ကာပူ၏ ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ တက္ကသိုလ်"
+      },
+      "description": {
+        "zh": "综合型大学，强调教育、研究与创业实践。多学院和跨学科课程适合希望广泛探索专业的学生；本科资格与科目要求须按具体项目核对。",
+        "en": "A comprehensive autonomous university combining education, research and enterprise. Its multiple schools and interdisciplinary options support broad subject exploration; bachelor requirements remain programme-specific.",
+        "my": "ပညာရေး၊ သုတေသနနှင့် စွန့်ဦးတီထွင်မှုကို ပေါင်းစပ်ထားသော ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ ဘက်စုံတက္ကသိုလ်ဖြစ်သည်။ ဘာသာရပ်မျိုးစုံနှင့် ပေါင်းစပ်သင်ယူမှုများ ရှိသည်။ ဘွဲ့ကြိုဝင်ခွင့်ကို သင်တန်းအလိုက် စစ်ဆေးရမည်။"
+      },
+      "sources": [
+        {
+          "title": "NUS — About",
+          "url": "https://www.nus.edu.sg/about",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NUS — University overview",
+          "url": "https://nus.edu.sg/oam/why-nus/admissions-oh2026",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "MOE — Autonomous universities",
+          "url": "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sg-ntu",
+      "nameZh": "南洋理工大学",
+      "nameEn": "Nanyang Technological University (NTU)",
+      "location": {
+        "zh": "南洋大道主校区；医学另有诺维娜校区",
+        "en": "Nanyang Avenue; Novena campus for medicine",
+        "my": "Nanyang Avenue၊ ဆေးပညာအတွက် Novena ကျောင်းဝင်း"
+      },
+      "type": {
+        "zh": "新加坡本地自治大学",
+        "en": "Local autonomous university",
+        "my": "စင်ကာပူ၏ ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ တက္ကသိုလ်"
+      },
+      "description": {
+        "zh": "以科学与技术为基础的大学，领域覆盖工程、计算与数据科学、商科、理科、人文艺术和医学。缅甸会考本科申请者应查看学校专门的学历页面和专业先修科目。",
+        "en": "A technological autonomous university with engineering, computing and data science, business, science, humanities, arts and medicine. Myanmar Matriculation applicants should check its dedicated qualification page and subject prerequisites.",
+        "my": "သိပ္ပံနှင့် နည်းပညာကို အခြေခံသော ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ တက္ကသိုလ်ဖြစ်ပြီး အင်ဂျင်နီယာ၊ ကွန်ပျူတာနှင့် ဒေတာသိပ္ပံ၊ စီးပွားရေး၊ လူမှုဝိဇ္ဇာ၊ အနုပညာနှင့် ဆေးပညာတို့ ရှိသည်။ မြန်မာတက္ကသိုလ်ဝင်အောင်လက်မှတ်အတွက် သီးခြားဝင်ခွင့်စာမျက်နှာနှင့် ဘာသာရပ်လိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "NTU — About and campuses",
+          "url": "https://www.ntu.edu.sg/about-us",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "MOE — Autonomous universities",
+          "url": "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sg-smu",
+      "nameZh": "新加坡管理大学",
+      "nameEn": "Singapore Management University (SMU)",
+      "location": {
+        "zh": "新加坡市中心，维多利亚街一带",
+        "en": "Downtown Singapore, around Victoria Street",
+        "my": "စင်ကာပူမြို့လယ် Victoria Street အနီး"
+      },
+      "type": {
+        "zh": "新加坡本地自治大学",
+        "en": "Local autonomous university",
+        "my": "စင်ကာပူ၏ ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ တက္ကသိုလ်"
+      },
+      "description": {
+        "zh": "城市型大学，以管理、社会科学与技术的交叉为特色，采用互动、协作和实践学习。专业覆盖商科、会计、经济、计算与信息系统、法律和社会科学。",
+        "en": "A city-based autonomous university connecting management, social sciences and technology, with interactive and practice-oriented learning. Areas include business, accountancy, economics, computing and information systems, law and social sciences.",
+        "my": "စီမံခန့်ခွဲမှု၊ လူမှုသိပ္ပံနှင့် နည်းပညာကို ပေါင်းစပ်ထားသော မြို့လယ်တက္ကသိုလ်ဖြစ်သည်။ ဆွေးနွေးပူးပေါင်းခြင်းနှင့် လက်တွေ့သင်ယူခြင်းကို အလေးထားသည်။ စီးပွားရေး၊ စာရင်းကိုင်၊ ဘောဂဗေဒ၊ ကွန်ပျူတာ၊ ဥပဒေနှင့် လူမှုသိပ္ပံဘာသာရပ်များ ရှိသည်။"
+      },
+      "sources": [
+        {
+          "title": "SMU — About and city campus",
+          "url": "https://www.smu.edu.sg/about",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "MOE — Autonomous universities",
+          "url": "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sg-jcu",
+      "nameZh": "詹姆斯库克大学新加坡校区",
+      "nameEn": "James Cook University, Singapore",
+      "location": {
+        "zh": "Sims Drive（沈氏道）",
+        "en": "Sims Drive",
+        "my": "Sims Drive"
+      },
+      "type": {
+        "zh": "澳大利亚JCU全资拥有的新加坡校区；按私立教育机构框架运营",
+        "en": "Singapore campus fully owned by James Cook University Australia; private education framework",
+        "my": "ဩစတြေးလျ James Cook University က အပြည့်အဝပိုင်ဆိုင်သော စင်ကာပူကျောင်းဝင်း၊ ပုဂ္ဂလိကပညာရေးစနစ်အောက်တွင် လည်ပတ်သည်"
+      },
+      "description": {
+        "zh": "开设商科、心理学、IT、科学和旅游等课程，并设本科前预科路径。校园位于Sims Drive；预科录取与本科录取须分开核对，升学以指定课程与成绩条件为准。",
+        "en": "JCU’s Australian-owned Singapore campus offers business, psychology, IT, science and tourism, plus pre-university pathways. Foundation entry and bachelor admission are separate, with progression limited to specified programmes and grades.",
+        "my": "ဩစတြေးလျ JCU ၏ စင်ကာပူကျောင်းဝင်းတွင် စီးပွားရေး၊ စိတ်ပညာ၊ IT၊ သိပ္ပံနှင့် ခရီးသွားဘာသာရပ်များအပြင် ဘွဲ့မတိုင်မီ ဖောင်ဒေးရှင်းလမ်းကြောင်း ရှိသည်။ ဖောင်ဒေးရှင်းနှင့် ဘွဲ့ကြိုဝင်ခွင့်ကို သီးခြားစစ်ဆေးပြီး သတ်မှတ်သင်တန်းနှင့် အမှတ်လိုအပ်ချက်အတိုင်း ဆက်တက်ရမည်။"
+      },
+      "sources": [
+        {
+          "title": "JCU — About the Singapore campus",
+          "url": "https://www.jcu.edu.sg/about-us/the-singapore-campus-of-james-cook-university",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "JCU — Foundation progression",
+          "url": "https://www.jcu.edu.sg/courses-and-study/courses/course/pre-university-foundation-program",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "scopeNote": "Official-source destination overview for Myanmar students, with programme-specific information available through the university directory."
+}

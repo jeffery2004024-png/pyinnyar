@@ -1,0 +1,737 @@
+{
+  "checkedAt": "2026-10-08",
+  "scholarships": [
+    {
+      "id": "cn-csc-type-a",
+      "country": "CN",
+      "region": "mainland",
+      "institutionIds": [],
+      "name": {
+        "zh": "中国政府奖学金：国别项目Type A",
+        "en": "Chinese Government Scholarship: Bilateral Program (Type A)",
+        "my": "တရုတ်အစိုးရ Type A ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "中国政府／国家留学基金委及派遣机构",
+        "en": "Chinese government / CSC and dispatching authorities",
+        "my": "တရုတ်အစိုးရ၊ CSC နှင့် သက်ဆိုင်ရာအဖွဲ့"
+      },
+      "eligibility": {
+        "zh": "外国本科申请人须通过本国派遣机构申请，并满足学校、CSC及国别要求；本科CSCA、年龄和语言条件须按当年核查。此处未核实缅甸2027具体名额。",
+        "en": "Foreign undergraduate applicants apply through their home-country authority and must meet university, CSC and country rules. Check the intake’s CSCA, age and language conditions; Myanmar’s 2027 quota is not verified here.",
+        "my": "နိုင်ငံခြားဘွဲ့ကြိုလျှောက်ထားသူသည် မိမိနိုင်ငံ၏ သက်ဆိုင်ရာအဖွဲ့မှ လျှောက်ရမည်။ အသက်၊ ဘာသာစကားနှင့် CSCA လိုအပ်ချက်ကို နှစ်အလိုက် စစ်ဆေးရန် လိုသည်။"
+      },
+      "coverage": {
+        "zh": "按获批方案提供学费、住宿、医疗保险及生活补助；具体以奖学金通知为准。",
+        "en": "Approved funding may cover tuition, accommodation, medical insurance and a living allowance; the award notice governs.",
+        "my": "ခွင့်ပြုချက်အရ ကျောင်းလခ၊ နေထိုင်မှု၊ အာမခံနှင့် နေထိုင်စားစရိတ် ပံ့ပိုးနိုင်သည်။"
+      },
+      "application": {
+        "zh": "向驻所在国中国使领馆或派遣机构核查，CSC系统选Type A；学校申请仍需另行完成。",
+        "en": "Check with the Chinese embassy/consulate or dispatching authority, select Type A in the CSC system, and complete university admission separately.",
+        "my": "သံရုံး သို့မဟုတ် သက်ဆိုင်ရာအဖွဲ့ထံ မေးမြန်းပြီး CSC တွင် Type A ကို ရွေးချယ်ရန် လိုသည်။ ကျောင်းဝင်ခွင့်ကိုလည်း လျှောက်ထားရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "须通过学校审查；获奖后按规定参加年度评审，续领条件按当年规定核对。",
+        "en": "University assessment and annual scholarship review apply; renewal is not automatic.",
+        "my": "ကျောင်းစစ်ဆေးမှုနှင့် နှစ်စဉ်ပညာသင်ဆုသုံးသပ်မှု လိုအပ်သည်။"
+      },
+      "timing": {
+        "zh": "清华页面提示2027通常在2026年11月至2027年4月，国别日期不同；缅甸开放及截止日待核实。",
+        "en": "Tsinghua lists a usual November 2026–April 2027 period, varying by country. Myanmar’s opening and deadline remain unverified.",
+        "my": "၂၀၂၇ အတွက် ပုံမှန်ကာလမှာ ၂၀၂၆ နိုဝင်ဘာမှ ၂၀၂၇ ဧပြီ ဖြစ်နိုင်ပြီး နိုင်ငံအလိုက် ကွာခြားသည်။"
+      },
+      "nationalityStatus": "verify",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2027",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "PKU 2026 Undergraduate Entrance Examination: Scholarships",
+          "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Tsinghua Freshmen Scholarships: updated 2027 guidance",
+          "url": "https://international.join-tsinghua.edu.cn/info/1053/1042.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "cn-pku-international-scholarship",
+      "country": "CN",
+      "region": "mainland",
+      "institutionIds": [
+        "cn-pku"
+      ],
+      "name": {
+        "zh": "北京大学国际学生奖学金（2026校考路线）",
+        "en": "PKU Scholarship for International Students (2026 entrance-exam route)",
+        "my": "PKU နိုင်ငံတကာကျောင်းသား ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "北京大学",
+        "en": "Peking University",
+        "my": "Peking University"
+      },
+      "eligibility": {
+        "zh": "面向获本科录取的合资格外国学生，竞争性综合评定；学校学历、国籍、年龄及校考要求仍须满足。",
+        "en": "Eligible admitted international undergraduates are assessed competitively; academic, nationality, age and entrance-exam requirements still apply.",
+        "my": "ဝင်ခွင့်ရသော နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသားများကို အရည်အချင်းအလိုက် ရွေးချယ်သည်။"
+      },
+      "coverage": {
+        "zh": "全额或部分学费减免、医疗保险及生活补助，金额以获奖通知为准。",
+        "en": "Full or partial tuition waiver, medical insurance and living support; amounts depend on the award.",
+        "my": "ကျောင်းလခအပြည့် သို့မဟုတ် တစ်စိတ်တစ်ပိုင်း၊ အာမခံနှင့် နေထိုင်စားစရိတ်။"
+      },
+      "application": {
+        "zh": "本科招生综合评定，无须单独奖学金申请；并非每位录取生获奖。",
+        "en": "Considered through undergraduate selection without a separate scholarship application.",
+        "my": "သီးခြားပညာသင်ဆုလျှောက်လွှာ မလိုဘဲ ရွေးချယ်ပေးသည်။ လူတိုင်းမရပါ။"
+      },
+      "obligations": {
+        "zh": "奖学金获得者须参加年度评审；具体续领条件见学校及获奖通知。",
+        "en": "Annual review is required; consult university and award terms for continuation.",
+        "my": "နှစ်စဉ်သုံးသပ်မှုကို ဖြတ်သန်းရမည်။"
+      },
+      "timing": {
+        "zh": "此2026校考路线2月28日截止，已结束；2027须查新简章。",
+        "en": "The 2026 examination-route deadline was 28 February and has passed; check the new guide for 2027.",
+        "my": "၂၀၂၆ ဖေဖော်ဝါရီ ၂၈ တွင် ဤလမ်းကြောင်း၏ လျှောက်လွှာ ပိတ်ခဲ့သည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": "2026-02-28",
+      "status": "closed",
+      "sources": [
+        {
+          "title": "PKU 2026 Undergraduate Entrance Examination: Scholarships",
+          "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "cn-tsinghua-freshmen-scholarship",
+      "country": "CN",
+      "region": "mainland",
+      "institutionIds": [
+        "cn-tsinghua"
+      ],
+      "name": {
+        "zh": "清华大学国际本科新生奖学金",
+        "en": "Tsinghua International Undergraduate Freshmen Scholarship",
+        "my": "Tsinghua နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသားသစ် ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "清华大学及捐赠者",
+        "en": "Tsinghua University and donors",
+        "my": "Tsinghua University နှင့် အလှူရှင်များ"
+      },
+      "eligibility": {
+        "zh": "优秀国际本科新生竞争申请；须满足2027本科的学历、国籍和语言条件，不单凭HSK或IELTS获奖。",
+        "en": "Outstanding international undergraduate freshmen compete for awards and must meet 2027 academic, nationality and language requirements. A language score alone does not secure funding.",
+        "my": "ထူးချွန်သော နိုင်ငံတကာကျောင်းသားသစ်များကို ရွေးချယ်သည်။ ကျောင်းဝင်ခွင့်နှင့် ဘာသာစကားလိုအပ်ချက်ကို ဖြည့်ရမည်။"
+      },
+      "coverage": {
+        "zh": "第一学年全额、半额或部分学费支持。",
+        "en": "Full, half or partial tuition support for the first academic year.",
+        "my": "ပထမနှစ်ကျောင်းလခကို အပြည့်၊ တစ်ဝက် သို့မဟုတ် တစ်စိတ်တစ်ပိုင်း ပံ့ပိုးပါသည်။"
+      },
+      "application": {
+        "zh": "在清华申请系统内申请，须经评定授予。",
+        "en": "Apply through Tsinghua’s application system; selection is competitive.",
+        "my": "Tsinghua လျှောက်လွှာစနစ်မှ လျှောက်ထားရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "同类新生奖学金不得重复领取；第2至4年须按表现申请其他奖，不是自动续领原新生奖。",
+        "en": "Freshman awards of the same type cannot be combined. In years 2–4, other scholarships require application and performance review.",
+        "my": "တူညီသည့်ကျောင်းသားသစ်ပညာသင်ဆုများကို တွဲမယူနိုင်ပါ။ နောက်နှစ်များအတွက် သီးခြားရွေးချယ်မှုရှိသည်။"
+      },
+      "timing": {
+        "zh": "2027信息已公布，具体本科项目申请轮次及奖学金系统开放需核查；未标为已开放。",
+        "en": "2027 guidance is published; confirm the program round and scholarship-system opening. This record is not marked open.",
+        "my": "၂၀၂၇ လမ်းညွှန်ရှိပြီး လျှောက်လွှာဖွင့်မည့်ကာလကို ပြန်လည်စစ်ဆေးရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2027",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "Tsinghua Freshmen Scholarships: updated 2027 guidance",
+          "url": "https://international.join-tsinghua.edu.cn/info/1053/1042.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "cn-xmu-new-international-2026",
+      "country": "CN",
+      "region": "mainland",
+      "institutionIds": [
+        "cn-xmu"
+      ],
+      "name": {
+        "zh": "厦门大学国际学生新生奖学金（2026本科）",
+        "en": "XMU New International Students Scholarship — 2026 Bachelor’s",
+        "my": "XMU နိုင်ငံတကာကျောင်းသားသစ်ပညာသင်ဆု — ၂၀၂၆ ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "厦门大学",
+        "en": "Xiamen University",
+        "my": "Xiamen University"
+      },
+      "eligibility": {
+        "zh": "国际本科新生须满足课程录取条件，高中及以上学历；英文简章为入学年9月1日未满25岁，中文写不超过25岁，边界年龄须校方确认。",
+        "en": "International undergraduate applicants need programme eligibility and a high-school diploma. English rules say under 25 at 1 September; Chinese wording allows 25, so confirm boundary-age cases.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြိုလျှောက်ထားသူသည် အထက်တန်းအောင်လက်မှတ်ရှိပြီး သင်တန်းဝင်ခွင့်သတ်မှတ်ချက်များကို ပြည့်မီရမည်။ စက်တင်ဘာ ၁ ရက်တွင် အသက် ၂၅ နှစ်အောက်ဟု အင်္ဂလိပ်လမ်းညွှန်၌ ဖော်ပြထားပြီး တရုတ်လမ်းညွှန်၌ ၂၅ နှစ်မကျော်ဟု ဖော်ပြထားသည်။ အသက်ကန့်သတ်ချက်နှင့် ကပ်နေသူများသည် တက္ကသိုလ်ထံ အတည်ပြုရန် လိုသည်။"
+      },
+      "coverage": {
+        "zh": "本科仅免学费，2026列5个名额；不包含研究生生活津贴。",
+        "en": "Tuition only; five bachelor awards listed for 2026, without postgraduate stipends.",
+        "my": "ဘွဲ့ကြိုအတွက် ကျောင်းလခသာ၊ ၂၀၂၆ တွင် ၅ နေရာဖြစ်ပြီး ဘွဲ့လွန်လစဉ်ထောက်ပံ့မှု မပါဝင်ပါ။"
+      },
+      "application": {
+        "zh": "在学校系统申请入学并上传签名奖学金表；获录取后评选。",
+        "en": "Apply for admission and upload the signed award form; selection follows admission.",
+        "my": "ကျောင်းဝင်ခွင့်လျှောက်၍ လက်မှတ်ရေးထိုးထားသော ဆုလျှောက်လွှာတင်ပြရန် လိုသည်။ ဝင်ခွင့်ရပြီးမှ ရွေးချယ်သည်။"
+      },
+      "obligations": {
+        "zh": "本科最长4或5年，须通过年度评审续领。",
+        "en": "Four or five undergraduate years, conditional on annual review.",
+        "my": "ဘွဲ့ကြို ၄ သို့မဟုတ် ၅ နှစ်အထိ၊ နှစ်စဉ်စစ်ဆေးမှုအောင်ရမည်။"
+      },
+      "timing": {
+        "zh": "2026年4月10日截止，已结束；2027新公告待核实。",
+        "en": "Closed on 10 April 2026; confirm the 2027 call.",
+        "my": "၂၀၂၆ ဧပြီ ၁၀ ပိတ်ပြီး၊ ၂၀၂၇ ကြေညာချက်ကို အတည်ပြုရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": "2026-04-10",
+      "status": "closed",
+      "sources": [
+        {
+          "title": "XMU — New International Students Scholarships for 2026",
+          "url": "https://admissions.xmu.edu.cn/info/1061/3880.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "XMU — 国际学生新生奖学金",
+          "url": "https://admissions.xmu.edu.cn/cn/Scholarships/smdxjxj.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "hku-computing-entrance-2026",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "institutionIds": [
+        "hku"
+      ],
+      "name": {
+        "zh": "港大计算与数据科学学院入学奖学金",
+        "en": "HKU Computing and Data Science Entrance Scholarship",
+        "my": "HKU Computing and Data Science ဝင်ခွင့်ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "香港大学",
+        "en": "The University of Hong Kong",
+        "my": "The University of Hong Kong"
+      },
+      "eligibility": {
+        "zh": "2026/27获该学院指定本科课程录取、公开考试成绩优秀的本地或非本地新生；仍需满足课程及英语入学条件。",
+        "en": "Local and non-local freshmen admitted to specified undergraduate programs of the School in 2026/27, with outstanding public-exam results; program and English admission conditions still apply.",
+        "my": "သတ်မှတ်ထားသော ဘွဲ့ကြိုသင်တန်းတွင် ဝင်ခွင့်ရပြီး စာမေးပွဲရလဒ် ထူးချွန်သော ကျောင်းသားသစ်များအတွက် ဖြစ်သည်။"
+      },
+      "coverage": {
+        "zh": "合计港币200,000，分四次等额年度发放。",
+        "en": "HK$200,000 in total, paid in four equal annual instalments.",
+        "my": "စုစုပေါင်း HK$200,000 ကို နှစ်စဉ်လေးကြိမ် ခွဲပေးပါသည်။"
+      },
+      "application": {
+        "zh": "无需另申，合资格学生自动获考虑。",
+        "en": "No separate application; eligible students are automatically considered.",
+        "my": "သီးခြားလျှောက်ရန် မလိုဘဲ ရွေးချယ်စဉ်းစားပေးသည်။"
+      },
+      "obligations": {
+        "zh": "具体发放、学业和其他承诺以获奖条款为准；已读页面未列统一服务合约。",
+        "en": "Disbursement, academic and other commitments follow the award terms; no universal service bond was stated in the page read.",
+        "my": "ဆုပေးစာပါ ပညာရေးနှင့် အခြားစည်းမျဉ်းများကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "timing": {
+        "zh": "页面明确为2026招生，2027条款可能修改；2026新生申请周期已过。",
+        "en": "The page expressly covers 2026 admission and says 2027 terms may change; the 2026 freshman cycle has passed.",
+        "my": "၂၀၂၆ အတွက် ဖြစ်ပြီး ၂၀၂၇ စည်းမျဉ်းများ ပြောင်းလဲနိုင်သည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": null,
+      "status": "closed",
+      "sources": [
+        {
+          "title": "HKU School of Computing and Data Science Entrance Scholarship",
+          "url": "https://admissions.hku.hk/fees-and-scholarships/scholarships/school-of-computing-and-data-science-entrance-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "cuhk-admission-scholarships",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "institutionIds": [
+        "cuhk"
+      ],
+      "name": {
+        "zh": "香港中文大学本科入学奖学金",
+        "en": "CUHK Undergraduate Admission Scholarships",
+        "my": "CUHK ဘွဲ့ကြိုဝင်ခွင့်ပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "香港中文大学",
+        "en": "The Chinese University of Hong Kong",
+        "my": "The Chinese University of Hong Kong"
+      },
+      "eligibility": {
+        "zh": "依据优秀学业或非学业表现评选本地及非本地本科新生；学校录取及英语要求另审。",
+        "en": "Local and non-local undergraduate freshmen are selected for academic or non-academic excellence; admission and English requirements are assessed separately.",
+        "my": "ပညာရေး သို့မဟုတ် အခြားထူးချွန်မှုရှိသော ဘွဲ့ကြိုကျောင်းသားသစ်များကို ရွေးချယ်သည်။"
+      },
+      "coverage": {
+        "zh": "奖项由部分资助至全学费不等，部分另有生活津贴；依具体奖项。",
+        "en": "Awards range from partial support to full tuition, with allowances for some awards; terms vary.",
+        "my": "တစ်စိတ်တစ်ပိုင်းမှ ကျောင်းလခအပြည့်အထိ ရှိနိုင်သည်။ ဆုအလိုက် ကွာခြားသည်။"
+      },
+      "application": {
+        "zh": "无需单独申请，学校识别并通知获选者。",
+        "en": "No separate application; the university identifies and notifies selected recipients.",
+        "my": "သီးခြားလျှောက်ရန် မလိုပါ။ ရွေးချယ်ခံရသူကို ကျောင်းက အသိပေးသည်။"
+      },
+      "obligations": {
+        "zh": "许多奖项可在正常学制内续领，但须学业进展满意；奖项承诺以通知为准。",
+        "en": "Many awards are renewable during normal study subject to satisfactory academic progress; any commitments follow the award notice.",
+        "my": "ပုံမှန်သင်တန်းကာလအတွင်း ဆက်ရနိုင်သော်လည်း ပညာရေးတိုးတက်မှု ကောင်းမွန်ရမည်။"
+      },
+      "timing": {
+        "zh": "一般制度持续公布；具体2027奖项和申请截止日需确认。",
+        "en": "The general scheme is published on an ongoing basis; confirm specific 2027 awards and admission deadlines.",
+        "my": "အထွေထွေစနစ်ရှိပြီး ၂၀၂၇ အသေးစိတ်နှင့် ရက်စွဲကို ပြန်လည်စစ်ဆေးရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "CUHK Admission Scholarships for undergraduates",
+          "url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "hkust-academic-admission-2027",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "institutionIds": [
+        "hkust"
+      ],
+      "name": {
+        "zh": "香港科大学术入学奖学金（2027优先轮）",
+        "en": "HKUST Academic Admissions Scholarships — 2027 Priority Round",
+        "my": "HKUST ပညာရေးဝင်ခွင့်ပညာသင်ဆု — ၂၀၂၇ ဦးစားပေးအသုတ်"
+      },
+      "provider": {
+        "zh": "香港科技大学",
+        "en": "Hong Kong University of Science and Technology",
+        "my": "Hong Kong University of Science and Technology"
+      },
+      "eligibility": {
+        "zh": "各背景及国际学历的优秀申请人获学术评奖考虑；须满足一般、专业及英语入学要求。",
+        "en": "Outstanding applicants from different backgrounds and qualifications are considered; general, program and English admission requirements still apply.",
+        "my": "အရည်အချင်းနောက်ခံအမျိုးမျိုးရှိသော ထူးချွန်သူများကို စဉ်းစားပေးသည်။ ကျောင်းဝင်ခွင့်စည်းမျဉ်းများ လိုအပ်သည်။"
+      },
+      "coverage": {
+        "zh": "金额及学费／生活资助随学历和奖项不同，查看具体奖项，不套用单一金额。",
+        "en": "Amount and tuition/living support vary by qualification and award; consult the applicable scheme.",
+        "my": "ငွေပမာဏနှင့် ပံ့ပိုးမှုသည် အရည်အချင်းနှင့် ဆုအလိုက် ကွာခြားသည်။"
+      },
+      "application": {
+        "zh": "所有申请人自动获学术奖学金考虑，无需另申；非学术奖项另有申请。",
+        "en": "All applicants are considered for academic scholarships without a separate application; non-academic awards require separate applications.",
+        "my": "ပညာရေးဆုကို သီးခြားမလျှောက်ရပါ။ အခြားဆုများအတွက် သီးခြားလျှောက်ရနိုင်သည်။"
+      },
+      "obligations": {
+        "zh": "是否一次性、续领成绩要求及承诺须按具体奖项和offer核查，续领须按相应年度条件审核。",
+        "en": "Check whether the award is one-off, its renewal grades and commitments in the scheme and offer.",
+        "my": "တစ်ကြိမ်သာရမရ၊ ဆက်ရရန်အမှတ်နှင့် အခြားစည်းမျဉ်းများကို ဆုအလိုက် စစ်ဆေးရန် လိုသည်။"
+      },
+      "timing": {
+        "zh": "2027/28本科申请已开放；优先轮截止为2026年11月25日。本条开放状态仅指该优先轮；之后的申请轮次与具体奖项规则须另查。",
+        "en": "2027/28 undergraduate applications are open. The priority round closes on 25 November 2026; the open status here refers only to that round. Check later rounds and specific award rules separately.",
+        "my": "၂၀၂၇/၂၈ ဘွဲ့ကြိုဝင်ခွင့် ဖွင့်ထားပြီး ဦးစားပေးအသုတ်သည် ၂၀၂၆ နိုဝင်ဘာ ၂၅ တွင်ပိတ်မည်။ ဤဖွင့်နေသည့်အခြေအနေသည် ထိုအသုတ်ကိုသာ ရည်ညွှန်းသည်။ နောက်အသုတ်နှင့် ဆုစည်းမျဉ်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2027",
+      "deadline": "2026-11-25",
+      "status": "open",
+      "sources": [
+        {
+          "title": "HKUST Fees and Scholarships: 2027 undergraduate admission",
+          "url": "https://www.join.hkust.edu.hk/fees-and-scholarships",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "HKUST Apply Now: 2027/28 entry",
+          "url": "https://join.hkust.edu.hk/apply",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "um-international-bachelor-scholarship",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "institutionIds": [
+        "um"
+      ],
+      "name": {
+        "zh": "澳门大学国际本科生奖学金",
+        "en": "UM International Student Scholarship (Bachelor Students)",
+        "my": "UM နိုင်ငံတကာဘွဲ့ကြိုပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "澳门大学",
+        "en": "University of Macau",
+        "my": "University of Macau"
+      },
+      "eligibility": {
+        "zh": "学业及评估优秀的国际本科生；国际类别排除中国内地、香港和台湾地区学生。外国护照、学历及语言入学要求仍须核查。",
+        "en": "Outstanding international undergraduates; this category excludes mainland China, Hong Kong and Taiwan students. Foreign-passport, qualification and language admission rules still require review.",
+        "my": "ထူးချွန်သော နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသားများအတွက် ဖြစ်သည်။ နိုင်ငံကူးလက်မှတ်၊ အရည်အချင်းနှင့် ဘာသာစကားကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "coverage": {
+        "zh": "全免或半免学费及住宿书院费，依具体奖项授予。",
+        "en": "Full or half waiver of tuition and residential-college fees, depending on the award.",
+        "my": "ကျောင်းလခနှင့် Residential College အခကြေးငွေကို အပြည့် သို့မဟုတ် တစ်ဝက် လျှော့ပေးနိုင်သည်။"
+      },
+      "application": {
+        "zh": "本科录取时竞争性授予；当前具体申请方式及新周期日期需向注册处确认。",
+        "en": "Awarded competitively on undergraduate admission; confirm the current procedure and next-cycle dates with the Registry.",
+        "my": "ဝင်ခွင့်အချိန်တွင် ယှဉ်ပြိုင်ရွေးချယ်သည်။ လက်ရှိလုပ်ငန်းစဉ်ကို Registry ထံ အတည်ပြုရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "正常学制内续领须满足具体学业及书院要求，不能自动认定续领。",
+        "en": "Continuation during normal study requires the specified academic and residential-college conditions.",
+        "my": "ဆက်လက်ရရှိရန် သတ်မှတ်ထားသော ပညာရေးနှင့် Residential College စည်းမျဉ်းများကို ဖြည့်ရမည်။"
+      },
+      "timing": {
+        "zh": "一般奖学金制度已核实，2027新生窗口和名额未核实；HTML访问受限，保留官方学年历证据。",
+        "en": "The general scheme is verified; 2027 dates and quotas are not. HTML access was restricted; official calendar evidence is retained.",
+        "my": "အထွေထွေဆုစနစ်ကို စစ်ဆေးထားပြီး ၂၀၂၇ ရက်စွဲနှင့် အရေအတွက်ကို မစစ်ဆေးရသေးပါ။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "UM Scholarships: international undergraduate students",
+          "url": "https://reg.um.edu.mo/admissions/general-information/sch-info/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "UM Academic Calendar: undergraduate international student full/half scholarships",
+          "url": "https://reg.um.edu.mo/download/um-academic-calendar/12a-ss-us.pdf",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "cn-zju-zhejiang-new-undergraduate",
+      "country": "CN",
+      "region": "mainland",
+      "institutionIds": [
+        "cn-zju"
+      ],
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": null,
+      "status": "closed",
+      "nationalityStatus": "international-eligible",
+      "name": {
+        "zh": "浙江省政府奖学金（浙江大学本科新生）",
+        "en": "Zhejiang Government Scholarship — ZJU Undergraduate Freshmen",
+        "my": "Zhejiang အစိုးရပညာသင်ဆု — ZJU ဘွဲ့ကြိုကျောင်းသားသစ်"
+      },
+      "provider": {
+        "zh": "浙江省政府／浙江大学",
+        "en": "Zhejiang Government / Zhejiang University",
+        "my": "Zhejiang အစိုးရ / Zhejiang University"
+      },
+      "eligibility": {
+        "zh": "符合浙大国际本科资格，申请中文授课专业，成绩优良且未同时获其他奖学金。",
+        "en": "Eligible international bachelor applicants in Chinese-taught programmes, with strong grades and no concurrent scholarship.",
+        "my": "တရုတ်ဘာသာသင် ဘွဲ့ကြိုသင်တန်းအတွက် နိုင်ငံတကာဝင်ခွင့်သတ်မှတ်ချက်ပြည့်မီ၊ အမှတ်ကောင်းပြီး အခြားဆုမယူထားရပါ။"
+      },
+      "coverage": {
+        "zh": "人民币20,000，资助一年。",
+        "en": "RMB 20,000 for one year.",
+        "my": "တစ်နှစ်အတွက် RMB 20,000။"
+      },
+      "application": {
+        "zh": "入学系统中提交省政府奖学金表，学校综合材料及视频面试推荐。",
+        "en": "Upload the award form with admission; university nomination follows document and interview review.",
+        "my": "ဝင်ခွင့်စနစ်တွင် ဆုလျှောက်လွှာတင်ပြရန် လိုသည်။ စာရွက်စာတမ်းနှင့် အင်တာဗျူးစစ်ပြီး ကျောင်းမှ အမည်စာရင်းတင်သည်။"
+      },
+      "obligations": {
+        "zh": "在校表现优秀者可重新申请；不得兼领其他奖学金，续年并不自动。",
+        "en": "Strong current students may reapply; no concurrent scholarship or automatic renewal.",
+        "my": "ကျောင်းတွင် ထူးချွန်သူ ပြန်လျှောက်နိုင်သော်လည်း အခြားဆုနှင့် တွဲမယူနိုင်၊ အလိုအလျောက်သက်တမ်းမတိုးပါ။"
+      },
+      "timing": {
+        "zh": "2026批次已结束；汉语言专业列5月31日截止，其他截止年份原页存在笔误，须校方确认。2027待公布。",
+        "en": "2026 cycle closed. Chinese-language major lists 31 May; another deadline year has a source typo. Confirm with ZJU and await 2027 rules.",
+        "my": "၂၀၂၆ အသုတ်ပိတ်ပြီး၊ တရုတ်ဘာသာအထူးပြုအတွက် မေ ၃၁ ဟု ဖော်ပြသည်။ အခြားနောက်ဆုံးရက်နှစ်တွင် စာမှားရှိ၍ ZJU နှင့် အတည်ပြုပြီး ၂၀၂၇ စည်းမျဉ်းကို စောင့်ကြည့်ရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "ZJU — 浙江省政府来华留学生（国际本科生新生）奖学金 2026",
+          "url": "https://iczu.zju.edu.cn/admissions/2022/0530/c68875a2568326/page.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "hk-belt-road-designated",
+      "country": "CN",
+      "region": "hongkong-macao",
+      "institutionIds": [],
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "nationalityStatus": "myanmar-explicit",
+      "name": {
+        "zh": "香港一带一路奖学金（指定国家）",
+        "en": "Hong Kong Belt and Road Scholarship — Designated Countries",
+        "my": "ဟောင်ကောင် Belt and Road ပညာသင်ဆု — သတ်မှတ်နိုင်ငံများ"
+      },
+      "provider": {
+        "zh": "香港教育局",
+        "en": "Hong Kong Education Bureau",
+        "my": "ဟောင်ကောင်ပညာရေးဌာန"
+      },
+      "eligibility": {
+        "zh": "明确包含缅甸；香港全日制政府资助本科一年级非本地优秀学生。澳门课程不适用。",
+        "en": "Myanmar included; outstanding first-year non-local students in publicly-funded Hong Kong bachelor programmes. Not for Macao courses.",
+        "my": "မြန်မာနိုင်ငံသားများ ပါဝင်သည်။ ဟောင်ကောင်အစိုးရထောက်ပံ့သော အချိန်ပြည့်ဘွဲ့ကြိုသင်တန်း၏ ပထမနှစ်သို့ ဝင်ခွင့်ရသည့် ထူးချွန်သော နိုင်ငံခြားကျောင်းသားများအတွက်ဖြစ်သည်။ မကာအိုသင်တန်းများ မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "正常学制内全额学费。",
+        "en": "Full tuition for normal programme duration.",
+        "my": "ပုံမှန်သင်တန်းကာလအတွက် ကျောင်းလခအပြည့်။"
+      },
+      "application": {
+        "zh": "向录取大学核对遴选／提名流程。",
+        "en": "Confirm selection/nomination with the admitting university.",
+        "my": "ဝင်ခွင့်တက္ကသိုလ်နှင့် ရွေးချယ်/အမည်တင်နည်းကို အတည်ပြုရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "学业表现满意才可逐年续领。",
+        "en": "Annual renewal requires satisfactory academic performance.",
+        "my": "နှစ်စဉ်သက်တမ်းတိုးရန် ပညာရေးရလဒ်ကောင်းရမည်။"
+      },
+      "timing": {
+        "zh": "常设机制；2027期限及名额须向大学确认。",
+        "en": "Standing scheme; confirm 2027 dates and quotas with the university.",
+        "my": "ပုံမှန်အစီအစဉ်၊ ၂၀၂၇ ရက်နှင့် ခွဲတမ်းကို တက္ကသိုလ်နှင့် အတည်ပြုရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Education Bureau — Belt and Road Scholarship",
+          "url": "https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/publicly-funded-programmes/scholarship.html",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "schoolEvidence": [
+    {
+      "schoolId": "cn-pku",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "PKU 2026 Undergraduate Entrance Examination: Scholarships",
+          "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "cn-tsinghua",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Tsinghua Freshmen Scholarships: updated 2027 guidance",
+          "url": "https://international.join-tsinghua.edu.cn/info/1053/1042.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "cn-zju",
+      "status": "verified",
+      "note": {
+        "zh": "已核实2026本科新生奖学金；该批次已结束，2027条件及申请期须查新公告。",
+        "en": "2026 freshman award verified; that cycle is closed. Check the new 2027 conditions and window.",
+        "my": "၂၀၂၆ ဘွဲ့ကြိုကျောင်းသားသစ်ဆုကို စစ်ဆေးပြီး ထိုအသုတ်ပိတ်ထားသည်။ ၂၀၂၇ သတ်မှတ်ချက်နှင့် လျှောက်ထားချိန်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "ZJU — 浙江省政府来华留学生（国际本科生新生）奖学金 2026",
+          "url": "https://iczu.zju.edu.cn/admissions/2022/0530/c68875a2568326/page.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "cn-xmu",
+      "status": "verified",
+      "note": {
+        "zh": "已核实2026本科新生奖学金；该批次已结束，2027条件及申请期须查新公告。",
+        "en": "2026 freshman award verified; that cycle is closed. Check the new 2027 conditions and window.",
+        "my": "၂၀၂၆ ဘွဲ့ကြိုကျောင်းသားသစ်ဆုကို စစ်ဆေးပြီး ထိုအသုတ်ပိတ်ထားသည်။ ၂၀၂၇ သတ်မှတ်ချက်နှင့် လျှောက်ထားချိန်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "XMU — New International Students Scholarships for 2026",
+          "url": "https://admissions.xmu.edu.cn/info/1061/3880.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "XMU — 国际学生新生奖学金",
+          "url": "https://admissions.xmu.edu.cn/cn/Scholarships/smdxjxj.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "hku",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "HKU School of Computing and Data Science Entrance Scholarship",
+          "url": "https://admissions.hku.hk/fees-and-scholarships/scholarships/school-of-computing-and-data-science-entrance-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "cuhk",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "CUHK Admission Scholarships for undergraduates",
+          "url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "hkust",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "HKUST Fees and Scholarships: 2027 undergraduate admission",
+          "url": "https://www.join.hkust.edu.hk/fees-and-scholarships",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "HKUST Apply Now: 2027/28 entry",
+          "url": "https://join.hkust.edu.hk/apply",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "um",
+      "status": "verified",
+      "note": {
+        "zh": "已核实至少一项本科相关奖学金；个体资格和获奖须另审。",
+        "en": "At least one undergraduate-related award is verified; individual eligibility and selection remain separate.",
+        "my": "ဘွဲ့ကြိုဆုတစ်ခုကို စစ်ဆေးထားပြီး တစ်ဦးချင်းအရည်အချင်းကို သီးခြားစစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "UM Scholarships: international undergraduate students",
+          "url": "https://reg.um.edu.mo/admissions/general-information/sch-info/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "UM Academic Calendar: undergraduate international student full/half scholarships",
+          "url": "https://reg.um.edu.mo/download/um-academic-calendar/12a-ss-us.pdf",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "scopeNote": "Only undergraduate items; Type B postgraduate scholarships are not treated as bachelor awards. Date status is evaluated on 2026-10-08."
+}

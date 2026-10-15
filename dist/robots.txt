@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jeffery2004024-png.github.io/pyinnyar/sitemap.xml

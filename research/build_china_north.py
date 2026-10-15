@@ -1,0 +1,69 @@
+import json,copy
+from pathlib import Path
+base=Path(__file__).parent
+original=json.loads((base/'china.json').read_text())
+names='北京大学|中国人民大学|北京师范大学|北京航空航天大学|北京理工大学|中国农业大学|中央民族大学|北京交通大学|北京工业大学|北京科技大学|北京化工大学|北京邮电大学|北京林业大学|北京中医药大学|北京外国语大学|中国传媒大学|中央财经大学|中国政法大学|北京体育大学|中央音乐学院|华北电力大学|中国矿业大学（北京）|中国石油大学（北京）|中国地质大学（北京）|南开大学|天津医科大学|河北工业大学|太原理工大学|内蒙古大学|大连理工大学|东北大学|辽宁大学'.split('|')
+allby={u['nameZh']:u for u in original['universities']}
+cat=[copy.deepcopy(allby[n]) for n in names]; by={u['nameZh']:u for u in cat}
+checked='2026-10-08'
+def source(url,title,year=None):return {'url':url,'title':title,'year':year,'checkedAt':checked}
+def qualifications(known=True):
+ return {k:{'status':('conditional' if known and k!='ged' else 'unknown'),'reason':('官网仅规定高中毕业或同等学历，未明确缅甸此学历的认可；须核查毕业证、学校资质、学制及完整成绩单' if known and k!='ged' else '未找到校方明确认可GED的本科条款，不能自动推定等同高中毕业' if known else '当前本科资格与成绩规则尚未公开核实')} for k in ['matriculation','chineseSchool','ged','alevel']}
+def rule(id,label,lang,hsk=None,ielts=None,csca=None,notes=[],age=None):
+ m={}
+ if hsk is not None:m['hsk']={'minimumLevel':hsk[0],'minimumTotal':hsk[1]}
+ if ielts is not None:m['ielts']={'overallMinimum':ielts}
+ if csca is not None:m['csca']={'required':True,'subjects':csca,'minimumScore':None,'scoreThresholdPublished':False,'subjectReviewRequired':not bool(csca)}
+ if age:m['age']=age
+ return {'id':id,'label':label,'teachingLanguage':lang,'machineRule':m,'otherRequirements':list(notes)}
+def verify(n,url,year,evidence,rules,title=None,extra=[]):
+ u=by[n];u.update(admissionsUrl=url,verificationStatus='verified_general_requirements',internationalUndergraduateAvailability='confirmed',sources=[source(url,title or (n+str(year)+'国际本科招生'),year)]+extra,evidenceParaphrase=evidence,requirements=qualifications(),rules=rules)
+ for r in rules:r.update(year=year,qualification=copy.deepcopy(u['requirements']),qualificationReviewRequired=True,sourceUrl=url,sourceStatus='current_published' if year==2027 else 'previous_intake_planning_only' if year else 'undated_requires_reconfirmation',matchOutcomeLimit='needs_academic_and_admissions_review',languageCertificatesValidityYears=None)
+def unknown(n,url,year,evidence,title):
+ u=by[n];u.update(admissionsUrl=url,verificationStatus='requirements_unknown',internationalUndergraduateAvailability='requires_current_admissions_confirmation',sources=[source(url,title,year)],evidenceParaphrase=evidence,requirements=qualifications(False),rules=[],unverifiedReason=evidence)
+verify('北京大学','https://www.isd.pku.edu.cn/en/detail.php?id=818',2026,'入学考试路线要求全日制高中证及全部成绩，原则18–25岁；校笔试中文、英语、数学，再复试。此路线未公布统一HSK或缅甸12科最低分。',[rule('pku-entrance-2026','中文本科：校入学考试路线','zh',notes=['全日制高中证明与全部课程成绩','需通过北大中文、英语、数学笔试及复试；不能用HSK或高中总分代替校考','免笔试路线另有资格要求，不与此路线混用','年龄原则18至25，须校方判断例外'])])
+verify('中国人民大学','https://iso.ruc.edu.cn/docs/2025-11/f79cdb88f9d74a9d9905712db70b3a3f.pdf',2026,'2026中文本科文科HSK6 180，理工HSK5 210；汉语言HSK4 180。CSCA须按专业目录，高中资格与面试另审核。',[rule('ruc-humanities','中文文科本科（汉语言除外）','zh',(6,180),csca=[],notes=['专业CSCA科目须核查目录；母语或中文中学授课豁免须经校方批准']),rule('ruc-stem','中文理工本科','zh',(5,210),csca=[]),rule('ruc-chinese','汉语言本科','zh',(4,180),csca=['mathematics'],notes=['专业中文CSCA豁免须依汉语言项目规定审核'])],extra=[source('https://iso.ruc.edu.cn/ENGLISH/Apply/Undergraduateprogram/index.htm','人大国际本科官方申请目录',2026),source('https://iso.ruc.edu.cn/docs/2025-11/4dcb4f656ff042b9adc3aa9c06dce2d6.pdf','2026专业与CSCA科目目录',2026)])
+verify('北京师范大学','https://international.bnu.edu.cn/user/sysNews/detail/22',2026,'中文本科一般HSK5 180，汉语言及汉语国际教育HSK4 180；CSCA依2026专业目录，需高中证、全成绩与面试。',[rule('bnu-cn','中文本科（汉语言类另列）','zh',(5,180),csca=[],notes=['该简章限定HSK考试日期为2023年11月1日以后；2027须重新核查有效期','北京/珠海校区未成年人监护材料不同']),rule('bnu-chinese','汉语言/汉语国际教育','zh',(4,180),csca=[],notes=['CSCA专业中文可否豁免与数学要求须按目录核查'])])
+verify('北京航空航天大学','https://is.buaa.edu.cn/lxsq/bks1.htm',2026,'HSK5 180或英文本科IELTS6/TOEFL90；证书有效两年；CSCA全部本科须交相关科目。原则18–22岁，高中学历与成绩审核。',[rule('buaa-cn','中文本科','zh',(5,180),csca=[],notes=['年龄原则18–22岁；高中各科成绩与专业CSCA科目另审']),rule('buaa-en','英文本科','en',ielts=6,csca=[],notes=['高中所有课程英文授课可申请英语证明豁免；须校方接受'])])
+for r in by['北京航空航天大学']['rules']:r['languageCertificatesValidityYears']=2
+verify('北京理工大学','https://isc.bit.edu.cn/aboutbit/faq/70fe36ccf5f64defb9ecda409efd2b71.htm',2026,'中文HSK5 180；英文IELTS6、TOEFL85或Duolingo110。须CSCA；具体学科组合查年度目录。',[rule('bit-cn','中文本科','zh',(5,180),csca=[]),rule('bit-en','英文本科','en',ielts=6,csca=[],notes=['TOEFL85或Duolingo110可按官方条件替代IELTS；非统一录取保证'])])
+verify('中国农业大学','https://admissions.cau.edu.cn/art/2025/10/11/art_48280_1084207.html',2026,'一般中文HSK4及以上，兽医HSK5 250以上；2026本科须CSCA，录取标准依申请及复试另定，未公布数值。',[rule('cau-cn','中文本科（兽医除外）','zh',(4,None),csca=[],notes=['CSCA最低分由校方另定，不能视为交成绩即通过']),rule('cau-vet','兽医学中文本科','zh',(5,250),csca=[],notes=['原文HSK5“250分以上”；边界值及最新专业要求需学校确认'])])
+verify('中央民族大学','https://cie.muc.edu.cn/info/1666/8589.htm',2026,'本科一般HSK5以上，汉语国际教育HSK4以上，未列统一总分。中国政府奖学金本科必须CSCA；艺术设计另交作品。',[rule('muc-cn','中文本科（汉语国际教育另列）','zh',(5,None),notes=['中国政府奖学金本科须CSCA，其他资助类别要求须进一步核查','艺术/设计专业须作品材料']),rule('muc-tcsol','汉语国际教育本科','zh',(4,None),notes=['CSCA与奖学金类型须审查，不能自动认定免考'])])
+unknown('北京交通大学','https://www.bjtu.edu.cn/docs/2024-05/e64a5adc066441c3a587f1dc56d237bd.pdf',2024,'核实到官方2024国际本科简章，HSK5条款仅为历史参考；未找到公开可核查的2026/2027年度规则。SQA3+1出国项目不属于外国学生入读北交大本科。','北京交通大学2024国际学生本科招生简章（历史参考）')
+verify('北京工业大学','https://isa.bjut.edu.cn/__local/B/A3/B2/69DCE244B953DEB7673801CFF5B_425639CD_9BD8A.pdf',2026,'2026本科须高中或同等学历、中文HSK4及以上和CSCA。英文有效能力证明，但暂未核实一般本科统一IELTS值；北京奖学金A类IELTS6.5不能套到普通录取。',[rule('bjut-cn','中文本科','zh',(4,None),csca=[]),rule('bjut-en','英文本科（专业与英语证书人工核查）','en',csca=[],notes=['英语证明必要但统一IELTS本科最低分尚未核实','奖学金A类IELTS6.5为专项条件，不能作普通本科门槛'])])
+verify('北京科技大学','https://isc.ustb.edu.cn/bmsq/4204b9af3b0f4e1abaad855f212fec05.htm',2026,'中文HSK4及以上，英文IELTS5.5/TOEFL70；须高中毕业及成绩审查，2026专业CSCA科目查招生目录。',[rule('ustb-cn','中文本科','zh',(4,None),csca=[]),rule('ustb-en','英文本科','en',ielts=5.5,csca=[])],extra=[source('https://isc.ustb.edu.cn/docs/2025-12/a1cfa11540bc4f079c3356684de74212.pdf','2026北京科技大学本科招生简章',2026)])
+verify('北京化工大学','https://apply.buct.edu.cn/14866/list.htm',2026,'中文HSK4 180且CSCA专业中文达标，英文IELTS6/TOEFL85；本科CSCA科目按专业目录，未公布统一录取分。',[rule('buct-cn','中文本科','zh',(4,180),csca=[],notes=['另须CSCA专业中文达到合格要求，官网未列数值，须人工确认']),rule('buct-en','英文本科','en',ielts=6,csca=[])])
+unknown('北京邮电大学','https://ois.bupt.edu.cn/info/1010/1552.htm',None,'官网可见来华留学申请入口及旧年条款；未公开核实2026/2027本科阈值，不能从研究生/第三方简章推定本科HSK或CSCA。','北京邮电大学国际学生官方申请入口（年度规则待核实）')
+verify('北京林业大学','https://english.bjfu.edu.cn/docs/2025-11/4092e0495fdc4546ab0774035f5ab258.pdf',2026,'PDF内页明确2026招生，HSK4以上、高中证和成绩，所有本科CSCA。文科中文+数学适用经管/艺术；其他理科中文+数学，部分物理或化学标选考。',[rule('bfu-management-art','经济管理/艺术本科','zh',(4,None),csca=['chineseHumanities','mathematics'],notes=['艺术具体作品与专业审查须核查']),rule('bfu-stem','理工农林本科','zh',(4,None),csca=['chineseStem','mathematics'],notes=['林学/园林园艺等化学选考；风景园林/工学院/信息学院等物理选考，须按具体目录确认'])])
+verify('北京中医药大学','https://iec.bucm.edu.cn/ZSJZ/8c24201b3e8745ed80b537d909c8d06b.htm',2026,'中文本科HSK4 180、证书两年有效；须CSCA合格但未列合格分。中医针灸等文科中文+数学，药学护理等理科中文+数学。',[rule('bucm-clinical','中医学/中医骨伤/针灸推拿/公共事业管理','zh',(4,180),csca=['chineseHumanities','mathematics'],notes=['CSCA须达学校合格条件但未公布数值；原则18岁，未满18须监护文件']),rule('bucm-pharmacy','中药学/药学/制剂/生物工程/药事管理/护理','zh',(4,180),csca=['chineseStem','mathematics'],notes=['A-Level可作标准考试成绩证明，不代表以A-Level自动替代毕业证'])])
+for r in by['北京中医药大学']['rules']:r['languageCertificatesValidityYears']=2
+unknown('北京外国语大学','https://lb.bfsu.edu.cn/info/2612/4701.htm',2026,'官网2026本科招生简章页面主要内容以图片呈现；附件下载需验证，未提取到可核查的项目阈值。语言门槛须核查具体学院及项目。','北京外国语大学2026国际学生本科招生简章（项目数值待核实）')
+verify('中国传媒大学','https://icuc.cuc.edu.cn/2026/0204/c7289a266930/page.htm',2026,'本科需CSCA；本科FAQ称HSK5及以上并要求HSKK中级及以上、各项60，专业要求可能更高，须按具体专业审核。不得套用研究生IELTS值。',[rule('cuc-cn','中文本科（专业要求另审）','zh',(5,None),csca=[],notes=['另须HSKK中级及以上；FAQ所列各项60需对照专业及证书类型确认','艺术/媒体专业考试和作品要求另审'])])
+verify('中央财经大学','https://sice.cufe.edu.cn/admissions/info/1045/3420.htm',2026,'中文本科HSK5 180，CSCA文科中文和数学；需高中毕业、全成绩、两封推荐信、中文计划与面试综合评估。',[rule('cufe-cn','中文本科','zh',(5,180),csca=['chineseHumanities','mathematics'],notes=['学习计划不少于500中文字、两封推荐信、面试'])])
+unknown('中国政法大学','https://sis.cupl.edu.cn/',2026,'校国际教育学院官网访问403，未取得可验证的2026本科原文；第三方虽转载2026规则，本数据不将转载阈值作为官方已核实标准。','中国政法大学国际教育学院（本科原文暂不可访问）')
+verify('北京体育大学','https://zs.bsu.edu.cn/lxszsw/lxstzgg/66d8ebf30f85422688e099f28f51b58e.htm',2026,'中文本科HSK4及以上，2026全本科CSCA科目依专业；原则18–30岁，高中或同等学历；A-Level列为可交成绩证明，须高中毕业资格和面试。',[rule('bsu-cn','中文体育/人文本科','zh',(4,None),csca=[],notes=['专业目录决定文科/理科中文及数学；体育专项能力和线上面试另审','官方材料清单另提非英语母语英语证明IELTS6/TOEFL90，须向学院确认适用性，不作为中文项目统一硬阈值','原则年龄18–30岁，未成年监护材料另审'])],extra=[source('https://zs.bsu.edu.cn/docs/2025-11/42eac512d5c34329afba9e0b37abad2b.pdf','2026本科专业及CSCA目录',2026)])
+verify('中央音乐学院','https://liuxue.ccom.edu.cn/uploads/attached/file/20260113/E113895183690720.pdf',2026,'2026国际考生章要求年满18、高中毕业证及成绩、HSK3及以上180分；须专业校考与综合评审。国际章与国内高考条款分开。',[rule('ccom-cn','音乐类中文本科（国际考生路线）','zh',(3,180),notes=['须年满18岁','专业初复试、视唱练耳及具体考试大纲另审','国际考生不套用国内高考录取分；CSCA此章未核实，需当年度确认'])])
+unknown('华北电力大学','https://studyatncepu.ncepu.edu.cn/Admissions/YearlyAdmission/2ff0bc031fdd4e63a9fab6f926630897.htm',2027,'已核实官网2027招生公告及大型PDF附件，具体本科语言及CSCA数值尚未读出。旧版HSK3/4不能替代2027规则。','2027 NCEPU Admission（本科数值暂待提取）')
+unknown('中国矿业大学（北京）','https://international.cumtb.edu.cn/info/1037/4082.htm',2025,'官网2025本科简章可核查，HSK4仅历史参考；未核实2026/2027年本科CSCA及完整学历标准，不自动沿用。','中国矿业大学（北京）2025国际本科简章（历史参考）')
+verify('中国石油大学（北京）','https://www.cup.edu.cn/overseas/docs/2025-10/29c769b3744248d8bf7678848d415210.pdf',2026,'25岁以下、高中毕业；中文HSK4 180，英文IELTS6/TOEFL75/Essentials8；所有本科CSCA。HSK4 222仅特定奖学金，不作普通录取统一线。',[rule('cupb-cn','中文本科','zh',(4,180),csca=[],age={'maximum':25,'exclusive':True},notes=['CSCA组合依2026专业目录，奖学金标准与普通申请不同']),rule('cupb-en','英文本科','en',ielts=6,csca=[],age={'maximum':25,'exclusive':True})],extra=[source('https://www.cup.edu.cn/overseas/docs/2025-10/aeea72b517e8409e9a0eedcff19531e5.pdf','2026本科专业目录',2026)])
+verify('中国地质大学（北京）','https://bm.cugb.edu.cn/gjhzyjl-en/upload/resources/file/2025/10/12/274996.pdf',2026,'本科高中或同等学历、25岁以下，中文HSK4及以上；英文需相应能力，但未核实统一IELTS分。CSCA条款未明确提取须复核。',[rule('cugb-cn','中文本科','zh',(4,None),age={'maximum':25,'exclusive':True},notes=['CSCA当年度要求须进一步确认']),rule('cugb-en','英文本科（专业/英语要求另审）','en',age={'maximum':25,'exclusive':True},notes=['英文具体项目及语言证书阈值人工核查；CSCA待复核'])])
+verify('南开大学','https://sie.nankai.edu.cn/info/1097/1162.htm',2026,'一般中文本科HSK4 180，高中资格及全成绩须审，具体学院更高语言要求依目录。所有本科需CSCA相应科目，不设自拟统一分。',[rule('nankai-cn','中文本科一般申请（专业门槛另审）','zh',(4,180),csca=[],notes=['专业可能HSK5及更高；以年度专业目录为准，不能把一般最低要求当作所有专业标准']),rule('nankai-literature','汉语言文学本科','zh',(5,None),csca=['chineseHumanities','mathematics'])],extra=[source('https://ensie.nankai.edu.cn/__local/B/A8/40/97EDB6712E8FD18F1F455432EFD_032F2D2F_1E08A.pdf','南开2026本科专业目录',2026)])
+unknown('天津医科大学','https://www.tmu.edu.cn/',None,'官方网站访问超时，未取得可公开核查的2026/2027国际本科招生原文；不得混用台湾台北医学大学tmu.edu.tw或天津大学tju.edu.cn规则。','天津医科大学官网（国际本科招生原文未核实）')
+verify('河北工业大学','https://eweb.hebut.edu.cn/admission/InternationalStudents/prospectus/c795f3af378e422ea89ea12c573eeb2f.htm',2026,'高中同等学历，中文工商管理/汉语国际教育HSK4 210；英文电子科学与技术IELTS6/TOEFL85；CSCA依目录，原则22岁以下。',[rule('hebut-cn','工商管理/汉语国际教育（中文）','zh',(4,210),csca=[],notes=['年龄一般不超过22岁，校方审核例外']),rule('hebut-electronics-en','电子科学与技术（英语）','en',ielts=6,csca=[],notes=['高中资格、数学物理等专业能力综合审核；年龄一般≤22'])],extra=[source('https://sie.hebut.edu.cn/xzzx/1b030dd5b36d454e949a68345736978d.htm','河北工大2026CSCA科目附件入口',2026)])
+unknown('太原理工大学','https://is.tyut.edu.cn/html/article_content/202606/6B86A9FF2F5A4850B814BFFA0F84D85E.shtml',2026,'2026官方综合招生页列HSK5/4和IELTS6.5等材料，但本科与研究生对应阈值尚未核清；旧2025本科平均75和IELTS6不能自动沿用2026。','TYUT2026国际学生综合招生指南（本科项目阈值待核实）')
+verify('内蒙古大学','https://iec.imu.edu.cn/en/danpian.jsp?urltype=tree.TreeTempUrl&wbtreeid=1195',None,'官方未注明入学年度的学位指南要求高中毕业、18岁及以上、HSK4及以上；CSCA和2027年度要求须再核实。',[rule('imu-cn','中文本科（未注明年度，需确认）','zh',(4,None),notes=['满18岁','未注明年度；不得作为2027已开放招生或免CSCA证据'])],title='内蒙古大学官方学位申请指南（未注明年度）')
+verify('大连理工大学','https://sie.dlut.edu.cn/info/1179/2480.htm',2026,'2026英文本科IELTS5.5/TOEFL80/Duolingo100，高中学历与全成绩须审；本科须CSCA，科目查相应专业2026附件。',[rule('dut-en','英文本科','en',ielts=5.5,csca=[],notes=['仅核实此英文项目页面；中文项目HSK门槛另查专业'])])
+verify('东北大学','https://studyinneu.neu.edu.cn/html/article_content/202604/55185DB2D9B14A00AD885F95988B76F8.shtml',2026,'高中毕业及以上、16岁以上；中文HSK5 180，英文本科需英语能力证明未列统一IELTS值。所有本科须CSCA，择优评审。',[rule('neu-cn','中文本科','zh',(5,180),csca=[],notes=['年满16岁；未成年监护材料另审']),rule('neu-en','英文本科/英语专业（语言证明另审）','en',csca=[],notes=['母语或英语官方语言国家可按规定证明；其他申请人提交IELTS/TOEFL或英语证明，未列统一分数'])])
+verify('辽宁大学','https://ie.lnu.edu.cn/info/13193/2206.htm',2026,'中文HSK4 180、英文IELTS5/TOEFL60；CSCA必考专业中文和数学、理化依专业，汉语言有效HSK4可免专业中文；面试综合评审。中英年龄条款16与18不一致，须确认。',[rule('lnu-cn','中文本科（汉语言另列）','zh',(4,180),csca=['mathematics'],notes=['另必考专业中文，文理中文按专业；物理/化学按专业选择','中英年龄条款不同：英文至少16，中文18以上且未成年可交监护；须校方确认']),rule('lnu-chinese','汉语言本科','zh',(4,180),csca=['mathematics'],notes=['有效HSK4及以上可免CSCA专业中文；高中等同学历与面试仍审']),rule('lnu-en','英文本科','en',ielts=5,csca=['mathematics'],notes=['简章统一CSCA还列专业中文必考，英文本科适用须专业/校方核实','IELTS/TOEFL须在有效期内'])])
+for u in cat:
+ for r in u['rules']:
+  if 'hsk' in r['machineRule'] and r['machineRule']['hsk']['minimumTotal'] is None:r['otherRequirements'].append('官网未列统一HSK总分；只核实等级，不自设分数线')
+  r['otherRequirements'].append('不将缅甸12科成绩、GED或A-Level等级机械换算为中国招生分；毕业资格与专业成绩须招生方审核')
+data={k:copy.deepcopy(v) for k,v in original.items() if k not in ['universities','stats']}
+data['scope']='32所北方院校补充，不覆盖原china.json';data['universities']=cat
+
+def save():
+ data['stats']={'directoryEntries':len(cat),'verifiedUniversities':sum(u['verificationStatus']=='verified_general_requirements' for u in cat),'unknownRequirementUniversities':sum(u['verificationStatus']=='requirements_unknown' for u in cat),'projectRules':sum(len(u['rules']) for u in cat),'universitiesWithOfficialSource':sum(bool(u['sources']) for u in cat)}
+ (base/'china-north.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)); print(data['stats'])
+
+save()

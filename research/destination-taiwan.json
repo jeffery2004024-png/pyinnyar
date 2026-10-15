@@ -1,0 +1,274 @@
+{
+  "id": "taiwan",
+  "checkedAt": "2026-10-08",
+  "title": {
+    "zh": "台湾",
+    "en": "Taiwan",
+    "my": "ထိုင်ဝမ်"
+  },
+  "tag": {
+    "zh": "身份路径 · 专业语言 · 就学居留",
+    "en": "Student status · Programme language · Study residence",
+    "my": "ကျောင်းသားအမျိုးအစား · သင်ကြားဘာသာစကား · ကျောင်းတက်နေထိုင်ခွင့်"
+  },
+  "overview": {
+    "zh": "可从台北、新竹、台南等城市的大学开始认识台湾的学习选择。课程可能以中文、英文或两者授课；先了解大学和专业，再核对外国学生或侨生申请身份、语言证明与就学居留规则。",
+    "en": "Get to know study options through universities in Taipei, Hsinchu and Tainan. Courses may use Chinese, English or both. Explore institutions and subjects, then check international or overseas Chinese applicant status, language evidence and study residence rules.",
+    "my": "Taipei၊ Hsinchu နှင့် Tainan မြို့များရှိ တက္ကသိုလ်များမှ ထိုင်ဝမ်ပညာသင်ရွေးချယ်မှုကို လေ့လာနိုင်သည်။ သင်တန်းများတွင် တရုတ်၊ အင်္ဂလိပ် သို့မဟုတ် နှစ်ဘာသာ သုံးနိုင်သည်။ ကျောင်းနှင့် ဘာသာရပ်ကို ရွေးပြီး နိုင်ငံခြားသား သို့မဟုတ် ပြည်ပတရုတ်နွယ်ဖွား လျှောက်ထားသူအမျိုးအစား၊ ဘာသာစကားနှင့် နေထိုင်ခွင့်စည်းကမ်းကို စစ်ဆေးရန် လိုသည်။"
+  },
+  "sections": [
+    {
+      "id": "student-routes",
+      "title": {
+        "zh": "外国学生与侨生：先确认身份",
+        "en": "International and overseas Chinese routes",
+        "my": "နိုင်ငံတကာကျောင်းသားနှင့် ပင်လယ်ရပ်ခြားတရုတ်နွယ်ဖွား လမ်းကြောင်းများ"
+      },
+      "body": {
+        "zh": "外国学生须符合教育部的国籍及既往就学规定，通常向大学申请。侨生须具华裔及海外永久或长期居留资格，并符合出生或连续居留等条件，由主管机关核定；可按招生简章走海联会或大学单独招生。缅甸华校毕业并不自动取得侨生身份，申请前应核查个人国籍、居留与既往就学记录。",
+        "en": "International applicants must meet nationality and prior-study rules and generally apply to universities. Overseas Chinese status requires Chinese descent, qualifying overseas residence documents and birth/residence conditions, with official validation; routes include the overseas joint admissions committee or university direct admission. A Myanmar Chinese-school diploma alone does not establish this status. Check nationality, residence and previous study records first.",
+        "my": "နိုင်ငံတကာကျောင်းသားများသည် နိုင်ငံသားနှင့် ယခင်ပညာသင်မှတ်တမ်းဆိုင်ရာ စည်းမျဉ်းများကို ပြည့်မီပြီး တက္ကသိုလ်သို့ လျှောက်ထားရသည်။ ပင်လယ်ရပ်ခြားတရုတ်နွယ်ဖွားအဖြစ် လျှောက်ရန် တရုတ်မျိုးနွယ်၊ ပြည်ပအမြဲတမ်း သို့မဟုတ် ရေရှည်နေထိုင်ခွင့်နှင့် မွေးဖွား/နေထိုင်မှုဆိုင်ရာ သတ်မှတ်ချက်များကို တရားဝင်စစ်ဆေးအတည်ပြုရသည်။ မြန်မာတရုတ်ဘာသာသင်ကျောင်းမှ ကျောင်းဆင်းခြင်းတစ်ခုတည်းဖြင့် ဤအမျိုးအစား အလိုအလျောက်မရပါ။ ပူးတွဲဝင်ခွင့် သို့မဟုတ် တက္ကသိုလ်တိုက်ရိုက်ဝင်ခွင့် စည်းမျဉ်းကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "NTU — Student Status",
+          "url": "https://admissions.ntu.edu.tw/apply/degree-students/admission-information/student-status/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NCKU — Overseas Compatriot Direct Admission",
+          "url": "https://oia.ncku.edu.tw/p/404-1032-229822.php?Lang=en",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "language-documents",
+      "title": {
+        "zh": "按专业准备语言与材料",
+        "en": "Programme language and documents",
+        "my": "ဘာသာရပ်အလိုက် ဘာသာစကားနှင့် စာရွက်စာတမ်းများ"
+      },
+      "body": {
+        "zh": "课程可能以中文、英文或两者授课，语言证明与门槛须查目标专业当年简章。准备毕业证明、完整成绩单、国籍证明及要求的语言材料；推荐信、财力证明、补充作品或面试依学校与专业而定。非中英文材料须按学校及签证机关要求翻译、验证。不要把大陆的 CSCA 或其他地区统一门槛直接套用于台湾地区。",
+        "en": "Programmes may use Chinese, English or both; check the current programme’s language evidence and thresholds. Prepare graduation records, full transcripts, nationality evidence and requested language documents. Recommendations, financial evidence, portfolios and interviews depend on the institution and programme. Translate and authenticate documents as required. Assess Taiwan programmes separately from mainland CSCA rules.",
+        "my": "သင်တန်းများတွင် တရုတ်၊ အင်္ဂလိပ် သို့မဟုတ် နှစ်ဘာသာ သုံးနိုင်သည်။ ရွေးထားသောဘာသာရပ်၏ လက်ရှိဘာသာစကား သတ်မှတ်ချက်ကို စစ်ဆေးရန် လိုသည်။ ကျောင်းဆင်းလက်မှတ်၊ အမှတ်စာရင်းအပြည့်၊ နိုင်ငံသားအထောက်အထားနှင့် တောင်းဆိုထားသော ဘာသာစကားစာရွက်စာတမ်းများကို ပြင်ဆင်ရန် လိုသည်။ ထောက်ခံစာ၊ ငွေကြေးအထောက်အထား၊ လက်ရာနှင့် လူတွေ့စစ်ဆေးမှုတို့မှာ ကျောင်း/ဘာသာရပ်အလိုက် ကွာသည်။ လိုအပ်သလို ဘာသာပြန်နှင့် အတည်ပြုချက်ရယူရန် လိုသည်။ တရုတ်ပြည်မ၏ CSCA စည်းမျဉ်းကို ထိုင်ဝမ်အတွက် အလိုအလျောက်မသုံးပါ။"
+      },
+      "sources": [
+        {
+          "title": "NTU OIA — Why Study at NTU",
+          "url": "https://oia.ntu.edu.tw/en/prospective-students",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NTU — International Students",
+          "url": "https://admissions.ntu.edu.tw/apply/degree-students/international-students/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NCKU — Admission Information",
+          "url": "https://web.ncku.edu.tw/p/412-1000-28616.php?Lang=en",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "BOCA — Resident Visas for Foreign Students",
+          "url": "https://www.boca.gov.tw/cp-166-283-c4da3-2.html",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "visa-residence",
+      "title": {
+        "zh": "就学签证与居留：使用台湾官方入口",
+        "en": "Study visa and residence: official portals",
+        "my": "ကျောင်းတက်ဗီဇာနှင့် နေထိုင်ခွင့် တရားဝင်လမ်းကြောင်း"
+      },
+      "body": {
+        "zh": "取得录取后，向负责的台湾驻外机构核查适用的就学签证流程。外国学生居留签证官方清单包括申请表、护照、照片、录取证明、健康检查、学历成绩及财力资料；个案可能须补件。入境后按移民署规定申请外侨居留证（ARC），可使用外国学生及侨生线上居留系统。侨生应依相应身份流程办理，不使用大陆 X1 签证流程。",
+        "en": "After admission, check the applicable study-visa procedure with the responsible Taiwan overseas mission. The foreign-student resident-visa checklist includes the form, passport, photos, admission evidence, health examination, education records and financial evidence; additional documents may be requested. Follow National Immigration Agency rules for an ARC after entry, using its student residence service where applicable. Use the route for your student status, rather than mainland X1 procedures.",
+        "my": "ဝင်ခွင့်ရပြီးနောက် သက်ဆိုင်ရာ ထိုင်ဝမ်ပြည်ပကိုယ်စားလှယ်ရုံးတွင် ကျောင်းတက်ဗီဇာ လုပ်ငန်းစဉ်ကို စစ်ဆေးရန် လိုသည်။ နိုင်ငံတကာကျောင်းသား နေထိုင်ခွင့်ဗီဇာအတွက် လျှောက်လွှာ၊ နိုင်ငံကူးလက်မှတ်၊ ဓာတ်ပုံ၊ ဝင်ခွင့်စာ၊ ဆေးစစ်ချက်၊ ပညာရေးမှတ်တမ်းနှင့် ငွေကြေးအထောက်အထားများ လိုအပ်ပြီး ထပ်တိုးစာရွက်စာတမ်း တောင်းနိုင်သည်။ ဝင်ရောက်ပြီးနောက် လူဝင်မှုကြီးကြပ်ရေးစည်းမျဉ်းအတိုင်း ARC လျှောက်ထားရန် လိုသည်။ သက်ဆိုင်ပါက ကျောင်းသားအွန်လိုင်းနေထိုင်ခွင့်စနစ်ကို သုံးနိုင်သည်။ ကိုယ်ပိုင်ကျောင်းသားအမျိုးအစားအလိုက် လုပ်ဆောင်၍ တရုတ်ပြည်မ X1 လုပ်ငန်းစဉ်ကို မသုံးပါ။"
+      },
+      "sources": [
+        {
+          "title": "BOCA — Resident Visas for Foreign Students",
+          "url": "https://www.boca.gov.tw/cp-166-283-c4da3-2.html",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "National Immigration Agency — Student Residence Instructions",
+          "url": "https://www.immigration.gov.tw/5382/5385/7244/7250/7317/%E5%B1%85%E7%95%99/362168/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "BOCA — Online Visa Application",
+          "url": "https://visawebapp.boca.gov.tw/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "id": "taiwan-ntu",
+      "nameZh": "国立台湾大学",
+      "nameEn": "National Taiwan University (NTU)",
+      "location": {
+        "zh": "台北",
+        "en": "Taipei",
+        "my": "တိုင်ပေ"
+      },
+      "type": {
+        "zh": "国立大学",
+        "en": "National university",
+        "my": "နိုင်ငံပိုင်တက္ကသိုလ်"
+      },
+      "description": {
+        "zh": "设于台北的国立大学，提供多种学位与跨领域学习机会；国际课程可使用中文、英文或两者。先查国际招生入口中的身份、专业及语言要求。",
+        "en": "A national university in Taipei with varied degree and interdisciplinary study options. International programmes may use Chinese, English or both; check student status and programme requirements in its admissions portal.",
+        "my": "တိုင်ပေရှိ နိုင်ငံပိုင်တက္ကသိုလ်ဖြစ်ပြီး ဘွဲ့နှင့် နယ်ပယ်ပေါင်းစုံပညာသင် အခွင့်အလမ်းများရှိသည်။ တရုတ်၊ အင်္ဂလိပ် သို့မဟုတ် နှစ်ဘာသာသင်တန်းများအတွက် ဝင်ခွင့်အမျိုးအစားနှင့် ဘာသာရပ်သတ်မှတ်ချက်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "website": "https://www.ntu.edu.tw/english/",
+      "admissionsUrl": "https://admissions.ntu.edu.tw/apply/degree-students/international-students/",
+      "sources": [
+        {
+          "title": "NTU — About NTU",
+          "url": "https://www.ntu.edu.tw/english/about/about.html",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NTU OIA — Why Study at NTU",
+          "url": "https://oia.ntu.edu.tw/en/prospective-students",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NTU — International Students",
+          "url": "https://admissions.ntu.edu.tw/apply/degree-students/international-students/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-nthu",
+      "nameZh": "国立清华大学",
+      "nameEn": "National Tsing Hua University (NTHU)",
+      "location": {
+        "zh": "新竹",
+        "en": "Hsinchu",
+        "my": "ရှင်ချူ"
+      },
+      "type": {
+        "zh": "国立综合研究大学",
+        "en": "National comprehensive research university",
+        "my": "နိုင်ငံပိုင် ဘက်စုံသုတေသနတက္ကသိုလ်"
+      },
+      "description": {
+        "zh": "位于新竹，学科覆盖科学、技术、工程、人文、社会科学与管理。外国学生和侨生拥有不同招生入口，须先核查身份。",
+        "en": "Located in Hsinchu, with science, technology, engineering, humanities, social sciences and management. International and overseas Chinese applicants use distinct admission routes.",
+        "my": "ရှင်ချူတွင် တည်ရှိပြီး သိပ္ပံ၊ နည်းပညာ၊ အင်ဂျင်နီယာ၊ လူမှုလူသားရေးနှင့် စီမံခန့်ခွဲမှု ပညာရပ်များရှိသည်။ နိုင်ငံတကာကျောင်းသားနှင့် ပင်လယ်ရပ်ခြားတရုတ်နွယ်ဖွားတို့၏ ဝင်ခွင့်လမ်းကြောင်း ကွဲပြားသည်။"
+      },
+      "website": "https://www.nthu.edu.tw/",
+      "admissionsUrl": "https://admission.nthu.edu.tw/p/412-1207-10069.php?Lang=en",
+      "sources": [
+        {
+          "title": "NTHU — About NTHU",
+          "url": "https://nthu-en.site.nthu.edu.tw/p/403-1003-4798.php",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NTHU — International Students",
+          "url": "https://admission.nthu.edu.tw/p/412-1207-10069.php?Lang=en",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-nycu",
+      "nameZh": "国立阳明交通大学",
+      "nameEn": "National Yang Ming Chiao Tung University (NYCU)",
+      "location": {
+        "zh": "新竹与台北等校区",
+        "en": "Campuses including Hsinchu and Taipei",
+        "my": "ရှင်ချူနှင့် တိုင်ပေ အပါအဝင် ကျောင်းဝင်းများ"
+      },
+      "type": {
+        "zh": "国立综合大学",
+        "en": "National comprehensive university",
+        "my": "နိုင်ငံပိုင် ဘက်စုံတက္ကသိုလ်"
+      },
+      "description": {
+        "zh": "由阳明大学与交通大学于2021年合并，结合生物医学及电子通信背景，提供工程、医学、管理、人文等学科。国际学位生通过学校线上系统申请。",
+        "en": "Formed in 2021 from Yang-Ming and Chiao Tung universities, combining biomedical and electronic-communications traditions with diverse academic fields. International degree applications use the university’s online system.",
+        "my": "၂၀၂၁ ခုနှစ်တွင် Yang-Ming နှင့် Chiao Tung တက္ကသိုလ်များ ပေါင်းစည်းခဲ့ပြီး ဇီဝဆေးပညာနှင့် အီလက်ထရွန်နစ်ဆက်သွယ်ရေး အခြေခံများနှင့် နယ်ပယ်စုံပညာရပ်များရှိသည်။ နိုင်ငံတကာဘွဲ့သင်တန်းများကို ကျောင်းအွန်လိုင်းစနစ်မှ လျှောက်ထားရသည်။"
+      },
+      "website": "https://www.nycu.edu.tw/nycu/en/index",
+      "admissionsUrl": "https://www.nycu.edu.tw/oia/en/app/data/list?id=798&module=nycu0015",
+      "sources": [
+        {
+          "title": "NYCU — About",
+          "url": "https://www.nycu.edu.tw/nycu/en/index",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NYCU Secretariat — Campus Locations",
+          "url": "https://www.nycu.edu.tw/sec/en/app/folder/249",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NYCU — Admissions Overview",
+          "url": "https://www.nycu.edu.tw/nycu/en/app/artwebsite/view?id=564&module=artwebsite&serno=b2e1288a-f87a-4d3c-8a5e-8e115e96ab0d",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NYCU — International Admissions",
+          "url": "https://www.nycu.edu.tw/oia/en/app/data/list?id=798&module=nycu0015",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-ncku",
+      "nameZh": "国立成功大学",
+      "nameEn": "National Cheng Kung University (NCKU)",
+      "location": {
+        "zh": "台南",
+        "en": "Tainan",
+        "my": "တိုင်နန်"
+      },
+      "type": {
+        "zh": "国立大学",
+        "en": "National university",
+        "my": "နိုင်ငံပိုင်တက္ကသိုလ်"
+      },
+      "description": {
+        "zh": "位于台南，设有工程教育、科研及医学相关资源。申请前应在国际招生入口确认可申请的专业、文件及面试或考试要求；侨生单独招生另设入口。",
+        "en": "Based in Tainan, with engineering education, research and medical resources. Check international admissions for available programmes, documents and any interviews or tests; overseas Chinese direct admission has a separate route.",
+        "my": "တိုင်နန်တွင် တည်ရှိပြီး အင်ဂျင်နီယာပညာရေး၊ သုတေသနနှင့် ဆေးပညာဆိုင်ရာ အရင်းအမြစ်များရှိသည်။ နိုင်ငံတကာဝင်ခွင့်တွင် ဘာသာရပ်၊ စာရွက်စာတမ်းနှင့် စာမေးပွဲ/လူတွေ့လိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။ ပင်လယ်ရပ်ခြားတရုတ်နွယ်ဖွား တိုက်ရိုက်ဝင်ခွင့် လမ်းကြောင်း သီးခြားရှိသည်။"
+      },
+      "website": "https://web.ncku.edu.tw/?Lang=en",
+      "admissionsUrl": "https://web.ncku.edu.tw/p/412-1000-28616.php?Lang=en",
+      "sources": [
+        {
+          "title": "NCKU — About NCKU",
+          "url": "https://icamp.ncku.edu.tw/p/412-1100-5402.php?Lang=en",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NCKU — Admission Information",
+          "url": "https://web.ncku.edu.tw/p/412-1000-28616.php?Lang=en",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "NCKU — Overseas Compatriot Direct Admission",
+          "url": "https://oia.ncku.edu.tw/p/404-1032-229822.php?Lang=en",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "researchNotes": [
+    "Destination overview only; no blanket recognition of Myanmar Matriculation, Chinese-school diplomas, GED or A-Level is asserted.",
+    "One guessed legacy NTHU about URL and one NCKU main about URL were inaccessible; accessible official about pages were used instead. No PDFs were downloaded.",
+    "No fees, rankings, admissions probabilities or programme-wide language thresholds are estimated."
+  ]
+}

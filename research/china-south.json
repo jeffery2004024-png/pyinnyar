@@ -1,0 +1,3420 @@
+{
+  "schemaVersion": 1,
+  "country": "China",
+  "checkedAt": "2026-10-08",
+  "planningIntakeYear": 2027,
+  "scope": "南部西部30所985/211目录补充",
+  "matchingPolicy": "2026规则仅规划参考；学历conditional必须人工复核，unknown不得输出可申请；门槛只适用于标签所列专业与语言，CSCA无数值线不得编造。",
+  "universities": [
+    {
+      "id": "cn-hzau",
+      "nameZh": "华中农业大学",
+      "nameEn": "Huazhong Agricultural University",
+      "city": "武汉",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hzau.edu.cn/",
+      "admissionsUrl": "https://studyin.hzau.edu.cn/",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [
+        {
+          "url": "https://studyin.hzau.edu.cn/",
+          "title": "华中农业大学国际学生官方招生入口",
+          "year": null,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "官方本科最新简章尚未核实；未使用第三方旧HSK4门槛"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "官方本科最新简章尚未核实；未使用第三方旧HSK4门槛"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官方本科最新简章尚未核实；未使用第三方旧HSK4门槛"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "官方本科最新简章尚未核实；未使用第三方旧HSK4门槛"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "官方本科最新简章尚未核实；未使用第三方旧HSK4门槛",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-ccnu",
+      "nameZh": "华中师范大学",
+      "nameEn": "Central China Normal University",
+      "city": "武汉",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ccnu.edu.cn/",
+      "admissionsUrl": "https://dge.ccnu.edu.cn/info/1381/28421.htm",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "confirmed_current_page_content_pending",
+      "sources": [
+        {
+          "url": "https://dge.ccnu.edu.cn/info/1381/28421.htm",
+          "title": "CCNU 2026官方国际学生招生指南",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "官方2026指南已确认存在，PDF附件访问受限；本科HSK/IELTS/CSCA待核实，人工智能教育学部页面为硕博不能套本科"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "官方2026指南已确认存在，PDF附件访问受限；本科HSK/IELTS/CSCA待核实，人工智能教育学部页面为硕博不能套本科"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官方2026指南已确认存在，PDF附件访问受限；本科HSK/IELTS/CSCA待核实，人工智能教育学部页面为硕博不能套本科"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "官方2026指南已确认存在，PDF附件访问受限；本科HSK/IELTS/CSCA待核实，人工智能教育学部页面为硕博不能套本科"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "官方2026指南已确认存在，PDF附件访问受限；本科HSK/IELTS/CSCA待核实，人工智能教育学部页面为硕博不能套本科",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-zuel",
+      "nameZh": "中南财经政法大学",
+      "nameEn": "Zhongnan University of Economics and Law",
+      "city": "武汉",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.zuel.edu.cn/",
+      "admissionsUrl": "https://ies.zuel.edu.cn/",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [
+        {
+          "url": "https://ies.zuel.edu.cn/",
+          "title": "ZUEL国际教育学院官方招生入口",
+          "year": null,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "官方站点加载失败；第三方转载2026本科不作为数值规则，HSK/IELTS/CSCA待官方确认"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "官方站点加载失败；第三方转载2026本科不作为数值规则，HSK/IELTS/CSCA待官方确认"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官方站点加载失败；第三方转载2026本科不作为数值规则，HSK/IELTS/CSCA待官方确认"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "官方站点加载失败；第三方转载2026本科不作为数值规则，HSK/IELTS/CSCA待官方确认"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "官方站点加载失败；第三方转载2026本科不作为数值规则，HSK/IELTS/CSCA待官方确认",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-hnu",
+      "nameZh": "湖南大学",
+      "nameEn": "Hunan University",
+      "city": "长沙",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hnu.edu.cn/",
+      "admissionsUrl": "https://www-en.hnu.edu.cn/__local/1/D4/C0/0A6AC6A418F491ADEC7EE62655D_437210C1_5304C.pdf",
+      "verificationStatus": "historical_reference_only",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://www-en.hnu.edu.cn/__local/1/D4/C0/0A6AC6A418F491ADEC7EE62655D_437210C1_5304C.pdf",
+          "title": "2025 Guidelines for Self-Financed International Students",
+          "year": 2025,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "2025官方自费指南中文HSK6/英授IELTS6或TOEFL80，须确认本科段及2026新规则；本记录仅历史证据，不生成可匹配门槛。",
+      "planningNote": "官方通用页面，申请年度及专业目录须再核实。",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-hunnu",
+      "nameZh": "湖南师范大学",
+      "nameEn": "Hunan Normal University",
+      "city": "长沙",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hunnu.edu.cn/",
+      "admissionsUrl": "https://oiec.hunnu.edu.cn/info/1061/4194.htm",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "confirmed_current_page_content_pending",
+      "sources": [
+        {
+          "url": "https://oiec.hunnu.edu.cn/info/1061/4194.htm",
+          "title": "2026湖南师范大学国际学生招生指南",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "官方2026页与PDF已确认，但附件403，语言数值待核实；索引提及2026/27本科CSCA，暂不激活"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "官方2026页与PDF已确认，但附件403，语言数值待核实；索引提及2026/27本科CSCA，暂不激活"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官方2026页与PDF已确认，但附件403，语言数值待核实；索引提及2026/27本科CSCA，暂不激活"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "官方2026页与PDF已确认，但附件403，语言数值待核实；索引提及2026/27本科CSCA，暂不激活"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "官方2026页与PDF已确认，但附件403，语言数值待核实；索引提及2026/27本科CSCA，暂不激活",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-scut",
+      "nameZh": "华南理工大学",
+      "nameEn": "South China University of Technology",
+      "city": "广州",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.scut.edu.cn/",
+      "admissionsUrl": "https://www.scut.edu.cn/en/2025/1127/c606a58695/page.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://www.scut.edu.cn/en/2025/1127/c606a58695/page.htm",
+          "title": "Undergraduate Programs 国际本科入学要求",
+          "year": null,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-scut-1",
+          "label": "中文理工/汉语国际教育",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            },
+            "hskk": {
+              "required": true,
+              "minimumLevel": "intermediate",
+              "minimumTotal": null,
+              "scoreThresholdPublished": false
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "年龄25周岁以下",
+            "需HSKK中级成绩，页面未给统一分数线"
+          ],
+          "year": null,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://www.scut.edu.cn/en/2025/1127/c606a58695/page.htm",
+          "sourceStatus": "undated_current_page",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": 2,
+          "labelEn": "Chinese-taught science/engineering and Teaching Chinese to Speakers of Other Languages",
+          "labelMy": "Chinese-taught science/engineering and Teaching Chinese to Speakers of Other Languages",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published.",
+            "Submit an intermediate HSK Speaking Test (HSKK) report; a universal HSKK numeric cutoff is not stated."
+          ]
+        },
+        {
+          "id": "cn-scut-2",
+          "label": "中文文科/经管/外语/艺术/建筑/体育",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            },
+            "hskk": {
+              "required": true,
+              "minimumLevel": "intermediate",
+              "minimumTotal": null,
+              "scoreThresholdPublished": false
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "年龄25周岁以下",
+            "需HSKK中级成绩，页面未给统一分数线"
+          ],
+          "year": null,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://www.scut.edu.cn/en/2025/1127/c606a58695/page.htm",
+          "sourceStatus": "undated_current_page",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": 2,
+          "labelEn": "Chinese-taught humanities, business, languages, art/design, architecture and sport",
+          "labelMy": "Chinese-taught humanities, business, languages, art/design, architecture and sport",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published.",
+            "Submit an intermediate HSK Speaking Test (HSKK) report; a universal HSKK numeric cutoff is not stated."
+          ]
+        },
+        {
+          "id": "cn-scut-3",
+          "label": "英文授课本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 5.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            },
+            "hskk": {
+              "required": false,
+              "minimumLevel": null,
+              "minimumTotal": null,
+              "scoreThresholdPublished": false
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "年龄25周岁以下",
+            "或TOEFL iBT68、Duolingo100、认可的同等证明；英语豁免须同时满足英文国家国籍和英文授课学历条件"
+          ],
+          "year": null,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://www.scut.edu.cn/en/2025/1127/c606a58695/page.htm",
+          "sourceStatus": "undated_current_page",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": 2,
+          "labelEn": "English-taught undergraduate programmes",
+          "labelMy": "English-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "官方本科通用页分学科列HSK4/5均180，HSKK中级另交；英授雅思5.5；列CSCA证书和高中良好成绩。",
+      "planningNote": "官方通用页面，申请年度及专业目录须再核实。"
+    },
+    {
+      "id": "cn-jnu",
+      "nameZh": "暨南大学",
+      "nameEn": "Jinan University",
+      "city": "广州",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.jnu.edu.cn/",
+      "admissionsUrl": "https://zsb.jnu.edu.cn/2025/1205/c40322a847522/page.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://zsb.jnu.edu.cn/2025/1205/c40322a847522/page.htm",
+          "title": "2026年暨南大学外国留学生本科招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-jnu-1",
+          "label": "中文授课本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 25
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "18–25周岁；国际考试可辅助学术评价，不意味着GED替代高中毕业证"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://zsb.jnu.edu.cn/2025/1205/c40322a847522/page.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": 2,
+          "labelEn": "Chinese-taught undergraduate programmes",
+          "labelMy": "Chinese-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        },
+        {
+          "id": "cn-jnu-2",
+          "label": "国际学院英文授课",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 5.5,
+              "sectionMinimum": 5.0,
+              "sectionExclusive": true
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 25
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "18–25周岁；国际考试可辅助学术评价，不意味着GED替代高中毕业证",
+            "IELTS各部分须在5.0以上（原文严格大于）；或TOEFL80/SAT1030以上，替代证明须复核"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://zsb.jnu.edu.cn/2025/1205/c40322a847522/page.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": 2,
+          "labelEn": "International School English-taught programmes",
+          "labelMy": "International School English-taught programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "中文本科HSK5至少180；国际学院英授雅思5.5且各项超过5.0；CSCA科目按专业目录，完整高中学历仍须审核。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-scnu",
+      "nameZh": "华南师范大学",
+      "nameEn": "South China Normal University",
+      "city": "广州",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.scnu.edu.cn/",
+      "admissionsUrl": "https://english.scnu.edu.cn/a/20260508/1633.html",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://english.scnu.edu.cn/a/20260508/1633.html",
+          "title": "SCNU 2026 Undergraduate International Admission",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-scnu-1",
+          "label": "汉语言本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 35
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "2026仅四个本科专业开放；通常18–35周岁",
+            "CSCA数学（中文试卷）"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://english.scnu.edu.cn/a/20260508/1633.html",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "BA Chinese Language",
+          "labelMy": "BA Chinese Language",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published.",
+            "Only four undergraduate majors are listed in the 2026 guide. English is a bilingual programme and needs both HSK and English proof."
+          ]
+        },
+        {
+          "id": "cn-scnu-2",
+          "label": "教育学/人力资源管理（1+3培养）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics",
+                "professionalChinese"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 35
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "2026仅四个本科专业开放；通常18–35周岁",
+            "具体CSCA科目按当年表；非汉语言专业实行1+3培养并再按GPA/汉语/面试分流"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://english.scnu.edu.cn/a/20260508/1633.html",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Education / Human Resource Management (1+3 pathway)",
+          "labelMy": "Education / Human Resource Management (1+3 pathway)",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published.",
+            "Only four undergraduate majors are listed in the 2026 guide. English is a bilingual programme and needs both HSK and English proof."
+          ]
+        },
+        {
+          "id": "cn-scnu-3",
+          "label": "英语本科（中英授课）",
+          "teachingLanguage": "zh-en",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180
+            },
+            "ielts": {
+              "overallMinimum": 5.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 35
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "2026仅四个本科专业开放；通常18–35周岁",
+            "或英语TOEFL75；需同时符合中英文能力要求"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://english.scnu.edu.cn/a/20260508/1633.html",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "BA English (Chinese and English instruction)",
+          "labelMy": "BA English (Chinese and English instruction)",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published.",
+            "Only four undergraduate majors are listed in the 2026 guide. English is a bilingual programme and needs both HSK and English proof."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "2026仅汉语言、教育学、人力资源管理、英语四个项目；中文要求HSK4≥180，英语专业另需IELTS5.5或TOEFL75；汉语言CSCA数学，其他项目数学及文科中文。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-gxu",
+      "nameZh": "广西大学",
+      "nameEn": "Guangxi University",
+      "city": "南宁",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.gxu.edu.cn/",
+      "admissionsUrl": "https://gjxy.gxu.edu.cn/gjxy_en/",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "confirmed_current_page_content_pending",
+      "sources": [
+        {
+          "url": "https://gjxy.gxu.edu.cn/gjxy_en/",
+          "title": "广西大学国际学院官方招生入口",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "官方当前本科招生链接至官方微信，访问受限；2026政府奖学金页面为硕博，不套本科；旧2015 FAQ不启用"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "官方当前本科招生链接至官方微信，访问受限；2026政府奖学金页面为硕博，不套本科；旧2015 FAQ不启用"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官方当前本科招生链接至官方微信，访问受限；2026政府奖学金页面为硕博，不套本科；旧2015 FAQ不启用"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "官方当前本科招生链接至官方微信，访问受限；2026政府奖学金页面为硕博，不套本科；旧2015 FAQ不启用"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "官方当前本科招生链接至官方微信，访问受限；2026政府奖学金页面为硕博，不套本科；旧2015 FAQ不启用",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-hainanu",
+      "nameZh": "海南大学",
+      "nameEn": "Hainan University",
+      "city": "海口",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.hainanu.edu.cn/",
+      "admissionsUrl": "https://sie.hainanu.edu.cn/info/1549/6234.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://sie.hainanu.edu.cn/info/1549/6234.htm",
+          "title": "2026–2027海南大学国际学生本科招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-hainanu-1",
+          "label": "中文授课本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "网页要求HSK4证书，未给统一数值分数"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://sie.hainanu.edu.cn/info/1549/6234.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Chinese-taught undergraduate programmes",
+          "labelMy": "Chinese-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        },
+        {
+          "id": "cn-hainanu-2",
+          "label": "英文授课本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6,
+              "sectionMinimum": 6
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "或TOEFL纸笔560/iBT78；必须逐项核对雅思单项"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://sie.hainanu.edu.cn/info/1549/6234.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "English-taught undergraduate programmes",
+          "labelMy": "English-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "2026/27本科需高中同等学历、HSK4；英授雅思总分及每项均至少6.0；所有本科须提交CSCA。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-cqu",
+      "nameZh": "重庆大学",
+      "nameEn": "Chongqing University",
+      "city": "重庆",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.cqu.edu.cn/",
+      "admissionsUrl": "https://study.cqu.edu.cn/info/1887/2789.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://study.cqu.edu.cn/info/1887/2789.htm",
+          "title": "2026 Chongqing University Undergraduate Admission",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-cqu-1",
+          "label": "中文授课本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 210
+            },
+            "csca": {
+              "required": null,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true,
+              "requirementReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "自费18–30周岁，奖学金18–25周岁",
+            "CSCA要求及专业科目须按完整目录核实",
+            "部分专业另要求HSK5，须核对目录"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://study.cqu.edu.cn/info/1887/2789.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": 2,
+          "labelEn": "Chinese-taught undergraduate programmes (some require HSK 5)",
+          "labelMy": "Chinese-taught undergraduate programmes (some require HSK 5)",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published.",
+            "Some Chinese-taught programmes require HSK 5; current CSCA requirements remain unverified."
+          ]
+        },
+        {
+          "id": "cn-cqu-2",
+          "label": "英文授课本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6
+            },
+            "csca": {
+              "required": null,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true,
+              "requirementReviewRequired": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "自费18–30周岁，奖学金18–25周岁",
+            "CSCA要求及专业科目须按完整目录核实",
+            "或TOEFL80、前置英文授课证明、英语国家至少一年学习经历，豁免由学校判断"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://study.cqu.edu.cn/info/1887/2789.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": 2,
+          "labelEn": "English-taught undergraduate programmes",
+          "labelMy": "English-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published.",
+            "Some Chinese-taught programmes require HSK 5; current CSCA requirements remain unverified."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "官方2026本科英文本体列高中学历和HSK4≥210，部分专业HSK5；英授雅思6或其他认可证明；CSCA细节当前待复核。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-swu",
+      "nameZh": "西南大学",
+      "nameEn": "Southwest University",
+      "city": "重庆",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.swu.edu.cn/",
+      "admissionsUrl": "https://gjxy.swu.edu.cn/info/1028/1356.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://gjxy.swu.edu.cn/info/1028/1356.htm",
+          "title": "西南大学本科国际学生申请指南（含2026–27目录）",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-swu-1",
+          "label": "中文授课本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 200
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "年龄原则上不超过30岁",
+            "前置中文授课证明可申请豁免"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://gjxy.swu.edu.cn/info/1028/1356.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Chinese-taught undergraduate programmes",
+          "labelMy": "Chinese-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        },
+        {
+          "id": "cn-swu-2",
+          "label": "英文授课本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6,
+              "sectionMinimum": 5.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 30
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "年龄原则上不超过30岁",
+            "或TOEFL80每项20、Duolingo115每项115；英文授课证明可申请豁免"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://gjxy.swu.edu.cn/info/1028/1356.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "English-taught undergraduate programmes",
+          "labelMy": "English-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "生活更新页面内链接2026–27专业目录；中文HSK4≥200，英文雅思6单项5.5；本科需CSCA及高中学历。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-scu",
+      "nameZh": "四川大学",
+      "nameEn": "Sichuan University",
+      "city": "成都",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.scu.edu.cn/",
+      "admissionsUrl": "https://global.scu.edu.cn/oso/article/index/1094?lang=zh",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://global.scu.edu.cn/oso/article/index/1094?lang=zh",
+          "title": "四川大学本科生申请要求（官方通用页）",
+          "year": null,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-scu-1",
+          "label": "普通中文授课本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 25,
+              "exclusive": true,
+              "upperLimitInPrinciple": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "CSCA中文文科：中文和数学；中文理工：中文数学物理；中文医科再加化学；英授免中文科目",
+            "年龄18以上，原则上25以下，高中成绩良好",
+            "中文授课学历证明或其他同等证明可申请豁免"
+          ],
+          "year": null,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://global.scu.edu.cn/oso/article/index/1094?lang=zh",
+          "sourceStatus": "undated_current_page",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Chinese-taught programmes except Chinese Language",
+          "labelMy": "Chinese-taught programmes except Chinese Language",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        },
+        {
+          "id": "cn-scu-2",
+          "label": "汉语言本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 25,
+              "exclusive": true,
+              "upperLimitInPrinciple": true
+            },
+            "language": {
+              "review": false,
+              "hskExemptForThisProgram": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "CSCA中文文科：中文和数学；中文理工：中文数学物理；中文医科再加化学；英授免中文科目",
+            "年龄18以上，原则上25以下，高中成绩良好",
+            "汉语言专业无需HSK证书，不能推广到其他专业"
+          ],
+          "year": null,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://global.scu.edu.cn/oso/article/index/1094?lang=zh",
+          "sourceStatus": "undated_current_page",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "BA Chinese Language",
+          "labelMy": "BA Chinese Language",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        },
+        {
+          "id": "cn-scu-3",
+          "label": "英文授课本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 25,
+              "exclusive": true,
+              "upperLimitInPrinciple": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "CSCA中文文科：中文和数学；中文理工：中文数学物理；中文医科再加化学；英授免中文科目",
+            "年龄18以上，原则上25以下，高中成绩良好",
+            "或TOEFL80、认可同等证明；英语母语或前置英文授课证明可申请豁免"
+          ],
+          "year": null,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://global.scu.edu.cn/oso/article/index/1094?lang=zh",
+          "sourceStatus": "undated_current_page",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "English-taught undergraduate programmes",
+          "labelMy": "English-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "当前官方本科页HSK5≥180/英授雅思6，汉语言本科例外；CSCA按文科、理工、医科和授课语言分别列科目，未给数值线。",
+      "planningNote": "官方通用页面，申请年度及专业目录须再核实。"
+    },
+    {
+      "id": "cn-uestc",
+      "nameZh": "电子科技大学",
+      "nameEn": "University of Electronic Science and Technology of China",
+      "city": "成都",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.uestc.edu.cn/",
+      "admissionsUrl": "https://en.uestc.edu.cn/UESTC_Admission_Brochure-CN.pdf",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://en.uestc.edu.cn/UESTC_Admission_Brochure-CN.pdf",
+          "title": "UESTC 2026 Admission Guidebook 本科章节",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-uestc-1",
+          "label": "中文本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "minimum": 18
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "18岁以上；CSCA达到学校要求但简章未公布统一数值；仅按2026开放的11中文和3英文项目"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://en.uestc.edu.cn/UESTC_Admission_Brochure-CN.pdf",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Chinese-taught undergraduate programmes in the 2026 catalogue",
+          "labelMy": "Chinese-taught undergraduate programmes in the 2026 catalogue",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        },
+        {
+          "id": "cn-uestc-2",
+          "label": "英文本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 5.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "minimum": 18
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "18岁以上；CSCA达到学校要求但简章未公布统一数值；仅按2026开放的11中文和3英文项目",
+            "或TOEFL80或同等英语能力"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://en.uestc.edu.cn/UESTC_Admission_Brochure-CN.pdf",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "English-taught undergraduate programmes in the 2026 catalogue",
+          "labelMy": "English-taught undergraduate programmes in the 2026 catalogue",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "官方2026PDF本科章节规定高中毕业同等学历、HSK5≥180或英授雅思5.5；必须参加CSCA并达到学校要求（分数线未公开）。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-swjtu",
+      "nameZh": "西南交通大学",
+      "nameEn": "Southwest Jiaotong University",
+      "city": "成都",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.swjtu.edu.cn/",
+      "admissionsUrl": "https://sie.swjtu.edu.cn/info/1130/3112.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://sie.swjtu.edu.cn/info/1130/3112.htm",
+          "title": "2026–2027西南交通大学自费国际学生招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-swjtu-1",
+          "label": "中文理工本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "本科须高中或同等学历且25岁以下",
+            "前置中文授课学历可申请豁免"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://sie.swjtu.edu.cn/info/1130/3112.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Chinese-taught science and engineering programmes",
+          "labelMy": "Chinese-taught science and engineering programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        },
+        {
+          "id": "cn-swjtu-2",
+          "label": "中文文科/管理本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "本科须高中或同等学历且25岁以下",
+            "前置中文授课学历可申请豁免"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://sie.swjtu.edu.cn/info/1130/3112.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Chinese-taught liberal arts and management programmes",
+          "labelMy": "Chinese-taught liberal arts and management programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        },
+        {
+          "id": "cn-swjtu-3",
+          "label": "英文本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "本科须高中或同等学历且25岁以下",
+            "或TOEFL80/前置英语授课学历/学校认可的证明"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://sie.swjtu.edu.cn/info/1130/3112.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "English-taught undergraduate programmes",
+          "labelMy": "English-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "2026/27官网区分理工HSK5≥180与文管HSK4≥180；英文雅思6或托福80；本科CSCA成绩必交。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-sicau",
+      "nameZh": "四川农业大学",
+      "nameEn": "Sichuan Agricultural University",
+      "city": "雅安 / 成都",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.sicau.edu.cn/",
+      "admissionsUrl": "https://ghc.sicau.edu.cn/info/1218/7991.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://ghc.sicau.edu.cn/info/1218/7991.htm",
+          "title": "2026四川农业大学国际学生本科招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-sicau-1",
+          "label": "中文本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 30,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "本科高中毕业或应届，年龄30以下",
+            "汉语言文学HSK4≥180可申请豁免CSCA文科中文（不豁免全部CSCA）"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://ghc.sicau.edu.cn/info/1218/7991.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Chinese-taught undergraduate programmes",
+          "labelMy": "Chinese-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "2026官网本科要求HSK4≥180、高中学历、CSCA成绩；汉语言文学中文科目豁免单独说明。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-swufe",
+      "nameZh": "西南财经大学",
+      "nameEn": "Southwestern University of Finance and Economics",
+      "city": "成都",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.swufe.edu.cn/",
+      "admissionsUrl": "https://international.swufe.edu.cn/info/1020/7401.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://international.swufe.edu.cn/info/1020/7401.htm",
+          "title": "2026西南财经大学国际学生本科招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-swufe-1",
+          "label": "中文本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "csca": {
+              "required": true,
+              "subjects": [
+                "professionalChinese",
+                "mathematics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 35
+            },
+            "language": {
+              "review": true,
+              "reasonEn": "Chinese ability must pass the university assessment through CSCA; no numeric pass mark is published."
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "18–35岁，国家认可的高中或以上学历",
+            "须通过CSCA专业中文和数学（中文试卷），通过标准由学校评定",
+            "汉语言文学HSK4≥180可申请免CSCA专业中文，不是全部专业统一HSK门槛"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://international.swufe.edu.cn/info/1020/7401.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Chinese-taught undergraduate programmes assessed through CSCA",
+          "labelMy": "Chinese-taught undergraduate programmes assessed through CSCA",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        },
+        {
+          "id": "cn-swufe-2",
+          "label": "英文本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "mathematics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 35
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "18–35岁，国家认可的高中或以上学历",
+            "或TOEFL80/Duolingo105/EF B2/校测；英文母语或2年以上英文授课证明可申请豁免",
+            "CSCA数学（英文试卷）需达到学校要求"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://international.swufe.edu.cn/info/1020/7401.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "English-taught undergraduate programmes",
+          "labelMy": "English-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "学校中文项目用CSCA中文能力考核，未设全校统一HSK5门槛；英授雅思6；CSCA须通过但数值线未给。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-gzu",
+      "nameZh": "贵州大学",
+      "nameEn": "Guizhou University",
+      "city": "贵阳",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.gzu.edu.cn/",
+      "admissionsUrl": "https://cie.gzu.edu.cn/2025/1128/c8268a262404/page.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://cie.gzu.edu.cn/2025/1128/c8268a262404/page.htm",
+          "title": "贵州大学2026国际学生本科简章（页面内官方PDF）",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://cie.gzu.edu.cn/_upload/article/files/66/1a/2d65a0ab43a2aa5f393913d6a600/fbc01ecb-53d2-490d-bcee-bf7e441ca30d.pdf",
+          "title": "贵州大学2026本科简章官方PDF",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-gzu-1",
+          "label": "中文本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 230
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 25,
+              "inPrinciple": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "一般18–25岁；CSCA按专业目录选中文、数学及理科科目"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://cie.gzu.edu.cn/2025/1128/c8268a262404/page.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": 2,
+          "labelEn": "Chinese-taught undergraduate programmes",
+          "labelMy": "Chinese-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        },
+        {
+          "id": "cn-gzu-2",
+          "label": "英文本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 25,
+              "inPrinciple": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "一般18–25岁；CSCA按专业目录选中文、数学及理科科目",
+            "或TOEFL80/高中全部课程英文授课证明，须目录所列英文专业"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://cie.gzu.edu.cn/2025/1128/c8268a262404/page.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": 2,
+          "labelEn": "English-taught programmes listed in the 2026 catalogue",
+          "labelMy": "English-taught programmes listed in the 2026 catalogue",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "已抽取页面内官方PDF：中文HSK4及以上总分≥230（并非180），英授IELTS6/TOEFL80或高中全英文证明；表列各专业CSCA科目。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-ynu",
+      "nameZh": "云南大学",
+      "nameEn": "Yunnan University",
+      "city": "昆明",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.ynu.edu.cn/",
+      "admissionsUrl": "https://english.ynu.edu.cn/ynuundergraduate.html",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "confirmed_current_page_content_pending",
+      "sources": [
+        {
+          "url": "https://english.ynu.edu.cn/ynuundergraduate.html",
+          "title": "云南大学2026本科官方目录与简章链接",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "官方页面列2026本科PDF，链接文件失效/重定向，最新HSK/IELTS/CSCA待核实"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "官方页面列2026本科PDF，链接文件失效/重定向，最新HSK/IELTS/CSCA待核实"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官方页面列2026本科PDF，链接文件失效/重定向，最新HSK/IELTS/CSCA待核实"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "官方页面列2026本科PDF，链接文件失效/重定向，最新HSK/IELTS/CSCA待核实"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "官方页面列2026本科PDF，链接文件失效/重定向，最新HSK/IELTS/CSCA待核实",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-utibet",
+      "nameZh": "西藏大学",
+      "nameEn": "Tibet University",
+      "city": "拉萨",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.utibet.edu.cn/",
+      "admissionsUrl": "https://www.xzu.edu.cn/",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [
+        {
+          "url": "https://www.xzu.edu.cn/",
+          "title": "西藏大学官方入口",
+          "year": null,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未核实面向缅甸国际学生的本科招生简章；不能将中国普通高考章程当成国际生规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未核实面向缅甸国际学生的本科招生简章；不能将中国普通高考章程当成国际生规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未核实面向缅甸国际学生的本科招生简章；不能将中国普通高考章程当成国际生规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未核实面向缅甸国际学生的本科招生简章；不能将中国普通高考章程当成国际生规则"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "尚未核实面向缅甸国际学生的本科招生简章；不能将中国普通高考章程当成国际生规则",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-nwpu",
+      "nameZh": "西北工业大学",
+      "nameEn": "Northwestern Polytechnical University",
+      "city": "西安",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nwpu.edu.cn/",
+      "admissionsUrl": "https://npuinternationalcollege.nwpu.edu.cn/info/1141/2928.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://npuinternationalcollege.nwpu.edu.cn/info/1141/2928.htm",
+          "title": "西北工业大学2026国际本科招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-nwpu-1",
+          "label": "中文本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "academicAverage": {
+              "minimum": 75,
+              "scale": 100,
+              "appliesTo": "school_certified_high_school_average",
+              "automaticConversionAllowed": false
+            },
+            "age": {
+              "maximum": 23,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "2026-09-01前高中毕业且年龄23以下，前置学业成绩75%",
+            "CSCA：理工中文数学物理；经管中文数学；材料生物中文数学化学；英授免中文，按专业目录再次确认"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://npuinternationalcollege.nwpu.edu.cn/info/1141/2928.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Chinese-taught undergraduate programmes",
+          "labelMy": "Chinese-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published.",
+            "Certified prior academic average must be at least 75%; do not convert GED or A-Level grades automatically."
+          ]
+        },
+        {
+          "id": "cn-nwpu-2",
+          "label": "英文本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "ielts": {
+              "overallMinimum": 6,
+              "sectionMinimum": 5.5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "academicAverage": {
+              "minimum": 75,
+              "scale": 100,
+              "appliesTo": "school_certified_high_school_average",
+              "automaticConversionAllowed": false
+            },
+            "age": {
+              "maximum": 23,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "2026-09-01前高中毕业且年龄23以下，前置学业成绩75%",
+            "CSCA：理工中文数学物理；经管中文数学；材料生物中文数学化学；英授免中文，按专业目录再次确认",
+            "或TOEFL80/Duolingo115/学校认可替代证明"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://npuinternationalcollege.nwpu.edu.cn/info/1141/2928.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "English-taught undergraduate programmes",
+          "labelMy": "English-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published.",
+            "Certified prior academic average must be at least 75%; do not convert GED or A-Level grades automatically."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "2026官方设前置学业75%、年龄23以下、HSK5≥180/IELTS6单项5.5；CSCA科目按学科，不能只凭语言推定可申请。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-nwafu",
+      "nameZh": "西北农林科技大学",
+      "nameEn": "Northwest A&F University",
+      "city": "杨凌",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nwafu.edu.cn/",
+      "admissionsUrl": "https://gjs.nwafu.edu.cn/sqzn/8f65fd5acf68446ab8e44d5b9c437655.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://gjs.nwafu.edu.cn/sqzn/8f65fd5acf68446ab8e44d5b9c437655.htm",
+          "title": "2026西北农林科技大学国际学生本科招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-nwafu-1",
+          "label": "中文本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "不超过25岁；CSCA数学必考，理工农医按专业选物理或化学，中文项目加专业中文；汉语言可凭HSK4免专业中文",
+            "须HSK4成绩，网页未给数值线；初高中中文授课证明可申请免试"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://gjs.nwafu.edu.cn/sqzn/8f65fd5acf68446ab8e44d5b9c437655.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Chinese-taught undergraduate programmes",
+          "labelMy": "Chinese-taught undergraduate programmes",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        },
+        {
+          "id": "cn-nwafu-2",
+          "label": "英文本科",
+          "teachingLanguage": "en",
+          "machineRule": {
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 25
+            },
+            "language": {
+              "review": true,
+              "reasonEn": "An English certificate is mandatory; the undergraduate brochure gives no numeric IELTS threshold."
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "不超过25岁；CSCA数学必考，理工农医按专业选物理或化学，中文项目加专业中文；汉语言可凭HSK4免专业中文",
+            "须TOEFL/IELTS或其他英语能力证明；本科简章未给统一数值线，不能套用研究生/FAQ通用数值"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://gjs.nwafu.edu.cn/sqzn/8f65fd5acf68446ab8e44d5b9c437655.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "English-taught undergraduate programmes (language threshold requires review)",
+          "labelMy": "English-taught undergraduate programmes (language threshold requires review)",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "2026本科官方明确HSK4证书、英授需英语能力证明但未发布IELTS数值；CSCA数学及专业适用科目必交；面试和综合成绩择优。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-nwu",
+      "nameZh": "西北大学",
+      "nameEn": "Northwest University",
+      "city": "西安",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nwu.edu.cn/",
+      "admissionsUrl": "https://sie.nwu.edu.cn/info/1122/2526.htm",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "confirmed_current_page_content_pending",
+      "sources": [
+        {
+          "url": "https://sie.nwu.edu.cn/info/1122/2526.htm",
+          "title": "2026西北大学国际学生本科招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "官方2026本科DOCX附件需验证码，当前无法核验附件；不引用第三方HSK4 180/IELTS5.5作为自动规则"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "官方2026本科DOCX附件需验证码，当前无法核验附件；不引用第三方HSK4 180/IELTS5.5作为自动规则"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官方2026本科DOCX附件需验证码，当前无法核验附件；不引用第三方HSK4 180/IELTS5.5作为自动规则"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "官方2026本科DOCX附件需验证码，当前无法核验附件；不引用第三方HSK4 180/IELTS5.5作为自动规则"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "官方2026本科DOCX附件需验证码，当前无法核验附件；不引用第三方HSK4 180/IELTS5.5作为自动规则",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-xidian",
+      "nameZh": "西安电子科技大学",
+      "nameEn": "Xidian University",
+      "city": "西安",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.xidian.edu.cn/",
+      "admissionsUrl": "https://xdgjxs.xidian.edu.cn/internationalEducationStudent/2026/1",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "confirmed_current_page_content_pending",
+      "sources": [
+        {
+          "url": "https://xdgjxs.xidian.edu.cn/internationalEducationStudent/2026/1",
+          "title": "西安电子科技大学2026国际学生申请入口",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "动态申请页未公开可提取的本科HSK/IELTS/CSCA规则，第三方转载数值未官方复核"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "动态申请页未公开可提取的本科HSK/IELTS/CSCA规则，第三方转载数值未官方复核"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "动态申请页未公开可提取的本科HSK/IELTS/CSCA规则，第三方转载数值未官方复核"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "动态申请页未公开可提取的本科HSK/IELTS/CSCA规则，第三方转载数值未官方复核"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "动态申请页未公开可提取的本科HSK/IELTS/CSCA规则，第三方转载数值未官方复核",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-snnu",
+      "nameZh": "陕西师范大学",
+      "nameEn": "Shaanxi Normal University",
+      "city": "西安",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.snnu.edu.cn/",
+      "admissionsUrl": "https://study.snnu.edu.cn/en/info/1090/1886.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://study.snnu.edu.cn/en/info/1090/1886.htm",
+          "title": "2026西安一带一路奖学金国际学生本科路径",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-snnu-1",
+          "label": "汉语言文学/理工/艺术（该奖学金路径）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 30,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "仅该奖学金路径：一带一路国家护照、本科30岁以下、申请期限2026-06-25，2027须更新",
+            "英语6.0规则对应页面英文研究生，不能用于本科",
+            "须通过HSK4，页面未给数值分数"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://study.snnu.edu.cn/en/info/1090/1886.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Chinese Language and Literature / science, engineering and fine arts (Belt and Road scholarship)",
+          "labelMy": "Chinese Language and Literature / science, engineering and fine arts (Belt and Road scholarship)",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published.",
+            "Only the Belt and Road scholarship route is described; nationality eligibility and scholarship review are required."
+          ]
+        },
+        {
+          "id": "cn-snnu-2",
+          "label": "其他文科（该奖学金路径）",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 5
+            },
+            "csca": {
+              "required": true,
+              "subjects": [],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": true
+            },
+            "age": {
+              "maximum": 30,
+              "exclusive": true
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "仅该奖学金路径：一带一路国家护照、本科30岁以下、申请期限2026-06-25，2027须更新",
+            "英语6.0规则对应页面英文研究生，不能用于本科",
+            "须通过HSK5，页面未给数值分数"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://study.snnu.edu.cn/en/info/1090/1886.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": null,
+          "labelEn": "Other humanities majors (Belt and Road scholarship)",
+          "labelMy": "Other humanities majors (Belt and Road scholarship)",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published.",
+            "Only the Belt and Road scholarship route is described; nationality eligibility and scholarship review are required."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "官方2026奖学金含本科：汉语言文学及理工艺术HSK4，其他文科HSK5；本科CSCA成绩必交。需验证缅甸国籍及具体学历。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-lzu",
+      "nameZh": "兰州大学",
+      "nameEn": "Lanzhou University",
+      "city": "兰州",
+      "country": "China",
+      "classification985": true,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.lzu.edu.cn/",
+      "admissionsUrl": "https://sice.lzu.edu.cn/hdupf/fil/202206/202206171655453269737059.pdf",
+      "verificationStatus": "historical_reference_only",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://sice.lzu.edu.cn/hdupf/fil/202206/202206171655453269737059.pdf",
+          "title": "2022 Prospectus for Self-support Programs LZU",
+          "year": 2022,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "找到官方2022自费简章，本科语言学科分级（汉语言/国际中文HSK4 210另HSKK60、文史哲HSK5 180）；旧规则不用于2027匹配。",
+      "planningNote": "官方通用页面，申请年度及专业目录须再核实。",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-qhu",
+      "nameZh": "青海大学",
+      "nameEn": "Qinghai University",
+      "city": "西宁",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.qhu.edu.cn/",
+      "admissionsUrl": "https://www.qhu.edu.cn/",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "not_verified",
+      "sources": [
+        {
+          "url": "https://www.qhu.edu.cn/",
+          "title": "青海大学官方入口",
+          "year": null,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "尚未找到可核验的2026/2027国际本科招生简章；国际学生管理办法不是本科入学数值依据"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "尚未找到可核验的2026/2027国际本科招生简章；国际学生管理办法不是本科入学数值依据"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "尚未找到可核验的2026/2027国际本科招生简章；国际学生管理办法不是本科入学数值依据"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "尚未找到可核验的2026/2027国际本科招生简章；国际学生管理办法不是本科入学数值依据"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "尚未找到可核验的2026/2027国际本科招生简章；国际学生管理办法不是本科入学数值依据",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-nxu",
+      "nameZh": "宁夏大学",
+      "nameEn": "Ningxia University",
+      "city": "银川",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.nxu.edu.cn/",
+      "admissionsUrl": "https://hzjl.nxu.edu.cn/info/1035/1781.htm",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "confirmed_current_page_content_pending",
+      "sources": [
+        {
+          "url": "https://hzjl.nxu.edu.cn/info/1035/1781.htm",
+          "title": "2026宁夏大学来华留学招生简章",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "官方2026图片简章与PDF已找到，但附件访问未完成；不使用第三方把2021出生年月改标题成2026的转载"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "官方2026图片简章与PDF已找到，但附件访问未完成；不使用第三方把2021出生年月改标题成2026的转载"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官方2026图片简章与PDF已找到，但附件访问未完成；不使用第三方把2021出生年月改标题成2026的转载"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "官方2026图片简章与PDF已找到，但附件访问未完成；不使用第三方把2021出生年月改标题成2026的转载"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "官方2026图片简章与PDF已找到，但附件访问未完成；不使用第三方把2021出生年月改标题成2026的转载",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    },
+    {
+      "id": "cn-xju",
+      "nameZh": "新疆大学",
+      "nameEn": "Xinjiang University",
+      "city": "乌鲁木齐",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.xju.edu.cn/",
+      "admissionsUrl": "https://gjjl.xju.edu.cn/info/1015/2590.htm",
+      "verificationStatus": "verified_general_requirements",
+      "internationalUndergraduateAvailability": "confirmed",
+      "sources": [
+        {
+          "url": "https://gjjl.xju.edu.cn/info/1015/2590.htm",
+          "title": "2026 Xinjiang University Self-Financed International Admission",
+          "year": 2026,
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "chineseSchool": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+        },
+        "alevel": {
+          "status": "conditional",
+          "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+        }
+      },
+      "rules": [
+        {
+          "id": "cn-xju-1",
+          "label": "中文本科",
+          "teachingLanguage": "zh",
+          "machineRule": {
+            "hsk": {
+              "minimumLevel": 4,
+              "minimumTotal": 180
+            },
+            "csca": {
+              "required": true,
+              "subjects": [
+                "professionalChinese",
+                "mathematics"
+              ],
+              "minimumScore": null,
+              "scoreThresholdPublished": false,
+              "subjectReviewRequired": false
+            },
+            "age": {
+              "minimum": 18,
+              "maximum": 45
+            }
+          },
+          "otherRequirements": [
+            "高中毕业证或预毕业证明、完整成绩单与非中国籍身份审核；具体学历认可须确认",
+            "2027专业开放情况、招生截止日期及录取考核需学校复核",
+            "本科须提交CSCA有效成绩；官网未公开统一分数线，须按专业核对科目并由学校审核",
+            "18–45岁；本科CSCA中文和数学必考，须提交成绩单",
+            "2026英文授课仅硕博，不可显示英文本科匹配"
+          ],
+          "year": 2026,
+          "qualification": {
+            "matriculation": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "chineseSchool": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            },
+            "ged": {
+              "status": "unknown",
+              "reason": "官网未明确GED可单独替代高中毕业证，须招生办书面确认"
+            },
+            "alevel": {
+              "status": "conditional",
+              "reason": "官网要求高中毕业或同等学历及成绩单，未点名认可缅甸该类文凭，须学校审核学历与大学入学资格"
+            }
+          },
+          "qualificationReviewRequired": true,
+          "sourceUrl": "https://gjjl.xju.edu.cn/info/1015/2590.htm",
+          "sourceStatus": "previous_intake_planning_only",
+          "matchOutcomeLimit": "needs_academic_and_admissions_review",
+          "languageCertificatesValidityYears": 2,
+          "labelEn": "Chinese-taught undergraduate programmes (no English-taught bachelor route verified)",
+          "labelMy": "Chinese-taught undergraduate programmes (no English-taught bachelor route verified)",
+          "otherRequirementsEn": [
+            "High-school diploma, complete transcripts and nationality must be reviewed. Myanmar school and Chinese-school qualifications are not explicitly accepted by name; GED alone is not confirmed.",
+            "Programme availability and 2027 rules require confirmation. A matching language score is not an admission offer.",
+            "CSCA score and the applicable subject combination require review; no universal numeric CSCA cutoff is published."
+          ]
+        }
+      ],
+      "evidenceParaphrase": "2026官方自费本科仅中文，HSK4≥180、高中或以上；CSCA中文数学必考；IELTS6.0适用于英文硕博，不套本科。",
+      "planningNote": "2026已公布规则仅用于2027规划参考，2027招生简章发布后须更新。"
+    },
+    {
+      "id": "cn-shzu",
+      "nameZh": "石河子大学",
+      "nameEn": "Shihezi University",
+      "city": "石河子",
+      "country": "China",
+      "classification985": false,
+      "classification211": true,
+      "military": false,
+      "officialUrl": "https://www.shzu.edu.cn/",
+      "admissionsUrl": "https://yixy.shzu.edu.cn/2026/0203/c6725a228934/page.htm",
+      "verificationStatus": "not_verified",
+      "internationalUndergraduateAvailability": "confirmed_current_page_content_pending",
+      "sources": [
+        {
+          "url": "https://yixy.shzu.edu.cn/2026/0203/c6725a228934/page.htm",
+          "title": "2025年医学院十件大事（官方）",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "evidenceScope": "official_page_exists_requirements_pending"
+        }
+      ],
+      "requirements": {
+        "matriculation": {
+          "status": "unknown",
+          "reason": "官方新闻确认2025/26英文临床本科国际招生100人，当前入学HSK/IELTS/学科/CSCA门槛待核实，不将其他学位规则套用"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "reason": "官方新闻确认2025/26英文临床本科国际招生100人，当前入学HSK/IELTS/学科/CSCA门槛待核实，不将其他学位规则套用"
+        },
+        "ged": {
+          "status": "unknown",
+          "reason": "官方新闻确认2025/26英文临床本科国际招生100人，当前入学HSK/IELTS/学科/CSCA门槛待核实，不将其他学位规则套用"
+        },
+        "alevel": {
+          "status": "unknown",
+          "reason": "官方新闻确认2025/26英文临床本科国际招生100人，当前入学HSK/IELTS/学科/CSCA门槛待核实，不将其他学位规则套用"
+        }
+      },
+      "rules": [],
+      "evidenceParaphrase": "官方新闻确认2025/26英文临床本科国际招生100人，当前入学HSK/IELTS/学科/CSCA门槛待核实，不将其他学位规则套用",
+      "verificationNoteEn": "Current international undergraduate entry thresholds have not been verified; manual review is required. Historical or blocked evidence must not trigger eligibility."
+    }
+  ],
+  "stats": {
+    "total": 30,
+    "verifiedGeneral": 16,
+    "historicalOnly": 2,
+    "pending": 12
+  }
+}

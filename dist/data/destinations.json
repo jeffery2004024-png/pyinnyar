@@ -1,0 +1,1861 @@
+{
+  "schemaVersion": 2,
+  "checkedAt": "2026-10-08",
+  "audience": "Myanmar citizens",
+  "countries": [
+    {
+      "country": "CN",
+      "checkedAt": "2026-10-08",
+      "overview": {
+        "zh": "分三个部分了解大陆、港澳和台湾的学习选择。每个部分分别介绍地区留学路径和当地高校；请按拟就读地区、申请身份和具体课程核对规则。",
+        "en": "Explore mainland China, Hong Kong and Macao, and Taiwan in three parts. Each introduces regional study pathways and local universities. Check rules for the destination, applicant status and chosen course.",
+        "my": "တရုတ်ပြည်မ၊ ဟောင်ကောင်နှင့် မကာအို၊ ထိုင်ဝမ်ကို အပိုင်းသုံးပိုင်းဖြင့် လေ့လာနိုင်သည်။ ဒေသအလိုက် ပညာသင်လမ်းကြောင်းနှင့် တက္ကသိုလ်များကို မိတ်ဆက်ထားသည်။ သက်ဆိုင်ရာဒေသ၊ လျှောက်ထားသူအမျိုးအစားနှင့် သင်တန်း၏ စည်းကမ်းကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "scopeNote": "General preparation information for Myanmar applicants; no individual admission or visa eligibility decision.",
+      "translationNote": "Burmese uses short plain-language summaries; official source text and individual program requirements govern.",
+      "regions": [
+        {
+          "country": "CN",
+          "checkedAt": "2026-10-08",
+          "overview": {
+            "zh": "可从北京、杭州、厦门等城市的高校开始认识大陆的学习选择。中文和英文授课项目并存，申请准备重点是高中学历认可、目标专业的语言及CSCA要求，以及录取后的学习签证。",
+            "en": "Explore mainland study options through universities in Beijing, Hangzhou and Xiamen. Chinese- and English-taught programmes are available. Check high school credential recognition, programme language and CSCA requirements, then prepare the study visa after admission.",
+            "my": "Beijing၊ Hangzhou နှင့် Xiamen မြို့များရှိ တက္ကသိုလ်များမှ တရုတ်ပြည်မ၏ ပညာသင်ရွေးချယ်မှုကို လေ့လာနိုင်သည်။ တရုတ်နှင့် အင်္ဂလိပ်ဘာသာသင်တန်းများ ရှိသည်။ အထက်တန်းလက်မှတ်အသိအမှတ်ပြုမှု၊ ဘာသာစကားနှင့် CSCA လိုအပ်ချက်ကို စစ်ပြီး ဝင်ခွင့်ရလျှင် ပညာသင်ဗီဇာကို ပြင်ဆင်ရန် လိုသည်။"
+          },
+          "sections": [
+            {
+              "id": "qualifications",
+              "title": {
+                "zh": "先确认高中学历认可",
+                "en": "Check your school qualification first",
+                "my": "အထက်တန်းအရည်အချင်း အသိအမှတ်ပြုမှု"
+              },
+              "body": {
+                "zh": "缅甸高考、华文学校毕业证、GED和A-Level应分别核查。大学通常要求高中毕业或同等学历，但这不表示自动认可每一种缅甸文凭；提交学校资质、学制、毕业证和完整成绩单，让招生办公室确认。",
+                "en": "Myanmar Matriculation, Chinese-school diplomas, GED and A-Level need separate review. A general requirement for a high school diploma or equivalent does not automatically confirm every Myanmar qualification. Ask the university to review the school, study duration, diploma and full transcript.",
+                "my": "မြန်မာတက္ကသိုလ်ဝင်တန်း၊ တရုတ်ဘာသာသင်ကျောင်းလက်မှတ်၊ GED နှင့် A-Level ကို သီးခြားစစ်ဆေးရမည်။ အထက်တန်းအောင်လက်မှတ် လိုအပ်သည်ဟု ဖော်ပြခြင်းက မြန်မာလက်မှတ်အားလုံးကို အလိုအလျောက် အသိအမှတ်ပြုသည်ဟု မဆိုလိုပါ။ ကျောင်း၊ သင်တန်းကာလ၊ အောင်လက်မှတ်နှင့် အမှတ်စာရင်းကို တက္ကသိုလ်ထံ စိစစ်ပေးရန် တောင်းဆိုနိုင်သည်။"
+              },
+              "sources": [
+                {
+                  "title": "北京外国语大学2026年国际学生本科招生简章",
+                  "url": "https://lb.bfsu.edu.cn/info/2612/4701.htm",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "Peking University: 2026 undergraduate entrance examination guide",
+                  "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "language",
+              "title": {
+                "zh": "按授课语言准备成绩",
+                "en": "Prepare for the teaching language",
+                "my": "သင်ကြားမည့်ဘာသာစကားအတွက် ပြင်ဆင်မှု"
+              },
+              "body": {
+                "zh": "中文项目通常查看HSK，英文项目可能查看IELTS、TOEFL或英文授课证明。分数线由学校和专业决定，部分学校还检查单项分、证书有效期或口语成绩。华校背景和英文授课背景能否豁免，须获得学校确认。",
+                "en": "Chinese-taught programs commonly use HSK; English-taught programs may request IELTS, TOEFL or evidence of English-medium education. Thresholds, section scores, validity and speaking-test requirements vary by program. Any exemption for Chinese-school or English-medium study needs university confirmation.",
+                "my": "တရုတ်ဘာသာသင်တန်းများတွင် HSK၊ အင်္ဂလိပ်ဘာသာသင်တန်းများတွင် IELTS၊ TOEFL သို့မဟုတ် အင်္ဂလိပ်ဘာသာဖြင့် သင်ယူခဲ့ကြောင်း အထောက်အထားကို တောင်းနိုင်သည်။ လိုအပ်သောအမှတ်နှင့် သက်တမ်းသည် သင်တန်းအလိုက် ကွာခြားသည်။ ဘာသာစကားစာမေးပွဲ ကင်းလွတ်ခွင့်ကို တက္ကသိုလ်ထံ အတည်ပြုရန် လိုသည်။"
+              },
+              "sources": [
+                {
+                  "title": "北京航空航天大学2026国际本科招生",
+                  "url": "https://is.buaa.edu.cn/lxsq/bks1.htm",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "北京外国语大学2026年国际学生本科招生简章",
+                  "url": "https://lb.bfsu.edu.cn/info/2612/4701.htm",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "csca",
+              "title": {
+                "zh": "了解CSCA本科入学测试",
+                "en": "Understand the CSCA assessment",
+                "my": "CSCA ဘွဲ့ကြိုဝင်ခွင့်စာမေးပွဲ"
+              },
+              "body": {
+                "zh": "多所大学的2026本科简章已要求CSCA成绩。可能涉及数学、专业中文、物理和化学，具体组合、试卷语言及豁免依专业目录决定。请到CSCA官网查询考试安排，并核查目标大学要求。",
+                "en": "Many 2026 undergraduate guides require CSCA results. Tests may include mathematics, Professional Chinese, physics and chemistry. Subjects, test language and exemptions depend on the program. Check the CSCA website and the university directory.",
+                "my": "၂၀၂၆ ဘွဲ့ကြိုဝင်ခွင့်လမ်းညွှန်များစွာတွင် CSCA အမှတ်စာရင်း လိုအပ်သည်။ သင်္ချာ၊ တရုတ်ဘာသာ၊ ရူပဗေဒနှင့် ဓာတုဗေဒတို့ ပါဝင်နိုင်သည်။ ဖြေရမည့်ဘာသာ၊ စာမေးပွဲဘာသာစကားနှင့် ကင်းလွတ်ခွင့်ကို သင်တန်းအလိုက် စစ်ဆေးရန် လိုသည်။"
+              },
+              "sources": [
+                {
+                  "title": "Northeastern University 2026 undergraduate application guide",
+                  "url": "https://studyinneu.neu.edu.cn/html/article_content/202604/55185DB2D9B14A00AD885F95988B76F8.shtml",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "北京外国语大学2026年国际学生本科招生简章",
+                  "url": "https://lb.bfsu.edu.cn/info/2612/4701.htm",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "CSCA官方考试网站",
+                  "url": "https://www.csca.cn/",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "documents",
+              "title": {
+                "zh": "把申请材料整理完整",
+                "en": "Build a complete application file",
+                "my": "လျှောက်လွှာစာရွက်စာတမ်း ပြင်ဆင်မှု"
+              },
+              "body": {
+                "zh": "先准备高中毕业或预毕业证明、所有学期成绩、语言成绩和护照资料。非中文或英文的材料，按学校要求提供翻译或公证件。个人陈述、推荐信、监护文件、作品集或面试要求因学校及专业而异。",
+                "en": "Prepare your diploma or expected-graduation certificate, all term results, language evidence and passport details. Provide translations or notarized copies as required for documents outside Chinese or English. Statements, references, guardian documents, portfolios and interviews vary by university and program.",
+                "my": "အောင်လက်မှတ် သို့မဟုတ် ကျောင်းပြီးဆုံးမည့်အထောက်အထား၊ စာသင်နှစ်အလိုက် အမှတ်စာရင်း၊ ဘာသာစကားအမှတ်နှင့် နိုင်ငံကူးလက်မှတ်ကို ပြင်ဆင်ရန် လိုသည်။ တရုတ် သို့မဟုတ် အင်္ဂလိပ်ဘာသာ မဟုတ်သောစာရွက်များကို ကျောင်းသတ်မှတ်ချက်အတိုင်း ဘာသာပြန်ပေးရန် လိုသည်။ ထောက်ခံစာ၊ အုပ်ထိန်းသူစာရွက်၊ လက်ရာများနှင့် အင်တာဗျူးလိုအပ်ချက်တို့ ကွာခြားနိုင်သည်။"
+              },
+              "sources": [
+                {
+                  "title": "北京外国语大学2026年国际学生本科招生简章",
+                  "url": "https://lb.bfsu.edu.cn/info/2612/4701.htm",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "Peking University: 2026 undergraduate entrance examination guide",
+                  "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "visa-category",
+              "title": {
+                "zh": "按学习时长核查X1或X2",
+                "en": "Check X1 or X2 for your study duration",
+                "my": "သင်တန်းကာလအလိုက် X1 / X2 ဗီဇာ"
+              },
+              "body": {
+                "zh": "中国驻缅甸使馆将超过180日的学习列为X1，不超过180日列为X2。取得学校录取材料后，再根据使馆当前清单准备对应学习签证；学校录取与签证批准是不同的审核步骤。",
+                "en": "The Chinese Embassy in Myanmar lists X1 for study longer than 180 days and X2 for study of no more than 180 days. After receiving university admission documents, follow the embassy’s current checklist. Admission and visa approval are separate decisions.",
+                "my": "မြန်မာနိုင်ငံရှိ တရုတ်သံရုံးအရ ရက် ၁၈၀ ထက်ပိုသော ပညာသင်ကာလအတွက် X1၊ ရက် ၁၈၀ မကျော်သောကာလအတွက် X2 ဖြစ်သည်။ ကျောင်းဝင်ခွင့်စာရပြီးနောက် သံရုံး၏ လက်ရှိစာရင်းအတိုင်း ပြင်ဆင်ရန် လိုသည်။ ကျောင်းဝင်ခွင့်နှင့် ဗီဇာခွင့်ပြုချက်သည် သီးခြားစစ်ဆေးမှုများ ဖြစ်သည်။"
+              },
+              "sources": [
+                {
+                  "title": "中国驻缅甸使馆：中华人民共和国签证办理须知（2025年6月30日起启用，网页持续更新）",
+                  "url": "https://mm.china-embassy.gov.cn/lsfw/j/fhqz/202312/t20231220_11207842.htm",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "Chinese Embassy in Myanmar: Introduction of Visa for the PRC (mainland)",
+                  "url": "https://mm.china-embassy.gov.cn/eng/lsfw/hzqz/202312/t20231208_11197906.htm",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "visa-preparation",
+              "title": {
+                "zh": "核查使馆最新材料清单",
+                "en": "Use the current embassy checklist",
+                "my": "သံရုံး၏ လက်ရှိစာရွက်စာတမ်းသတ်မှတ်ချက်များ"
+              },
+              "body": {
+                "zh": "X1通常需学校录取通知及JW201/JW202等学习文件；X2需录取通知及使馆要求的其他材料。护照、有效身份证件和线上申请流程请直接核对驻缅甸使馆页面。",
+                "en": "X1 normally requires an admission letter and study documents such as JW201/JW202; X2 requires admission evidence and the other documents requested by the embassy. Check passport, identification and online application instructions directly with the Chinese Embassy in Myanmar.",
+                "my": "X1 အတွက် ကျောင်းဝင်ခွင့်စာနှင့် JW201/JW202 ကဲ့သို့ ပညာသင်စာရွက်စာတမ်းများ လိုအပ်လေ့ရှိသည်။ X2 အတွက်လည်း သံရုံးတောင်းသောစာရွက်များကို ပြင်ဆင်ရန် လိုသည်။ နိုင်ငံကူးလက်မှတ်၊ မှတ်ပုံတင်နှင့် အွန်လိုင်းလျှောက်လွှာလုပ်ငန်းစဉ်ကို သံရုံးစာမျက်နှာတွင် တိုက်ရိုက်စစ်ဆေးရန် လိုသည်။"
+              },
+              "sources": [
+                {
+                  "title": "中国驻缅甸使馆：中华人民共和国签证办理须知（2025年6月30日起启用，网页持续更新）",
+                  "url": "https://mm.china-embassy.gov.cn/lsfw/j/fhqz/202312/t20231220_11207842.htm",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "Chinese Embassy in Myanmar: Introduction of Visa for the PRC (mainland)",
+                  "url": "https://mm.china-embassy.gov.cn/eng/lsfw/hzqz/202312/t20231208_11197906.htm",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "intake-planning",
+              "title": {
+                "zh": "区分规划参考和当年招生",
+                "en": "Separate planning from an active intake",
+                "my": "ကြိုတင်စီစဉ်မှုနှင့် သက်ဆိုင်ရာနှစ်၏ ဝင်ခွင့်"
+              },
+              "body": {
+                "zh": "旧年度简章可以帮助提前准备，但申请窗口、课程、语言要求和CSCA规则可能更新。选择目标入学年后，再核查该年正式简章与专业目录。成绩匹配结果用于筛选和咨询，不代替学校的学历审查、专业考核或录取决定。",
+                "en": "An earlier guide can help you plan, but dates, programs, language requirements and CSCA rules may change. Check the official guide and major directory for your intended intake. Matching results support shortlisting and advice; universities still assess qualifications, program readiness and admission.",
+                "my": "ယခင်နှစ်လမ်းညွှန်ကို ကြိုတင်ပြင်ဆင်ရန် သုံးနိုင်သော်လည်း ရက်စွဲ၊ သင်တန်းနှင့် စာမေးပွဲလိုအပ်ချက်များ ပြောင်းလဲနိုင်သည်။ တက်ရောက်မည့်နှစ်၏ တရားဝင်လမ်းညွှန်ကို ပြန်လည်စစ်ဆေးရန် လိုသည်။ ဝက်ဘ်ဆိုက်၏ ရလဒ်သည် ကျောင်းရွေးချယ်ရန် အကူအညီသာ ဖြစ်ပြီး နောက်ဆုံးဝင်ခွင့်ကို တက္ကသိုလ်က ဆုံးဖြတ်ပါသည်။"
+              },
+              "sources": [
+                {
+                  "title": "北京外国语大学2026年国际学生本科招生简章",
+                  "url": "https://lb.bfsu.edu.cn/info/2612/4701.htm",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "Northeastern University 2026 undergraduate application guide",
+                  "url": "https://studyinneu.neu.edu.cn/html/article_content/202604/55185DB2D9B14A00AD885F95988B76F8.shtml",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            }
+          ],
+          "universities": [
+            {
+              "nameEn": "Tsinghua University",
+              "nameZh": "清华大学",
+              "city": "Beijing",
+              "description": {
+                "zh": "位于北京的综合性研究大学。学科覆盖工程、自然科学、人文、社会科学、管理、医学和艺术；官网本科介绍强调工程与跨学科培养。",
+                "en": "A comprehensive research university in Beijing. Its fields include engineering, science, humanities, social sciences, management, medicine and art, with an undergraduate emphasis on engineering and interdisciplinary study.",
+                "my": "ဘေဂျင်းရှိ သုတေသနတက္ကသိုလ် ဖြစ်သည်။ အင်ဂျင်နီယာ၊ သိပ္ပံ၊ လူမှုရေး၊ စီမံခန့်ခွဲမှု၊ ဆေးပညာနှင့် အနုပညာဘာသာရပ်များ ရှိသည်။"
+              },
+              "sources": [
+                {
+                  "title": "Tsinghua University: General Information",
+                  "url": "https://www.tsinghua.edu.cn/en/About/General_Information.htm",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "Tsinghua University: Undergraduate Overview",
+                  "url": "https://www.tsinghua.edu.cn/en/Admissions/Undergraduate/Overview.htm",
+                  "checkedAt": "2026-10-08"
+                }
+              ],
+              "id": "cn-tsinghua",
+              "location": {
+                "zh": "北京",
+                "en": "Beijing",
+                "my": "Beijing"
+              },
+              "type": {
+                "zh": "历史985 / 211院校",
+                "en": "Historical 985 / 211 institution",
+                "my": "သမိုင်းဝင် 985 / 211 တက္ကသိုလ်"
+              }
+            },
+            {
+              "nameEn": "Peking University",
+              "nameZh": "北京大学",
+              "city": "Beijing",
+              "description": {
+                "zh": "位于北京，创办于1898年，是学科广泛的综合性大学，涵盖人文、社会科学、自然科学、信息与工程、医学等领域。国际本科的具体申请路线须单独核查。",
+                "en": "Founded in 1898 in Beijing, Peking University spans humanities, social sciences, natural sciences, information and engineering, and medicine. Its international undergraduate admission routes require separate review.",
+                "my": "၁၈၉၈ ခုနှစ်တွင် စတင်ခဲ့သော ဘေဂျင်းရှိ တက္ကသိုလ် ဖြစ်သည်။ လူမှုရေး၊ သိပ္ပံ၊ နည်းပညာ၊ အင်ဂျင်နီယာနှင့် ဆေးပညာအပါအဝင် ဘာသာရပ်များစွာ ရှိသည်။"
+              },
+              "sources": [
+                {
+                  "title": "Peking University: 2026 undergraduate entrance examination guide",
+                  "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+                  "checkedAt": "2026-10-08"
+                }
+              ],
+              "id": "cn-pku",
+              "location": {
+                "zh": "北京",
+                "en": "Beijing",
+                "my": "Beijing"
+              },
+              "type": {
+                "zh": "历史985 / 211院校",
+                "en": "Historical 985 / 211 institution",
+                "my": "သမိုင်းဝင် 985 / 211 တက္ကသိုလ်"
+              }
+            },
+            {
+              "nameEn": "Zhejiang University",
+              "nameZh": "浙江大学",
+              "city": "Hangzhou",
+              "description": {
+                "zh": "位于浙江杭州，历史可追溯至1897年的求是书院。学校设有多个学部和学院，可结合目标专业的课程、校区及招生项目比较选择。",
+                "en": "Located in Hangzhou, Zhejiang University traces its roots to Qiushi Academy, founded in 1897. Its broad faculties and schools offer varied study options; compare the actual program, campus and admission route.",
+                "my": "ဟန်ကျိုးမြို့တွင် တည်ရှိပြီး ၁၈၉၇ ခုနှစ် Qiushi Academy မှ စတင်ခဲ့သည်။ ဘာသာရပ်ဌာနများစွာရှိသဖြင့် သင်တန်းနှင့် ကျောင်းဝင်းကို သီးခြားရွေးချယ်စစ်ဆေးရန် လိုသည်။"
+              },
+              "sources": [
+                {
+                  "title": "Zhejiang University: Official Overview",
+                  "url": "https://mse.zju.edu.cn/enmse/35013/list.htm",
+                  "checkedAt": "2026-10-08"
+                }
+              ],
+              "id": "cn-zju",
+              "location": {
+                "zh": "杭州",
+                "en": "Hangzhou",
+                "my": "Hangzhou"
+              },
+              "type": {
+                "zh": "历史985 / 211院校",
+                "en": "Historical 985 / 211 institution",
+                "my": "သမိုင်းဝင် 985 / 211 တက္ကသိုလ်"
+              }
+            },
+            {
+              "nameEn": "Xiamen University",
+              "nameZh": "厦门大学",
+              "city": "Xiamen",
+              "description": {
+                "zh": "位于福建厦门，由陈嘉庚于1921年创办，是教育部直属的综合性大学。可在官网进一步了解各学院和国际学生项目，具体课程与申请条件按年度简章核查。",
+                "en": "Founded by Tan Kah Kee in 1921, Xiamen University is a comprehensive university in Xiamen, Fujian, directly administered by China’s Ministry of Education. Explore its schools and international programs, then check the annual admission guide.",
+                "my": "ဖူကျန်းပြည်နယ် ရှာမင်မြို့တွင် တည်ရှိပြီး Tan Kah Kee က ၁၉၂၁ ခုနှစ်တွင် တည်ထောင်ခဲ့သည်။ တရုတ်ပညာရေးဝန်ကြီးဌာနအောက်ရှိ တက္ကသိုလ် ဖြစ်သည်။ သင်တန်းနှင့် ဝင်ခွင့်လိုအပ်ချက်ကို နှစ်အလိုက် စစ်ဆေးရန် လိုသည်။"
+              },
+              "sources": [
+                {
+                  "title": "Xiamen University: Overview",
+                  "url": "https://en.xmu.edu.cn/About_XMU/Overview.htm",
+                  "checkedAt": "2026-10-08"
+                }
+              ],
+              "id": "cn-xmu",
+              "location": {
+                "zh": "厦门",
+                "en": "Xiamen",
+                "my": "Xiamen"
+              },
+              "type": {
+                "zh": "历史985 / 211院校",
+                "en": "Historical 985 / 211 institution",
+                "my": "သမိုင်းဝင် 985 / 211 တက္ကသိုလ်"
+              }
+            }
+          ],
+          "scopeNote": "General preparation information for Myanmar applicants; no individual admission or visa eligibility decision.",
+          "translationNote": "Burmese uses short plain-language summaries; official source text and individual program requirements govern.",
+          "id": "mainland",
+          "title": {
+            "zh": "大陆",
+            "en": "Mainland China",
+            "my": "တရုတ်ပြည်မ"
+          },
+          "tag": {
+            "zh": "地区介绍与大陆高校",
+            "en": "Regional guide & mainland universities",
+            "my": "ဒေသနှင့် ပြည်မတက္ကသိုလ်များ"
+          }
+        },
+        {
+          "id": "hongkong-macao",
+          "country": "CN",
+          "checkedAt": "2026-10-08",
+          "title": {
+            "zh": "港澳",
+            "en": "Hong Kong & Macao",
+            "my": "ဟောင်ကောင်နှင့် မကာအို"
+          },
+          "tag": {
+            "zh": "分别核查申请和入境",
+            "en": "Separate admission and immigration checks",
+            "my": "ဝင်ခွင့်နှင့် လူဝင်မှုကို သီးခြားစစ်ဆေးပါ"
+          },
+          "overview": {
+            "zh": "港澳有综合性和科技研究型高校，可按学科、授课语言和校园学习方式比较选择。香港与澳门的国际生招生、学生入境及逗留流程分别办理；缅甸籍学生应按实际护照、学历与目标专业确认通道。",
+            "en": "Hong Kong and Macao offer comprehensive and science-focused research universities. Compare subjects, teaching languages and campus learning models. International admissions, student entry and stay procedures are handled separately in Hong Kong and Macao; Myanmar applicants should check their passport, qualifications and chosen course.",
+            "my": "ဟောင်ကောင်နှင့် မကာအိုတွင် ဘက်စုံနှင့် သိပ္ပံနည်းပညာသုတေသန တက္ကသိုလ်များ ရှိသည်။ ဘာသာရပ်၊ သင်ကြားဘာသာစကားနှင့် ကျောင်းဝင်းသင်ယူမှုကို နှိုင်းယှဉ်နိုင်သည်။ နိုင်ငံတကာဝင်ခွင့်နှင့် ကျောင်းသားဝင်ရောက်နေထိုင်ခွင့်ကို ဒေသနှစ်ခုတွင် သီးခြားဆောင်ရွက်ရသည်။ မြန်မာကျောင်းသားများသည် မိမိနိုင်ငံကူးလက်မှတ်၊ ပညာအရည်အချင်းနှင့် သင်တန်းအလိုက် စစ်ဆေးရန် လိုသည်။"
+          },
+          "sections": [
+            {
+              "id": "hk-application",
+              "title": {
+                "zh": "香港：按学历与学生身份申请",
+                "en": "Hong Kong: choose the correct admission route",
+                "my": "ဟောင်ကောင် — ဝင်ခွင့်လမ်းကြောင်း ရွေးချယ်မှု"
+              },
+              "body": {
+                "zh": "香港大学及香港科技大学设有国际学历申请通道，并分别审核一般资格、专业和英语要求。缅甸高中、华校、GED或A-Level须核对学校认可的资格表；未列出的学历可能需要个案审查。缅甸籍华裔学生与持中国籍的华侨生，应按实际护照、居留及学历身份确认通道，不能仅凭族裔或学校名称判断。",
+                "en": "HKU and HKUST have international-qualification admission routes and assess academic, program-specific and English requirements. Check recognition of Myanmar school qualifications, GED or A-Level; an unlisted qualification may need individual review. Myanmar citizens of Chinese ancestry and Chinese citizens living overseas must confirm their route using actual nationality, residence and qualifications, rather than ethnicity or school name alone.",
+                "my": "HKU နှင့် HKUST တွင် နိုင်ငံတကာအရည်အချင်းဖြင့် လျှောက်ထားနိုင်သော လမ်းကြောင်းများ ရှိသည်။ မြန်မာအထက်တန်း၊ တရုတ်ဘာသာသင်ကျောင်း၊ GED သို့မဟုတ် A-Level ကို အသိအမှတ်ပြုမှုရှိမရှိ စစ်ဆေးရန် လိုသည်။ မြန်မာနိုင်ငံသားနှင့် ပြည်ပနေ တရုတ်နိုင်ငံသားတို့သည် နိုင်ငံကူးလက်မှတ်၊ နေထိုင်ခွင့်နှင့် ပညာအရည်အချင်းအလိုက် လမ်းကြောင်းကို အတည်ပြုရမည်။"
+              },
+              "sources": [
+                {
+                  "title": "HKU International/Non-JUPAS Admissions",
+                  "url": "https://admissions.hku.hk/apply/international-qualifications",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "HKUST International Qualifications",
+                  "url": "https://join.hkust.edu.hk/admissions/international-qualifications?general_requirement=All",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "hk-student-entry",
+              "title": {
+                "zh": "香港：学生签证或进入许可",
+                "en": "Hong Kong: student visa or entry permit",
+                "my": "ဟောင်ကောင် — ကျောင်းသားဗီဇာ သို့မဟုတ် ဝင်ခွင့်ပါမစ်"
+              },
+              "body": {
+                "zh": "录取后按香港入境事务处的来港就读规定核查签证或进入许可。申请涉及学校录取、本地保证人、旅行证件和经济支持等材料；未满18岁的申请人另须核查监护安排。不同国籍及居留身份可能适用不同文件。",
+                "en": "After admission, check the Immigration Department’s study visa or entry-permit requirements. These include admission, a local sponsor, travel documents and financial-support evidence; applicants under 18 need to check guardian arrangements. Documents depend on nationality and residence status.",
+                "my": "ကျောင်းဝင်ခွင့်ရပြီးနောက် ဟောင်ကောင်လူဝင်မှုကြီးကြပ်ရေးဌာန၏ ကျောင်းသားဗီဇာ စည်းမျဉ်းများကို စစ်ဆေးရန် လိုသည်။ ကျောင်းဝင်ခွင့်စာ၊ အာမခံသူ၊ နိုင်ငံကူးလက်မှတ်နှင့် ငွေကြေးအထောက်အထားတို့ လိုအပ်နိုင်သည်။ အသက် ၁၈ နှစ်အောက်အတွက် အုပ်ထိန်းသူအစီအစဉ်ကို စစ်ဆေးရန် လိုသည်။"
+              },
+              "sources": [
+                {
+                  "title": "香港入境事务处：来港就读",
+                  "url": "https://www.immd.gov.hk/eng/services/visas/study.html",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "macao-application",
+              "title": {
+                "zh": "澳门：核对国际生申请通道",
+                "en": "Macao: verify the international admission route",
+                "my": "မကာအို — နိုင်ငံတကာကျောင်းသား ဝင်ခွင့်လမ်းကြောင်း"
+              },
+              "body": {
+                "zh": "澳门大学的国际申请页面明确面向持外国护照的申请人。请逐项核查认可学历、专业和授课语言要求，必要时接受面试。缅甸籍学生与中国籍华侨生应分别确认适用通道；高中成绩或语言成绩达到某项要求，不代表整体申请已合格。",
+                "en": "The University of Macau’s international application page is for foreign-passport holders. Check the accepted qualification, chosen program and teaching-language requirements; an interview may be needed. Myanmar citizens and Chinese citizens living overseas should confirm their applicable routes separately. Meeting one academic or language condition does not establish complete eligibility.",
+                "my": "University of Macau ၏ နိုင်ငံတကာလျှောက်လွှာစာမျက်နှာသည် နိုင်ငံခြားနိုင်ငံကူးလက်မှတ်ကိုင်ဆောင်သူများအတွက် ဖြစ်သည်။ အသိအမှတ်ပြုအရည်အချင်း၊ သင်တန်းနှင့် ဘာသာစကားလိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။ အင်တာဗျူးလိုနိုင်သည်။ မြန်မာနိုင်ငံသားနှင့် ပြည်ပနေ တရုတ်နိုင်ငံသားတို့၏ လမ်းကြောင်းကို သီးခြားအတည်ပြုရန် လိုသည်။"
+              },
+              "sources": [
+                {
+                  "title": "University of Macau: International undergraduate applicants",
+                  "url": "https://reg.um.edu.mo/admissions/nonlocal/others-regions/news/",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "University of Macau: Application Requirement",
+                  "url": "https://reg.um.edu.mo/admissions/nonlocal/others-regions/app-adm-rules/",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "macao-study-stay",
+              "title": {
+                "zh": "澳门：留学逗留特别许可",
+                "en": "Macao: special authorization to stay for study",
+                "my": "မကာအို — ပညာသင်ရန် အထူးနေထိုင်ခွင့်"
+              },
+              "body": {
+                "zh": "澳门治安警察局规定，在获认可高等院校就读的外地学生，应在入境时获准的逗留期限届满前申请外地学生逗留特别许可。持有录取通知不代表自动取得居留身份；入境文件、许可及续期应按实际国籍、证件和学校通知核查。",
+                "en": "Macao’s Public Security Police requires non-resident students at approved higher-education institutions to apply for Special Authorization to Stay before their entry permission expires. An admission letter does not automatically grant residence status. Check entry documents, authorization and extensions according to nationality, travel documents and university instructions.",
+                "my": "မကာအိုရှိ အသိအမှတ်ပြု တက္ကသိုလ်တွင် တက်မည့် ပြည်ပကျောင်းသားများသည် ဝင်ရောက်ချိန်ရရှိသော နေထိုင်ခွင့်သက်တမ်း မကုန်မီ ပညာသင်ရန် အထူးနေထိုင်ခွင့်ကို လျှောက်ရမည်။ ကျောင်းဝင်ခွင့်စာတစ်ခုတည်းဖြင့် နေထိုင်ခွင့်ကို အလိုအလျောက် မရပါ။ နိုင်ငံသားနှင့် ခရီးသွားစာရွက်စာတမ်းအလိုက် စစ်ဆေးရန် လိုသည်။"
+              },
+              "sources": [
+                {
+                  "title": "澳门治安警察局：外地学生逗留特别许可",
+                  "url": "https://www.fsm.gov.mo/psp/WebReserveSystem/std/std_e.aspx",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            }
+          ],
+          "universities": [
+            {
+              "id": "hku",
+              "nameZh": "香港大学",
+              "nameEn": "The University of Hong Kong",
+              "location": {
+                "zh": "香港",
+                "en": "Hong Kong",
+                "my": "ဟောင်ကောင်"
+              },
+              "type": {
+                "zh": "多学科大学",
+                "en": "Multidisciplinary university",
+                "my": "ဘာသာရပ်စုံ တက္ကသိုလ်"
+              },
+              "description": {
+                "zh": "香港大学提供多个学科的本科课程，并设国际学历及Non-JUPAS招生通道。可从官方招生网站比较课程、英语要求与申请材料。",
+                "en": "HKU offers undergraduate programs across multiple disciplines and an International/Non-JUPAS admission route. Compare programs, English requirements and application materials on its official admissions site.",
+                "my": "HKU တွင် ဘာသာရပ်စုံ ဘွဲ့ကြိုသင်တန်းများနှင့် International/Non-JUPAS လျှောက်လွှာလမ်းကြောင်း ရှိသည်။ သင်တန်းနှင့် လိုအပ်ချက်ကို တရားဝင်ဝက်ဘ်ဆိုက်တွင် စစ်ဆေးရန် လိုသည်။"
+              },
+              "website": "https://www.hku.hk/",
+              "aboutUrl": "https://www.hku.hk/",
+              "admissionsUrl": "https://admissions.hku.hk/apply/international-qualifications",
+              "sources": [
+                {
+                  "title": "HKU International/Non-JUPAS Admissions",
+                  "url": "https://admissions.hku.hk/apply/international-qualifications",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "HKU official university introduction entry (general homepage)",
+                  "url": "https://www.hku.hk/",
+                  "checkedAt": "2026-10-08"
+                }
+              ],
+              "verificationNote": "Program range and international application route verified from admissions pages; detailed about-page history was not checked."
+            },
+            {
+              "id": "cuhk",
+              "nameZh": "香港中文大学",
+              "nameEn": "The Chinese University of Hong Kong",
+              "location": {
+                "zh": "香港",
+                "en": "Hong Kong",
+                "my": "ဟောင်ကောင်"
+              },
+              "type": {
+                "zh": "综合性研究大学",
+                "en": "Comprehensive research university",
+                "my": "ဘက်စုံသုတေသနတက္ကသိုလ်"
+              },
+              "description": {
+                "zh": "创办于1963年的综合性研究大学，采用书院制，并强调双语、多元文化及通识教育。多个学院提供不同学科选择；国际学生须查看对应招生通道与专业条件。",
+                "en": "Founded in 1963, CUHK is a comprehensive research university with a collegiate system and an emphasis on bilingual, multicultural and general education. Its faculties offer varied disciplines; international applicants should check the relevant admissions route and programme conditions.",
+                "my": "၁၉၆၃ ခုနှစ်တွင် တည်ထောင်ခဲ့သော ဘက်စုံသုတေသနတက္ကသိုလ်ဖြစ်ပြီး ကောလိပ်စနစ်၊ နှစ်ဘာသာ၊ ယဉ်ကျေးမှုမျိုးစုံနှင့် အထွေထွေပညာရေးကို အလေးထားသည်။ ဘာသာရပ်မျိုးစုံရှိ၍ နိုင်ငံတကာလျှောက်ထားသူများက သက်ဆိုင်ရာဝင်ခွင့်နှင့် သင်တန်းစည်းကမ်းကို စစ်ဆေးရန် လိုသည်။"
+              },
+              "website": "https://www.cuhk.edu.hk/",
+              "aboutUrl": "https://www.cuhk.edu.hk/",
+              "admissionsUrl": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/",
+              "sources": [
+                {
+                  "title": "CUHK official website: university and admissions navigation entry",
+                  "url": "https://www.cuhk.edu.hk/",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "CUHK: Introducing the University",
+                  "url": "https://cuhk.edu.hk/english/aboutus/university-intro.html",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "CUHK: International admissions requirements",
+                  "url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/",
+                  "checkedAt": "2026-10-08"
+                }
+              ],
+              "verificationNote": "Official university entry retained. Detailed about and international admissions pages were not accessed; this is not verified eligibility data."
+            },
+            {
+              "id": "hkust",
+              "nameZh": "香港科技大学",
+              "nameEn": "The Hong Kong University of Science and Technology",
+              "location": {
+                "zh": "香港",
+                "en": "Hong Kong",
+                "my": "ဟောင်ကောင်"
+              },
+              "type": {
+                "zh": "研究型大学",
+                "en": "Research university",
+                "my": "သုတေသနတက္ကသိုလ်"
+              },
+              "description": {
+                "zh": "香港科技大学于1991年创办，官网介绍强调研究与创新。国际学历申请人须分别符合一般、学校或专业及英语要求；未列入资格表的学历可由学校个案审查。",
+                "en": "Founded in 1991, HKUST emphasizes research and innovation. International-qualification applicants must meet general, school/program and English requirements; unlisted qualifications may be assessed individually.",
+                "my": "HKUST ကို ၁၉၉၁ ခုနှစ်တွင် စတင်ခဲ့ပြီး သုတေသနနှင့် တီထွင်မှုကို အလေးထားပါသည်။ နိုင်ငံတကာလျှောက်ထားသူများသည် အထွေထွေ၊ သင်တန်းနှင့် အင်္ဂလိပ်ဘာသာလိုအပ်ချက်များကို ဖြည့်ဆည်းရမည်။"
+              },
+              "website": "https://hkust.edu.hk/",
+              "aboutUrl": "https://hkust.edu.hk/zh-hant/about",
+              "admissionsUrl": "https://join.hkust.edu.hk/admissions/international-qualifications?general_requirement=All",
+              "sources": [
+                {
+                  "title": "HKUST: About the university",
+                  "url": "https://hkust.edu.hk/zh-hant/about",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "HKUST International Qualifications",
+                  "url": "https://join.hkust.edu.hk/admissions/international-qualifications?general_requirement=All",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "HKUST: Apply Now",
+                  "url": "https://join.hkust.edu.hk/apply",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "um",
+              "nameZh": "澳门大学",
+              "nameEn": "University of Macau",
+              "location": {
+                "zh": "澳门",
+                "en": "Macao",
+                "my": "မကာအို"
+              },
+              "type": {
+                "zh": "公立综合性研究大学",
+                "en": "Public comprehensive research university",
+                "my": "အစိုးရဘက်စုံသုတေသနတက္ကသိုလ်"
+              },
+              "description": {
+                "zh": "综合性公立研究大学，创办于1981年，以英语为主要教学语言。学科涵盖人文、工商管理、教育、健康科学、法律、科技及社会科学，并设住宿书院。具体课程的授课语言和国际生要求须分别核对。",
+                "en": "Founded in 1981, UM is a comprehensive public research university with English as its main teaching language. Its faculties span humanities, business, education, health sciences, law, science and technology, and social sciences, alongside residential colleges. Check language and international entry conditions for each course.",
+                "my": "၁၉၈၁ ခုနှစ်တွင် တည်ထောင်ခဲ့သော အစိုးရဘက်စုံသုတေသနတက္ကသိုလ်ဖြစ်ပြီး အင်္ဂလိပ်ကို အဓိကသင်ကြားဘာသာစကားအဖြစ် သုံးသည်။ လူ့ယဉ်ကျေးမှု၊ စီးပွားရေး၊ ပညာရေး၊ ကျန်းမာရေး၊ ဥပဒေ၊ သိပ္ပံနည်းပညာနှင့် လူမှုသိပ္ပံဌာနများ၊ နေထိုင်ရာကောလိပ်များ ရှိသည်။ သင်တန်းအလိုက် ဘာသာစကားနှင့် ဝင်ခွင့်ကို စစ်ဆေးရန် လိုသည်။"
+              },
+              "website": "https://www.um.edu.mo/",
+              "aboutUrl": "https://www.um.edu.mo/",
+              "admissionsUrl": "https://reg.um.edu.mo/admissions/nonlocal/others-regions/news/",
+              "sources": [
+                {
+                  "title": "University of Macau official university introduction entry",
+                  "url": "https://www.um.edu.mo/",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "University of Macau: International undergraduate applicants",
+                  "url": "https://reg.um.edu.mo/admissions/nonlocal/others-regions/news/",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "University of Macau: Application Requirement",
+                  "url": "https://reg.um.edu.mo/admissions/nonlocal/others-regions/app-adm-rules/",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "University of Macau: Introduction",
+                  "url": "https://www.um.edu.mo/about-um/introduction/",
+                  "checkedAt": "2026-10-08"
+                }
+              ],
+              "verificationNote": "International admissions route verified. Detailed about-page facts were not added without access."
+            }
+          ],
+          "scopeNote": "No fees, rankings, qualification equivalence or individual immigration eligibility are inferred. CUHK profile/admissions details and university about-page details not accessed are explicitly marked.",
+          "researchNotes": "CUHK and UM basic introductions were supplemented with official university pages after the bounded initial research; entry thresholds remain subject to current prospectuses.",
+          "introductionOnly": true
+        },
+        {
+          "id": "taiwan",
+          "checkedAt": "2026-10-08",
+          "title": {
+            "zh": "台湾",
+            "en": "Taiwan",
+            "my": "ထိုင်ဝမ်"
+          },
+          "tag": {
+            "zh": "身份路径 · 专业语言 · 就学居留",
+            "en": "Student status · Programme language · Study residence",
+            "my": "ကျောင်းသားအမျိုးအစား · သင်ကြားဘာသာစကား · ကျောင်းတက်နေထိုင်ခွင့်"
+          },
+          "overview": {
+            "zh": "可从台北、新竹、台南等城市的大学开始认识台湾的学习选择。课程可能以中文、英文或两者授课；先了解大学和专业，再核对外国学生或侨生申请身份、语言证明与就学居留规则。",
+            "en": "Get to know study options through universities in Taipei, Hsinchu and Tainan. Courses may use Chinese, English or both. Explore institutions and subjects, then check international or overseas Chinese applicant status, language evidence and study residence rules.",
+            "my": "Taipei၊ Hsinchu နှင့် Tainan မြို့များရှိ တက္ကသိုလ်များမှ ထိုင်ဝမ်ပညာသင်ရွေးချယ်မှုကို လေ့လာနိုင်သည်။ သင်တန်းများတွင် တရုတ်၊ အင်္ဂလိပ် သို့မဟုတ် နှစ်ဘာသာ သုံးနိုင်သည်။ ကျောင်းနှင့် ဘာသာရပ်ကို ရွေးပြီး နိုင်ငံခြားသား သို့မဟုတ် ပြည်ပတရုတ်နွယ်ဖွား လျှောက်ထားသူအမျိုးအစား၊ ဘာသာစကားနှင့် နေထိုင်ခွင့်စည်းကမ်းကို စစ်ဆေးရန် လိုသည်။"
+          },
+          "sections": [
+            {
+              "id": "student-routes",
+              "title": {
+                "zh": "外国学生与侨生：先确认身份",
+                "en": "International and overseas Chinese routes",
+                "my": "နိုင်ငံတကာကျောင်းသားနှင့် ပင်လယ်ရပ်ခြားတရုတ်နွယ်ဖွား လမ်းကြောင်းများ"
+              },
+              "body": {
+                "zh": "外国学生须符合教育部的国籍及既往就学规定，通常向大学申请。侨生须具华裔及海外永久或长期居留资格，并符合出生或连续居留等条件，由主管机关核定；可按招生简章走海联会或大学单独招生。缅甸华校毕业并不自动取得侨生身份，申请前应核查个人国籍、居留与既往就学记录。",
+                "en": "International applicants must meet nationality and prior-study rules and generally apply to universities. Overseas Chinese status requires Chinese descent, qualifying overseas residence documents and birth/residence conditions, with official validation; routes include the overseas joint admissions committee or university direct admission. A Myanmar Chinese-school diploma alone does not establish this status. Check nationality, residence and previous study records first.",
+                "my": "နိုင်ငံတကာကျောင်းသားများသည် နိုင်ငံသားနှင့် ယခင်ပညာသင်မှတ်တမ်းဆိုင်ရာ စည်းမျဉ်းများကို ပြည့်မီပြီး တက္ကသိုလ်သို့ လျှောက်ထားရသည်။ ပင်လယ်ရပ်ခြားတရုတ်နွယ်ဖွားအဖြစ် လျှောက်ရန် တရုတ်မျိုးနွယ်၊ ပြည်ပအမြဲတမ်း သို့မဟုတ် ရေရှည်နေထိုင်ခွင့်နှင့် မွေးဖွား/နေထိုင်မှုဆိုင်ရာ သတ်မှတ်ချက်များကို တရားဝင်စစ်ဆေးအတည်ပြုရသည်။ မြန်မာတရုတ်ဘာသာသင်ကျောင်းမှ ကျောင်းဆင်းခြင်းတစ်ခုတည်းဖြင့် ဤအမျိုးအစား အလိုအလျောက်မရပါ။ ပူးတွဲဝင်ခွင့် သို့မဟုတ် တက္ကသိုလ်တိုက်ရိုက်ဝင်ခွင့် စည်းမျဉ်းကို စစ်ဆေးရန် လိုသည်။"
+              },
+              "sources": [
+                {
+                  "title": "NTU — Student Status",
+                  "url": "https://admissions.ntu.edu.tw/apply/degree-students/admission-information/student-status/",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "NCKU — Overseas Compatriot Direct Admission",
+                  "url": "https://oia.ncku.edu.tw/p/404-1032-229822.php?Lang=en",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "language-documents",
+              "title": {
+                "zh": "按专业准备语言与材料",
+                "en": "Programme language and documents",
+                "my": "ဘာသာရပ်အလိုက် ဘာသာစကားနှင့် စာရွက်စာတမ်းများ"
+              },
+              "body": {
+                "zh": "课程可能以中文、英文或两者授课，语言证明与门槛须查目标专业当年简章。准备毕业证明、完整成绩单、国籍证明及要求的语言材料；推荐信、财力证明、补充作品或面试依学校与专业而定。非中英文材料须按学校及签证机关要求翻译、验证。不要把大陆的 CSCA 或其他地区统一门槛直接套用于台湾地区。",
+                "en": "Programmes may use Chinese, English or both; check the current programme’s language evidence and thresholds. Prepare graduation records, full transcripts, nationality evidence and requested language documents. Recommendations, financial evidence, portfolios and interviews depend on the institution and programme. Translate and authenticate documents as required. Assess Taiwan programmes separately from mainland CSCA rules.",
+                "my": "သင်တန်းများတွင် တရုတ်၊ အင်္ဂလိပ် သို့မဟုတ် နှစ်ဘာသာ သုံးနိုင်သည်။ ရွေးထားသောဘာသာရပ်၏ လက်ရှိဘာသာစကား သတ်မှတ်ချက်ကို စစ်ဆေးရန် လိုသည်။ ကျောင်းဆင်းလက်မှတ်၊ အမှတ်စာရင်းအပြည့်၊ နိုင်ငံသားအထောက်အထားနှင့် တောင်းဆိုထားသော ဘာသာစကားစာရွက်စာတမ်းများကို ပြင်ဆင်ရန် လိုသည်။ ထောက်ခံစာ၊ ငွေကြေးအထောက်အထား၊ လက်ရာနှင့် လူတွေ့စစ်ဆေးမှုတို့မှာ ကျောင်း/ဘာသာရပ်အလိုက် ကွာသည်။ လိုအပ်သလို ဘာသာပြန်နှင့် အတည်ပြုချက်ရယူရန် လိုသည်။ တရုတ်ပြည်မ၏ CSCA စည်းမျဉ်းကို ထိုင်ဝမ်အတွက် အလိုအလျောက်မသုံးပါ။"
+              },
+              "sources": [
+                {
+                  "title": "NTU OIA — Why Study at NTU",
+                  "url": "https://oia.ntu.edu.tw/en/prospective-students",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "NTU — International Students",
+                  "url": "https://admissions.ntu.edu.tw/apply/degree-students/international-students/",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "NCKU — Admission Information",
+                  "url": "https://web.ncku.edu.tw/p/412-1000-28616.php?Lang=en",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "BOCA — Resident Visas for Foreign Students",
+                  "url": "https://www.boca.gov.tw/cp-166-283-c4da3-2.html",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "visa-residence",
+              "title": {
+                "zh": "就学签证与居留：使用台湾官方入口",
+                "en": "Study visa and residence: official portals",
+                "my": "ကျောင်းတက်ဗီဇာနှင့် နေထိုင်ခွင့် တရားဝင်လမ်းကြောင်း"
+              },
+              "body": {
+                "zh": "取得录取后，向负责的台湾驻外机构核查适用的就学签证流程。外国学生居留签证官方清单包括申请表、护照、照片、录取证明、健康检查、学历成绩及财力资料；个案可能须补件。入境后按移民署规定申请外侨居留证（ARC），可使用外国学生及侨生线上居留系统。侨生应依相应身份流程办理，不使用大陆 X1 签证流程。",
+                "en": "After admission, check the applicable study-visa procedure with the responsible Taiwan overseas mission. The foreign-student resident-visa checklist includes the form, passport, photos, admission evidence, health examination, education records and financial evidence; additional documents may be requested. Follow National Immigration Agency rules for an ARC after entry, using its student residence service where applicable. Use the route for your student status, rather than mainland X1 procedures.",
+                "my": "ဝင်ခွင့်ရပြီးနောက် သက်ဆိုင်ရာ ထိုင်ဝမ်ပြည်ပကိုယ်စားလှယ်ရုံးတွင် ကျောင်းတက်ဗီဇာ လုပ်ငန်းစဉ်ကို စစ်ဆေးရန် လိုသည်။ နိုင်ငံတကာကျောင်းသား နေထိုင်ခွင့်ဗီဇာအတွက် လျှောက်လွှာ၊ နိုင်ငံကူးလက်မှတ်၊ ဓာတ်ပုံ၊ ဝင်ခွင့်စာ၊ ဆေးစစ်ချက်၊ ပညာရေးမှတ်တမ်းနှင့် ငွေကြေးအထောက်အထားများ လိုအပ်ပြီး ထပ်တိုးစာရွက်စာတမ်း တောင်းနိုင်သည်။ ဝင်ရောက်ပြီးနောက် လူဝင်မှုကြီးကြပ်ရေးစည်းမျဉ်းအတိုင်း ARC လျှောက်ထားရန် လိုသည်။ သက်ဆိုင်ပါက ကျောင်းသားအွန်လိုင်းနေထိုင်ခွင့်စနစ်ကို သုံးနိုင်သည်။ ကိုယ်ပိုင်ကျောင်းသားအမျိုးအစားအလိုက် လုပ်ဆောင်၍ တရုတ်ပြည်မ X1 လုပ်ငန်းစဉ်ကို မသုံးပါ။"
+              },
+              "sources": [
+                {
+                  "title": "BOCA — Resident Visas for Foreign Students",
+                  "url": "https://www.boca.gov.tw/cp-166-283-c4da3-2.html",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "National Immigration Agency — Student Residence Instructions",
+                  "url": "https://www.immigration.gov.tw/5382/5385/7244/7250/7317/%E5%B1%85%E7%95%99/362168/",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "BOCA — Online Visa Application",
+                  "url": "https://visawebapp.boca.gov.tw/",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            }
+          ],
+          "universities": [
+            {
+              "id": "taiwan-ntu",
+              "nameZh": "国立台湾大学",
+              "nameEn": "National Taiwan University (NTU)",
+              "location": {
+                "zh": "台北",
+                "en": "Taipei",
+                "my": "တိုင်ပေ"
+              },
+              "type": {
+                "zh": "国立大学",
+                "en": "National university",
+                "my": "နိုင်ငံပိုင်တက္ကသိုလ်"
+              },
+              "description": {
+                "zh": "设于台北的国立大学，提供多种学位与跨领域学习机会；国际课程可使用中文、英文或两者。先查国际招生入口中的身份、专业及语言要求。",
+                "en": "A national university in Taipei with varied degree and interdisciplinary study options. International programmes may use Chinese, English or both; check student status and programme requirements in its admissions portal.",
+                "my": "တိုင်ပေရှိ နိုင်ငံပိုင်တက္ကသိုလ်ဖြစ်ပြီး ဘွဲ့နှင့် နယ်ပယ်ပေါင်းစုံပညာသင် အခွင့်အလမ်းများရှိသည်။ တရုတ်၊ အင်္ဂလိပ် သို့မဟုတ် နှစ်ဘာသာသင်တန်းများအတွက် ဝင်ခွင့်အမျိုးအစားနှင့် ဘာသာရပ်သတ်မှတ်ချက်ကို စစ်ဆေးရန် လိုသည်။"
+              },
+              "website": "https://www.ntu.edu.tw/english/",
+              "admissionsUrl": "https://admissions.ntu.edu.tw/apply/degree-students/international-students/",
+              "sources": [
+                {
+                  "title": "NTU — About NTU",
+                  "url": "https://www.ntu.edu.tw/english/about/about.html",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "NTU OIA — Why Study at NTU",
+                  "url": "https://oia.ntu.edu.tw/en/prospective-students",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "NTU — International Students",
+                  "url": "https://admissions.ntu.edu.tw/apply/degree-students/international-students/",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "taiwan-nthu",
+              "nameZh": "国立清华大学",
+              "nameEn": "National Tsing Hua University (NTHU)",
+              "location": {
+                "zh": "新竹",
+                "en": "Hsinchu",
+                "my": "ရှင်ချူ"
+              },
+              "type": {
+                "zh": "国立综合研究大学",
+                "en": "National comprehensive research university",
+                "my": "နိုင်ငံပိုင် ဘက်စုံသုတေသနတက္ကသိုလ်"
+              },
+              "description": {
+                "zh": "位于新竹，学科覆盖科学、技术、工程、人文、社会科学与管理。外国学生和侨生拥有不同招生入口，须先核查身份。",
+                "en": "Located in Hsinchu, with science, technology, engineering, humanities, social sciences and management. International and overseas Chinese applicants use distinct admission routes.",
+                "my": "ရှင်ချူတွင် တည်ရှိပြီး သိပ္ပံ၊ နည်းပညာ၊ အင်ဂျင်နီယာ၊ လူမှုလူသားရေးနှင့် စီမံခန့်ခွဲမှု ပညာရပ်များရှိသည်။ နိုင်ငံတကာကျောင်းသားနှင့် ပင်လယ်ရပ်ခြားတရုတ်နွယ်ဖွားတို့၏ ဝင်ခွင့်လမ်းကြောင်း ကွဲပြားသည်။"
+              },
+              "website": "https://www.nthu.edu.tw/",
+              "admissionsUrl": "https://admission.nthu.edu.tw/p/412-1207-10069.php?Lang=en",
+              "sources": [
+                {
+                  "title": "NTHU — About NTHU",
+                  "url": "https://nthu-en.site.nthu.edu.tw/p/403-1003-4798.php",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "NTHU — International Students",
+                  "url": "https://admission.nthu.edu.tw/p/412-1207-10069.php?Lang=en",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "taiwan-nycu",
+              "nameZh": "国立阳明交通大学",
+              "nameEn": "National Yang Ming Chiao Tung University (NYCU)",
+              "location": {
+                "zh": "新竹与台北等校区",
+                "en": "Campuses including Hsinchu and Taipei",
+                "my": "ရှင်ချူနှင့် တိုင်ပေ အပါအဝင် ကျောင်းဝင်းများ"
+              },
+              "type": {
+                "zh": "国立综合大学",
+                "en": "National comprehensive university",
+                "my": "နိုင်ငံပိုင် ဘက်စုံတက္ကသိုလ်"
+              },
+              "description": {
+                "zh": "由阳明大学与交通大学于2021年合并，结合生物医学及电子通信背景，提供工程、医学、管理、人文等学科。国际学位生通过学校线上系统申请。",
+                "en": "Formed in 2021 from Yang-Ming and Chiao Tung universities, combining biomedical and electronic-communications traditions with diverse academic fields. International degree applications use the university’s online system.",
+                "my": "၂၀၂၁ ခုနှစ်တွင် Yang-Ming နှင့် Chiao Tung တက္ကသိုလ်များ ပေါင်းစည်းခဲ့ပြီး ဇီဝဆေးပညာနှင့် အီလက်ထရွန်နစ်ဆက်သွယ်ရေး အခြေခံများနှင့် နယ်ပယ်စုံပညာရပ်များရှိသည်။ နိုင်ငံတကာဘွဲ့သင်တန်းများကို ကျောင်းအွန်လိုင်းစနစ်မှ လျှောက်ထားရသည်။"
+              },
+              "website": "https://www.nycu.edu.tw/nycu/en/index",
+              "admissionsUrl": "https://www.nycu.edu.tw/oia/en/app/data/list?id=798&module=nycu0015",
+              "sources": [
+                {
+                  "title": "NYCU — About",
+                  "url": "https://www.nycu.edu.tw/nycu/en/index",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "NYCU Secretariat — Campus Locations",
+                  "url": "https://www.nycu.edu.tw/sec/en/app/folder/249",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "NYCU — Admissions Overview",
+                  "url": "https://www.nycu.edu.tw/nycu/en/app/artwebsite/view?id=564&module=artwebsite&serno=b2e1288a-f87a-4d3c-8a5e-8e115e96ab0d",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "NYCU — International Admissions",
+                  "url": "https://www.nycu.edu.tw/oia/en/app/data/list?id=798&module=nycu0015",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            },
+            {
+              "id": "taiwan-ncku",
+              "nameZh": "国立成功大学",
+              "nameEn": "National Cheng Kung University (NCKU)",
+              "location": {
+                "zh": "台南",
+                "en": "Tainan",
+                "my": "တိုင်နန်"
+              },
+              "type": {
+                "zh": "国立大学",
+                "en": "National university",
+                "my": "နိုင်ငံပိုင်တက္ကသိုလ်"
+              },
+              "description": {
+                "zh": "位于台南，设有工程教育、科研及医学相关资源。申请前应在国际招生入口确认可申请的专业、文件及面试或考试要求；侨生单独招生另设入口。",
+                "en": "Based in Tainan, with engineering education, research and medical resources. Check international admissions for available programmes, documents and any interviews or tests; overseas Chinese direct admission has a separate route.",
+                "my": "တိုင်နန်တွင် တည်ရှိပြီး အင်ဂျင်နီယာပညာရေး၊ သုတေသနနှင့် ဆေးပညာဆိုင်ရာ အရင်းအမြစ်များရှိသည်။ နိုင်ငံတကာဝင်ခွင့်တွင် ဘာသာရပ်၊ စာရွက်စာတမ်းနှင့် စာမေးပွဲ/လူတွေ့လိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။ ပင်လယ်ရပ်ခြားတရုတ်နွယ်ဖွား တိုက်ရိုက်ဝင်ခွင့် လမ်းကြောင်း သီးခြားရှိသည်။"
+              },
+              "website": "https://web.ncku.edu.tw/?Lang=en",
+              "admissionsUrl": "https://web.ncku.edu.tw/p/412-1000-28616.php?Lang=en",
+              "sources": [
+                {
+                  "title": "NCKU — About NCKU",
+                  "url": "https://icamp.ncku.edu.tw/p/412-1100-5402.php?Lang=en",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "NCKU — Admission Information",
+                  "url": "https://web.ncku.edu.tw/p/412-1000-28616.php?Lang=en",
+                  "checkedAt": "2026-10-08"
+                },
+                {
+                  "title": "NCKU — Overseas Compatriot Direct Admission",
+                  "url": "https://oia.ncku.edu.tw/p/404-1032-229822.php?Lang=en",
+                  "checkedAt": "2026-10-08"
+                }
+              ]
+            }
+          ],
+          "researchNotes": [
+            "Destination overview only; no blanket recognition of Myanmar Matriculation, Chinese-school diplomas, GED or A-Level is asserted.",
+            "One guessed legacy NTHU about URL and one NCKU main about URL were inaccessible; accessible official about pages were used instead. No PDFs were downloaded.",
+            "No fees, rankings, admissions probabilities or programme-wide language thresholds are estimated."
+          ],
+          "introductionOnly": true
+        }
+      ]
+    },
+    {
+      "country": "TH",
+      "name": {
+        "zh": "泰国",
+        "en": "Thailand",
+        "my": "ထိုင်းနိုင်ငံ"
+      },
+      "overview": {
+        "zh": "泰国有公立大学和私立大学的国际本科课程。先选专业及授课语言，再核实学历等效、学科成绩和招生批次。不同课程的要求分别审核。",
+        "en": "Thailand offers international undergraduate programmes at public and private universities. Choose your subject and teaching language, then check qualification equivalency, subject results and the intake requirements.",
+        "my": "ထိုင်းနိုင်ငံတွင် အစိုးရနှင့် ပုဂ္ဂလိကတက္ကသိုလ်များ၌ နိုင်ငံတကာဘွဲ့ကြိုသင်တန်းများ ရှိသည်။ မေဂျာနှင့် သင်ကြားမည့်ဘာသာစကားကို ရွေးပြီး ဝင်ခွင့်လိုအပ်ချက်များကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "overviewSources": [
+        {
+          "title": "Chulalongkorn University: Introduction",
+          "url": "https://www.chula.ac.th/en/about/overview/introduction-to-chula/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "MUIC: Overseas undergraduate applicants",
+          "url": "https://muic.mahidol.ac.th/en/study-at-muic/admissions-requirement/undergraduate-admission/overseas-students/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Bangkok University: International programme admissions",
+          "url": "https://www.bu.ac.th/en/admission-info/international-programs",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "sections": [
+        {
+          "id": "matriculation",
+          "title": {
+            "zh": "缅甸 Matriculation：先确认学历等效",
+            "en": "Myanmar Matriculation: check equivalency",
+            "my": "Myanmar Matriculation အရည်အချင်းစစ်ဆေးခြင်း"
+          },
+          "body": {
+            "zh": "提交考试年份、课程体系及总就学年限。MUIC 的 2025 指南不接受 Myanmar Matriculation 单独作为高中等效资格；它未明确区分新 12 年制，需书面确认。其他泰国大学另行审核。",
+            "en": "Provide the exam year, curriculum and total schooling years. MUIC’s 2025 guide does not accept Myanmar Matriculation alone as equivalent high school completion; it does not distinguish the new 12-year system. Ask MUIC for confirmation; other universities assess separately.",
+            "my": "စာမေးပွဲနှစ်၊ သင်ရိုးနှင့် စုစုပေါင်းပညာသင်နှစ်ကို ဖော်ပြရန် လိုသည်။ MUIC ၏ 2025 လမ်းညွှန်တွင် Myanmar Matriculation တစ်ခုတည်းကို အထက်တန်းတန်းတူအဖြစ် လက်မခံပါ။ 12 နှစ်စနစ်သစ်အတွက် MUIC ထံ အတည်ပြုမေးမြန်းအတည်ပြုရန် လိုသည်။ အခြားတက္ကသိုလ်များက သီးခြားစစ်ဆေးသည်။"
+          },
+          "sources": [
+            {
+              "title": "MUIC: High school qualification guide, May 2025",
+              "url": "https://muic.mahidol.ac.th/file/pdf/High_School_Qualification.pdf",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-05",
+              "scopeNote": "MUIC route only; does not explicitly separate Myanmar new 12-year curriculum."
+            }
+          ],
+          "verificationStatus": "institution_confirmation_required"
+        },
+        {
+          "id": "ged-alevel",
+          "title": {
+            "zh": "GED 与 A-Level：按课程核对",
+            "en": "GED and A-Level: check each programme",
+            "my": "GED နှင့် A-Level"
+          },
+          "body": {
+            "zh": "部分国际课程接受完整 GED 或 A-Level 路径。GED 的单科及总分、A-Level 的科目数与等级，以及是否还需 O-Level、数学考试或面试，按学校和专业核对。",
+            "en": "Some international programmes accept complete GED or A-Level routes. Check GED subject and total scores, A-Level subjects and grades, and any O-Level, mathematics-test or interview requirements for the specific programme.",
+            "my": "နိုင်ငံတကာသင်တန်းအချို့သည် GED သို့မဟုတ် A-Level ကို လက်ခံသည်။ GED အမှတ်၊ A-Level ဘာသာရပ်နှင့် အဆင့်များ၊ O-Level၊ သင်္ချာစာမေးပွဲ သို့မဟုတ် လူတွေ့စစ်ဆေးမှု လိုအပ်ချက်ကို မေဂျာအလိုက် စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "MUIC: Overseas undergraduate applicants",
+              "url": "https://muic.mahidol.ac.th/en/study-at-muic/admissions-requirement/undergraduate-admission/overseas-students/",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "MUIC: High school qualification guide, May 2025",
+              "url": "https://muic.mahidol.ac.th/file/pdf/High_School_Qualification.pdf",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-05",
+              "scopeNote": "MUIC route only; does not explicitly separate Myanmar new 12-year curriculum."
+            },
+            {
+              "title": "Bangkok University: International programme admissions",
+              "url": "https://www.bu.ac.th/en/admission-info/international-programs",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "chinese-school",
+          "title": {
+            "zh": "缅甸华文学校毕业证：单独送审",
+            "en": "Myanmar Chinese-school diplomas: individual review",
+            "my": "မြန်မာတရုတ်ကျောင်း အောင်လက်မှတ်"
+          },
+          "body": {
+            "zh": "目前未核实缅甸华校自颁毕业证的通用认可规则。提交学校名称、颁证机构、课程、学习年限及成绩单，由目标学校确认能否申请本科或需补充资格。",
+            "en": "No universal acceptance rule for Myanmar Chinese-school-issued diplomas was verified. Send the school and awarding-body details, curriculum, study years and transcript to the target university for assessment.",
+            "my": "မြန်မာတရုတ်ကျောင်းက ထုတ်ပေးသည့် အောင်လက်မှတ်အတွက် အားလုံးလက်ခံသည့် စည်းမျဉ်းကို မအတည်ပြုရသေးပါ။ ကျောင်းအမည်၊ လက်မှတ်ထုတ်ပေးသည့်အဖွဲ့၊ သင်ရိုး၊ ပညာသင်နှစ်နှင့် အမှတ်စာရင်းကို တက္ကသိုလ်သို့ ပေးပို့ပြီး စိစစ်ပေးရန် တောင်းဆိုနိုင်သည်။"
+          },
+          "sources": [
+            {
+              "title": "MUIC: High school qualification guide, May 2025",
+              "url": "https://muic.mahidol.ac.th/file/pdf/High_School_Qualification.pdf",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-05",
+              "scopeNote": "MUIC route only; does not explicitly separate Myanmar new 12-year curriculum."
+            },
+            {
+              "title": "Bangkok University: International programme admissions",
+              "url": "https://www.bu.ac.th/en/admission-info/international-programs",
+              "checkedAt": "2026-10-08"
+            }
+          ],
+          "verificationStatus": "acceptance_not_verified",
+          "evidenceNote": "Guidance inferred from institution-specific high-school equivalency requirements; sources do not explicitly recognise Myanmar Chinese-school diplomas."
+        },
+        {
+          "id": "language-documents",
+          "title": {
+            "zh": "授课语言与材料认证",
+            "en": "Teaching language and document certification",
+            "my": "သင်ကြားသည့်ဘာသာစကားနှင့် စာရွက်စာတမ်း"
+          },
+          "body": {
+            "zh": "国际课程通常单独公布英语要求；核对 IELTS 总分、分项及有效期。按学校要求提交毕业证和成绩单，并办理所需英文或泰文翻译、认证及学历等效文件。",
+            "en": "Check the programme’s IELTS overall score, individual bands and validity period. Submit the diploma and transcript, with English or Thai translation, certification and equivalency documents as required by the university.",
+            "my": "မေဂျာ၏ IELTS စုစုပေါင်းအမှတ်၊ အပိုင်းလိုက်အမှတ်နှင့် သက်တမ်းကို စစ်ဆေးရန် လိုသည်။ အောင်လက်မှတ်နှင့် အမှတ်စာရင်းအတွက် ကျောင်းတောင်းဆိုသည့် အင်္ဂလိပ် သို့မဟုတ် ထိုင်းဘာသာပြန်နှင့် အတည်ပြုချက်များကို ပြင်ဆင်ရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "MUIC: Overseas undergraduate applicants",
+              "url": "https://muic.mahidol.ac.th/en/study-at-muic/admissions-requirement/undergraduate-admission/overseas-students/",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Bangkok University: International programme admissions",
+              "url": "https://www.bu.ac.th/en/admission-info/international-programs",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "visa-prepare",
+          "title": {
+            "zh": "学生签证准备：先取得学校文件",
+            "en": "Student visa preparation: obtain university documents",
+            "my": "ကျောင်းသားဗီဇာ စာရွက်စာတမ်းပြင်ဆင်ခြင်း"
+          },
+          "body": {
+            "zh": "先取得录取及学校签证支持文件，再与学校和受理使馆确认适用 ED 或 ED Plus 类别。准备护照、照片和系统要求的资金、无犯罪等证明；最终以当前清单为准。",
+            "en": "Obtain your offer and university visa-support documents. Confirm the applicable ED or ED Plus category with the university and responsible mission. Prepare your passport, photograph and any financial or police-clearance evidence requested in the current checklist.",
+            "my": "ဝင်ခွင့်စာနှင့် ကျောင်း၏ဗီဇာထောက်ခံစာများကို ရယူရန် လိုသည်။ ED သို့မဟုတ် ED Plus အမျိုးအစားကို ကျောင်းနှင့် သံရုံးထံ မေးမြန်းအတည်ပြုရန် လိုသည်။ လက်ရှိစာရင်းအရ နိုင်ငံကူးလက်မှတ်၊ ဓာတ်ပုံနှင့် တောင်းဆိုသည့် အထောက်အထားများကို ပြင်ဆင်ရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Royal Thai Embassy Yangon: Education visa documents",
+              "url": "https://yangon.thaiembassy.org/en/page/36231-education-visa?menu=5d9ee5f54801f00ddf420da2",
+              "checkedAt": "2026-10-08",
+              "scopeNote": "Older education-document checklist; current submission follows Yangon e-Visa notice. Confirm current requested documents in the application portal."
+            },
+            {
+              "title": "Royal Thai Embassy: Studying visa categories",
+              "url": "https://washingtondc.thaiembassy.org/en/page/studying-visas",
+              "checkedAt": "2026-10-08",
+              "scopeNote": "Supports ED/ED Plus category distinction only; US mission document checklist is not applied to Myanmar residents."
+            },
+            {
+              "title": "Royal Thai Embassy Yangon: Visa services",
+              "url": "https://yangon.thaiembassy.org/en/publicservice/visa-services?page=5d7d27c315e39c2e64001f85",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-01-01"
+            }
+          ]
+        },
+        {
+          "id": "visa-apply",
+          "title": {
+            "zh": "在缅甸申请：使用泰国 e-Visa",
+            "en": "Applying from Myanmar: use Thai e-Visa",
+            "my": "မြန်မာနိုင်ငံမှ Thai e-Visa လျှောက်ခြင်း"
+          },
+          "body": {
+            "zh": "仰光使馆自 2025 年 1 月起要求通过 Thai e-Visa 提交申请；提交后按使馆公告预约完成缴费。获签后核对入境期限，并向学校确认报到及后续居留手续。在其他国家居住时，按相应受理使馆办理。",
+            "en": "For applications handled in Yangon, submit through Thai e-Visa and follow the embassy’s appointment instructions for payment. After approval, check entry validity and university arrival instructions. Applicants living elsewhere should follow their responsible mission.",
+            "my": "Yangon သံရုံးသို့ လျှောက်သူများသည် Thai e-Visa မှ လျှောက်ပြီး သံရုံးညွှန်ကြားချက်အရ ငွေပေးချေရန် ရက်ချိန်းယူရန် လိုသည်။ ဗီဇာရပြီးနောက် ဝင်ခွင့်သက်တမ်းနှင့် ကျောင်းရောက်ရမည့်ညွှန်ကြားချက်ကို စစ်ဆေးရန် လိုသည်။ အခြားနိုင်ငံတွင် နေသူများသည် သက်ဆိုင်ရာသံရုံး၏ လုပ်ငန်းစဉ်ကို လိုက်နာရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Royal Thai Embassy Yangon: Visa services",
+              "url": "https://yangon.thaiembassy.org/en/publicservice/visa-services?page=5d7d27c315e39c2e64001f85",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-01-01"
+            }
+          ],
+          "planningNote": "Arrival and residence follow-up is practical planning guidance; obtain the current checklist from the university and Thai immigration."
+        }
+      ],
+      "universities": [
+        {
+          "id": "th-chula",
+          "nameEn": "Chulalongkorn University",
+          "nameZh": "朱拉隆功大学",
+          "location": {
+            "zh": "曼谷 Pathum Wan",
+            "en": "Pathum Wan, Bangkok",
+            "my": "Pathum Wan, Bangkok"
+          },
+          "type": {
+            "zh": "公立大学",
+            "en": "Public university",
+            "my": "အစိုးရတက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "位于曼谷的公立综合大学，设科学等学科及国际课程；官网强调研究、创新和社会服务。申请时需查看具体院系及课程要求。",
+            "en": "A public comprehensive university in Bangkok with science and other disciplines and international programmes. Its official profile emphasises research, innovation and service to society. Check the selected faculty and programme.",
+            "my": "Bangkok ရှိ အစိုးရတက္ကသိုလ်ဖြစ်ပြီး သိပ္ပံနှင့် အခြားဘာသာရပ်များ၊ နိုင်ငံတကာသင်တန်းများ ရှိသည်။ သုတေသန၊ ဆန်းသစ်မှုနှင့် လူမှုဝန်ဆောင်မှုကို အလေးထားသည်။ မေဂျာအလိုက် လိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Chulalongkorn University: Introduction",
+              "url": "https://www.chula.ac.th/en/about/overview/introduction-to-chula/",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Chulalongkorn University: About and campus address",
+              "url": "https://www.chula.ac.th/en/about/",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Chulalongkorn University: Public university management",
+              "url": "https://www.chula.ac.th/en/highlight/71890/",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Chulalongkorn: Faculty of Science",
+              "url": "https://www.chula.ac.th/en/departments/faculty-of-science/",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "th-mahidol",
+          "nameEn": "Mahidol University",
+          "nameZh": "玛希隆大学",
+          "location": {
+            "zh": "Salaya（那空巴统）及曼谷等校区",
+            "en": "Salaya, Nakhon Pathom; also Bangkok campuses",
+            "my": "Salaya, Nakhon Pathom နှင့် Bangkok"
+          },
+          "type": {
+            "zh": "公立大学",
+            "en": "Public university",
+            "my": "အစိုးရတက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "公立大学，设 Salaya 和曼谷等校区，涵盖健康科学、科学和其他领域。MUIC 是其国际学院，提供国际本科课程；应区分学院及授课语言。",
+            "en": "A public university with Salaya and Bangkok campuses, covering health sciences, science and other fields. Its International College, MUIC, offers international undergraduate programmes. Check the college and teaching language.",
+            "my": "Salaya နှင့် Bangkok တို့တွင် ကျောင်းဝင်းများရှိသည့် အစိုးရတက္ကသိုလ်ဖြစ်သည်။ ကျန်းမာရေးသိပ္ပံ၊ သိပ္ပံနှင့် အခြားဘာသာရပ်များ ရှိသည်။ MUIC တွင် နိုင်ငံတကာဘွဲ့ကြိုသင်တန်းများကို လေ့လာနိုင်သည်။"
+          },
+          "sources": [
+            {
+              "title": "Mahidol University: University overview",
+              "url": "https://muce.mahidol.ac.th/about",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Mahidol University International College: Overview",
+              "url": "https://muic.mahidol.ac.th/en/about/overview/",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "th-bangkok",
+          "nameEn": "Bangkok University",
+          "nameZh": "曼谷大学",
+          "location": {
+            "zh": "巴吞他尼，曼谷附近",
+            "en": "Pathum Thani, near Bangkok",
+            "my": "Pathum Thani၊ Bangkok အနီး"
+          },
+          "type": {
+            "zh": "私立大学",
+            "en": "Private university",
+            "my": "ပုဂ္ဂလိကတက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "私立大学，主校区位于巴吞他尼。学校历史介绍突出商业、传播和创意领域，以及实践学习与创业教育；国际课程按专业另有入学条件。",
+            "en": "A private university with its main campus in Pathum Thani. Its institutional history highlights business, communication and creative fields, practical learning and entrepreneurship. International programmes have their own entry requirements.",
+            "my": "Pathum Thani ရှိ ပုဂ္ဂလိကတက္ကသိုလ်ဖြစ်သည်။ စီးပွားရေး၊ ဆက်သွယ်ရေးနှင့် ဖန်တီးမှုဘာသာရပ်များ၊ လက်တွေ့သင်ယူမှုနှင့် စွန့်ဦးတီထွင်မှုကို အလေးထားသည်။ နိုင်ငံတကာမေဂျာအလိုက် ဝင်ခွင့်ကို စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Bangkok University: History and educational focus",
+              "url": "https://www.bu.ac.th/en/about/history",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Bangkok University: Main campus address",
+              "url": "https://www.bu.ac.th/en/economics",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country": "MY",
+      "name": {
+        "zh": "马来西亚",
+        "en": "Malaysia",
+        "my": "မလေးရှားနိုင်ငံ"
+      },
+      "overview": {
+        "zh": "马来西亚有公立大学、私立大学和外国大学分校。选校时同时核对资格层级、目标课程及英语要求；留学手续通常包括 EMGS 审核与 Student Pass。",
+        "en": "Malaysia has public universities, private universities and foreign university campuses. Check qualification level, course requirements and English proficiency. Study immigration procedures commonly involve EMGS assessment and a Student Pass.",
+        "my": "မလေးရှားတွင် အစိုးရ၊ ပုဂ္ဂလိကနှင့် နိုင်ငံခြားတက္ကသိုလ်ကျောင်းဝင်းများ ရှိသည်။ ပညာရေးအရည်အချင်းနှင့် မေဂျာလိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။ EMGS နှင့် Student Pass လုပ်ငန်းစဉ်ကို ပြင်ဆင်ရသည်။"
+      },
+      "overviewSources": [
+        {
+          "title": "Universiti Malaya: About UM, official staff onboarding",
+          "url": "https://sites.google.com/um.edu.my/staffonboarding/about-um",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Monash University Malaysia: Welcome and governance",
+          "url": "https://www.monash.edu.my/about/welcome",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Sunway University: A brief introduction",
+          "url": "https://sunwayuniversity.edu.my/about",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "EMGS: Student Pass application steps",
+          "url": "https://educationmalaysia.gov.my/blogs/study-in-malaysia-step-by-step-how-to-apply-for-a-student-visa",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "sections": [
+        {
+          "id": "matriculation",
+          "title": {
+            "zh": "Matriculation：旧制与新制路径不同",
+            "en": "Matriculation: legacy and new-system pathways",
+            "my": "Matriculation စနစ်ဟောင်းနှင့် စနစ်သစ်"
+          },
+          "body": {
+            "zh": "MQA 2025 名单把缅甸旧制 Matriculation（总就学 11 年）列为预科、证书或文凭入学资格；2024 年起的 12 年制高中及 Matriculation 列为本科入学层级。专业成绩及录取仍由大学审核。",
+            "en": "MQA’s 2025 list places legacy Myanmar Matriculation, with 11 years of schooling, at foundation/certificate/diploma entry level. The 12-year high-school and Matriculation qualification starting in 2024 is listed at bachelor entry level. Universities still assess course eligibility.",
+            "my": "MQA 2025 စာရင်းတွင် 11 နှစ်စနစ်ဟောင်း Myanmar Matriculation ကို foundation/certificate/diploma အဆင့်အတွက် ဖော်ပြသည်။ 2024 မှ 12 နှစ်စနစ် အထက်တန်းနှင့် Matriculation ကို ဘွဲ့ကြိုဝင်ခွင့်အဆင့်အတွက် ဖော်ပြသည်။ မေဂျာအရည်အချင်းကို တက္ကသိုလ်က စစ်ဆေးသည်။"
+          },
+          "sources": [
+            {
+              "title": "MQA: International entry qualifications, December 2025",
+              "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-12",
+              "scopeNote": "Qualification level only; previously verified in admissions research. PDF timed out on guide re-check; official portal still links this edition."
+            },
+            {
+              "title": "MQA: International qualification equivalency",
+              "url": "https://www.mqa.gov.my/new/nilai_taraf.cfm",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "ged-alevel",
+          "title": {
+            "zh": "GED 与 A-Level：层级认可后仍需查专业",
+            "en": "GED and A-Level: verify programme eligibility",
+            "my": "GED နှင့် A-Level ဝင်ခွင့်စစ်ဆေးခြင်း"
+          },
+          "body": {
+            "zh": "MQA 名单中 GED 为本科入学层级，但并非所有大学或专业都接受。A-Level 申请须按课程核对科目与等级；数学、科学等先修条件由大学决定。",
+            "en": "MQA lists GED at bachelor entry level, but university and programme acceptance can differ. For A-Level, check the course’s subject and grade requirements; universities determine prerequisite subjects.",
+            "my": "MQA တွင် GED ကို ဘွဲ့ကြိုဝင်ခွင့်အဆင့်အဖြစ် ဖော်ပြသော်လည်း တက္ကသိုလ်နှင့် မေဂျာတိုင်း လက်ခံမည်ဟု မဆိုလိုပါ။ A-Level ဘာသာရပ်၊ အဆင့်နှင့် ကြိုတင်လိုအပ်သောဘာသာရပ်ကို ကျောင်းထံ စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "MQA: International entry qualifications, December 2025",
+              "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-12",
+              "scopeNote": "Qualification level only; previously verified in admissions research. PDF timed out on guide re-check; official portal still links this edition."
+            },
+            {
+              "title": "MQA: International qualification equivalency",
+              "url": "https://www.mqa.gov.my/new/nilai_taraf.cfm",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Monash University Malaysia: Undergraduate study areas",
+              "url": "https://www.monash.edu.my/study/undergraduate",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "chinese-school",
+          "title": {
+            "zh": "缅甸华校证书与 UEC 分开审核",
+            "en": "Myanmar Chinese-school diplomas and UEC are distinct",
+            "my": "မြန်မာတရုတ်ကျောင်းလက်မှတ်နှင့် UEC"
+          },
+          "body": {
+            "zh": "缅甸华文学校的自颁证书不能直接套用马来西亚 UEC 规则。提交颁证机构、课程、年限和完整成绩单；必要时按学校及 MQA 指引办理资格等效审核。",
+            "en": "A Myanmar Chinese-school-issued diploma should not be treated as Malaysia’s UEC. Submit awarding-body details, curriculum, study years and the full transcript. Follow university and MQA equivalency instructions where necessary.",
+            "my": "မြန်မာတရုတ်ကျောင်းလက်မှတ်ကို Malaysia UEC အဖြစ် မယူဆပါနှင့်။ လက်မှတ်ထုတ်ပေးသည့်အဖွဲ့၊ သင်ရိုး၊ ပညာသင်နှစ်နှင့် အမှတ်စာရင်းအပြည့်အစုံကို ပေးပို့ရန် လိုသည်။ ကျောင်းနှင့် MQA ၏ တန်းတူအရည်အချင်းစစ်ဆေးမှုညွှန်ကြားချက်ကို လိုက်နာရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "MQA: International qualification equivalency",
+              "url": "https://www.mqa.gov.my/new/nilai_taraf.cfm",
+              "checkedAt": "2026-10-08"
+            }
+          ],
+          "verificationStatus": "acceptance_not_verified",
+          "evidenceNote": "No universal explicit Myanmar Chinese-school acceptance was verified. The guidance applies MQA individual-equivalency principles rather than treating the diploma as UEC."
+        },
+        {
+          "id": "language-documents",
+          "title": {
+            "zh": "英语成绩与材料准备",
+            "en": "English results and document preparation",
+            "my": "အင်္ဂလိပ်အမှတ်နှင့် စာရွက်စာတမ်း"
+          },
+          "body": {
+            "zh": "按课程核对英语要求。EMGS 的 Student Pass 材料包括英语证明、学历证书及成绩单；IELTS 等认可考试不等于各专业使用同一分数。非英文材料的翻译与认证按学校及相关机构要求办理。",
+            "en": "Check the course’s English requirements. EMGS requests English evidence and academic records; acceptance of IELTS does not establish one score for all courses. Follow the university and relevant authority’s translation and certification instructions.",
+            "my": "မေဂျာ၏ အင်္ဂလိပ်လိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။ EMGS အတွက် အင်္ဂလိပ်အထောက်အထား၊ အောင်လက်မှတ်နှင့် အမှတ်စာရင်းကို ပြင်ဆင်ရန် လိုသည်။ IELTS လက်ခံသော်လည်း မေဂျာတိုင်း အမှတ်တူမည်မဟုတ်ပါ။ ဘာသာပြန်နှင့် အတည်ပြုမှုညွှန်ကြားချက်ကို လိုက်နာရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "EMGS: Required documents",
+              "url": "https://visa.educationmalaysia.gov.my/guidelines/required-documents",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "MQA: International qualification equivalency",
+              "url": "https://www.mqa.gov.my/new/nilai_taraf.cfm",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Monash University Malaysia: Undergraduate study areas",
+              "url": "https://www.monash.edu.my/study/undergraduate",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "visa-prepare",
+          "title": {
+            "zh": "Student Pass：先取得录取",
+            "en": "Student Pass: obtain an offer first",
+            "my": "Student Pass အတွက် ဝင်ခွင့်စာရယူခြင်း"
+          },
+          "body": {
+            "zh": "取得学校录取后，由学校协助或通过 EMGS 提交 Student Pass 申请。准备护照、合规照片、录取信、学历材料、英语证明和健康申报；根据学校所在地核对额外要求。",
+            "en": "After receiving an offer, apply for a Student Pass through the institution or EMGS. Prepare your passport, compliant photograph, offer, academic records, English evidence and health declaration; check any location-specific requirements.",
+            "my": "ဝင်ခွင့်စာရပြီးနောက် ကျောင်း၏အကူအညီ သို့မဟုတ် EMGS မှ Student Pass လျှောက်ထားရန် လိုသည်။ နိုင်ငံကူးလက်မှတ်၊ ဓာတ်ပုံ၊ ဝင်ခွင့်စာ၊ ပညာရေးမှတ်တမ်း၊ အင်္ဂလိပ်အထောက်အထားနှင့် ကျန်းမာရေးကြေညာချက်ကို ပြင်ဆင်ရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "EMGS: Required documents",
+              "url": "https://visa.educationmalaysia.gov.my/guidelines/required-documents",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "EMGS: Student Pass application steps",
+              "url": "https://educationmalaysia.gov.my/blogs/study-in-malaysia-step-by-step-how-to-apply-for-a-student-visa",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "visa-travel",
+          "title": {
+            "zh": "获批后：安排入境签证与到达手续",
+            "en": "After approval: entry visa and arrival formalities",
+            "my": "အတည်ပြုပြီးနောက် ဝင်ရောက်ရန်ပြင်ဆင်ခြင်း"
+          },
+          "body": {
+            "zh": "获发 eVAL 后，缅甸护照持有人按当前规定申请所需 Single Entry Visa／eVISA。出发前核对适用的 MDAC 等入境手续及学校接机、报到要求，再安排赴马来西亚。",
+            "en": "After eVAL approval, Myanmar passport holders should obtain the required Single Entry Visa/eVISA under the current rules. Before travel, check applicable MDAC requirements and the university’s arrival instructions.",
+            "my": "eVAL အတည်ပြုပြီးနောက် မြန်မာနိုင်ငံကူးလက်မှတ်ကိုင်ဆောင်သူသည် လက်ရှိစည်းမျဉ်းအရ လိုအပ်သည့် Single Entry Visa/eVISA ကို လျှောက်ထားရန် လိုသည်။ ခရီးမထွက်မီ MDAC နှင့် ကျောင်း၏ရောက်ရှိမှုညွှန်ကြားချက်များကို စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "EMGS: Student Pass application steps",
+              "url": "https://educationmalaysia.gov.my/blogs/study-in-malaysia-step-by-step-how-to-apply-for-a-student-visa",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "visa-arrival",
+          "title": {
+            "zh": "抵达后：体检与 Student Pass 签注",
+            "en": "After arrival: medical screening and pass endorsement",
+            "my": "ရောက်ရှိပြီးနောက် ဆေးစစ်နှင့် Student Pass"
+          },
+          "body": {
+            "zh": "抵达后按 EMGS 或学校安排完成指定诊所体检，由学校协助办理 Student Pass 签注。保存护照和移民文件，并向学校确认后续续签及报到要求。",
+            "en": "Complete the required post-arrival screening at an EMGS or university-registered clinic. The institution assists with Student Pass endorsement. Keep your immigration documents and confirm renewal and reporting requirements with the university.",
+            "my": "ရောက်ရှိပြီးနောက် EMGS သို့မဟုတ် ကျောင်းသတ်မှတ်ထားသော ဆေးခန်းတွင် ဆေးစစ်ဆေးရန် လိုသည်။ ကျောင်းက Student Pass အတည်ပြုမှုကို ကူညီပေးသည်။ လူဝင်မှုစာရွက်စာတမ်းများကို သိမ်းထားပြီး သက်တမ်းတိုးလိုအပ်ချက်ကို ကျောင်းထံ မေးမြန်းအတည်ပြုရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "EMGS: Student Pass application steps",
+              "url": "https://educationmalaysia.gov.my/blogs/study-in-malaysia-step-by-step-how-to-apply-for-a-student-visa",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "EMGS: Required documents",
+              "url": "https://visa.educationmalaysia.gov.my/guidelines/required-documents",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        }
+      ],
+      "universities": [
+        {
+          "id": "my-um",
+          "nameEn": "Universiti Malaya",
+          "nameZh": "马来亚大学",
+          "location": {
+            "zh": "吉隆坡",
+            "en": "Kuala Lumpur",
+            "my": "Kuala Lumpur"
+          },
+          "type": {
+            "zh": "公立大学",
+            "en": "Public university",
+            "my": "အစိုးရတက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "吉隆坡的公立综合研究型大学，官方简介涵盖医学、科学、工程技术、社会科学与人文等领域。具体本科课程的语言及学科要求需要分别核对。",
+            "en": "A public comprehensive research university in Kuala Lumpur. Its official profile covers medicine, science, engineering and technology, social sciences and humanities. Check language and subject requirements for the chosen undergraduate course.",
+            "my": "Kuala Lumpur ရှိ အစိုးရသုတေသနတက္ကသိုလ်ဖြစ်သည်။ ဆေးပညာ၊ သိပ္ပံ၊ အင်ဂျင်နီယာ၊ နည်းပညာ၊ လူမှုသိပ္ပံနှင့် လူ့ယဉ်ကျေးမှုဘာသာရပ်များ ရှိသည်။ ရွေးချယ်ထားသောမေဂျာ၏ လိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Universiti Malaya: About UM, official staff onboarding",
+              "url": "https://sites.google.com/um.edu.my/staffonboarding/about-um",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Universiti Malaya: Official institutional profile in media statement",
+              "url": "https://www.um.edu.my/docs/media-statement/MoU-between-RAM-and-UM.pdf",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "my-monash",
+          "nameEn": "Monash University Malaysia",
+          "nameZh": "马来西亚蒙纳士大学",
+          "location": {
+            "zh": "雪兰莪 Bandar Sunway",
+            "en": "Bandar Sunway, Selangor",
+            "my": "Bandar Sunway, Selangor"
+          },
+          "type": {
+            "zh": "澳大利亚大学海外校区",
+            "en": "Overseas campus of an Australian university",
+            "my": "ဩစတြေးလျတက္ကသိုလ်၏ နိုင်ငံခြားကျောင်းဝင်း"
+          },
+          "description": {
+            "zh": "澳大利亚 Monash University 的马来西亚校区，位于 Bandar Sunway。提供商科、计算机、工程、科学及医学健康等领域课程；官网说明各校区遵循共同的学术质量标准。",
+            "en": "The Malaysian campus of Australia’s Monash University, located in Bandar Sunway. Study areas include business, computing, engineering, science and medicine/health. Monash describes common academic quality standards across its campuses.",
+            "my": "Bandar Sunway ရှိ Australia ၏ Monash University ကျောင်းဝင်းဖြစ်သည်။ စီးပွားရေး၊ ကွန်ပျူတာ၊ အင်ဂျင်နီယာ၊ သိပ္ပံနှင့် ဆေးပညာ/ကျန်းမာရေးဘာသာရပ်များ ရှိသည်။ Monash ကျောင်းဝင်းများတွင် ဘုံပညာရေးစံနှုန်းကို အသုံးပြုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Monash University Malaysia: Welcome and governance",
+              "url": "https://www.monash.edu.my/about/welcome",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Monash University Malaysia: Maps and transport",
+              "url": "https://www.monash.edu.my/about/maps-and-transport",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Monash University Malaysia: Undergraduate study areas",
+              "url": "https://www.monash.edu.my/study/undergraduate",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "my-sunway",
+          "nameEn": "Sunway University",
+          "nameZh": "双威大学",
+          "location": {
+            "zh": "Sunway City，吉隆坡附近",
+            "en": "Sunway City, near Kuala Lumpur",
+            "my": "Sunway City၊ Kuala Lumpur အနီး"
+          },
+          "type": {
+            "zh": "非营利私立大学",
+            "en": "Not-for-profit private university",
+            "my": "အကျိုးအမြတ်မယူသော ပုဂ္ဂလိကတက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "Sunway City 的非营利私立大学，设商科、工程技术、医学生命科学、酒店旅游等领域。官网强调可持续发展、行星健康研究、创新及创业。",
+            "en": "A not-for-profit private university in Sunway City, with business, engineering/technology, medical/life sciences and hospitality/tourism fields. Its official profile emphasises sustainability, planetary health research, innovation and entrepreneurship.",
+            "my": "Sunway City ရှိ အကျိုးအမြတ်မယူသော ပုဂ္ဂလိကတက္ကသိုလ်ဖြစ်သည်။ စီးပွားရေး၊ အင်ဂျင်နီယာ၊ ဆေးပညာနှင့် အသက်သိပ္ပံ၊ ဟိုတယ်နှင့် ခရီးသွားဘာသာရပ်များ ရှိသည်။ ရေရှည်တည်တံ့မှု၊ ကျန်းမာရေးသုတေသနနှင့် ဆန်းသစ်မှုကို အလေးထားသည်။"
+          },
+          "sources": [
+            {
+              "title": "Sunway University: A brief introduction",
+              "url": "https://sunwayuniversity.edu.my/about",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "country": "SG",
+      "checkedAt": "2026-10-08",
+      "overview": {
+        "zh": "新加坡提供本地自治大学与海外大学校区等学习选择。缅甸学生应先区分本科、预科和Diploma，再核对学历认可、英文要求及Student’s Pass流程。",
+        "en": "Singapore offers local autonomous universities and overseas university campuses. Myanmar students should first distinguish bachelor, foundation and diploma routes, then check qualification acceptance, English requirements and Student’s Pass procedures.",
+        "my": "စင်ကာပူတွင် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ တက္ကသိုလ်များနှင့် နိုင်ငံခြားတက္ကသိုလ်ကျောင်းဝင်းများကို ရွေးချယ်နိုင်သည်။ မြန်မာကျောင်းသားများသည် ဘွဲ့၊ ဖောင်ဒေးရှင်းနှင့် ဒီပလိုမာလမ်းကြောင်းကို ခွဲခြားပြီး အောင်လက်မှတ်လက်ခံမှု၊ အင်္ဂလိပ်လိုအပ်ချက်နှင့် Student’s Pass လုပ်ငန်းစဉ်ကို စစ်ဆေးသင့်သည်။"
+      },
+      "sections": [
+        {
+          "id": "qualification",
+          "title": {
+            "zh": "先确认你的学历属于哪条申请路径",
+            "en": "Start with your qualification",
+            "my": "ပညာရေးအရည်အချင်းအလိုက် ဝင်ခွင့်လမ်းကြောင်းများ"
+          },
+          "body": {
+            "zh": "学校按所持学历和专业审核，不存在所有缅甸高中证书统一直入本科的规则。例如NTU的缅甸会考路径还要求AP或英国A-Level等补充资格。华校毕业证、GED及不同A-Level考试局须分别核对，不能仅凭学校授课语言推定学历认可。",
+            "en": "Each university reviews the qualification and programme. NTU’s Myanmar Matriculation route requires supplementary AP or UK A-Level qualifications. Chinese-school certificates, GED and different A-Level boards need separate checks; the school’s teaching language alone does not establish acceptance.",
+            "my": "တက္ကသိုလ်တစ်ခုစီက အောင်လက်မှတ်နှင့် ဘာသာရပ်အလိုက် စစ်ဆေးသည်။ NTU ၏ မြန်မာတက္ကသိုလ်ဝင်စာမေးပွဲလမ်းကြောင်းတွင် AP သို့မဟုတ် UK A-Level ကဲ့သို့ ထပ်ဆောင်းအရည်အချင်း လိုအပ်သည်။ တရုတ်ကျောင်းအောင်လက်မှတ်၊ GED နှင့် A-Level စာစစ်အဖွဲ့များကို သီးခြားစစ်ဆေးရမည်။"
+          },
+          "sources": [
+            {
+              "title": "NTU — Myanmar Matriculation Exam",
+              "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/myanmar-matriculation-exam",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "language",
+          "title": {
+            "zh": "英语学习与语言证明",
+            "en": "Study language and English evidence",
+            "my": "သင်ကြားဘာသာစကားနှင့် အင်္ဂလိပ်အရည်အချင်း"
+          },
+          "body": {
+            "zh": "英语是主要学习语言之一；NUS明确以英语授课，另有说明的课程除外。IELTS、TOEFL或授课语言证明的接受方式因学校、学历和专业而异，HSK不能替代英文入学要求。先查看具体课程的语言规则，再安排考试。",
+            "en": "English is a key study language. NUS teaches in English unless a course states otherwise. Accepted IELTS, TOEFL or instruction-language evidence varies by university, qualification and programme. HSK does not replace English entry requirements.",
+            "my": "အင်္ဂလိပ်သည် အဓိကသင်ကြားဘာသာစကားတစ်ခု ဖြစ်သည်။ NUS တွင် သီးခြားဖော်ပြထားသည့် သင်တန်းမှလွဲ၍ အင်္ဂလိပ်ဖြင့် သင်ကြားသည်။ IELTS၊ TOEFL သို့မဟုတ် သင်ကြားဘာသာစကားအထောက်အထားကို လက်ခံပုံသည် ကျောင်းနှင့် သင်တန်းအလိုက် ကွာခြားသည်။ HSK သည် အင်္ဂလိပ်ဝင်ခွင့်လိုအပ်ချက်ကို အစားမထိုးနိုင်ပါ။"
+          },
+          "sources": [
+            {
+              "title": "NUS — Education and medium of instruction",
+              "url": "https://nus.edu.sg/registrar/academic-information-policies/education-at-nus",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "NTU — Myanmar English language requirements",
+              "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/myanmar-matriculation-exam",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "pathways",
+          "title": {
+            "zh": "本科、预科和Diploma分开选择",
+            "en": "Bachelor, foundation and diploma pathways",
+            "my": "ဘွဲ့ကြို၊ အကြိုတန်းနှင့် ဒီပလိုမာလမ်းကြောင်းများ"
+          },
+          "body": {
+            "zh": "本科申请与预科/Diploma申请是不同层次。JCU Singapore提供大学预科，面向尚未满足本科入口的学生，衔接指定商科、心理学、IT等本科。部分学院提供Diploma路径；升读哪所大学、能否转学分和所需成绩，须看明确的衔接协议，不能假设可自动进入NUS、NTU或SMU。",
+            "en": "Bachelor admission is separate from foundation or diploma admission. JCU Singapore’s foundation prepares students for specified bachelor programmes. Some colleges offer diplomas; progression, grades and credit transfer require a specific agreement, with no automatic entry to NUS, NTU or SMU.",
+            "my": "ဘွဲ့ကြိုဝင်ခွင့်၊ ဖောင်ဒေးရှင်းနှင့် ဒီပလိုမာဝင်ခွင့်တို့သည် မတူညီပါ။ JCU Singapore ၏ ဖောင်ဒေးရှင်းသည် သတ်မှတ်ထားသော ဘွဲ့သင်တန်းများအတွက် ပြင်ဆင်ပေးသည်။ အချို့ကောလိပ်များတွင် ဒီပလိုမာလမ်းကြောင်းရှိသည်။ ဘွဲ့ဆက်တက်ခြင်းနှင့် ခရက်ဒစ်လွှဲပြောင်းခြင်းကို သီးခြားသဘောတူညီချက်ဖြင့် စစ်ဆေးရမည်။ NUS၊ NTU၊ SMU သို့ အလိုအလျောက်ဝင်ခွင့် မရပါ။"
+          },
+          "sources": [
+            {
+              "title": "JCU Singapore — Pre-University Foundation Program",
+              "url": "https://www.jcu.edu.sg/courses-and-study/courses/course/pre-university-foundation-program",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "PSB Academy — Myanmar entry requirements for selected diploma routes",
+              "url": "https://www.psb-academy.edu.sg/resources/others/common/Entry-Requirement-Myanmar.pdf",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "application",
+          "title": {
+            "zh": "从选专业到正式申请",
+            "en": "From programme choice to application",
+            "my": "သင်တန်းရွေးချယ်ခြင်းမှ လျှောက်ထားခြင်းအထိ"
+          },
+          "body": {
+            "zh": "先选专业并核对学历、先修科目和语言要求，再按学校官网提交毕业证、成绩单、护照资料及所需考试证明；需要时提交英文认证译本。申请后跟进补件和面试，收到录取后按学校要求确认名额。学校录取和Student’s Pass是两个审核流程。",
+            "en": "Choose a programme and check qualifications, prerequisites and language rules. Apply through the university with certificates, transcripts, passport details and required test evidence, including certified English translations where required. Follow up on documents and interviews, then accept the offer as instructed. Admission and Student’s Pass are separate reviews.",
+            "my": "သင်တန်းရွေးပြီး အောင်လက်မှတ်၊ လိုအပ်သောဘာသာရပ်နှင့် ဘာသာစကားစည်းကမ်းများကို စစ်ဆေးရန် လိုသည်။ အောင်လက်မှတ်၊ အမှတ်စာရင်း၊ နိုင်ငံကူးလက်မှတ်နှင့် စာမေးပွဲအထောက်အထားများဖြင့် ကျောင်းဝက်ဘ်ဆိုက်မှ လျှောက်ထားရန် လိုသည်။ လိုအပ်ပါက အသိအမှတ်ပြု အင်္ဂလိပ်ဘာသာပြန်ကို တင်ပြရန် လိုသည်။ ထပ်တောင်းစာရွက်စာတမ်းနှင့် လူတွေ့ကို ဆက်လက်လုပ်ဆောင်ပြီး ဝင်ခွင့်ကို အတည်ပြုရန် လိုသည်။ ကျောင်းဝင်ခွင့်နှင့် Student’s Pass ကို သီးခြားစစ်ဆေးသည်။"
+          },
+          "sources": [
+            {
+              "title": "NTU — Myanmar application procedures",
+              "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/myanmar-matriculation-exam",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "JCU Singapore — International student admissions",
+              "url": "https://www.jcu.edu.sg/courses-and-study/admissions/admissions-procedures-And-requirements/admissions-international-students",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "pass-course",
+          "title": {
+            "zh": "Student’s Pass第一步：核对课程和学校类型",
+            "en": "Student’s Pass: check the institution",
+            "my": "Student’s Pass — ပညာရေးအဖွဲ့အစည်း အမျိုးအစား"
+          },
+          "body": {
+            "zh": "获批的全日制课程通常需要Student’s Pass，法定豁免另计。NUS、NTU、SMU按ICA高等教育机构路径申请；私立教育机构须核对EduTrust资格，再按私校路径办理。兼职、夜间或周末课程不符合这一申请类别。",
+            "en": "Approved full-time study generally requires a Student’s Pass, subject to ICA exemptions. NUS, NTU and SMU use the IHL route. For private institutions, check EduTrust and use the PEI route. Part-time, evening and weekend courses are ineligible.",
+            "my": "ICA ကင်းလွတ်ခွင့်မရှိပါက ခွင့်ပြုထားသော အချိန်ပြည့်သင်တန်းအတွက် Student’s Pass လိုအပ်သည်။ NUS၊ NTU၊ SMU သည် IHL လမ်းကြောင်းကို သုံးသည်။ ပုဂ္ဂလိကကျောင်းအတွက် EduTrust နှင့် PEI လမ်းကြောင်းကို စစ်ဆေးရန် လိုသည်။ အချိန်ပိုင်း၊ ညနေနှင့် စနေတနင်္ဂနွေသင်တန်းများသည် ဤလျှောက်လွှာအတွက် မကိုက်ညီပါ။"
+          },
+          "sources": [
+            {
+              "title": "ICA — Student’s Pass overview",
+              "url": "https://www.ica.gov.sg/reside/STP/apply",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "ICA — Institutes of Higher Learning",
+              "url": "https://www.ica.gov.sg/reside/STP/apply/ihl",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "ICA — Approved Private Education Institutions",
+              "url": "https://www.ica.gov.sg/reside/STP/apply/pei",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "pass-documents",
+          "title": {
+            "zh": "准备登记确认信、身份和支持材料",
+            "en": "Prepare registration and identity documents",
+            "my": "မှတ်ပုံတင်အတည်ပြုစာနှင့် လိုအပ်သောစာရွက်စာတမ်းများ"
+          },
+          "body": {
+            "zh": "准备学校Registration Acknowledgement Letter、护照资料页、适用的出生证明、近期数码照片，以及教育、家庭、资金支持和新加坡地址资料。非英文文件须按ICA认可方式提供正式英文翻译；具体补件以ICA要求为准。",
+            "en": "Prepare the school’s Registration Acknowledgement Letter, passport biodata, applicable birth certificate, recent digital photo, and education, family, funding and Singapore address details. Non-English documents need official English translations accepted by ICA.",
+            "my": "ကျောင်း၏ Registration Acknowledgement Letter၊ နိုင်ငံကူးလက်မှတ်အချက်အလက်စာမျက်နှာ၊ လိုအပ်သောမွေးစာရင်း၊ လတ်တလောဒစ်ဂျစ်တယ်ဓာတ်ပုံ၊ ပညာရေး၊ မိသားစု၊ ငွေကြေးထောက်ပံ့မှုနှင့် စင်ကာပူလိပ်စာအချက်အလက်များကို ပြင်ဆင်ရန် လိုသည်။ အင်္ဂလိပ်မဟုတ်သော စာရွက်စာတမ်းများကို ICA လက်ခံသော တရားဝင်အင်္ဂလိပ်ဘာသာပြန်နှင့် တင်ရမည်။"
+          },
+          "sources": [
+            {
+              "title": "ICA — IHL documents required",
+              "url": "https://www.ica.gov.sg/reside/STP/apply/ihl",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "ICA — PEI documents required",
+              "url": "https://www.ica.gov.sg/reside/STP/apply/pei",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "pass-submit",
+          "title": {
+            "zh": "开课前2–3个月在线申请",
+            "en": "Apply online 2–3 months before study",
+            "my": "သင်တန်းမစမီ ၂–၃ လအတွင်း အွန်လိုင်းလျှောက်ထားမှု"
+          },
+          "body": {
+            "zh": "ICA当前规定IHL和PEI新申请在开课前至少2个月、不超过3个月提交。按学校登记资料使用ICA在线服务，并在赴新加坡前处理申请；不应依赖短期停留延期等待结果。课程或学校变更须另核对新的申请要求。",
+            "en": "For new IHL and PEI applications, ICA currently requires submission 2–3 months before the course starts. Use the school’s registration details and apply before travelling. Do not rely on extending a short visit while waiting.",
+            "my": "IHL နှင့် PEI အသစ်လျှောက်လွှာကို သင်တန်းမစမီ အနည်းဆုံး ၂ လ၊ အများဆုံး ၃ လကြိုတင်၍ တင်ရန် ICA က သတ်မှတ်ထားသည်။ ကျောင်းမှပေးသော မှတ်ပုံတင်အချက်အလက်ကို သုံးပြီး ခရီးမသွားမီ လျှောက်ထားရန် လိုသည်။ အဖြေစောင့်နေစဉ် ခဏတာနေထိုင်ခွင့် သက်တမ်းတိုးမည်ဟု မယူဆပါနှင့်။"
+          },
+          "sources": [
+            {
+              "title": "ICA — IHL application procedure",
+              "url": "https://www.ica.gov.sg/reside/STP/apply/ihl",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "ICA — PEI new application procedure",
+              "url": "https://www.ica.gov.sg/reside/STP/apply/pei",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "pass-complete",
+          "title": {
+            "zh": "获IPA后完成入境与签发手续",
+            "en": "Complete formalities after IPA approval",
+            "my": "IPA ရရှိပြီးနောက် ဆက်လက်ဆောင်ရွက်ရမည့်အဆင့်များ"
+          },
+          "body": {
+            "zh": "获In-Principle Approval（IPA）后，按信件要求准备适用的体检和原件。在有效入境身份下，按学校安排或ICA预约完成手续与生物信息登记，再领取电子Student’s Pass。如需入境签证，ICA说明会包含在IPA中。",
+            "en": "After IPA approval, follow its document and medical instructions. Enter on a valid immigration pass, complete the school-arranged or ICA appointment and biometrics, then retrieve the digital Student’s Pass. Any required entry visa is included in the IPA.",
+            "my": "IPA ခွင့်ပြုစာရပြီးနောက် စာထဲပါ စာရွက်စာတမ်းနှင့် လိုအပ်သောဆေးစစ်ညွှန်ကြားချက်များကို လိုက်နာရန် လိုသည်။ တရားဝင်ဝင်ရောက်နေထိုင်ခွင့်ဖြင့် ကျောင်းစီစဉ်မှု သို့မဟုတ် ICA ချိန်းဆိုမှုအတိုင်း ကိုယ်ရေးအချက်အလက်မှတ်တမ်းတင်ပြီး ဒစ်ဂျစ်တယ် Student’s Pass ကို ရယူရန် လိုသည်။ လိုအပ်သောဝင်ခွင့်ဗီဇာသည် IPA တွင် ပါဝင်မည်။"
+          },
+          "sources": [
+            {
+              "title": "ICA — Completion and digital Student’s Pass",
+              "url": "https://www.ica.gov.sg/reside/STP/collect",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        }
+      ],
+      "universities": [
+        {
+          "id": "sg-nus",
+          "nameZh": "新加坡国立大学",
+          "nameEn": "National University of Singapore (NUS)",
+          "location": {
+            "zh": "肯特岗主校区；另有武吉知马和欧南园校区",
+            "en": "Kent Ridge, with Bukit Timah and Outram campuses",
+            "my": "Kent Ridge အဓိကကျောင်းဝင်း၊ Bukit Timah နှင့် Outram ကျောင်းဝင်းများ"
+          },
+          "type": {
+            "zh": "新加坡本地自治大学",
+            "en": "Local autonomous university",
+            "my": "စင်ကာပူ၏ ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ တက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "综合型大学，强调教育、研究与创业实践。多学院和跨学科课程适合希望广泛探索专业的学生；本科资格与科目要求须按具体项目核对。",
+            "en": "A comprehensive autonomous university combining education, research and enterprise. Its multiple schools and interdisciplinary options support broad subject exploration; bachelor requirements remain programme-specific.",
+            "my": "ပညာရေး၊ သုတေသနနှင့် စွန့်ဦးတီထွင်မှုကို ပေါင်းစပ်ထားသော ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ ဘက်စုံတက္ကသိုလ်ဖြစ်သည်။ ဘာသာရပ်မျိုးစုံနှင့် ပေါင်းစပ်သင်ယူမှုများ ရှိသည်။ ဘွဲ့ကြိုဝင်ခွင့်ကို သင်တန်းအလိုက် စစ်ဆေးရမည်။"
+          },
+          "sources": [
+            {
+              "title": "NUS — About",
+              "url": "https://www.nus.edu.sg/about",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "NUS — University overview",
+              "url": "https://nus.edu.sg/oam/why-nus/admissions-oh2026",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "MOE — Autonomous universities",
+              "url": "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "sg-ntu",
+          "nameZh": "南洋理工大学",
+          "nameEn": "Nanyang Technological University (NTU)",
+          "location": {
+            "zh": "南洋大道主校区；医学另有诺维娜校区",
+            "en": "Nanyang Avenue; Novena campus for medicine",
+            "my": "Nanyang Avenue၊ ဆေးပညာအတွက် Novena ကျောင်းဝင်း"
+          },
+          "type": {
+            "zh": "新加坡本地自治大学",
+            "en": "Local autonomous university",
+            "my": "စင်ကာပူ၏ ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ တက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "以科学与技术为基础的大学，领域覆盖工程、计算与数据科学、商科、理科、人文艺术和医学。缅甸会考本科申请者应查看学校专门的学历页面和专业先修科目。",
+            "en": "A technological autonomous university with engineering, computing and data science, business, science, humanities, arts and medicine. Myanmar Matriculation applicants should check its dedicated qualification page and subject prerequisites.",
+            "my": "သိပ္ပံနှင့် နည်းပညာကို အခြေခံသော ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ တက္ကသိုလ်ဖြစ်ပြီး အင်ဂျင်နီယာ၊ ကွန်ပျူတာနှင့် ဒေတာသိပ္ပံ၊ စီးပွားရေး၊ လူမှုဝိဇ္ဇာ၊ အနုပညာနှင့် ဆေးပညာတို့ ရှိသည်။ မြန်မာတက္ကသိုလ်ဝင်အောင်လက်မှတ်အတွက် သီးခြားဝင်ခွင့်စာမျက်နှာနှင့် ဘာသာရပ်လိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "NTU — About and campuses",
+              "url": "https://www.ntu.edu.sg/about-us",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "MOE — Autonomous universities",
+              "url": "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "sg-smu",
+          "nameZh": "新加坡管理大学",
+          "nameEn": "Singapore Management University (SMU)",
+          "location": {
+            "zh": "新加坡市中心，维多利亚街一带",
+            "en": "Downtown Singapore, around Victoria Street",
+            "my": "စင်ကာပူမြို့လယ် Victoria Street အနီး"
+          },
+          "type": {
+            "zh": "新加坡本地自治大学",
+            "en": "Local autonomous university",
+            "my": "စင်ကာပူ၏ ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ တက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "城市型大学，以管理、社会科学与技术的交叉为特色，采用互动、协作和实践学习。专业覆盖商科、会计、经济、计算与信息系统、法律和社会科学。",
+            "en": "A city-based autonomous university connecting management, social sciences and technology, with interactive and practice-oriented learning. Areas include business, accountancy, economics, computing and information systems, law and social sciences.",
+            "my": "စီမံခန့်ခွဲမှု၊ လူမှုသိပ္ပံနှင့် နည်းပညာကို ပေါင်းစပ်ထားသော မြို့လယ်တက္ကသိုလ်ဖြစ်သည်။ ဆွေးနွေးပူးပေါင်းခြင်းနှင့် လက်တွေ့သင်ယူခြင်းကို အလေးထားသည်။ စီးပွားရေး၊ စာရင်းကိုင်၊ ဘောဂဗေဒ၊ ကွန်ပျူတာ၊ ဥပဒေနှင့် လူမှုသိပ္ပံဘာသာရပ်များ ရှိသည်။"
+          },
+          "sources": [
+            {
+              "title": "SMU — About and city campus",
+              "url": "https://www.smu.edu.sg/about",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "MOE — Autonomous universities",
+              "url": "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "sg-jcu",
+          "nameZh": "詹姆斯库克大学新加坡校区",
+          "nameEn": "James Cook University, Singapore",
+          "location": {
+            "zh": "Sims Drive（沈氏道）",
+            "en": "Sims Drive",
+            "my": "Sims Drive"
+          },
+          "type": {
+            "zh": "澳大利亚JCU全资拥有的新加坡校区；按私立教育机构框架运营",
+            "en": "Singapore campus fully owned by James Cook University Australia; private education framework",
+            "my": "ဩစတြေးလျ James Cook University က အပြည့်အဝပိုင်ဆိုင်သော စင်ကာပူကျောင်းဝင်း၊ ပုဂ္ဂလိကပညာရေးစနစ်အောက်တွင် လည်ပတ်သည်"
+          },
+          "description": {
+            "zh": "开设商科、心理学、IT、科学和旅游等课程，并设本科前预科路径。校园位于Sims Drive；预科录取与本科录取须分开核对，升学以指定课程与成绩条件为准。",
+            "en": "JCU’s Australian-owned Singapore campus offers business, psychology, IT, science and tourism, plus pre-university pathways. Foundation entry and bachelor admission are separate, with progression limited to specified programmes and grades.",
+            "my": "ဩစတြေးလျ JCU ၏ စင်ကာပူကျောင်းဝင်းတွင် စီးပွားရေး၊ စိတ်ပညာ၊ IT၊ သိပ္ပံနှင့် ခရီးသွားဘာသာရပ်များအပြင် ဘွဲ့မတိုင်မီ ဖောင်ဒေးရှင်းလမ်းကြောင်း ရှိသည်။ ဖောင်ဒေးရှင်းနှင့် ဘွဲ့ကြိုဝင်ခွင့်ကို သီးခြားစစ်ဆေးပြီး သတ်မှတ်သင်တန်းနှင့် အမှတ်လိုအပ်ချက်အတိုင်း ဆက်တက်ရမည်။"
+          },
+          "sources": [
+            {
+              "title": "JCU — About the Singapore campus",
+              "url": "https://www.jcu.edu.sg/about-us/the-singapore-campus-of-james-cook-university",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "JCU — Foundation progression",
+              "url": "https://www.jcu.edu.sg/courses-and-study/courses/course/pre-university-foundation-program",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        }
+      ],
+      "scopeNote": "Official-source destination overview for Myanmar students, with programme-specific information available through the university directory."
+    }
+  ]
+}

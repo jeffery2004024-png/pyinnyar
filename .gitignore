@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+research/north-evidence/
+
+.env
+.env.*
+*.pem
+*.key
+qa-results/

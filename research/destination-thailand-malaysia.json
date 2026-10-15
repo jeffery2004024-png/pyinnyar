@@ -1,0 +1,632 @@
+{
+  "checkedAt": "2026-10-08",
+  "audience": "Myanmar-nationality prospective undergraduate students",
+  "contentType": "destination-guide",
+  "countries": [
+    {
+      "country": "TH",
+      "name": {
+        "zh": "泰国",
+        "en": "Thailand",
+        "my": "ထိုင်းနိုင်ငံ"
+      },
+      "overview": {
+        "zh": "泰国有公立大学和私立大学的国际本科课程。先选专业及授课语言，再核实学历等效、学科成绩和招生批次。不同课程的要求分别审核。",
+        "en": "Thailand offers international undergraduate programmes at public and private universities. Choose your subject and teaching language, then check qualification equivalency, subject results and the intake requirements.",
+        "my": "ထိုင်းနိုင်ငံတွင် အစိုးရနှင့် ပုဂ္ဂလိကတက္ကသိုလ်များ၌ နိုင်ငံတကာဘွဲ့ကြိုသင်တန်းများ ရှိသည်။ မေဂျာနှင့် သင်ကြားမည့်ဘာသာစကားကို ရွေးပြီး ဝင်ခွင့်လိုအပ်ချက်များကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "overviewSources": [
+        {
+          "title": "Chulalongkorn University: Introduction",
+          "url": "https://www.chula.ac.th/en/about/overview/introduction-to-chula/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "MUIC: Overseas undergraduate applicants",
+          "url": "https://muic.mahidol.ac.th/en/study-at-muic/admissions-requirement/undergraduate-admission/overseas-students/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Bangkok University: International programme admissions",
+          "url": "https://www.bu.ac.th/en/admission-info/international-programs",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "sections": [
+        {
+          "id": "matriculation",
+          "title": {
+            "zh": "缅甸 Matriculation：先确认学历等效",
+            "en": "Myanmar Matriculation: check equivalency",
+            "my": "Myanmar Matriculation အရည်အချင်းစစ်ဆေးခြင်း"
+          },
+          "body": {
+            "zh": "提交考试年份、课程体系及总就学年限。MUIC 的 2025 指南不接受 Myanmar Matriculation 单独作为高中等效资格；它未明确区分新 12 年制，需书面确认。其他泰国大学另行审核。",
+            "en": "Provide the exam year, curriculum and total schooling years. MUIC’s 2025 guide does not accept Myanmar Matriculation alone as equivalent high school completion; it does not distinguish the new 12-year system. Ask MUIC for confirmation; other universities assess separately.",
+            "my": "စာမေးပွဲနှစ်၊ သင်ရိုးနှင့် စုစုပေါင်းပညာသင်နှစ်ကို ဖော်ပြရန် လိုသည်။ MUIC ၏ 2025 လမ်းညွှန်တွင် Myanmar Matriculation တစ်ခုတည်းကို အထက်တန်းတန်းတူအဖြစ် လက်မခံပါ။ 12 နှစ်စနစ်သစ်အတွက် MUIC ထံ အတည်ပြုမေးမြန်းအတည်ပြုရန် လိုသည်။ အခြားတက္ကသိုလ်များက သီးခြားစစ်ဆေးသည်။"
+          },
+          "sources": [
+            {
+              "title": "MUIC: High school qualification guide, May 2025",
+              "url": "https://muic.mahidol.ac.th/file/pdf/High_School_Qualification.pdf",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-05",
+              "scopeNote": "MUIC route only; does not explicitly separate Myanmar new 12-year curriculum."
+            }
+          ],
+          "verificationStatus": "institution_confirmation_required"
+        },
+        {
+          "id": "ged-alevel",
+          "title": {
+            "zh": "GED 与 A-Level：按课程核对",
+            "en": "GED and A-Level: check each programme",
+            "my": "GED နှင့် A-Level"
+          },
+          "body": {
+            "zh": "部分国际课程接受完整 GED 或 A-Level 路径。GED 的单科及总分、A-Level 的科目数与等级，以及是否还需 O-Level、数学考试或面试，按学校和专业核对。",
+            "en": "Some international programmes accept complete GED or A-Level routes. Check GED subject and total scores, A-Level subjects and grades, and any O-Level, mathematics-test or interview requirements for the specific programme.",
+            "my": "နိုင်ငံတကာသင်တန်းအချို့သည် GED သို့မဟုတ် A-Level ကို လက်ခံသည်။ GED အမှတ်၊ A-Level ဘာသာရပ်နှင့် အဆင့်များ၊ O-Level၊ သင်္ချာစာမေးပွဲ သို့မဟုတ် လူတွေ့စစ်ဆေးမှု လိုအပ်ချက်ကို မေဂျာအလိုက် စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "MUIC: Overseas undergraduate applicants",
+              "url": "https://muic.mahidol.ac.th/en/study-at-muic/admissions-requirement/undergraduate-admission/overseas-students/",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "MUIC: High school qualification guide, May 2025",
+              "url": "https://muic.mahidol.ac.th/file/pdf/High_School_Qualification.pdf",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-05",
+              "scopeNote": "MUIC route only; does not explicitly separate Myanmar new 12-year curriculum."
+            },
+            {
+              "title": "Bangkok University: International programme admissions",
+              "url": "https://www.bu.ac.th/en/admission-info/international-programs",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "chinese-school",
+          "title": {
+            "zh": "缅甸华文学校毕业证：单独送审",
+            "en": "Myanmar Chinese-school diplomas: individual review",
+            "my": "မြန်မာတရုတ်ကျောင်း အောင်လက်မှတ်"
+          },
+          "body": {
+            "zh": "目前未核实缅甸华校自颁毕业证的通用认可规则。提交学校名称、颁证机构、课程、学习年限及成绩单，由目标学校确认能否申请本科或需补充资格。",
+            "en": "No universal acceptance rule for Myanmar Chinese-school-issued diplomas was verified. Send the school and awarding-body details, curriculum, study years and transcript to the target university for assessment.",
+            "my": "မြန်မာတရုတ်ကျောင်းက ထုတ်ပေးသည့် အောင်လက်မှတ်အတွက် အားလုံးလက်ခံသည့် စည်းမျဉ်းကို မအတည်ပြုရသေးပါ။ ကျောင်းအမည်၊ လက်မှတ်ထုတ်ပေးသည့်အဖွဲ့၊ သင်ရိုး၊ ပညာသင်နှစ်နှင့် အမှတ်စာရင်းကို တက္ကသိုလ်သို့ ပေးပို့ပြီး စိစစ်ပေးရန် တောင်းဆိုနိုင်သည်။"
+          },
+          "sources": [
+            {
+              "title": "MUIC: High school qualification guide, May 2025",
+              "url": "https://muic.mahidol.ac.th/file/pdf/High_School_Qualification.pdf",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-05",
+              "scopeNote": "MUIC route only; does not explicitly separate Myanmar new 12-year curriculum."
+            },
+            {
+              "title": "Bangkok University: International programme admissions",
+              "url": "https://www.bu.ac.th/en/admission-info/international-programs",
+              "checkedAt": "2026-10-08"
+            }
+          ],
+          "verificationStatus": "acceptance_not_verified",
+          "evidenceNote": "Guidance inferred from institution-specific high-school equivalency requirements; sources do not explicitly recognise Myanmar Chinese-school diplomas."
+        },
+        {
+          "id": "language-documents",
+          "title": {
+            "zh": "授课语言与材料认证",
+            "en": "Teaching language and document certification",
+            "my": "သင်ကြားသည့်ဘာသာစကားနှင့် စာရွက်စာတမ်း"
+          },
+          "body": {
+            "zh": "国际课程通常单独公布英语要求；核对 IELTS 总分、分项及有效期。按学校要求提交毕业证和成绩单，并办理所需英文或泰文翻译、认证及学历等效文件。",
+            "en": "Check the programme’s IELTS overall score, individual bands and validity period. Submit the diploma and transcript, with English or Thai translation, certification and equivalency documents as required by the university.",
+            "my": "မေဂျာ၏ IELTS စုစုပေါင်းအမှတ်၊ အပိုင်းလိုက်အမှတ်နှင့် သက်တမ်းကို စစ်ဆေးရန် လိုသည်။ အောင်လက်မှတ်နှင့် အမှတ်စာရင်းအတွက် ကျောင်းတောင်းဆိုသည့် အင်္ဂလိပ် သို့မဟုတ် ထိုင်းဘာသာပြန်နှင့် အတည်ပြုချက်များကို ပြင်ဆင်ရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "MUIC: Overseas undergraduate applicants",
+              "url": "https://muic.mahidol.ac.th/en/study-at-muic/admissions-requirement/undergraduate-admission/overseas-students/",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Bangkok University: International programme admissions",
+              "url": "https://www.bu.ac.th/en/admission-info/international-programs",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "visa-prepare",
+          "title": {
+            "zh": "学生签证准备：先取得学校文件",
+            "en": "Student visa preparation: obtain university documents",
+            "my": "ကျောင်းသားဗီဇာ စာရွက်စာတမ်းပြင်ဆင်ခြင်း"
+          },
+          "body": {
+            "zh": "先取得录取及学校签证支持文件，再与学校和受理使馆确认适用 ED 或 ED Plus 类别。准备护照、照片和系统要求的资金、无犯罪等证明；最终以当前清单为准。",
+            "en": "Obtain your offer and university visa-support documents. Confirm the applicable ED or ED Plus category with the university and responsible mission. Prepare your passport, photograph and any financial or police-clearance evidence requested in the current checklist.",
+            "my": "ဝင်ခွင့်စာနှင့် ကျောင်း၏ဗီဇာထောက်ခံစာများကို ရယူရန် လိုသည်။ ED သို့မဟုတ် ED Plus အမျိုးအစားကို ကျောင်းနှင့် သံရုံးထံ မေးမြန်းအတည်ပြုရန် လိုသည်။ လက်ရှိစာရင်းအရ နိုင်ငံကူးလက်မှတ်၊ ဓာတ်ပုံနှင့် တောင်းဆိုသည့် အထောက်အထားများကို ပြင်ဆင်ရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Royal Thai Embassy Yangon: Education visa documents",
+              "url": "https://yangon.thaiembassy.org/en/page/36231-education-visa?menu=5d9ee5f54801f00ddf420da2",
+              "checkedAt": "2026-10-08",
+              "scopeNote": "Older education-document checklist; current submission follows Yangon e-Visa notice. Confirm current requested documents in the application portal."
+            },
+            {
+              "title": "Royal Thai Embassy: Studying visa categories",
+              "url": "https://washingtondc.thaiembassy.org/en/page/studying-visas",
+              "checkedAt": "2026-10-08",
+              "scopeNote": "Supports ED/ED Plus category distinction only; US mission document checklist is not applied to Myanmar residents."
+            },
+            {
+              "title": "Royal Thai Embassy Yangon: Visa services",
+              "url": "https://yangon.thaiembassy.org/en/publicservice/visa-services?page=5d7d27c315e39c2e64001f85",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-01-01"
+            }
+          ]
+        },
+        {
+          "id": "visa-apply",
+          "title": {
+            "zh": "在缅甸申请：使用泰国 e-Visa",
+            "en": "Applying from Myanmar: use Thai e-Visa",
+            "my": "မြန်မာနိုင်ငံမှ Thai e-Visa လျှောက်ခြင်း"
+          },
+          "body": {
+            "zh": "仰光使馆自 2025 年 1 月起要求通过 Thai e-Visa 提交申请；提交后按使馆公告预约完成缴费。获签后核对入境期限，并向学校确认报到及后续居留手续。在其他国家居住时，按相应受理使馆办理。",
+            "en": "For applications handled in Yangon, submit through Thai e-Visa and follow the embassy’s appointment instructions for payment. After approval, check entry validity and university arrival instructions. Applicants living elsewhere should follow their responsible mission.",
+            "my": "Yangon သံရုံးသို့ လျှောက်သူများသည် Thai e-Visa မှ လျှောက်ပြီး သံရုံးညွှန်ကြားချက်အရ ငွေပေးချေရန် ရက်ချိန်းယူရန် လိုသည်။ ဗီဇာရပြီးနောက် ဝင်ခွင့်သက်တမ်းနှင့် ကျောင်းရောက်ရမည့်ညွှန်ကြားချက်ကို စစ်ဆေးရန် လိုသည်။ အခြားနိုင်ငံတွင် နေသူများသည် သက်ဆိုင်ရာသံရုံး၏ လုပ်ငန်းစဉ်ကို လိုက်နာရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Royal Thai Embassy Yangon: Visa services",
+              "url": "https://yangon.thaiembassy.org/en/publicservice/visa-services?page=5d7d27c315e39c2e64001f85",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-01-01"
+            }
+          ],
+          "planningNote": "Arrival and residence follow-up is practical planning guidance; obtain the current checklist from the university and Thai immigration."
+        }
+      ],
+      "universities": [
+        {
+          "id": "th-chula",
+          "nameEn": "Chulalongkorn University",
+          "nameZh": "朱拉隆功大学",
+          "location": {
+            "zh": "曼谷 Pathum Wan",
+            "en": "Pathum Wan, Bangkok",
+            "my": "Pathum Wan, Bangkok"
+          },
+          "type": {
+            "zh": "公立大学",
+            "en": "Public university",
+            "my": "အစိုးရတက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "位于曼谷的公立综合大学，设科学等学科及国际课程；官网强调研究、创新和社会服务。申请时需查看具体院系及课程要求。",
+            "en": "A public comprehensive university in Bangkok with science and other disciplines and international programmes. Its official profile emphasises research, innovation and service to society. Check the selected faculty and programme.",
+            "my": "Bangkok ရှိ အစိုးရတက္ကသိုလ်ဖြစ်ပြီး သိပ္ပံနှင့် အခြားဘာသာရပ်များ၊ နိုင်ငံတကာသင်တန်းများ ရှိသည်။ သုတေသန၊ ဆန်းသစ်မှုနှင့် လူမှုဝန်ဆောင်မှုကို အလေးထားသည်။ မေဂျာအလိုက် လိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Chulalongkorn University: Introduction",
+              "url": "https://www.chula.ac.th/en/about/overview/introduction-to-chula/",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Chulalongkorn University: About and campus address",
+              "url": "https://www.chula.ac.th/en/about/",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Chulalongkorn University: Public university management",
+              "url": "https://www.chula.ac.th/en/highlight/71890/",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Chulalongkorn: Faculty of Science",
+              "url": "https://www.chula.ac.th/en/departments/faculty-of-science/",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "th-mahidol",
+          "nameEn": "Mahidol University",
+          "nameZh": "玛希隆大学",
+          "location": {
+            "zh": "Salaya（那空巴统）及曼谷等校区",
+            "en": "Salaya, Nakhon Pathom; also Bangkok campuses",
+            "my": "Salaya, Nakhon Pathom နှင့် Bangkok"
+          },
+          "type": {
+            "zh": "公立大学",
+            "en": "Public university",
+            "my": "အစိုးရတက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "公立大学，设 Salaya 和曼谷等校区，涵盖健康科学、科学和其他领域。MUIC 是其国际学院，提供国际本科课程；应区分学院及授课语言。",
+            "en": "A public university with Salaya and Bangkok campuses, covering health sciences, science and other fields. Its International College, MUIC, offers international undergraduate programmes. Check the college and teaching language.",
+            "my": "Salaya နှင့် Bangkok တို့တွင် ကျောင်းဝင်းများရှိသည့် အစိုးရတက္ကသိုလ်ဖြစ်သည်။ ကျန်းမာရေးသိပ္ပံ၊ သိပ္ပံနှင့် အခြားဘာသာရပ်များ ရှိသည်။ MUIC တွင် နိုင်ငံတကာဘွဲ့ကြိုသင်တန်းများကို လေ့လာနိုင်သည်။"
+          },
+          "sources": [
+            {
+              "title": "Mahidol University: University overview",
+              "url": "https://muce.mahidol.ac.th/about",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Mahidol University International College: Overview",
+              "url": "https://muic.mahidol.ac.th/en/about/overview/",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "th-bangkok",
+          "nameEn": "Bangkok University",
+          "nameZh": "曼谷大学",
+          "location": {
+            "zh": "巴吞他尼，曼谷附近",
+            "en": "Pathum Thani, near Bangkok",
+            "my": "Pathum Thani၊ Bangkok အနီး"
+          },
+          "type": {
+            "zh": "私立大学",
+            "en": "Private university",
+            "my": "ပုဂ္ဂလိကတက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "私立大学，主校区位于巴吞他尼。学校历史介绍突出商业、传播和创意领域，以及实践学习与创业教育；国际课程按专业另有入学条件。",
+            "en": "A private university with its main campus in Pathum Thani. Its institutional history highlights business, communication and creative fields, practical learning and entrepreneurship. International programmes have their own entry requirements.",
+            "my": "Pathum Thani ရှိ ပုဂ္ဂလိကတက္ကသိုလ်ဖြစ်သည်။ စီးပွားရေး၊ ဆက်သွယ်ရေးနှင့် ဖန်တီးမှုဘာသာရပ်များ၊ လက်တွေ့သင်ယူမှုနှင့် စွန့်ဦးတီထွင်မှုကို အလေးထားသည်။ နိုင်ငံတကာမေဂျာအလိုက် ဝင်ခွင့်ကို စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Bangkok University: History and educational focus",
+              "url": "https://www.bu.ac.th/en/about/history",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Bangkok University: Main campus address",
+              "url": "https://www.bu.ac.th/en/economics",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country": "MY",
+      "name": {
+        "zh": "马来西亚",
+        "en": "Malaysia",
+        "my": "မလေးရှားနိုင်ငံ"
+      },
+      "overview": {
+        "zh": "马来西亚有公立大学、私立大学和外国大学分校。选校时同时核对资格层级、目标课程及英语要求；留学手续通常包括 EMGS 审核与 Student Pass。",
+        "en": "Malaysia has public universities, private universities and foreign university campuses. Check qualification level, course requirements and English proficiency. Study immigration procedures commonly involve EMGS assessment and a Student Pass.",
+        "my": "မလေးရှားတွင် အစိုးရ၊ ပုဂ္ဂလိကနှင့် နိုင်ငံခြားတက္ကသိုလ်ကျောင်းဝင်းများ ရှိသည်။ ပညာရေးအရည်အချင်းနှင့် မေဂျာလိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။ EMGS နှင့် Student Pass လုပ်ငန်းစဉ်ကို ပြင်ဆင်ရသည်။"
+      },
+      "overviewSources": [
+        {
+          "title": "Universiti Malaya: About UM, official staff onboarding",
+          "url": "https://sites.google.com/um.edu.my/staffonboarding/about-um",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Monash University Malaysia: Welcome and governance",
+          "url": "https://www.monash.edu.my/about/welcome",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Sunway University: A brief introduction",
+          "url": "https://sunwayuniversity.edu.my/about",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "EMGS: Student Pass application steps",
+          "url": "https://educationmalaysia.gov.my/blogs/study-in-malaysia-step-by-step-how-to-apply-for-a-student-visa",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "sections": [
+        {
+          "id": "matriculation",
+          "title": {
+            "zh": "Matriculation：旧制与新制路径不同",
+            "en": "Matriculation: legacy and new-system pathways",
+            "my": "Matriculation စနစ်ဟောင်းနှင့် စနစ်သစ်"
+          },
+          "body": {
+            "zh": "MQA 2025 名单把缅甸旧制 Matriculation（总就学 11 年）列为预科、证书或文凭入学资格；2024 年起的 12 年制高中及 Matriculation 列为本科入学层级。专业成绩及录取仍由大学审核。",
+            "en": "MQA’s 2025 list places legacy Myanmar Matriculation, with 11 years of schooling, at foundation/certificate/diploma entry level. The 12-year high-school and Matriculation qualification starting in 2024 is listed at bachelor entry level. Universities still assess course eligibility.",
+            "my": "MQA 2025 စာရင်းတွင် 11 နှစ်စနစ်ဟောင်း Myanmar Matriculation ကို foundation/certificate/diploma အဆင့်အတွက် ဖော်ပြသည်။ 2024 မှ 12 နှစ်စနစ် အထက်တန်းနှင့် Matriculation ကို ဘွဲ့ကြိုဝင်ခွင့်အဆင့်အတွက် ဖော်ပြသည်။ မေဂျာအရည်အချင်းကို တက္ကသိုလ်က စစ်ဆေးသည်။"
+          },
+          "sources": [
+            {
+              "title": "MQA: International entry qualifications, December 2025",
+              "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-12",
+              "scopeNote": "Qualification level only; previously verified in admissions research. PDF timed out on guide re-check; official portal still links this edition."
+            },
+            {
+              "title": "MQA: International qualification equivalency",
+              "url": "https://www.mqa.gov.my/new/nilai_taraf.cfm",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "ged-alevel",
+          "title": {
+            "zh": "GED 与 A-Level：层级认可后仍需查专业",
+            "en": "GED and A-Level: verify programme eligibility",
+            "my": "GED နှင့် A-Level ဝင်ခွင့်စစ်ဆေးခြင်း"
+          },
+          "body": {
+            "zh": "MQA 名单中 GED 为本科入学层级，但并非所有大学或专业都接受。A-Level 申请须按课程核对科目与等级；数学、科学等先修条件由大学决定。",
+            "en": "MQA lists GED at bachelor entry level, but university and programme acceptance can differ. For A-Level, check the course’s subject and grade requirements; universities determine prerequisite subjects.",
+            "my": "MQA တွင် GED ကို ဘွဲ့ကြိုဝင်ခွင့်အဆင့်အဖြစ် ဖော်ပြသော်လည်း တက္ကသိုလ်နှင့် မေဂျာတိုင်း လက်ခံမည်ဟု မဆိုလိုပါ။ A-Level ဘာသာရပ်၊ အဆင့်နှင့် ကြိုတင်လိုအပ်သောဘာသာရပ်ကို ကျောင်းထံ စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "MQA: International entry qualifications, December 2025",
+              "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+              "checkedAt": "2026-10-08",
+              "publishedOrUpdatedAt": "2025-12",
+              "scopeNote": "Qualification level only; previously verified in admissions research. PDF timed out on guide re-check; official portal still links this edition."
+            },
+            {
+              "title": "MQA: International qualification equivalency",
+              "url": "https://www.mqa.gov.my/new/nilai_taraf.cfm",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Monash University Malaysia: Undergraduate study areas",
+              "url": "https://www.monash.edu.my/study/undergraduate",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "chinese-school",
+          "title": {
+            "zh": "缅甸华校证书与 UEC 分开审核",
+            "en": "Myanmar Chinese-school diplomas and UEC are distinct",
+            "my": "မြန်မာတရုတ်ကျောင်းလက်မှတ်နှင့် UEC"
+          },
+          "body": {
+            "zh": "缅甸华文学校的自颁证书不能直接套用马来西亚 UEC 规则。提交颁证机构、课程、年限和完整成绩单；必要时按学校及 MQA 指引办理资格等效审核。",
+            "en": "A Myanmar Chinese-school-issued diploma should not be treated as Malaysia’s UEC. Submit awarding-body details, curriculum, study years and the full transcript. Follow university and MQA equivalency instructions where necessary.",
+            "my": "မြန်မာတရုတ်ကျောင်းလက်မှတ်ကို Malaysia UEC အဖြစ် မယူဆပါနှင့်။ လက်မှတ်ထုတ်ပေးသည့်အဖွဲ့၊ သင်ရိုး၊ ပညာသင်နှစ်နှင့် အမှတ်စာရင်းအပြည့်အစုံကို ပေးပို့ရန် လိုသည်။ ကျောင်းနှင့် MQA ၏ တန်းတူအရည်အချင်းစစ်ဆေးမှုညွှန်ကြားချက်ကို လိုက်နာရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "MQA: International qualification equivalency",
+              "url": "https://www.mqa.gov.my/new/nilai_taraf.cfm",
+              "checkedAt": "2026-10-08"
+            }
+          ],
+          "verificationStatus": "acceptance_not_verified",
+          "evidenceNote": "No universal explicit Myanmar Chinese-school acceptance was verified. The guidance applies MQA individual-equivalency principles rather than treating the diploma as UEC."
+        },
+        {
+          "id": "language-documents",
+          "title": {
+            "zh": "英语成绩与材料准备",
+            "en": "English results and document preparation",
+            "my": "အင်္ဂလိပ်အမှတ်နှင့် စာရွက်စာတမ်း"
+          },
+          "body": {
+            "zh": "按课程核对英语要求。EMGS 的 Student Pass 材料包括英语证明、学历证书及成绩单；IELTS 等认可考试不等于各专业使用同一分数。非英文材料的翻译与认证按学校及相关机构要求办理。",
+            "en": "Check the course’s English requirements. EMGS requests English evidence and academic records; acceptance of IELTS does not establish one score for all courses. Follow the university and relevant authority’s translation and certification instructions.",
+            "my": "မေဂျာ၏ အင်္ဂလိပ်လိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။ EMGS အတွက် အင်္ဂလိပ်အထောက်အထား၊ အောင်လက်မှတ်နှင့် အမှတ်စာရင်းကို ပြင်ဆင်ရန် လိုသည်။ IELTS လက်ခံသော်လည်း မေဂျာတိုင်း အမှတ်တူမည်မဟုတ်ပါ။ ဘာသာပြန်နှင့် အတည်ပြုမှုညွှန်ကြားချက်ကို လိုက်နာရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "EMGS: Required documents",
+              "url": "https://visa.educationmalaysia.gov.my/guidelines/required-documents",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "MQA: International qualification equivalency",
+              "url": "https://www.mqa.gov.my/new/nilai_taraf.cfm",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Monash University Malaysia: Undergraduate study areas",
+              "url": "https://www.monash.edu.my/study/undergraduate",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "visa-prepare",
+          "title": {
+            "zh": "Student Pass：先取得录取",
+            "en": "Student Pass: obtain an offer first",
+            "my": "Student Pass အတွက် ဝင်ခွင့်စာရယူခြင်း"
+          },
+          "body": {
+            "zh": "取得学校录取后，由学校协助或通过 EMGS 提交 Student Pass 申请。准备护照、合规照片、录取信、学历材料、英语证明和健康申报；根据学校所在地核对额外要求。",
+            "en": "After receiving an offer, apply for a Student Pass through the institution or EMGS. Prepare your passport, compliant photograph, offer, academic records, English evidence and health declaration; check any location-specific requirements.",
+            "my": "ဝင်ခွင့်စာရပြီးနောက် ကျောင်း၏အကူအညီ သို့မဟုတ် EMGS မှ Student Pass လျှောက်ထားရန် လိုသည်။ နိုင်ငံကူးလက်မှတ်၊ ဓာတ်ပုံ၊ ဝင်ခွင့်စာ၊ ပညာရေးမှတ်တမ်း၊ အင်္ဂလိပ်အထောက်အထားနှင့် ကျန်းမာရေးကြေညာချက်ကို ပြင်ဆင်ရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "EMGS: Required documents",
+              "url": "https://visa.educationmalaysia.gov.my/guidelines/required-documents",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "EMGS: Student Pass application steps",
+              "url": "https://educationmalaysia.gov.my/blogs/study-in-malaysia-step-by-step-how-to-apply-for-a-student-visa",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "visa-travel",
+          "title": {
+            "zh": "获批后：安排入境签证与到达手续",
+            "en": "After approval: entry visa and arrival formalities",
+            "my": "အတည်ပြုပြီးနောက် ဝင်ရောက်ရန်ပြင်ဆင်ခြင်း"
+          },
+          "body": {
+            "zh": "获发 eVAL 后，缅甸护照持有人按当前规定申请所需 Single Entry Visa／eVISA。出发前核对适用的 MDAC 等入境手续及学校接机、报到要求，再安排赴马来西亚。",
+            "en": "After eVAL approval, Myanmar passport holders should obtain the required Single Entry Visa/eVISA under the current rules. Before travel, check applicable MDAC requirements and the university’s arrival instructions.",
+            "my": "eVAL အတည်ပြုပြီးနောက် မြန်မာနိုင်ငံကူးလက်မှတ်ကိုင်ဆောင်သူသည် လက်ရှိစည်းမျဉ်းအရ လိုအပ်သည့် Single Entry Visa/eVISA ကို လျှောက်ထားရန် လိုသည်။ ခရီးမထွက်မီ MDAC နှင့် ကျောင်း၏ရောက်ရှိမှုညွှန်ကြားချက်များကို စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "EMGS: Student Pass application steps",
+              "url": "https://educationmalaysia.gov.my/blogs/study-in-malaysia-step-by-step-how-to-apply-for-a-student-visa",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "visa-arrival",
+          "title": {
+            "zh": "抵达后：体检与 Student Pass 签注",
+            "en": "After arrival: medical screening and pass endorsement",
+            "my": "ရောက်ရှိပြီးနောက် ဆေးစစ်နှင့် Student Pass"
+          },
+          "body": {
+            "zh": "抵达后按 EMGS 或学校安排完成指定诊所体检，由学校协助办理 Student Pass 签注。保存护照和移民文件，并向学校确认后续续签及报到要求。",
+            "en": "Complete the required post-arrival screening at an EMGS or university-registered clinic. The institution assists with Student Pass endorsement. Keep your immigration documents and confirm renewal and reporting requirements with the university.",
+            "my": "ရောက်ရှိပြီးနောက် EMGS သို့မဟုတ် ကျောင်းသတ်မှတ်ထားသော ဆေးခန်းတွင် ဆေးစစ်ဆေးရန် လိုသည်။ ကျောင်းက Student Pass အတည်ပြုမှုကို ကူညီပေးသည်။ လူဝင်မှုစာရွက်စာတမ်းများကို သိမ်းထားပြီး သက်တမ်းတိုးလိုအပ်ချက်ကို ကျောင်းထံ မေးမြန်းအတည်ပြုရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "EMGS: Student Pass application steps",
+              "url": "https://educationmalaysia.gov.my/blogs/study-in-malaysia-step-by-step-how-to-apply-for-a-student-visa",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "EMGS: Required documents",
+              "url": "https://visa.educationmalaysia.gov.my/guidelines/required-documents",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        }
+      ],
+      "universities": [
+        {
+          "id": "my-um",
+          "nameEn": "Universiti Malaya",
+          "nameZh": "马来亚大学",
+          "location": {
+            "zh": "吉隆坡",
+            "en": "Kuala Lumpur",
+            "my": "Kuala Lumpur"
+          },
+          "type": {
+            "zh": "公立大学",
+            "en": "Public university",
+            "my": "အစိုးရတက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "吉隆坡的公立综合研究型大学，官方简介涵盖医学、科学、工程技术、社会科学与人文等领域。具体本科课程的语言及学科要求需要分别核对。",
+            "en": "A public comprehensive research university in Kuala Lumpur. Its official profile covers medicine, science, engineering and technology, social sciences and humanities. Check language and subject requirements for the chosen undergraduate course.",
+            "my": "Kuala Lumpur ရှိ အစိုးရသုတေသနတက္ကသိုလ်ဖြစ်သည်။ ဆေးပညာ၊ သိပ္ပံ၊ အင်ဂျင်နီယာ၊ နည်းပညာ၊ လူမှုသိပ္ပံနှင့် လူ့ယဉ်ကျေးမှုဘာသာရပ်များ ရှိသည်။ ရွေးချယ်ထားသောမေဂျာ၏ လိုအပ်ချက်ကို စစ်ဆေးရန် လိုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Universiti Malaya: About UM, official staff onboarding",
+              "url": "https://sites.google.com/um.edu.my/staffonboarding/about-um",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Universiti Malaya: Official institutional profile in media statement",
+              "url": "https://www.um.edu.my/docs/media-statement/MoU-between-RAM-and-UM.pdf",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "my-monash",
+          "nameEn": "Monash University Malaysia",
+          "nameZh": "马来西亚蒙纳士大学",
+          "location": {
+            "zh": "雪兰莪 Bandar Sunway",
+            "en": "Bandar Sunway, Selangor",
+            "my": "Bandar Sunway, Selangor"
+          },
+          "type": {
+            "zh": "澳大利亚大学海外校区",
+            "en": "Overseas campus of an Australian university",
+            "my": "ဩစတြေးလျတက္ကသိုလ်၏ နိုင်ငံခြားကျောင်းဝင်း"
+          },
+          "description": {
+            "zh": "澳大利亚 Monash University 的马来西亚校区，位于 Bandar Sunway。提供商科、计算机、工程、科学及医学健康等领域课程；官网说明各校区遵循共同的学术质量标准。",
+            "en": "The Malaysian campus of Australia’s Monash University, located in Bandar Sunway. Study areas include business, computing, engineering, science and medicine/health. Monash describes common academic quality standards across its campuses.",
+            "my": "Bandar Sunway ရှိ Australia ၏ Monash University ကျောင်းဝင်းဖြစ်သည်။ စီးပွားရေး၊ ကွန်ပျူတာ၊ အင်ဂျင်နီယာ၊ သိပ္ပံနှင့် ဆေးပညာ/ကျန်းမာရေးဘာသာရပ်များ ရှိသည်။ Monash ကျောင်းဝင်းများတွင် ဘုံပညာရေးစံနှုန်းကို အသုံးပြုသည်။"
+          },
+          "sources": [
+            {
+              "title": "Monash University Malaysia: Welcome and governance",
+              "url": "https://www.monash.edu.my/about/welcome",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Monash University Malaysia: Maps and transport",
+              "url": "https://www.monash.edu.my/about/maps-and-transport",
+              "checkedAt": "2026-10-08"
+            },
+            {
+              "title": "Monash University Malaysia: Undergraduate study areas",
+              "url": "https://www.monash.edu.my/study/undergraduate",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "my-sunway",
+          "nameEn": "Sunway University",
+          "nameZh": "双威大学",
+          "location": {
+            "zh": "Sunway City，吉隆坡附近",
+            "en": "Sunway City, near Kuala Lumpur",
+            "my": "Sunway City၊ Kuala Lumpur အနီး"
+          },
+          "type": {
+            "zh": "非营利私立大学",
+            "en": "Not-for-profit private university",
+            "my": "အကျိုးအမြတ်မယူသော ပုဂ္ဂလိကတက္ကသိုလ်"
+          },
+          "description": {
+            "zh": "Sunway City 的非营利私立大学，设商科、工程技术、医学生命科学、酒店旅游等领域。官网强调可持续发展、行星健康研究、创新及创业。",
+            "en": "A not-for-profit private university in Sunway City, with business, engineering/technology, medical/life sciences and hospitality/tourism fields. Its official profile emphasises sustainability, planetary health research, innovation and entrepreneurship.",
+            "my": "Sunway City ရှိ အကျိုးအမြတ်မယူသော ပုဂ္ဂလိကတက္ကသိုလ်ဖြစ်သည်။ စီးပွားရေး၊ အင်ဂျင်နီယာ၊ ဆေးပညာနှင့် အသက်သိပ္ပံ၊ ဟိုတယ်နှင့် ခရီးသွားဘာသာရပ်များ ရှိသည်။ ရေရှည်တည်တံ့မှု၊ ကျန်းမာရေးသုတေသနနှင့် ဆန်းသစ်မှုကို အလေးထားသည်။"
+          },
+          "sources": [
+            {
+              "title": "Sunway University: A brief introduction",
+              "url": "https://sunwayuniversity.edu.my/about",
+              "checkedAt": "2026-10-08"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "editorialNotes": {
+    "zh": "信息用于规划；学历等效、专业要求及签证材料按目标学校和主管机构当前要求确认。缅文为简明说明，专业与证书名称保留正式英文。",
+    "en": "Planning guide. Confirm equivalency, programme requirements and current visa documents with the institution and competent authority. Burmese is simplified; formal qualification and institution names may remain in English.",
+    "my": "ဤအချက်အလက်သည် ကြိုတင်စီစဉ်ရန်ဖြစ်သည်။ ပညာရေးအရည်အချင်း၊ မေဂျာနှင့် ဗီဇာလိုအပ်ချက်ကို ကျောင်းနှင့် သက်ဆိုင်ရာအဖွဲ့ထံ အတည်ပြုရန် လိုသည်။ တရားဝင်အမည်များကို အင်္ဂလိပ်လို ဖော်ပြထားနိုင်သည်။"
+  }
+}

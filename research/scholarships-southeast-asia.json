@@ -1,0 +1,650 @@
+{
+  "checkedAt": "2026-10-08",
+  "scholarships": [
+    {
+      "id": "th-muic-asian-low-income",
+      "country": "TH",
+      "region": null,
+      "institutionIds": [
+        "th-mahidol"
+      ],
+      "name": {
+        "zh": "MUIC 亚洲低收入国家学生奖学金",
+        "en": "MUIC Scholarship for Asian Students from Low-Income Countries",
+        "my": "MUIC အာရှဝင်ငွေနည်းနိုင်ငံ ကျောင်းသားပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "玛希隆大学国际学院",
+        "en": "Mahidol University International College",
+        "my": "Mahidol University International College"
+      },
+      "eligibility": {
+        "zh": "现行条件为指定低收入亚洲国家的国籍及高中背景。缅甸是否符合当前国家定义，需向 MUIC 确认。",
+        "en": "Current criteria concern nationality and high-school study in eligible low-income Asian countries. Ask MUIC to confirm Myanmar eligibility.",
+        "my": "သတ်မှတ်အာရှနိုင်ငံ၏ နိုင်ငံသားနှင့် အထက်တန်းနောက်ခံ လိုအပ်သည်။ Myanmar အရည်အချင်းကို MUIC ထံ အတည်ပြုရန် လိုသည်။"
+      },
+      "coverage": {
+        "zh": "四年学费减免 50%；每年四个名额。",
+        "en": "50% tuition waiver for four years; four awards yearly.",
+        "my": "လေးနှစ်အတွက် သင်တန်းကြေး 50% လျှော့ပေးပြီး တစ်နှစ်လျှင် လေးဦး ရွေးချယ်သည်။"
+      },
+      "application": {
+        "zh": "申请期提交奖学金申请信、作品/活动档案及招生材料。",
+        "en": "Submit a scholarship request letter, portfolio and admission documents during the application period.",
+        "my": "လျှောက်လွှာကာလတွင် ပညာသင်ဆုတောင်းခံစာ၊ portfolio နှင့် ဝင်ခွင့်စာရွက်စာတမ်းများ တင်ပြရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "每学期累计 GPA 须高于 3.00，并在四年内毕业。其他义务按获奖协议确认。",
+        "en": "Maintain cumulative GPA above 3.00 each trimester and graduate within four years. Confirm other award terms.",
+        "my": "trimester တိုင်း GPA 3.00 ထက်မြင့်ပြီး လေးနှစ်အတွင်း ပြီးဆုံးရမည်။ အခြားသတ်မှတ်ချက်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "timing": {
+        "zh": "2026 年 5 月更新的项目；当前截止日未公布在该页。2027 批次待确认。",
+        "en": "Programme updated in May 2026; no current deadline is shown. The 2027 cycle requires confirmation.",
+        "my": "2026 မေလတွင် ပြင်ဆင်ထားသောအစီအစဉ်ဖြစ်သည်။ လက်ရှိနောက်ဆုံးရက်နှင့် 2027 ကာလကို အတည်ပြုရန်လိုသည်။"
+      },
+      "nationalityStatus": "verify",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "MUIC Scholarships, updated 7 May 2026",
+          "url": "https://muic.mahidol.ac.th/en/study-at-muic/scholarships-financial-aid/muic-scholarships/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "my-monash-high-achiever-new",
+      "country": "MY",
+      "region": null,
+      "institutionIds": [
+        "my-monash"
+      ],
+      "name": {
+        "zh": "Monash Malaysia 新生成绩优异奖",
+        "en": "Monash High Achiever Award — new students",
+        "my": "Monash High Achiever Award — ကျောင်းသားသစ်"
+      },
+      "provider": {
+        "zh": "马来西亚蒙纳士大学",
+        "en": "Monash University Malaysia",
+        "my": "Monash University Malaysia"
+      },
+      "eligibility": {
+        "zh": "接受的高中资格成绩优异且取得完整录取；开放国际学生。医学与药学指定课程及已有大学学习/转学抵学分者除外。",
+        "en": "International students with outstanding accepted senior-secondary results and a full offer. Listed medicine/pharmacy programmes and prior tertiary study or credit-transfer applicants are excluded.",
+        "my": "လက်ခံထားသော အထက်တန်းအမှတ်ကောင်းနှင့် full offer ရှိသည့် နိုင်ငံတကာကျောင်းသားများအတွက်ဖြစ်သည်။ သတ်မှတ်ဆေး/ဆေးဝါးမေဂျာနှင့် ယခင်တက္ကသိုလ်သင်ယူမှုရှိသူများ မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "每年 RM10,000 学费减免，每学期 RM5,000。",
+        "en": "RM10,000 annual tuition waiver, allocated RM5,000 per semester.",
+        "my": "တစ်နှစ် RM10,000၊ semester တစ်ခု RM5,000 သင်တန်းကြေးလျှော့ပေးသည်။"
+      },
+      "application": {
+        "zh": "合格的入学申请自动纳入评选，随录取通知授奖结果。",
+        "en": "Eligible admission applications are considered automatically; awards accompany the admission offer.",
+        "my": "အရည်အချင်းမီ ဝင်ခွင့်လျှောက်လွှာကို အလိုအလျောက် စဉ်းစားပြီး offer နှင့်အတူ အကြောင်းကြားသည်။"
+      },
+      "obligations": {
+        "zh": "维持获奖信规定成绩、每学期修满 24 学分、按期毕业；不得同时接受其他资助。",
+        "en": "Meet the offer’s maintenance score, take 24 credits per semester and finish on time; no concurrent financial assistance.",
+        "my": "သတ်မှတ်အမှတ်၊ semester တစ်ခု 24 credits နှင့် သင်တန်းသက်တမ်းကို ထိန်းသိမ်းရမည်။ အခြားထောက်ပံ့မှုကို တွဲမယူရ။"
+      },
+      "timing": {
+        "zh": "常设机制，截止日跟随课程申请日期。当前批次是否开放须查课程时间表。",
+        "en": "Standing mechanism; deadlines follow course applications. Check the current intake schedule.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်ပြီး နောက်ဆုံးရက်သည် မေဂျာလျှောက်လွှာရက်အလိုက်ဖြစ်သည်။ လက်ရှိကာလကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "Monash Malaysia: High Achiever Award for new students",
+          "url": "https://www.monash.edu.my/student-services/financial-assistance/scholarships-and-study-loans/merit-scholarships",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "my-sunway-entrance-degree",
+      "country": "MY",
+      "region": null,
+      "institutionIds": [
+        "my-sunway"
+      ],
+      "name": {
+        "zh": "Sunway Entrance Scholarship（本科）",
+        "en": "Sunway Entrance Scholarship — degree programmes",
+        "my": "Sunway Entrance Scholarship — ဘွဲ့ကြို"
+      },
+      "provider": {
+        "zh": "双威大学／Jeffrey Cheah Foundation",
+        "en": "Sunway University / Jeffrey Cheah Foundation",
+        "my": "Sunway University / Jeffrey Cheah Foundation"
+      },
+      "eligibility": {
+        "zh": "开放马来西亚及国际学生，须符合认可资格与课程要求。A-Level 等有分档门槛；缅甸华校自颁证书不可当作 UEC。",
+        "en": "Malaysian and international students must meet recognised qualification and course criteria. A-Level has award bands; Myanmar school diplomas are not automatically UEC.",
+        "my": "နိုင်ငံတကာကျောင်းသားများလည်း လျှောက်နိုင်ပြီး အသိအမှတ်ပြုအရည်အချင်း လိုအပ်သည်။ Myanmar ကျောင်းလက်မှတ်ကို UEC ဟု အလိုအလျောက် မယူဆရ။"
+      },
+      "coverage": {
+        "zh": "本科奖项按资格及课程分档提供学费减免。当前年度具体额度须确认。",
+        "en": "Tuition reductions depend on qualification and programme. Confirm the applicable year’s award amount.",
+        "my": "သင်တန်းကြေးလျှော့ပမာဏသည် အရည်အချင်းနှင့် မေဂျာအလိုက်ဖြစ်သည်။ လက်ရှိနှစ်ပမာဏကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "application": {
+        "zh": "在线提交申请及认证成绩文件，并向奖学金部门确认适用年度。",
+        "en": "Apply online with certified academic records; confirm the applicable award year with the scholarship office.",
+        "my": "အတည်ပြုအမှတ်စာရင်းနှင့် အွန်လိုင်းလျှောက်ပြီး သက်ဆိုင်ရာနှစ်ကို ပညာသင်ဆုဌာနထံ စစ်ဆေးရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "本科减免有年度成绩续领要求；不得默认覆盖住宿或生活费。获奖协议决定续领条件。",
+        "en": "Annual academic renewal requirements apply. Accommodation and living costs are not stated as covered; follow the award agreement.",
+        "my": "နှစ်စဉ်အမှတ်အလိုက် ဆက်လက်ထောက်ပံ့မှုကို စစ်ဆေးသည်။ နေထိုင်စားသောက်စရိတ်ပါဝင်မည်ဟု မယူဆပါနှင့်။"
+      },
+      "timing": {
+        "zh": "总条款标注 2026，但项目页保留部分 2025 年号。2026/2027 批次及相对截止日需确认。",
+        "en": "General terms specify 2026, while parts of the programme page retain 2025 wording. Confirm the intake and relative deadline.",
+        "my": "အထွေထွေစည်းမျဉ်းတွင် 2026 ဟုဖော်ပြသော်လည်း စာမျက်နှာတွင် 2025 စာသားအချို့ ကျန်ရှိသည်။ ကာလနှင့် နောက်ဆုံးရက်ကို အတည်ပြုရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "Sunway: Academic Excellence Scholarships",
+          "url": "https://scholarship.sunway.edu.my/scholarships/academic-excellence-scholarships",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Sunway: Scholarship Terms and Conditions, 2026",
+          "url": "https://scholarship.sunway.edu.my/scholarship-terms-conditions",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "my-um-pte-2026",
+      "country": "MY",
+      "region": null,
+      "institutionIds": [
+        "my-um"
+      ],
+      "name": {
+        "zh": "PTE × 马来亚大学奖学金竞赛 2026",
+        "en": "PTE x Universiti Malaya Scholarship Competition 2026",
+        "my": "PTE x Universiti Malaya Scholarship Competition 2026"
+      },
+      "provider": {
+        "zh": "Pearson Malaysia 与马来亚大学",
+        "en": "Pearson Malaysia and Universiti Malaya",
+        "my": "Pearson Malaysia နှင့် Universiti Malaya"
+      },
+      "eligibility": {
+        "zh": "18 岁以上国际学生，申请指定 2026 年本科批次；入围须验证参加过 PTE。竞赛仅设一名获奖者。",
+        "en": "International students aged 18+, applying to listed 2026 bachelor intakes; shortlisted entrants must validate a PTE test. One winner.",
+        "my": "အသက် 18 နှစ်နှင့်အထက် နိုင်ငံတကာကျောင်းသား၊ သတ်မှတ် 2026 ဘွဲ့ကြိုကာလလျှောက်သူဖြစ်ရမည်။ PTE စာမေးပွဲအထောက်အထား လိုအပ်ပြီး တစ်ဦးသာ ရွေးချယ်သည်။"
+      },
+      "coverage": {
+        "zh": "一次性 GBP3,000，用于 UM 学费账户。",
+        "en": "One GBP3,000 award credited towards UM tuition.",
+        "my": "UM သင်တန်းကြေးအတွက် GBP3,000 တစ်ကြိမ် ပေးသည်။"
+      },
+      "application": {
+        "zh": "申请 UM 课程并填竞赛表，以英文回答选 UM 的原因及 PTE 备考建议。",
+        "en": "Apply to UM and submit the contest form with English responses on choosing UM and PTE preparation.",
+        "my": "UM သို့လျှောက်ပြီး ကျောင်းရွေးချယ်ရသည့်အကြောင်းနှင့် PTE ပြင်ဆင်နည်းကို အင်္ဂလိပ်လို ဖြေဆိုတင်ပြရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "同意竞赛及宣传使用条款；奖金不可兑现金。当前条款未列工作服务义务。",
+        "en": "Accept contest and promotional-use terms; no cash alternative. The reviewed terms list no employment service bond.",
+        "my": "ပြိုင်ပွဲနှင့် ကြော်ငြာအသုံးပြုမှုစည်းမျဉ်းကို လက်ခံရမည်။ ငွေသားမလဲနိုင်ဘဲ ဖတ်ရှုထားသောစည်းမျဉ်းတွင် အလုပ်ဝန်ဆောင်မှုတာဝန် မဖော်ပြရန် လိုသည်။"
+      },
+      "timing": {
+        "zh": "2026 年 6 月 1 日至 12 月 31 日，截止当晚 23:59 MYT。适用入学批次限 2026 年 3 月及 10 月。",
+        "en": "1 June–31 December 2026, closing 23:59 MYT; listed intakes are March and October 2026.",
+        "my": "2026 ဇွန် 1 မှ ဒီဇင်ဘာ 31၊ MYT 23:59 အထိဖြစ်သည်။ သတ်မှတ်ဝင်ခွင့်ကာလသည် 2026 မတ်နှင့် အောက်တိုဘာဖြစ်သည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "2026",
+      "deadline": "2026-12-31",
+      "status": "open",
+      "sources": [
+        {
+          "title": "UM Financial Aid for Undergraduate, updated 7 October 2026",
+          "url": "https://aasd.um.edu.my/financial-aid-for-undergraduate",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "PTE x Universiti Malaya Scholarship 2026",
+          "url": "https://www.pearsonpte.com/pte-universiti-malaya-scholarship-2026/",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "PTE x UM Scholarship 2026: official competition terms",
+          "url": "https://www.pearsonpte.com/pte-universiti-malaya-scholarship-2026/terms-and-conditions/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sg-nus-asean",
+      "country": "SG",
+      "region": null,
+      "institutionIds": [
+        "sg-nus"
+      ],
+      "name": {
+        "zh": "NUS ASEAN 本科奖学金",
+        "en": "NUS ASEAN Undergraduate Scholarship",
+        "my": "NUS ASEAN ဘွဲ့ကြိုပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "NUS 大学",
+        "en": "NUS",
+        "my": "NUS"
+      },
+      "eligibility": {
+        "zh": "官网明确包含缅甸公民；须有优异高中成绩、课外活动和领导潜力，并申请全日制首个本科学位。转学申请者不符合。",
+        "en": "Myanmar citizens are explicitly included; outstanding school results, activities and leadership are required for a first full-time undergraduate degree. Transfer applicants are excluded.",
+        "my": "Myanmar နိုင်ငံသား ပါဝင်သည်။ ပထမဘွဲ့ကြိုအတွက် အထက်တန်းအမှတ်ကောင်း၊ လှုပ်ရှားမှုနှင့် ခေါင်းဆောင်မှု လိုအပ်သည်။ တက္ကသိုလ်ပြောင်းသူ မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "MOE Tuition Grant 后补贴学费全额，以及生活、住宿和一次性电脑津贴。",
+        "en": "Full subsidised tuition after MOE Tuition Grant, plus living, accommodation and one-time computer allowances.",
+        "my": "MOE Tuition Grant ပြီးနောက် သင်တန်းကြေးနှင့် နေထိုင်စားသောက်၊ ကွန်ပျူတာထောက်ပံ့ကြေး ပါဝင်သည်။"
+      },
+      "application": {
+        "zh": "合格本科入学申请自动考虑；入围参加面试。",
+        "en": "Eligible admission applicants are automatically considered; shortlisted candidates attend interviews.",
+        "my": "အရည်အချင်းမီဝင်ခွင့်လျှောက်သူကို အလိုအလျောက် စဉ်းစားပြီး လူတွေ့ရွေးချယ်သည်။"
+      },
+      "obligations": {
+        "zh": "MOE Tuition Grant 要求毕业后为新加坡注册公司工作三年；续领 GPA 至少 3.50。医学／牙医另有六年／五年卫生部服务义务。",
+        "en": "MOE Tuition Grant requires three years of work for a Singapore-registered company; renewal GPA is at least 3.50. Medicine/dentistry have separate six-/five-year health-ministry service obligations.",
+        "my": "MOE Tuition Grant အရ ဘွဲ့ပြီးနောက် Singapore မှတ်ပုံတင်ကုမ္ပဏီတွင် သုံးနှစ် အလုပ်လုပ်ရမည်။ GPA 3.50 ထိန်းသိမ်းရမည်။ ဆေးပညာ/သွားဆေးအတွက် ခြောက်နှစ်/ငါးနှစ် ဝန်ဆောင်မှုတာဝန်လည်း ရှိသည်။"
+      },
+      "timing": {
+        "zh": "常设机制，申请时间随本科入学批次；2027 年具体窗口尚未核实。获奖经竞争评选。",
+        "en": "Standing mechanism tied to undergraduate admission cycles; the 2027 window is not verified. Selection is competitive.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်ပြီး ဝင်ခွင့်ကာလအလိုက် လျှောက်ရသည်။ 2027 ကာလကို မအတည်ပြုရသေးဘဲ ယှဉ်ပြိုင်ရွေးချယ်သည်။"
+      },
+      "nationalityStatus": "myanmar-explicit",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NUS ASEAN Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sg-ntu-asean",
+      "country": "SG",
+      "region": null,
+      "institutionIds": [
+        "sg-ntu"
+      ],
+      "name": {
+        "zh": "NTU ASEAN 本科奖学金",
+        "en": "NTU ASEAN Undergraduate Scholarship",
+        "my": "NTU ASEAN ဘွဲ့ကြိုပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "NTU 大学",
+        "en": "NTU",
+        "my": "NTU"
+      },
+      "eligibility": {
+        "zh": "官网明确包含缅甸公民；须有优异高中成绩、课外活动和领导潜力，并申请全日制首个本科学位。不适用于 Renaissance Engineering Programme。",
+        "en": "Myanmar citizens are explicitly included; outstanding school results, activities and leadership are required for a first full-time undergraduate degree. Renaissance Engineering Programme is excluded.",
+        "my": "Myanmar နိုင်ငံသား ပါဝင်သည်။ ပထမဘွဲ့ကြိုအတွက် အထက်တန်းအမှတ်ကောင်း၊ လှုပ်ရှားမှုနှင့် ခေါင်းဆောင်မှု လိုအပ်သည်။ Renaissance Engineering Programme မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "MOE Tuition Grant 后补贴学费全额，以及生活、住宿和一次性电脑津贴。",
+        "en": "Full subsidised tuition after MOE Tuition Grant, plus living, accommodation and one-time computer allowances.",
+        "my": "MOE Tuition Grant ပြီးနောက် သင်တန်းကြေးနှင့် နေထိုင်စားသောက်၊ ကွန်ပျူတာထောက်ပံ့ကြေး ပါဝင်သည်။"
+      },
+      "application": {
+        "zh": "先申请入学，再在相应学历截止日前提交奖学金申请、短文及教师评价。",
+        "en": "Apply for admission first, then submit the scholarship form, essay and teacher appraisal by the qualification deadline.",
+        "my": "ဝင်ခွင့်ဦးစွာလျှောက်ပြီး နောက်ဆုံးရက်မတိုင်မီ ပညာသင်ဆုလျှောက်လွှာ၊ စာတိုနှင့် ဆရာအကဲဖြတ်ချက် တင်ပြရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "MOE Tuition Grant 要求毕业后为新加坡注册公司工作三年；续领 GPA 至少 3.5/5.0。NTU 另要求参加社区项目。",
+        "en": "MOE Tuition Grant requires three years of work for a Singapore-registered company; renewal GPA is at least 3.5/5.0. NTU also requires community involvement.",
+        "my": "MOE Tuition Grant အရ ဘွဲ့ပြီးနောက် Singapore မှတ်ပုံတင်ကုမ္ပဏီတွင် သုံးနှစ် အလုပ်လုပ်ရမည်။ GPA 3.5/5.0 ထိန်းသိမ်းရမည်။ NTU လူမှုလုပ်ငန်းတွင် ပါဝင်ရမည်။"
+      },
+      "timing": {
+        "zh": "常设机制，申请时间随本科入学批次；2027 年具体窗口尚未核实。获奖经竞争评选。",
+        "en": "Standing mechanism tied to undergraduate admission cycles; the 2027 window is not verified. Selection is competitive.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်ပြီး ဝင်ခွင့်ကာလအလိုက် လျှောက်ရသည်။ 2027 ကာလကို မအတည်ပြုရသေးဘဲ ယှဉ်ပြိုင်ရွေးချယ်သည်။"
+      },
+      "nationalityStatus": "myanmar-explicit",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "NTU ASEAN Undergraduate Scholarship",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sg-smu-asean",
+      "country": "SG",
+      "region": null,
+      "institutionIds": [
+        "sg-smu"
+      ],
+      "name": {
+        "zh": "SMU ASEAN 本科奖学金",
+        "en": "SMU ASEAN Undergraduate Scholarship",
+        "my": "SMU ASEAN ဘွဲ့ကြိုပညာသင်ဆု"
+      },
+      "provider": {
+        "zh": "SMU 大学",
+        "en": "SMU",
+        "my": "SMU"
+      },
+      "eligibility": {
+        "zh": "官网明确包含缅甸公民；须有优异高中成绩、课外活动和领导潜力，并申请全日制首个本科学位。",
+        "en": "Myanmar citizens are explicitly included; outstanding school results, activities and leadership are required for a first full-time undergraduate degree. ",
+        "my": "Myanmar နိုင်ငံသား ပါဝင်သည်။ ပထမဘွဲ့ကြိုအတွက် အထက်တန်းအမှတ်ကောင်း၊ လှုပ်ရှားမှုနှင့် ခေါင်းဆောင်မှု လိုအပ်သည်။"
+      },
+      "coverage": {
+        "zh": "MOE Tuition Grant 后补贴学费全额，以及生活、住宿和一次性电脑津贴。",
+        "en": "Full subsidised tuition after MOE Tuition Grant, plus living, accommodation and one-time computer allowances.",
+        "my": "MOE Tuition Grant ပြီးနောက် သင်တန်းကြေးနှင့် နေထိုင်စားသောက်၊ ကွန်ပျူတာထောက်ပံ့ကြေး ပါဝင်သည်။"
+      },
+      "application": {
+        "zh": "完成入学申请后，在 Applicant Self Service Portal 同期申请奖学金。",
+        "en": "After applying for admission, submit the scholarship application through the Applicant Self Service Portal in the same cycle.",
+        "my": "ဝင်ခွင့်လျှောက်ပြီး Applicant Self Service Portal မှ ကာလတူအတွင်း ပညာသင်ဆုလျှောက်ထားရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "MOE Tuition Grant 要求毕业后为新加坡注册公司工作三年；续领 GPA 至少 3.0/4.0。提前退出可能须偿还。",
+        "en": "MOE Tuition Grant requires three years of work for a Singapore-registered company; renewal GPA is at least 3.0/4.0. Early termination may require repayment.",
+        "my": "MOE Tuition Grant အရ ဘွဲ့ပြီးနောက် Singapore မှတ်ပုံတင်ကုမ္ပဏီတွင် သုံးနှစ် အလုပ်လုပ်ရမည်။ GPA 3.0/4.0 ထိန်းသိမ်းရမည်။ စောစီးစွာရပ်ဆိုင်းပါက ပြန်လည်ပေးဆပ်ရနိုင်သည်။"
+      },
+      "timing": {
+        "zh": "常设机制，申请时间随本科入学批次；2027 年具体窗口尚未核实。获奖经竞争评选。",
+        "en": "Standing mechanism tied to undergraduate admission cycles; the 2027 window is not verified. Selection is competitive.",
+        "my": "ပုံမှန်အစီအစဉ်ဖြစ်ပြီး ဝင်ခွင့်ကာလအလိုက် လျှောက်ရသည်။ 2027 ကာလကို မအတည်ပြုရသေးဘဲ ယှဉ်ပြိုင်ရွေးချယ်သည်။"
+      },
+      "nationalityStatus": "myanmar-explicit",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "ongoing",
+      "sources": [
+        {
+          "title": "SMU ASEAN Undergraduate Scholarship",
+          "url": "https://admissions.smu.edu.sg/financial-aid/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sg-jcu-merit-international",
+      "country": "SG",
+      "region": null,
+      "institutionIds": [
+        "sg-jcu"
+      ],
+      "name": {
+        "zh": "JCU Singapore 国际生 Merit 奖学金",
+        "en": "JCU Merit Scholarships (International)",
+        "my": "JCU Merit Scholarships (International)"
+      },
+      "provider": {
+        "zh": "James Cook University Singapore",
+        "en": "James Cook University Singapore",
+        "my": "James Cook University Singapore"
+      },
+      "eligibility": {
+        "zh": "新入学全日制国际本科生，满足学术录取及国别条件；官网列缅甸联络渠道。Bachelor of Psychological Science (Honours) 除外。",
+        "en": "New full-time international undergraduates meeting academic and country-specific criteria; Myanmar contacts are listed. Bachelor of Psychological Science (Honours) is excluded.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသားသစ်အတွက်ဖြစ်ပြီး နိုင်ငံအလိုက်စည်းမျဉ်း လိုက်နာရမည်။ သတ်မှတ် Psychology Honours မေဂျာ မပါဝင်ပါ။"
+      },
+      "coverage": {
+        "zh": "最高 S$20,000，实际额度取决于成绩及课程。",
+        "en": "Up to S$20,000, depending on results and programme.",
+        "my": "အမှတ်နှင့် မေဂျာအလိုက် အများဆုံး S$20,000 ဖြစ်သည်။"
+      },
+      "application": {
+        "zh": "提交完整入学及奖学金表和证明文件；联系缅甸地区招生人员核对条件。",
+        "en": "Submit complete admission and scholarship forms with evidence; confirm criteria with the Myanmar regional contact.",
+        "my": "ဝင်ခွင့်နှင့် ပညာသင်ဆုပုံစံ၊ အထောက်အထားများ တင်ပြီး Myanmar တာဝန်ရှိသူထံ အတည်ပြုရန် လိုသည်။"
+      },
+      "obligations": {
+        "zh": "不可同时获得 JCU 的其他奖学金；转专业与额度按正式条款处理。当前页未确认工作服务义务。",
+        "en": "No other JCU scholarship may be held concurrently; course changes follow award terms. An employment bond was not verified.",
+        "my": "JCU အခြားပညာသင်ဆုကို တွဲမယူနိုင်ပါ။ မေဂျာပြောင်းစည်းမျဉ်းကို လိုက်နာပြီး အလုပ်တာဝန်ကို အတည်ပြုရန်လိုသည်။"
+      },
+      "timing": {
+        "zh": "仅适用于指定入学批次。当前开放期及 2027 时间未核实，联系学校确认。",
+        "en": "Available only for selected intakes. Current availability and 2027 dates require confirmation.",
+        "my": "သတ်မှတ်ဝင်ခွင့်ကာလများအတွက်သာဖြစ်သည်။ လက်ရှိဖွင့်လှစ်မှုနှင့် 2027 ရက်စွဲကို ကျောင်းထံ အတည်ပြုရန် လိုသည်။"
+      },
+      "nationalityStatus": "international-eligible",
+      "levels": [
+        "bachelor"
+      ],
+      "cycle": "ongoing",
+      "deadline": null,
+      "status": "verify",
+      "sources": [
+        {
+          "title": "JCU Singapore: International Merit Scholarships",
+          "url": "https://www.jcu.edu.sg/scholarships",
+          "checkedAt": "2026-10-08",
+          "accessNote": "Official search-index content retrieved on checkedAt; direct page returned 403. Current selected intakes and country-specific criteria require confirmation."
+        }
+      ]
+    }
+  ],
+  "schoolEvidence": [
+    {
+      "schoolId": "th-chula",
+      "status": "verify",
+      "note": {
+        "zh": "官网列国际本科项目奖学金；缅甸资格、额度及当前期限需各项目确认。",
+        "en": "Official international bachelor scholarship listings exist; Myanmar criteria, coverage and dates need programme confirmation.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြိုဆုများ ရှိသော်လည်း Myanmar အရည်အချင်းနှင့် ရက်စွဲကို မေဂျာထံ မေးမြန်းအတည်ပြုရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Chula Registrar: Undergraduate programme scholarships",
+          "url": "https://www.reg.chula.ac.th/admissions/english/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "th-mahidol",
+      "status": "verify",
+      "note": {
+        "zh": "现行 2026 MUIC 奖项为亚洲低收入国家机制；不能沿用历史 ASEAN 奖名确认缅甸资格。",
+        "en": "Current MUIC 2026 scheme concerns low-income Asian countries; historical ASEAN awards do not establish current Myanmar eligibility.",
+        "my": "လက်ရှိ MUIC ဆု၏ Myanmar အရည်အချင်းကို အတည်ပြုရန်လိုသည်။ ယခင် ASEAN ဆုကို လက်ရှိဆုဟု မယူဆရ။"
+      },
+      "sources": [
+        {
+          "title": "MUIC Scholarships, updated 7 May 2026",
+          "url": "https://muic.mahidol.ac.th/en/study-at-muic/scholarships-financial-aid/muic-scholarships/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "th-bangkok",
+      "status": "verify",
+      "note": {
+        "zh": "官网 2027 BBA Talent 列国际学生，但详细条款访问受限；额度及期限待确认。",
+        "en": "The 2027 BBA Talent listing includes international students; detailed terms were inaccessible. Confirm amounts and deadlines.",
+        "my": "2027 BBA Talent စာရင်းတွင် နိုင်ငံတကာကျောင်းသား ပါဝင်သော်လည်း အသေးစိတ်စည်းမျဉ်းကို အတည်ပြုရန်လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Bangkok University: 2027 scholarship listings",
+          "url": "https://www.bu.ac.th/en/tuition-fees/bachelor-degree/2027?faculty=accounting",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "my-um",
+      "status": "verified",
+      "note": {
+        "zh": "2026 新公告确认 PTE × UM 国际生竞赛，18 岁以上、指定本科批次及 PTE 验证条件。",
+        "en": "New 2026 notice verifies PTE x UM for international entrants aged 18+, with specified intakes and PTE verification.",
+        "my": "2026 PTE x UM ဆုကို အတည်ပြုထားသည်။ အသက် 18+၊ သတ်မှတ်ကာလနှင့် PTE အထောက်အထား လိုအပ်သည်။"
+      },
+      "sources": [
+        {
+          "title": "UM Financial Aid for Undergraduate, updated 7 October 2026",
+          "url": "https://aasd.um.edu.my/financial-aid-for-undergraduate",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "PTE x UM Scholarship 2026: official competition terms",
+          "url": "https://www.pearsonpte.com/pte-universiti-malaya-scholarship-2026/terms-and-conditions/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "my-monash",
+      "status": "verified",
+      "note": {
+        "zh": "马来西亚校区 High Achiever Award 允许国际本科新生；不使用澳大利亚校区奖项。",
+        "en": "Malaysia-campus High Achiever Award admits international new undergraduates; Australian-campus awards are not substituted.",
+        "my": "Malaysia campus ဆုတွင် နိုင်ငံတကာဘွဲ့ကြိုကျောင်းသားသစ် ပါဝင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "Monash Malaysia: High Achiever Award for new students",
+          "url": "https://www.monash.edu.my/student-services/financial-assistance/scholarships-and-study-loans/merit-scholarships",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "my-sunway",
+      "status": "verify",
+      "note": {
+        "zh": "国际本科资格已列，但页面年度措辞不一致；须确认当前批次及金额。",
+        "en": "International undergraduate eligibility is listed, but cycle wording conflicts; confirm current intake and amounts.",
+        "my": "နိုင်ငံတကာဘွဲ့ကြို အရည်အချင်းဖော်ပြထားသော်လည်း နှစ်စာသားမတူပါ။ လက်ရှိကာလနှင့် ပမာဏကို အတည်ပြုရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Sunway: Academic Excellence Scholarships",
+          "url": "https://scholarship.sunway.edu.my/scholarships/academic-excellence-scholarships",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Sunway: Scholarship Terms and Conditions, 2026",
+          "url": "https://scholarship.sunway.edu.my/scholarship-terms-conditions",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "sg-nus",
+      "status": "verified",
+      "note": {
+        "zh": "ASEAN 本科奖明确列缅甸，MOE Tuition Grant 有三年服务义务；医学牙医另有义务。",
+        "en": "ASEAN award explicitly includes Myanmar; MOE Tuition Grant has a three-year bond, with additional medicine/dentistry service obligations.",
+        "my": "Myanmar ပါဝင်ပြီး MOE သုံးနှစ်အလုပ်တာဝန်ရှိသည်။ ဆေး/သွားဆေးတွင် အပိုဝန်ဆောင်မှုရှိသည်။"
+      },
+      "sources": [
+        {
+          "title": "NUS ASEAN Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-permanent-residents/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "sg-ntu",
+      "status": "verified",
+      "note": {
+        "zh": "ASEAN 本科奖明确列缅甸；须独立申请并接受 MOE 三年服务义务。",
+        "en": "ASEAN award explicitly includes Myanmar; a separate application and MOE three-year bond apply.",
+        "my": "Myanmar ပါဝင်ပြီး သီးခြားလျှောက်လွှာနှင့် MOE သုံးနှစ်အလုပ်တာဝန် လိုအပ်သည်။"
+      },
+      "sources": [
+        {
+          "title": "NTU ASEAN Undergraduate Scholarship",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "sg-smu",
+      "status": "verified",
+      "note": {
+        "zh": "ASEAN 本科奖明确列缅甸；申请门户及 MOE 三年服务义务已核实。",
+        "en": "ASEAN award explicitly includes Myanmar; application portal and MOE three-year bond are verified.",
+        "my": "Myanmar ပါဝင်ပြီး လျှောက်လွှာ portal နှင့် MOE သုံးနှစ်အလုပ်တာဝန်ကို အတည်ပြုထားသည်။"
+      },
+      "sources": [
+        {
+          "title": "SMU ASEAN Undergraduate Scholarship",
+          "url": "https://admissions.smu.edu.sg/financial-aid/asean-undergraduate-scholarship",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "schoolId": "sg-jcu",
+      "status": "verified",
+      "note": {
+        "zh": "官网国际 Merit 奖列本科及缅甸联络渠道；当前指定批次及国别门槛待确认。",
+        "en": "Official international Merit award covers undergraduate entry and lists Myanmar contacts; current intake and country thresholds need confirmation.",
+        "my": "နိုင်ငံတကာ Merit ဆုတွင် ဘွဲ့ကြိုနှင့် Myanmar ဆက်သွယ်မှု ပါဝင်သည်။ လက်ရှိကာလနှင့် နိုင်ငံအလိုက်အမှတ်ကို စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "JCU Singapore: International Merit Scholarships",
+          "url": "https://www.jcu.edu.sg/scholarships",
+          "checkedAt": "2026-10-08",
+          "accessNote": "Official search-index content retrieved on checkedAt; direct page returned 403. Current selected intakes and country-specific criteria require confirmation."
+        }
+      ]
+    }
+  ]
+}

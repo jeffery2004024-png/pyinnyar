@@ -1,0 +1,1553 @@
+{
+  "checkedAt": "2026-10-08",
+  "country": "Singapore",
+  "schemaVersion": 1,
+  "scope": "Six autonomous universities plus JCU/SIM/Kaplan/PSB pathways. Requirements are credential/programme/intake-specific; sources are primary institution or test-provider pages. This is not exhaustive programme coverage.",
+  "matcherStatusDesign": {
+    "eligible": "Meets all recorded published minimum requirements for an explicitly named route; never label guaranteed admission",
+    "gap": "Explicit known missing or failed numeric requirement, while no unresolved unknown supersedes",
+    "review": "Credential recognition unknown, good-pass undefined, curriculum/sitting/programme checks unresolved, target intake not covered, or no published numeric minimum",
+    "incomplete": "A required field is absent; never coerce blank tozero",
+    "pathway": "Foundation/Diploma route match; display separately from direct Bachelor",
+    "priority": "invalid/incomplete first; unknown recognition/manual checks next; explicit gaps next; then published-minimum match. Rules from2026 for2027 applicants require intake-recheck banner; no probability scores.",
+    "languages": "Persist credential/subject/country/status IDs independent of UI language; switch language only labels"
+  },
+  "schools": [
+    {
+      "id": "sg-nus",
+      "country": "SG",
+      "name": {
+        "zh": "新加坡国立大学",
+        "en": "National University of Singapore",
+        "my": "National University of Singapore"
+      },
+      "type": "autonomous_university",
+      "qualifications": {
+        "myanmar": {
+          "status": "conditional",
+          "note": "须经 Other High School Qualifications 路径审核，毕业证、成绩单和标准化考试均须提供；旧制学制等价性待确认。"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "note": "缅甸华校证书不等于马来西亚 UEC；须验证证书颁发机构及国家。"
+        },
+        "ged": {
+          "status": "unknown",
+          "note": "官方当前资格目录未明确列 GED。"
+        },
+        "alevel": {
+          "status": "conditional",
+          "note": "至少4科完整A-Level good pass；不能以AS替代完整A-Level。"
+        }
+      },
+      "pathways": [
+        {
+          "id": "nus-other",
+          "level": "bachelor",
+          "credential": "myanmar",
+          "credentialRecognition": "conditional",
+          "minFormalYears": 12,
+          "academic": {
+            "highSchoolGraduationRequired": true,
+            "goodPassCertificate": true,
+            "minAverage": null
+          },
+          "additionalTests": {
+            "anyOf": [
+              {
+                "apCount": 5,
+                "apMinScore": 3
+              },
+              {
+                "apCount": 3,
+                "apMinScore": 3,
+                "sat": {
+                  "readingWriting": 600,
+                  "math": 650,
+                  "sameSitting": true
+                }
+              },
+              {
+                "apCount": 3,
+                "apMinScore": 3,
+                "act": {
+                  "composite": 29,
+                  "writing": 8,
+                  "sameSitting": true
+                }
+              }
+            ],
+            "apCalculusBCRequiredExcept": [
+              "Law"
+            ],
+            "apMaxSittings": 2,
+            "programmePrerequisitesRequired": true
+          },
+          "language": {
+            "ieltsRequired": false,
+            "note": "此资格路径官网没有单独英语要求；IELTS不能替代必需AP组合。"
+          },
+          "manualChecks": [
+            "Certificate equivalence and good pass definition",
+            "AP subject prerequisites",
+            "Application year / programme"
+          ],
+          "sources": [
+            {
+              "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/other-high-school-qualifications",
+              "title": "NUS Other High School Qualifications",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "AY2026/27"
+            },
+            {
+              "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/standardised_test.pdf?sfvrsn=7cbaf22d_8",
+              "title": "NUS Standardised Test Requirements, updated December 2025",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "AY2026/27"
+            }
+          ]
+        },
+        {
+          "id": "nus-alevel",
+          "level": "bachelor",
+          "credential": "alevel",
+          "academic": {
+            "minFullALevelSubjects": 4,
+            "goodPassRequired": true,
+            "maxSittings": 2,
+            "maxBoards": 2,
+            "withinMonths": 12,
+            "finalGradesOnly": true
+          },
+          "language": {
+            "ieltsRequired": false
+          },
+          "additionalTests": {
+            "requiredForPredictedOrASApplicants": true,
+            "sameCombinationsAs": "nus-other"
+          },
+          "manualChecks": [
+            "good pass definition and programme prerequisites"
+          ],
+          "sources": [
+            {
+              "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/international-a-level",
+              "title": "NUS International A-Level",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "AY2026/27"
+            },
+            {
+              "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/standardised_test.pdf?sfvrsn=7cbaf22d_8",
+              "title": "NUS Standardised Test Requirements, updated December 2025",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "AY2026/27"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/other-high-school-qualifications",
+          "title": "NUS Other High School Qualifications",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "AY2026/27"
+        },
+        {
+          "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/international-a-level",
+          "title": "NUS International A-Level",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "AY2026/27"
+        },
+        {
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/standardised_test.pdf?sfvrsn=7cbaf22d_8",
+          "title": "NUS Standardised Test Requirements, updated December 2025",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "AY2026/27"
+        }
+      ],
+      "evidence": "NUS Other High School applicants need a pass certificate plus AP combinations; IELTS alone is insufficient. Completed international A-Level applicants need four good passes, within two sessions/boards over twelve months. Unknown credentials need equivalence review.",
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "sg-ntu",
+      "country": "SG",
+      "name": {
+        "zh": "南洋理工大学",
+        "en": "Nanyang Technological University",
+        "my": "Nanyang Technological University"
+      },
+      "type": "autonomous_university",
+      "qualifications": {
+        "myanmar": {
+          "status": "conditional",
+          "note": "平均≥80%，每科good pass，并有AP或完整UK A-Level额外资格。"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "note": "缅甸华校证书未明确列入当前目录。"
+        },
+        "ged": {
+          "status": "unknown",
+          "note": "未找到官方明确认可GED的本科资格路径。"
+        },
+        "alevel": {
+          "status": "conditional",
+          "note": "通常4科同场完整A-Level good pass；3科可能个案审核但国际生补贴学费路径不适用。"
+        }
+      },
+      "pathways": [
+        {
+          "id": "ntu-myanmar",
+          "level": "bachelor",
+          "credential": "myanmar",
+          "academic": {
+            "minAverage": 80,
+            "eachSubjectGoodPass": true
+          },
+          "additionalTests": {
+            "anyOf": [
+              {
+                "apCount": 3,
+                "apMinScore": 4,
+                "subjectPrerequisitesRequired": true
+              },
+              {
+                "fullALevelSubjects": 3,
+                "withinMonths": 12,
+                "maxSittings": 2,
+                "resultsBeforeJune": true
+              }
+            ],
+            "apCalculusBCFor": [
+              "Engineering",
+              "Most Science"
+            ],
+            "apPhysicsCWhenPhysicsPrerequisite": true
+          },
+          "language": {
+            "anyOf": [
+              {
+                "ieltsAcademic": {
+                  "overall": 6,
+                  "writing": 6,
+                  "speaking": 6
+                }
+              },
+              {
+                "sat": {
+                  "total": 1250
+                }
+              },
+              {
+                "actWithWriting": {
+                  "composite": 30
+                }
+              },
+              {
+                "pteAcademic": {
+                  "overall": 55,
+                  "speaking": 55
+                }
+              }
+            ]
+          },
+          "manualChecks": [
+            "Each-subject good pass is not numerically defined",
+            "Programme-specific subject prerequisites",
+            "2026 AP receipt deadline 15 July; do not reuse as 2027 deadline"
+          ],
+          "sources": [
+            {
+              "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/myanmar-matriculation-exam",
+              "title": "NTU Myanmar Matriculation Exam",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Page contains July 2026 submission deadlines; target intake must be reconfirmed"
+            }
+          ]
+        },
+        {
+          "id": "ntu-alevel",
+          "level": "bachelor",
+          "credential": "alevel",
+          "academic": {
+            "minFullALevelSubjects": 4,
+            "sameSitting": true,
+            "goodPassRequired": true,
+            "threeSubjectRoute": "case-by-case; not for international subsidised fee applicants"
+          },
+          "language": {
+            "requiredWhen": "High school non-English medium or English as second/additional language",
+            "ieltsAcademic": {
+              "overall": 6,
+              "writing": 6,
+              "speaking": 6
+            }
+          },
+          "manualChecks": [
+            "Results available in August of application year are too late; next year required",
+            "Good pass definition and prerequisites"
+          ],
+          "sources": [
+            {
+              "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/uk-a-level-certificates-cambridge-pre-u",
+              "title": "NTU UK A-Level Certificates / Cambridge Pre-U",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Current published page; reconfirm for target intake"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/myanmar-matriculation-exam",
+          "title": "NTU Myanmar Matriculation Exam",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Page contains July 2026 submission deadlines; target intake must be reconfirmed"
+        },
+        {
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/uk-a-level-certificates-cambridge-pre-u",
+          "title": "NTU UK A-Level Certificates / Cambridge Pre-U",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        }
+      ],
+      "evidence": "Myanmar route combines an 80% average and good passes with at least three AP scores of 4/5 or three A-Levels. IELTS needs overall, writing and speaking 6. General A-Level rules differ; four subjects in one sitting are the normal route.",
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "sg-smu",
+      "country": "SG",
+      "name": {
+        "zh": "新加坡管理大学",
+        "en": "Singapore Management University",
+        "my": "Singapore Management University"
+      },
+      "type": "autonomous_university",
+      "qualifications": {
+        "myanmar": {
+          "status": "conditional",
+          "note": "高中平均≥90%，还需已在认可大学学习至少一年并且大一每科good pass。"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "note": "华校证书不是官方列明的 Myanmar High School 或 Malaysia UEC 的当然等价资格。"
+        },
+        "ged": {
+          "status": "unknown",
+          "note": "不在已公布可考虑的国际资格列表。"
+        },
+        "alevel": {
+          "status": "conditional",
+          "note": "至少3科同场完整A-Level good pass，另需标准化考试。"
+        }
+      },
+      "pathways": [
+        {
+          "id": "smu-myanmar-nonlaw",
+          "level": "bachelor",
+          "credential": "myanmar",
+          "academic": {
+            "minAverage": 90,
+            "completedUniversityYears": 1,
+            "allUniversitySubjectsGoodPass": true,
+            "minFormalYears": 12
+          },
+          "language": {
+            "anyOf": [
+              {
+                "ieltsAcademic": {
+                  "overall": 7,
+                  "reading": 7,
+                  "writing": 6.5,
+                  "sameSitting": true,
+                  "validityYears": 2
+                }
+              },
+              {
+                "sat": {
+                  "total": 1350,
+                  "readingWriting": 650,
+                  "validityYears": 5
+                }
+              },
+              {
+                "act": {
+                  "composite": 29,
+                  "englishPlusReading": 57,
+                  "sameSitting": true
+                }
+              }
+            ]
+          },
+          "manualChecks": [
+            "University recognition",
+            "Good pass definition",
+            "Programme prerequisites and interview"
+          ],
+          "sources": [
+            {
+              "url": "https://admissions.smu.edu.sg/admissions-requirements/international-and-other-qualifications",
+              "title": "SMU International and Other Qualifications",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "AY2026/27"
+            }
+          ]
+        },
+        {
+          "id": "smu-alevel-nonlaw",
+          "level": "bachelor",
+          "credential": "alevel",
+          "academic": {
+            "minFullALevelSubjects": 3,
+            "sameSitting": true,
+            "goodPassRequired": true
+          },
+          "language": {
+            "ieltsAcademic": {
+              "overall": 7,
+              "reading": 7,
+              "writing": 6.5,
+              "sameSitting": true,
+              "validityYears": 2
+            },
+            "standardisedTestAlternatives": "SAT / ACT / TOEFL / PTE / C1 / AST official minima"
+          },
+          "manualChecks": [
+            "Good pass interpretation",
+            "Law IELTS requires overall7.5/read7/write7, do not apply non-law rule to Law"
+          ],
+          "sources": [
+            {
+              "url": "https://admissions.smu.edu.sg/admissions-requirements/international-and-other-qualifications",
+              "title": "SMU International and Other Qualifications",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "AY2026/27"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://admissions.smu.edu.sg/admissions-requirements/international-and-other-qualifications",
+          "title": "SMU International and Other Qualifications",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "AY2026/27"
+        }
+      ],
+      "evidence": "Myanmar high-school applicants additionally need one completed university year and good passes there, plus high-school average 90%. Non-law IELTS is overall7/read7/write6.5; Law is overall7.5/read7/write7. A-Level requires three good passes in one sitting.",
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "sg-sutd",
+      "country": "SG",
+      "name": {
+        "zh": "新加坡科技设计大学",
+        "en": "Singapore University of Technology and Design",
+        "my": "Singapore University of Technology and Design"
+      },
+      "type": "autonomous_university",
+      "qualifications": {
+        "myanmar": {
+          "status": "conditional",
+          "note": "官方列明MME，至少12年正式教育；需其他年级成绩及有效英语测试。"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "note": "须 Other International Qualifications 个案等价审核。"
+        },
+        "ged": {
+          "status": "unknown",
+          "note": "未明确列明GED，需等价审核。"
+        },
+        "alevel": {
+          "status": "conditional",
+          "note": "官方列明 UK/HK/Brunei A-Level；录取综合审核，无统一分数线。"
+        }
+      },
+      "pathways": [
+        {
+          "id": "sutd-myanmar",
+          "level": "bachelor",
+          "credential": "myanmar",
+          "academic": {
+            "minFormalYears": 12,
+            "minAverage": null,
+            "mathematicsScienceCompetencePreferred": true
+          },
+          "language": {
+            "englishTestMandatoryForNonEnglishMedium": true,
+            "acceptedTests": [
+              "IELTS",
+              "TOEFL iBT",
+              "SAT",
+              "ACT",
+              "PTE Academic",
+              "C1 Advanced"
+            ],
+            "minimumPublished": false,
+            "validityYears": 2
+          },
+          "manualChecks": [
+            "School-years equivalence for old system",
+            "All grade transcripts and curriculum",
+            "No prescribed minimum score: manual academic evaluation"
+          ],
+          "sources": [
+            {
+              "url": "https://www.sutd.edu.sg/admissions/undergraduate/admission-requirements/international-qualifications",
+              "title": "SUTD International Qualifications",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Current published page; reconfirm for target intake"
+            },
+            {
+              "url": "https://www.sutd.edu.sg/admissions/undergraduate/myanmar-matriculation-examination-mme/criteria-for-admission/",
+              "title": "SUTD Myanmar Matriculation Examination - Criteria for Admission",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Current published page; reconfirm for target intake"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sutd.edu.sg/admissions/undergraduate/admission-requirements/international-qualifications",
+          "title": "SUTD International Qualifications",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        },
+        {
+          "url": "https://www.sutd.edu.sg/admissions/undergraduate/myanmar-matriculation-examination-mme/criteria-for-admission/",
+          "title": "SUTD Myanmar Matriculation Examination - Criteria for Admission",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        }
+      ],
+      "evidence": "SUTD lists Myanmar Matriculation and A-Level; it requires twelve years of education and English testing for non-English medium applicants. The Myanmar FAQ explicitly says no prescribed minimum score and comprehensive review; never invent an IELTS threshold.",
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "sg-sit",
+      "country": "SG",
+      "name": {
+        "zh": "新加坡理工大学",
+        "en": "Singapore Institute of Technology",
+        "my": "Singapore Institute of Technology"
+      },
+      "type": "autonomous_university",
+      "qualifications": {
+        "myanmar": {
+          "status": "conditional",
+          "note": "至少12年正式教育，海外国际资格按指定本科专业个案评估。"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "note": "按证书及正式教育年限个案审核。"
+        },
+        "ged": {
+          "status": "unknown",
+          "note": "未发布GED通用明确规则。"
+        },
+        "alevel": {
+          "status": "conditional",
+          "note": "国际A-Level/Year12可提交，但仍须按专业个案评估。"
+        }
+      },
+      "pathways": [
+        {
+          "id": "sit-international",
+          "level": "bachelor",
+          "credential": "international",
+          "academic": {
+            "minFormalYears": 12,
+            "caseByCase": true,
+            "minAverage": null
+          },
+          "language": {
+            "testForNonEnglishMedium": true,
+            "ieltsOverall": null,
+            "programmeSpecific": true
+          },
+          "manualChecks": [
+            "Only listed degree programmes open to overseas qualifications",
+            "Programme-specific English and subject requirements; health courses can require7 or7.5",
+            "Interview/other assessments"
+          ],
+          "sources": [
+            {
+              "url": "https://www.singaporetech.edu.sg/admissions/undergraduate/requirements/international-qualifications",
+              "title": "SIT International Qualifications",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Current published page; reconfirm for target intake"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.singaporetech.edu.sg/admissions/undergraduate/requirements/international-qualifications",
+          "title": "SIT International Qualifications",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        }
+      ],
+      "evidence": "SIT evaluates overseas international credentials case by case after twelve years of formal education, for specified programmes only. Non-English medium schooling needs an acceptable English score. Language minima vary by programme, so no institution-wide IELTS6 rule.",
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "sg-suss",
+      "country": "SG",
+      "name": {
+        "zh": "新跃社科大学",
+        "en": "Singapore University of Social Sciences",
+        "my": "Singapore University of Social Sciences"
+      },
+      "type": "autonomous_university",
+      "qualifications": {
+        "myanmar": {
+          "status": "conditional",
+          "note": "官方资格列表含Myanmar High School good pass；至少12年正式教育及标准化考试。"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "note": "All other international qualifications 须个案审核。"
+        },
+        "ged": {
+          "status": "unknown",
+          "note": "未明确列GED；不能将GED当已认可高中证书。"
+        },
+        "alevel": {
+          "status": "conditional",
+          "note": "官方列AQA/Cambridge/UK/Edexcel等；仍综合评估。"
+        }
+      },
+      "pathways": [
+        {
+          "id": "suss-myanmar",
+          "level": "bachelor",
+          "credential": "myanmar",
+          "academic": {
+            "minFormalYears": 12,
+            "goodPassCertificate": true,
+            "minAverage": null
+          },
+          "language": {
+            "anyOf": [
+              {
+                "ieltsAcademic": {
+                  "overall": 6.5,
+                  "validityYears": 2
+                }
+              },
+              {
+                "sat": {
+                  "total": 1260,
+                  "reading": 630,
+                  "math": 630
+                }
+              },
+              {
+                "act": {
+                  "composite": 28,
+                  "writing": 8,
+                  "sameSitting": true
+                }
+              },
+              {
+                "toeflIBT": {
+                  "total": 85
+                }
+              },
+              {
+                "pteAcademic": {
+                  "overall": 58
+                }
+              },
+              {
+                "c1Advanced": {
+                  "overall": 180
+                }
+              }
+            ],
+            "nonEnglishMediumSeparateEnglishRequirement": true
+          },
+          "manualChecks": [
+            "Good pass and qualification equivalence",
+            "Programme-specific criteria / interview",
+            "All test results by31March admission year"
+          ],
+          "sources": [
+            {
+              "url": "https://www.suss.edu.sg/admissions/application-process/eligibility/full-time-undergraduate-admission-criteria",
+              "title": "SUSS Full-time Undergraduate Admission Criteria",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Current published page; reconfirm for target intake"
+            },
+            {
+              "url": "https://www.suss.edu.sg/docs/default-source/contentdoc/sa/international-qualifications.pdf?sfvrsn=dcf91fe3_52",
+              "title": "SUSS List of International Qualifications",
+              "year": null,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Undated PDF; Myanmar and A-Level listed, all other credentials case-by-case"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.suss.edu.sg/admissions/application-process/eligibility/full-time-undergraduate-admission-criteria",
+          "title": "SUSS Full-time Undergraduate Admission Criteria",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        },
+        {
+          "url": "https://www.suss.edu.sg/docs/default-source/contentdoc/sa/international-qualifications.pdf?sfvrsn=dcf91fe3_52",
+          "title": "SUSS List of International Qualifications",
+          "year": null,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Undated PDF; Myanmar and A-Level listed, all other credentials case-by-case"
+        }
+      ],
+      "evidence": "SUSS lists Myanmar High School good-pass certificates. International applicants need twelve years of education plus a listed test; IELTS Academic6.5 is an accepted option. Non-English medium qualifications need English proficiency too. Unlisted credentials are assessed case by case.",
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "sg-jcu",
+      "country": "SG",
+      "name": {
+        "zh": "詹姆斯库克大学新加坡校区",
+        "en": "James Cook University Singapore",
+        "my": "James Cook University Singapore"
+      },
+      "type": "foreign_university_campus",
+      "qualifications": {
+        "myanmar": {
+          "status": "conditional",
+          "note": "明确可走预科，BEHS平均40%/Matriculation6科通过；不可直接标本科可申请。"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "note": "缅甸华校证书须等价评估，不等于中国高中或马来西亚UEC。"
+        },
+        "ged": {
+          "status": "unknown",
+          "note": "本次未找到JCU Singapore官网明确GED门槛。"
+        },
+        "alevel": {
+          "status": "conditional",
+          "note": "本科通常12年教育或同等资格，须选择具体学位核实。"
+        }
+      },
+      "pathways": [
+        {
+          "id": "jcu-foundation-myanmar",
+          "level": "foundation",
+          "credential": "myanmar",
+          "academic": {
+            "minAverage": 40,
+            "matriculationPassSubjects": 6,
+            "recognizedBEHSRequired": true
+          },
+          "language": {
+            "ieltsAcademic": {
+              "overall": 5.5,
+              "minEachBand": 5
+            },
+            "alternative": "JCU ELPP satisfactory completion"
+          },
+          "progression": {
+            "foundationSubjects": 10,
+            "minEachSubject": 50,
+            "minOverall": 65,
+            "note": "Some Bachelor programmes require a higher GPA; not all degrees available through this pathway."
+          },
+          "manualChecks": [
+            "Full BEHS certificate",
+            "Target intake confirmation",
+            "Foundation is not direct Bachelor admission"
+          ],
+          "sources": [
+            {
+              "url": "https://www.jcu.edu.sg/courses-and-study/courses/course/pre-university-foundation-program",
+              "title": "JCU Singapore Pre-University Foundation Program",
+              "year": 2027,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Current page displays Trimester 1 2027 fees; academic entry requirements on same page"
+            }
+          ]
+        },
+        {
+          "id": "jcu-general-bachelor",
+          "level": "bachelor",
+          "credential": "international",
+          "academic": {
+            "minFormalYears": 12,
+            "equivalenceRequired": true
+          },
+          "language": {
+            "generalIeltsMinimum": 6,
+            "programmeSpecific": true
+          },
+          "manualChecks": [
+            "Country credential and programme-specific entry rules"
+          ],
+          "sources": [
+            {
+              "url": "https://www.jcu.edu.sg/courses-and-study/admissions/admissions-procedures-And-requirements",
+              "title": "JCU Singapore Admissions Requirements",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Current published page; reconfirm for target intake"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.jcu.edu.sg/courses-and-study/courses/course/pre-university-foundation-program",
+          "title": "JCU Singapore Pre-University Foundation Program",
+          "year": 2027,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current page displays Trimester 1 2027 fees; academic entry requirements on same page"
+        },
+        {
+          "url": "https://www.jcu.edu.sg/courses-and-study/admissions/admissions-procedures-And-requirements",
+          "title": "JCU Singapore Admissions Requirements",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        }
+      ],
+      "evidence": "Current foundation page accepts Myanmar BEHS40% average or six Matriculation passes, with IELTS5.5 and every band5. Completion requires ten subjects≥50% and average≥65% for specified degree progression. General Bachelor information is insufficient to confirm GED or Myanmar direct entry.",
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "sg-sim",
+      "country": "SG",
+      "name": {
+        "zh": "新加坡管理学院",
+        "en": "Singapore Institute of Management",
+        "my": "Singapore Institute of Management"
+      },
+      "type": "private_education_institution",
+      "qualifications": {
+        "myanmar": {
+          "status": "conditional",
+          "note": "可评估UOL国际预科等价资格，但官网不是缅甸资格自动认可。"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "note": "按英语教学的O-Level等价资格审核。"
+        },
+        "ged": {
+          "status": "unknown",
+          "note": "当前预科页未明确GED接受规则。"
+        },
+        "alevel": {
+          "status": "conditional",
+          "note": "SIM按合作大学具体学位标准审核，不能套统一本科标准。"
+        }
+      },
+      "pathways": [
+        {
+          "id": "sim-uol-foundation",
+          "level": "foundation",
+          "credential": "international",
+          "academic": {
+            "minAge": 17,
+            "ageAt": "31December of registration year",
+            "oLevelEquivalentPassSubjects": 4,
+            "minimumGrades": "GCSE/O-level A*-C /9-4",
+            "englishTaughtEquivalentRequired": true
+          },
+          "language": {
+            "ieltsAcademic": {
+              "overall": 5.5,
+              "minEachBand": 5,
+              "validityYears": 3
+            },
+            "alternative": "SIM EPT Advanced Level1 or accepted English equivalent"
+          },
+          "manualChecks": [
+            "Credential equivalence must be established",
+            "Specific University of London foundation only; not all SIM programmes"
+          ],
+          "sources": [
+            {
+              "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/international-foundation-programme",
+              "title": "SIM / University of London International Foundation Programme",
+              "year": 2027,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "June 2027 intake; application closes 1 February 2027"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/international-foundation-programme",
+          "title": "SIM / University of London International Foundation Programme",
+          "year": 2027,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "June 2027 intake; application closes 1 February 2027"
+        }
+      ],
+      "evidence": "SIM/UOL International Foundation requires age17 by31December, four GCSE/O-Level passes or equivalence, and IELTS5.5 with every band5 within three years. Myanmar/Chinese-school/GED equivalence remains unresolved. Degree partners set their own requirements.",
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "sg-kaplan",
+      "country": "SG",
+      "name": {
+        "zh": "楷博高等教育学院新加坡",
+        "en": "Kaplan Higher Education Academy Singapore",
+        "my": "Kaplan Higher Education Academy Singapore"
+      },
+      "type": "private_education_institution",
+      "qualifications": {
+        "myanmar": {
+          "status": "conditional",
+          "note": "文凭课程通常须O-Level同等或认可高中毕业证，但具体课程及资格须核实。"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "note": "须认可和等价审核。"
+        },
+        "ged": {
+          "status": "unknown",
+          "note": "当前官方通用页未明确GED。"
+        },
+        "alevel": {
+          "status": "conditional",
+          "note": "合作大学本科课程要求不同，须逐项目核实。"
+        }
+      },
+      "pathways": [
+        {
+          "id": "kaplan-diploma",
+          "level": "diploma",
+          "credential": "international",
+          "academic": {
+            "recognizedSecondaryOrOLevelEquivalent": true,
+            "programmeSpecific": true,
+            "minAverage": null
+          },
+          "language": {
+            "englishTestRequiredForNonEnglishMedium": true,
+            "minimumPublishedOnThisPage": false
+          },
+          "manualChecks": [
+            "Exact course",
+            "Qualification recognition",
+            "English threshold",
+            "Degree progression is separate"
+          ],
+          "sources": [
+            {
+              "url": "https://www.kaplan.com.sg/academic-levels/diplomas-courses",
+              "title": "Kaplan Singapore Diploma Courses - International Applicants",
+              "year": 2026,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Current published page; reconfirm for target intake"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.kaplan.com.sg/academic-levels/diplomas-courses",
+          "title": "Kaplan Singapore Diploma Courses - International Applicants",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        }
+      ],
+      "evidence": "Kaplan's current international diploma guidance requires an O-Level equivalent or recognized secondary certificate, with English evidence when schooling is not in English. It gives no universal Myanmar/GED grade or IELTS minimum. Degree entry belongs to partner-programme rules.",
+      "checkedAt": "2026-10-08"
+    },
+    {
+      "id": "sg-psb",
+      "country": "SG",
+      "name": {
+        "zh": "PSB 学院",
+        "en": "PSB Academy",
+        "my": "PSB Academy"
+      },
+      "type": "private_education_institution",
+      "qualifications": {
+        "myanmar": {
+          "status": "conditional",
+          "note": "指定文凭及预科路径平均≥50%；与本科直入不同。"
+        },
+        "chineseSchool": {
+          "status": "unknown",
+          "note": "须同等资格审核。"
+        },
+        "ged": {
+          "status": "unknown",
+          "note": "GED640奖学金广告不能当普通入学规则；需具体课程接受资格证据。"
+        },
+        "alevel": {
+          "status": "conditional",
+          "note": "本地H2路径不等同UK A-Level；需确认资格等价。"
+        }
+      },
+      "pathways": [
+        {
+          "id": "psb-diploma-myanmar",
+          "level": "diploma",
+          "credential": "myanmar",
+          "academic": {
+            "minAverage": 50,
+            "completedMatriculation": true
+          },
+          "language": {
+            "ieltsAcademic": {
+              "overall": 5.5
+            },
+            "programmeSpecific": true
+          },
+          "courseScope": [
+            "Diploma in Global Supply Chain Management",
+            "Diploma in Graphic Design and Media",
+            "Electrical/Mechanical Engineering Technology",
+            "InfoComm Technology",
+            "Cyber Security"
+          ],
+          "manualChecks": [
+            "Choose exact Diploma, not Bachelor",
+            "Certificate completion/recognition",
+            "UK A-Level equivalence"
+          ],
+          "sources": [
+            {
+              "url": "https://www.psb-academy.edu.sg/resources/others/common/Entry-Requirement-Myanmar.pdf",
+              "title": "PSB Academy Myanmar Entry Requirements",
+              "year": 2025,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Effective 17 January 2025; qualification-specific, not school-wide degree entry"
+            },
+            {
+              "url": "https://www.psb-academy.edu.sg/wordpress/wp-content/uploads/2025/02/English-Language-Requirement.pdf",
+              "title": "PSB Academy English Language Requirement",
+              "year": 2025,
+              "checkedAt": "2026-10-08",
+              "applicableTo": "Effective 29 January 2025; course-specific"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.psb-academy.edu.sg/resources/others/common/Entry-Requirement-Myanmar.pdf",
+          "title": "PSB Academy Myanmar Entry Requirements",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Effective 17 January 2025; qualification-specific, not school-wide degree entry"
+        },
+        {
+          "url": "https://www.psb-academy.edu.sg/wordpress/wp-content/uploads/2025/02/English-Language-Requirement.pdf",
+          "title": "PSB Academy English Language Requirement",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Effective 29 January 2025; course-specific"
+        }
+      ],
+      "evidence": "PSB's Myanmar qualification table specifies Matriculation average50% for selected Diploma pathways. The corresponding English table lists IELTS5.5 for specified courses. This cannot establish direct Bachelor eligibility or GED acceptance.",
+      "checkedAt": "2026-10-08"
+    }
+  ],
+  "examSchemas": {
+    "myanmar": {
+      "id": "myanmar",
+      "name": {
+        "zh": "缅甸高中会考",
+        "en": "Myanmar Matriculation Examination",
+        "my": "တက္ကသိုလ်ဝင်တန်းစာမေးပွဲ"
+      },
+      "fields": [
+        "examYear",
+        "systemVersion",
+        "certificateName",
+        "awardingBody",
+        "formalSchoolYears",
+        "graduated",
+        "subjects"
+      ],
+      "subjectOptions": [
+        {
+          "id": "myanmar",
+          "zh": "缅语",
+          "en": "Myanmar",
+          "my": "မြန်မာစာ"
+        },
+        {
+          "id": "english",
+          "zh": "英语",
+          "en": "English",
+          "my": "အင်္ဂလိပ်စာ"
+        },
+        {
+          "id": "mathematics",
+          "zh": "数学",
+          "en": "Mathematics",
+          "my": "သင်္ချာ"
+        },
+        {
+          "id": "chemistry",
+          "zh": "化学",
+          "en": "Chemistry",
+          "my": "ဓာတုဗေဒ"
+        },
+        {
+          "id": "physics",
+          "zh": "物理",
+          "en": "Physics",
+          "my": "ရူပဗေဒ"
+        },
+        {
+          "id": "biology",
+          "zh": "生物",
+          "en": "Biology",
+          "my": "ဇီဝဗေဒ"
+        },
+        {
+          "id": "geography",
+          "zh": "地理",
+          "en": "Geography",
+          "my": "ပထဝီဝင်"
+        },
+        {
+          "id": "history",
+          "zh": "历史",
+          "en": "History",
+          "my": "သမိုင်း"
+        },
+        {
+          "id": "economics",
+          "zh": "经济",
+          "en": "Economics",
+          "my": "ဘောဂဗေဒ"
+        },
+        {
+          "id": "optionalMyanmar",
+          "zh": "选修缅语",
+          "en": "Optional Myanmar",
+          "my": "မြန်မာစာ (ရွေးချယ်ဘာသာ)"
+        },
+        {
+          "id": "other",
+          "zh": "其他科目",
+          "en": "Other subject",
+          "my": "အခြားဘာသာရပ်"
+        }
+      ],
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "typicalSubjectCount": 6,
+      "total": "sum of selected complete subject scores; default max 600 for6 subjects",
+      "average": "sum(scores)/number of completed official subjects; never divide missing subjects out for matching",
+      "presets": {
+        "science": [
+          "myanmar",
+          "english",
+          "mathematics",
+          "chemistry",
+          "physics",
+          "biology"
+        ],
+        "artsCurrent2026": [
+          "myanmar",
+          "english",
+          "mathematics",
+          "geography",
+          "history",
+          "economics"
+        ]
+      },
+      "allowCustomCombination": true,
+      "oldSystem": {
+        "label": "旧制 Standard X /旧课程",
+        "schoolYears": "Do not assume12; ask user's actual schooling years",
+        "passEachSubject": 40,
+        "distinctionMyanmarEnglish": 75,
+        "distinctionOtherHistorically": 80,
+        "evidence": "2013 commissioned education-sector report documents historical score/different language distinction rules",
+        "autoClassifyForNewSystem": false
+      },
+      "newSystem": {
+        "label": "新制 Grade12",
+        "year12VerifiedFor": 2025,
+        "passEachSubject": null,
+        "distinction": null,
+        "note": "Current official news establishes Grade12 and subjects; does not establish current pass/distinction regulations. Record official pass/distinction flag from transcript and avoid presenting historical thresholds as2026 law."
+      },
+      "sources": [
+        {
+          "url": "https://presoffministry.gov.mm/en/news/28156",
+          "title": "2026 Matriculation Exam - Myanmar, English and Mathematics",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        },
+        {
+          "url": "https://presoffministry.gov.mm/en/news/28274",
+          "title": "2026 Matriculation exams enter Day4 - Science and Arts subject pairs",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        },
+        {
+          "url": "https://www.moi.gov.mm/moi%3Aeng/index.php/news/17385",
+          "title": "2025 Grade12 Matriculation Physics and History",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        },
+        {
+          "url": "https://themimu.info/sites/themimu.info/files/documents/Report_CESR_Phase_1_Technical_Annex_on_the_Secondary_Education_Subsector_Mar2013.pdf",
+          "title": "ADB / Myanmar CESR Secondary Education Technical Annex",
+          "year": 2013,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Historical old-system guidance only; URL requires confirmation. Use archived MIMU copy for observed evidence"
+        }
+      ]
+    },
+    "hsk": {
+      "id": "hsk",
+      "fields": [
+        "version",
+        "level",
+        "examDate",
+        "total",
+        "listening",
+        "reading",
+        "writing",
+        "awardedLevel"
+      ],
+      "versions": [
+        "current1to6",
+        "3.0trial",
+        "advanced7to9"
+      ],
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "ranges": {
+        "1": {
+          "min": 0,
+          "max": 200
+        },
+        "2": {
+          "min": 0,
+          "max": 200
+        },
+        "3": {
+          "min": 0,
+          "max": 300
+        },
+        "4": {
+          "min": 0,
+          "max": 300
+        },
+        "5": {
+          "min": 0,
+          "max": 300
+        },
+        "6": {
+          "min": 0,
+          "max": 300
+        },
+        "7-9": {
+          "componentMin": 0,
+          "componentMax": 100,
+          "components": [
+            "listening",
+            "reading",
+            "writing",
+            "translation",
+            "speaking"
+          ],
+          "derivedSumMax": 500,
+          "officialRatingOptions": [
+            "below7",
+            7,
+            8,
+            9
+          ],
+          "automaticRatingFromSum": false
+        }
+      },
+      "scoreValidityYearsForStudy": 2,
+      "note": "Ask actual examination version during2026 transition; 7–9 require official awarded level plus components. Do not compare sum500 with HSK6 total300. Official current HSK5/6 pages state total300 but do not publish a passing threshold; compare school-specific minima instead.",
+      "sources": [
+        {
+          "url": "https://m.chinesetest.cn/userfiles/upload/HSK2020.pdf",
+          "title": "HSK test structures - current legacy1–6 scoring",
+          "year": 2020,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Legacy1–6 scoring; date is exam-calendar year"
+        },
+        {
+          "url": "https://www.chinesetest.cn/HSK/6",
+          "title": "HSK Level6 current scoring and validity",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        },
+        {
+          "url": "https://www.chinesetest.cn/HSK/7-9",
+          "title": "HSK Levels7–9 scoring and rating",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        }
+      ]
+    },
+    "ielts": {
+      "id": "ielts",
+      "fields": [
+        "type",
+        "testDate",
+        "delivery",
+        "oneSkillRetake",
+        "overall",
+        "listening",
+        "reading",
+        "writing",
+        "speaking"
+      ],
+      "types": [
+        "academic",
+        "generalTraining"
+      ],
+      "min": 0,
+      "max": 9,
+      "step": 0.5,
+      "derivedOverall": "Math.round((L+R+W+S)/4*2)/2; only if all4 supplied",
+      "defaultValidityYears": 2,
+      "note": "Use Academic for university rules unless source says otherwise; blank components remain unknown. Institution-specific Online/One Skill Retake acceptance must be verified.",
+      "sources": [
+        {
+          "url": "https://www.ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+          "title": "IELTS scoring and overall rounding",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        }
+      ]
+    },
+    "ged": {
+      "id": "ged",
+      "fields": [
+        "series",
+        "examDate",
+        "graduationCertificate",
+        "subjects"
+      ],
+      "series": "2014-present",
+      "subjects": [
+        {
+          "id": "mathematicalReasoning",
+          "zh": "数学推理",
+          "en": "Mathematical Reasoning",
+          "my": "သင်္ချာဆိုင်ရာ စဉ်းစားတွေးခေါ်မှု"
+        },
+        {
+          "id": "reasoningLanguageArts",
+          "zh": "语言艺术推理",
+          "en": "Reasoning Through Language Arts",
+          "my": "ဘာသာစကားဆိုင်ရာ စဉ်းစားတွေးခေါ်မှု"
+        },
+        {
+          "id": "science",
+          "zh": "科学",
+          "en": "Science",
+          "my": "သိပ္ပံ"
+        },
+        {
+          "id": "socialStudies",
+          "zh": "社会研究",
+          "en": "Social Studies",
+          "my": "လူမှုရေးဘာသာရပ်"
+        }
+      ],
+      "min": 100,
+      "max": 200,
+      "step": 1,
+      "passEach": 145,
+      "totalMin": 400,
+      "totalMax": 800,
+      "passAllFourRequired": true,
+      "note": "GED scaled scores are not percentage marks. A total580 alone does not pass if any subject<145. Universities set independent GED recognition and score rules.",
+      "sources": [
+        {
+          "url": "https://api.ged.com/score_scale/",
+          "title": "GED fifth test series score scale",
+          "year": 2016,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "2014-present scale; passing threshold revised2016"
+        },
+        {
+          "url": "https://www.ged.com/en/policies/myanmar.html",
+          "title": "GED Myanmar policies and145 passing score",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        },
+        {
+          "url": "https://api.ged.com/about_test/test_subjects/",
+          "title": "GED four test subjects",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        }
+      ]
+    },
+    "alevel": {
+      "id": "alevel",
+      "fields": [
+        "board",
+        "qualificationLevel",
+        "subjectName",
+        "syllabusCode",
+        "sessionMonth",
+        "sessionYear",
+        "grade",
+        "resultStatus",
+        "pum"
+      ],
+      "boards": [
+        "Cambridge",
+        "Pearson Edexcel",
+        "AQA",
+        "OCR",
+        "WJEC",
+        "OxfordAQA",
+        "Other"
+      ],
+      "levels": [
+        "AS",
+        "fullALevel"
+      ],
+      "fullALevelGrades": [
+        "A*",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "U"
+      ],
+      "asGrades": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "U"
+      ],
+      "statuses": [
+        "actual",
+        "predicted",
+        "pending",
+        "noResult"
+      ],
+      "pum": {
+        "optional": true,
+        "min": 0,
+        "max": 100,
+        "notRawPercentage": true
+      },
+      "note": "A2 alone is not a completed A-Level grade. AS subjects must not count as fullA-Level. Do not convert letter grades to fictitious percentage marks. Boards/sittings and final cash-in grades matter.",
+      "sources": [
+        {
+          "url": "https://www.cambridgeinternational.org/exam-administration/results/statements-of-results/",
+          "title": "Cambridge International Statements of Results",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        },
+        {
+          "url": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/qualification/",
+          "title": "Cambridge AS/A-Level qualification grading",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Current published page; reconfirm for target intake"
+        }
+      ]
+    },
+    "chineseSchool": {
+      "id": "chineseSchool",
+      "fields": [
+        "schoolName",
+        "certificateTitle",
+        "awardingBody",
+        "countryOfQualification",
+        "accreditationStatus",
+        "graduationYear",
+        "formalSchoolYears",
+        "gradingScale",
+        "subjectScores"
+      ],
+      "subjects": "Free-form rows with subject name, score and maximum; configurable percentage/letter/GPA; do not assume standardized Myanmar Chinese-school curriculum",
+      "note": "Myanmar Chinese-school graduation does not equal Malaysian UEC or PRC high-school certificate. Need certificate recognition evidence per school before eligibility classification."
+    },
+    "competitions": {
+      "id": "competitions",
+      "fields": [
+        "name",
+        "organizer",
+        "country",
+        "year",
+        "scope",
+        "subject",
+        "award",
+        "rank",
+        "description",
+        "evidenceUrl"
+      ],
+      "manualInput": true,
+      "matchTreatment": "Display as supplementary achievements only; no automatic eligibility bypass or admission probability uplift. Exact official Olympiad exception may be separately reviewed.",
+      "sources": [
+        {
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/myanmar-matriculation-exam",
+          "title": "NTU Myanmar Matriculation Exam",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "applicableTo": "Page contains July 2026 submission deadlines; target intake must be reconfirmed"
+        }
+      ]
+    }
+  }
+}

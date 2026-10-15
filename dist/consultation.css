@@ -1,0 +1,4 @@
+/* Shared contact link styles. All contact actions now open the configured Messenger URL. */
+.consult-hero{background:var(--orange,#c47f52);color:#fff}.consult-hero:hover{background:#a96943}
+.consult-card{display:inline-flex;align-items:center;min-height:44px;margin-top:18px;padding:10px 16px;border:1px solid #b8c8ba;border-radius:5px;background:#edf3e9;color:#173f35;font-size:13px;line-height:1.9;text-align:start;gap:10px}
+.consult-card:hover{background:#dbe8d5}.consult-card:focus-visible{outline:3px solid var(--orange);outline-offset:4px}

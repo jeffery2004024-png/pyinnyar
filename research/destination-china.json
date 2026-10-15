@@ -1,0 +1,312 @@
+{
+  "country": "CN",
+  "checkedAt": "2026-10-08",
+  "overview": {
+    "zh": "中国提供中文和英文授课的本科选择。对缅甸学生，准备工作的重点是核查高中学历、目标专业的语言与CSCA要求，并在获录取后按使馆规定准备学习签证。",
+    "en": "China offers undergraduate study in Chinese and English. For Myanmar students, start with diploma recognition, program-specific language and CSCA requirements, then prepare a study visa using embassy guidance after admission.",
+    "my": "တရုတ်နိုင်ငံတွင် တရုတ်နှင့် အင်္ဂလိပ်ဘာသာဖြင့် ဘွဲ့ကြိုသင်တန်းများ ရှိသည်။ မြန်မာကျောင်းသားများသည် အထက်တန်းအရည်အချင်း၊ ဘာသာစကားနှင့် CSCA လိုအပ်ချက်ကို အရင်စစ်ဆေးပြီး ကျောင်းဝင်ခွင့်ရမှ သံရုံးညွှန်ကြားချက်အတိုင်း ဗီဇာပြင်ဆင်ရန် လိုသည်။"
+  },
+  "sections": [
+    {
+      "id": "qualifications",
+      "title": {
+        "zh": "先确认高中学历认可",
+        "en": "Check your school qualification first",
+        "my": "အထက်တန်းအရည်အချင်း အသိအမှတ်ပြုမှု"
+      },
+      "body": {
+        "zh": "缅甸高考、华文学校毕业证、GED和A-Level应分别核查。大学通常要求高中毕业或同等学历，但这不表示自动认可每一种缅甸文凭；提交学校资质、学制、毕业证和完整成绩单，让招生办公室确认。",
+        "en": "Myanmar Matriculation, Chinese-school diplomas, GED and A-Level need separate review. A general requirement for a high school diploma or equivalent does not automatically confirm every Myanmar qualification. Ask the university to review the school, study duration, diploma and full transcript.",
+        "my": "မြန်မာတက္ကသိုလ်ဝင်တန်း၊ တရုတ်ဘာသာသင်ကျောင်းလက်မှတ်၊ GED နှင့် A-Level ကို သီးခြားစစ်ဆေးရမည်။ အထက်တန်းအောင်လက်မှတ် လိုအပ်သည်ဟု ဖော်ပြခြင်းက မြန်မာလက်မှတ်အားလုံးကို အလိုအလျောက် အသိအမှတ်ပြုသည်ဟု မဆိုလိုပါ။ ကျောင်း၊ သင်တန်းကာလ၊ အောင်လက်မှတ်နှင့် အမှတ်စာရင်းကို တက္ကသိုလ်ထံ စိစစ်ပေးရန် တောင်းဆိုနိုင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "北京外国语大学2026年国际学生本科招生简章",
+          "url": "https://lb.bfsu.edu.cn/info/2612/4701.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Peking University: 2026 undergraduate entrance examination guide",
+          "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "title": {
+        "zh": "按授课语言准备成绩",
+        "en": "Prepare for the teaching language",
+        "my": "သင်ကြားမည့်ဘာသာစကားအတွက် ပြင်ဆင်မှု"
+      },
+      "body": {
+        "zh": "中文项目通常查看HSK，英文项目可能查看IELTS、TOEFL或英文授课证明。分数线由学校和专业决定，部分学校还检查单项分、证书有效期或口语成绩。华校背景和英文授课背景能否豁免，须获得学校确认。",
+        "en": "Chinese-taught programs commonly use HSK; English-taught programs may request IELTS, TOEFL or evidence of English-medium education. Thresholds, section scores, validity and speaking-test requirements vary by program. Any exemption for Chinese-school or English-medium study needs university confirmation.",
+        "my": "တရုတ်ဘာသာသင်တန်းများတွင် HSK၊ အင်္ဂလိပ်ဘာသာသင်တန်းများတွင် IELTS၊ TOEFL သို့မဟုတ် အင်္ဂလိပ်ဘာသာဖြင့် သင်ယူခဲ့ကြောင်း အထောက်အထားကို တောင်းနိုင်သည်။ လိုအပ်သောအမှတ်နှင့် သက်တမ်းသည် သင်တန်းအလိုက် ကွာခြားသည်။ ဘာသာစကားစာမေးပွဲ ကင်းလွတ်ခွင့်ကို တက္ကသိုလ်ထံ အတည်ပြုရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "北京航空航天大学2026国际本科招生",
+          "url": "https://is.buaa.edu.cn/lxsq/bks1.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "北京外国语大学2026年国际学生本科招生简章",
+          "url": "https://lb.bfsu.edu.cn/info/2612/4701.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "csca",
+      "title": {
+        "zh": "了解CSCA本科入学测试",
+        "en": "Understand the CSCA assessment",
+        "my": "CSCA ဘွဲ့ကြိုဝင်ခွင့်စာမေးပွဲ"
+      },
+      "body": {
+        "zh": "多所大学的2026本科简章已要求CSCA成绩。可能涉及数学、专业中文、物理和化学，具体组合、试卷语言及豁免依专业目录决定。请到CSCA官网查询考试安排，并核查目标大学要求。",
+        "en": "Many 2026 undergraduate guides require CSCA results. Tests may include mathematics, Professional Chinese, physics and chemistry. Subjects, test language and exemptions depend on the program. Check the CSCA website and the university directory.",
+        "my": "၂၀၂၆ ဘွဲ့ကြိုဝင်ခွင့်လမ်းညွှန်များစွာတွင် CSCA အမှတ်စာရင်း လိုအပ်သည်။ သင်္ချာ၊ တရုတ်ဘာသာ၊ ရူပဗေဒနှင့် ဓာတုဗေဒတို့ ပါဝင်နိုင်သည်။ ဖြေရမည့်ဘာသာ၊ စာမေးပွဲဘာသာစကားနှင့် ကင်းလွတ်ခွင့်ကို သင်တန်းအလိုက် စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Northeastern University 2026 undergraduate application guide",
+          "url": "https://studyinneu.neu.edu.cn/html/article_content/202604/55185DB2D9B14A00AD885F95988B76F8.shtml",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "北京外国语大学2026年国际学生本科招生简章",
+          "url": "https://lb.bfsu.edu.cn/info/2612/4701.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "CSCA官方考试网站",
+          "url": "https://www.csca.cn/",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "documents",
+      "title": {
+        "zh": "把申请材料整理完整",
+        "en": "Build a complete application file",
+        "my": "လျှောက်လွှာစာရွက်စာတမ်း ပြင်ဆင်မှု"
+      },
+      "body": {
+        "zh": "先准备高中毕业或预毕业证明、所有学期成绩、语言成绩和护照资料。非中文或英文的材料，按学校要求提供翻译或公证件。个人陈述、推荐信、监护文件、作品集或面试要求因学校及专业而异。",
+        "en": "Prepare your diploma or expected-graduation certificate, all term results, language evidence and passport details. Provide translations or notarized copies as required for documents outside Chinese or English. Statements, references, guardian documents, portfolios and interviews vary by university and program.",
+        "my": "အောင်လက်မှတ် သို့မဟုတ် ကျောင်းပြီးဆုံးမည့်အထောက်အထား၊ စာသင်နှစ်အလိုက် အမှတ်စာရင်း၊ ဘာသာစကားအမှတ်နှင့် နိုင်ငံကူးလက်မှတ်ကို ပြင်ဆင်ရန် လိုသည်။ တရုတ် သို့မဟုတ် အင်္ဂလိပ်ဘာသာ မဟုတ်သောစာရွက်များကို ကျောင်းသတ်မှတ်ချက်အတိုင်း ဘာသာပြန်ပေးရန် လိုသည်။ ထောက်ခံစာ၊ အုပ်ထိန်းသူစာရွက်၊ လက်ရာများနှင့် အင်တာဗျူးလိုအပ်ချက်တို့ ကွာခြားနိုင်သည်။"
+      },
+      "sources": [
+        {
+          "title": "北京外国语大学2026年国际学生本科招生简章",
+          "url": "https://lb.bfsu.edu.cn/info/2612/4701.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Peking University: 2026 undergraduate entrance examination guide",
+          "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "visa-category",
+      "title": {
+        "zh": "按学习时长核查X1或X2",
+        "en": "Check X1 or X2 for your study duration",
+        "my": "သင်တန်းကာလအလိုက် X1 / X2 ဗီဇာ"
+      },
+      "body": {
+        "zh": "中国驻缅甸使馆将超过180日的学习列为X1，不超过180日列为X2。取得学校录取材料后，再根据使馆当前清单准备对应学习签证；学校录取与签证批准是不同的审核步骤。",
+        "en": "The Chinese Embassy in Myanmar lists X1 for study longer than 180 days and X2 for study of no more than 180 days. After receiving university admission documents, follow the embassy’s current checklist. Admission and visa approval are separate decisions.",
+        "my": "မြန်မာနိုင်ငံရှိ တရုတ်သံရုံးအရ ရက် ၁၈၀ ထက်ပိုသော ပညာသင်ကာလအတွက် X1၊ ရက် ၁၈၀ မကျော်သောကာလအတွက် X2 ဖြစ်သည်။ ကျောင်းဝင်ခွင့်စာရပြီးနောက် သံရုံး၏ လက်ရှိစာရင်းအတိုင်း ပြင်ဆင်ရန် လိုသည်။ ကျောင်းဝင်ခွင့်နှင့် ဗီဇာခွင့်ပြုချက်သည် သီးခြားစစ်ဆေးမှုများ ဖြစ်သည်။"
+      },
+      "sources": [
+        {
+          "title": "中国驻缅甸使馆：中华人民共和国签证办理须知（2025年6月30日起启用，网页持续更新）",
+          "url": "https://mm.china-embassy.gov.cn/lsfw/j/fhqz/202312/t20231220_11207842.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Chinese Embassy in Myanmar: Introduction of Visa for the PRC (mainland)",
+          "url": "https://mm.china-embassy.gov.cn/eng/lsfw/hzqz/202312/t20231208_11197906.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "visa-preparation",
+      "title": {
+        "zh": "核查使馆最新材料清单",
+        "en": "Use the current embassy checklist",
+        "my": "သံရုံး၏ လက်ရှိစာရွက်စာတမ်းသတ်မှတ်ချက်များ"
+      },
+      "body": {
+        "zh": "X1通常需学校录取通知及JW201/JW202等学习文件；X2需录取通知及使馆要求的其他材料。护照、有效身份证件和线上申请流程请直接核对驻缅甸使馆页面。",
+        "en": "X1 normally requires an admission letter and study documents such as JW201/JW202; X2 requires admission evidence and the other documents requested by the embassy. Check passport, identification and online application instructions directly with the Chinese Embassy in Myanmar.",
+        "my": "X1 အတွက် ကျောင်းဝင်ခွင့်စာနှင့် JW201/JW202 ကဲ့သို့ ပညာသင်စာရွက်စာတမ်းများ လိုအပ်လေ့ရှိသည်။ X2 အတွက်လည်း သံရုံးတောင်းသောစာရွက်များကို ပြင်ဆင်ရန် လိုသည်။ နိုင်ငံကူးလက်မှတ်၊ မှတ်ပုံတင်နှင့် အွန်လိုင်းလျှောက်လွှာလုပ်ငန်းစဉ်ကို သံရုံးစာမျက်နှာတွင် တိုက်ရိုက်စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "中国驻缅甸使馆：中华人民共和国签证办理须知（2025年6月30日起启用，网页持续更新）",
+          "url": "https://mm.china-embassy.gov.cn/lsfw/j/fhqz/202312/t20231220_11207842.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Chinese Embassy in Myanmar: Introduction of Visa for the PRC (mainland)",
+          "url": "https://mm.china-embassy.gov.cn/eng/lsfw/hzqz/202312/t20231208_11197906.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "intake-planning",
+      "title": {
+        "zh": "区分规划参考和当年招生",
+        "en": "Separate planning from an active intake",
+        "my": "ကြိုတင်စီစဉ်မှုနှင့် သက်ဆိုင်ရာနှစ်၏ ဝင်ခွင့်"
+      },
+      "body": {
+        "zh": "旧年度简章可以帮助提前准备，但申请窗口、课程、语言要求和CSCA规则可能更新。选择目标入学年后，再核查该年正式简章与专业目录。成绩匹配结果用于筛选和咨询，不代替学校的学历审查、专业考核或录取决定。",
+        "en": "An earlier guide can help you plan, but dates, programs, language requirements and CSCA rules may change. Check the official guide and major directory for your intended intake. Matching results support shortlisting and advice; universities still assess qualifications, program readiness and admission.",
+        "my": "ယခင်နှစ်လမ်းညွှန်ကို ကြိုတင်ပြင်ဆင်ရန် သုံးနိုင်သော်လည်း ရက်စွဲ၊ သင်တန်းနှင့် စာမေးပွဲလိုအပ်ချက်များ ပြောင်းလဲနိုင်သည်။ တက်ရောက်မည့်နှစ်၏ တရားဝင်လမ်းညွှန်ကို ပြန်လည်စစ်ဆေးရန် လိုသည်။ ဝက်ဘ်ဆိုက်၏ ရလဒ်သည် ကျောင်းရွေးချယ်ရန် အကူအညီသာ ဖြစ်ပြီး နောက်ဆုံးဝင်ခွင့်ကို တက္ကသိုလ်က ဆုံးဖြတ်ပါသည်။"
+      },
+      "sources": [
+        {
+          "title": "北京外国语大学2026年国际学生本科招生简章",
+          "url": "https://lb.bfsu.edu.cn/info/2612/4701.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Northeastern University 2026 undergraduate application guide",
+          "url": "https://studyinneu.neu.edu.cn/html/article_content/202604/55185DB2D9B14A00AD885F95988B76F8.shtml",
+          "checkedAt": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "nameEn": "Tsinghua University",
+      "nameZh": "清华大学",
+      "city": "Beijing",
+      "description": {
+        "zh": "位于北京的综合性研究大学。学科覆盖工程、自然科学、人文、社会科学、管理、医学和艺术；官网本科介绍强调工程与跨学科培养。",
+        "en": "A comprehensive research university in Beijing. Its fields include engineering, science, humanities, social sciences, management, medicine and art, with an undergraduate emphasis on engineering and interdisciplinary study.",
+        "my": "ဘေဂျင်းရှိ သုတေသနတက္ကသိုလ် ဖြစ်သည်။ အင်ဂျင်နီယာ၊ သိပ္ပံ၊ လူမှုရေး၊ စီမံခန့်ခွဲမှု၊ ဆေးပညာနှင့် အနုပညာဘာသာရပ်များ ရှိသည်။"
+      },
+      "sources": [
+        {
+          "title": "Tsinghua University: General Information",
+          "url": "https://www.tsinghua.edu.cn/en/About/General_Information.htm",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "title": "Tsinghua University: Undergraduate Overview",
+          "url": "https://www.tsinghua.edu.cn/en/Admissions/Undergraduate/Overview.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "id": "cn-tsinghua",
+      "location": {
+        "zh": "北京",
+        "en": "Beijing",
+        "my": "Beijing"
+      },
+      "type": {
+        "zh": "历史985 / 211院校",
+        "en": "Historical 985 / 211 institution",
+        "my": "သမိုင်းဝင် 985 / 211 တက္ကသိုလ်"
+      }
+    },
+    {
+      "nameEn": "Peking University",
+      "nameZh": "北京大学",
+      "city": "Beijing",
+      "description": {
+        "zh": "位于北京，创办于1898年，是学科广泛的综合性大学，涵盖人文、社会科学、自然科学、信息与工程、医学等领域。国际本科的具体申请路线须单独核查。",
+        "en": "Founded in 1898 in Beijing, Peking University spans humanities, social sciences, natural sciences, information and engineering, and medicine. Its international undergraduate admission routes require separate review.",
+        "my": "၁၈၉၈ ခုနှစ်တွင် စတင်ခဲ့သော ဘေဂျင်းရှိ တက္ကသိုလ် ဖြစ်သည်။ လူမှုရေး၊ သိပ္ပံ၊ နည်းပညာ၊ အင်ဂျင်နီယာနှင့် ဆေးပညာအပါအဝင် ဘာသာရပ်များစွာ ရှိသည်။"
+      },
+      "sources": [
+        {
+          "title": "Peking University: 2026 undergraduate entrance examination guide",
+          "url": "https://www.isd.pku.edu.cn/en/detail.php?id=818",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "id": "cn-pku",
+      "location": {
+        "zh": "北京",
+        "en": "Beijing",
+        "my": "Beijing"
+      },
+      "type": {
+        "zh": "历史985 / 211院校",
+        "en": "Historical 985 / 211 institution",
+        "my": "သမိုင်းဝင် 985 / 211 တက္ကသိုလ်"
+      }
+    },
+    {
+      "nameEn": "Zhejiang University",
+      "nameZh": "浙江大学",
+      "city": "Hangzhou",
+      "description": {
+        "zh": "位于浙江杭州，历史可追溯至1897年的求是书院。学校设有多个学部和学院，可结合目标专业的课程、校区及招生项目比较选择。",
+        "en": "Located in Hangzhou, Zhejiang University traces its roots to Qiushi Academy, founded in 1897. Its broad faculties and schools offer varied study options; compare the actual program, campus and admission route.",
+        "my": "ဟန်ကျိုးမြို့တွင် တည်ရှိပြီး ၁၈၉၇ ခုနှစ် Qiushi Academy မှ စတင်ခဲ့သည်။ ဘာသာရပ်ဌာနများစွာရှိသဖြင့် သင်တန်းနှင့် ကျောင်းဝင်းကို သီးခြားရွေးချယ်စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Zhejiang University: Official Overview",
+          "url": "https://mse.zju.edu.cn/enmse/35013/list.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "id": "cn-zju",
+      "location": {
+        "zh": "杭州",
+        "en": "Hangzhou",
+        "my": "Hangzhou"
+      },
+      "type": {
+        "zh": "历史985 / 211院校",
+        "en": "Historical 985 / 211 institution",
+        "my": "သမိုင်းဝင် 985 / 211 တက္ကသိုလ်"
+      }
+    },
+    {
+      "nameEn": "Xiamen University",
+      "nameZh": "厦门大学",
+      "city": "Xiamen",
+      "description": {
+        "zh": "位于福建厦门，由陈嘉庚于1921年创办，是教育部直属的综合性大学。可在官网进一步了解各学院和国际学生项目，具体课程与申请条件按年度简章核查。",
+        "en": "Founded by Tan Kah Kee in 1921, Xiamen University is a comprehensive university in Xiamen, Fujian, directly administered by China’s Ministry of Education. Explore its schools and international programs, then check the annual admission guide.",
+        "my": "ဖူကျန်းပြည်နယ် ရှာမင်မြို့တွင် တည်ရှိပြီး Tan Kah Kee က ၁၉၂၁ ခုနှစ်တွင် တည်ထောင်ခဲ့သည်။ တရုတ်ပညာရေးဝန်ကြီးဌာနအောက်ရှိ တက္ကသိုလ် ဖြစ်သည်။ သင်တန်းနှင့် ဝင်ခွင့်လိုအပ်ချက်ကို နှစ်အလိုက် စစ်ဆေးရန် လိုသည်။"
+      },
+      "sources": [
+        {
+          "title": "Xiamen University: Overview",
+          "url": "https://en.xmu.edu.cn/About_XMU/Overview.htm",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "id": "cn-xmu",
+      "location": {
+        "zh": "厦门",
+        "en": "Xiamen",
+        "my": "Xiamen"
+      },
+      "type": {
+        "zh": "历史985 / 211院校",
+        "en": "Historical 985 / 211 institution",
+        "my": "သမိုင်းဝင် 985 / 211 တက္ကသိုလ်"
+      }
+    }
+  ],
+  "scopeNote": "General preparation information for Myanmar applicants; no individual admission or visa eligibility decision.",
+  "translationNote": "Burmese uses short plain-language summaries; official source text and individual program requirements govern."
+}

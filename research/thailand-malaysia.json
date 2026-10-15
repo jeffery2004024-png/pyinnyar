@@ -1,0 +1,1445 @@
+{
+  "schools": [
+    {
+      "id": "th-chula",
+      "nameZh": "朱拉隆功大学",
+      "nameEn": "Chulalongkorn University",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "classification": "public",
+      "admissionsUrl": "https://www.bistech.sc.chula.ac.th/inter-admission/",
+      "sources": [
+        {
+          "url": "https://www.bistech.sc.chula.ac.th/inter-admission/",
+          "title": "BISTech International Admission 2026",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "BSc Industrial Science and Technology (BISTech), international non-Thai admissions 2026",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "必须先取得学校/泰国相关部门学历等效审核；不能仅凭分数认定缅甸Matriculation符合Grade12。旧制与新12年制分别核实。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "accepted",
+            "note": "完成等效高中考试；Science≥165可满足公布的理科/数学考试替代条件，须交完整GED资格与等效文件。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "高中等效资格须核实；Math B或Chemistry/Physics C可满足公布的科目考试条件。"
+          }
+        },
+        "ielts": {
+          "overall": 6,
+          "bands": null,
+          "validityYears": 2,
+          "scope": "program-specific"
+        },
+        "additional": [
+          "Interview; English/science results used competitively; completed high school/equivalent required."
+        ],
+        "evidence": "2026项目页：非泰籍、高中/同等学历；IELTS 6；GED科学165或A-Level数学B或化学/物理C为科目考试选项。"
+      },
+      "machineRules": [
+        {
+          "scope": "BISTech 2026 international non-Thai route",
+          "qualification": "ged",
+          "academic": {
+            "allGedSubjectsMin": 145,
+            "scienceMin": 165,
+            "equivalencyReviewRequired": true
+          },
+          "ielts": {
+            "overall": 6
+          },
+          "otherRequired": [
+            "Interview",
+            "Verified complete high school equivalency"
+          ]
+        },
+        {
+          "scope": "BISTech 2026 international non-Thai route",
+          "qualification": "alevel",
+          "academic": {
+            "oneOf": [
+              {
+                "subject": "Mathematics",
+                "minGrade": "B"
+              },
+              {
+                "subject": "Chemistry",
+                "minGrade": "C"
+              },
+              {
+                "subject": "Physics",
+                "minGrade": "C"
+              }
+            ],
+            "equivalencyReviewRequired": true
+          },
+          "ielts": {
+            "overall": 6
+          },
+          "otherRequired": [
+            "Interview",
+            "Verified high school qualification"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "th-mahidol",
+      "nameZh": "玛希隆大学",
+      "nameEn": "Mahidol University",
+      "country": "Thailand",
+      "city": "Nakhon Pathom (Salaya)",
+      "classification": "public",
+      "admissionsUrl": "https://muic.mahidol.ac.th/en/study-at-muic/admissions-requirement/undergraduate-admission/overseas-students/",
+      "sources": [
+        {
+          "url": "https://muic.mahidol.ac.th/en/study-at-muic/admissions-requirement/undergraduate-admission/overseas-students/",
+          "title": "MUIC Overseas Students 2026",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://muic.mahidol.ac.th/file/pdf/High_School_Qualification.pdf",
+          "title": "MUIC High School Qualification, May 2025",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "MUIC overseas route: never studied in Thailand",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "官网所链接2025学历表明确Myanmar Matriculation/IGCSE不满足高中等效，要求认可US/Canadian Grade12、A-Level或GED；未分别说明新12年制，因此不得直接匹配。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "accepted",
+            "note": "四科各145且总分600，另提供最近学籍与支持文件。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "至少3门不同科目C，学校考生需Year11–13成绩/毕业证/IGCSE证书；自考生需最近学习记录和IGCSE等文件。"
+          }
+        },
+        "ielts": {
+          "overall": 6,
+          "bands": {
+            "writing": 6
+          },
+          "validityYears": 2,
+          "scope": "MUIC overseas route"
+        },
+        "additional": [
+          "Interview",
+          "Two recommendation letters",
+          "SOP ≥250 words",
+          "Business/science/engineering: SAT Math≥600 or ACT Math≥25; Media/Communication and Travel/Service: SAT Math≥500 or ACT≥18; CD/International Relations/Intercultural Studies exempt Math."
+        ],
+        "evidence": "MUIC海外招生页给出IELTS总6写6及分专业数学门槛；链接学历表给出GED总600/单145、A-Level三C、Myanmar Matriculation不足等效。"
+      },
+      "machineRules": [
+        {
+          "scope": "MUIC International Relations and Global Affairs or Intercultural Studies and Languages only",
+          "qualification": "ged",
+          "academic": {
+            "allGedSubjectsMin": 145,
+            "gedTotalMin": 600
+          },
+          "ielts": {
+            "overall": 6,
+            "writing": 6
+          },
+          "otherRequired": [
+            "Interview",
+            "Supporting education record",
+            "Two references",
+            "Statement of purpose"
+          ]
+        },
+        {
+          "scope": "MUIC International Relations and Global Affairs or Intercultural Studies and Languages only",
+          "qualification": "alevel",
+          "academic": {
+            "subjectCount": 3,
+            "minGrade": "C"
+          },
+          "ielts": {
+            "overall": 6,
+            "writing": 6
+          },
+          "otherRequired": [
+            "Interview",
+            "School or private candidate documents",
+            "Two references",
+            "Statement of purpose"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "th-thammasat",
+      "nameZh": "法政大学",
+      "nameEn": "Thammasat University",
+      "country": "Thailand",
+      "city": "Bangkok / Pathum Thani",
+      "classification": "public",
+      "admissionsUrl": "https://oia.tu.ac.th/wp-content/uploads/2025/11/2.4-BBM-Inter-2.pdf",
+      "sources": [
+        {
+          "url": "https://oia.tu.ac.th/wp-content/uploads/2025/11/2.4-BBM-Inter-2.pdf",
+          "title": "BBA Integrative Business Management international admission 2026",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "Bachelor of Business Administration (Integrative Business Management) international non-resident route",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "必须先取得学校/泰国相关部门学历等效审核；不能仅凭分数认定缅甸Matriculation符合Grade12。旧制与新12年制分别核实。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "accepted",
+            "note": "2017年5月后GED四科145；需完成高中12年级或等效。"
+          },
+          "alevel": {
+            "status": "conditional",
+            "note": "Grade12/equivalent写法，没有单独A-Level成绩门槛；由招生组审核。"
+          }
+        },
+        "ielts": {
+          "overall": 6,
+          "bands": {
+            "listening": 5.5,
+            "reading": 5.5,
+            "writing": 5.5,
+            "speaking": 5.5
+          },
+          "validityYears": 2,
+          "scope": "program-specific"
+        },
+        "additional": [
+          "Non-Thai citizen and no residence in Thailand",
+          "SAT/Gaokao/TISR aptitude score required",
+          "Interview"
+        ],
+        "evidence": "2026官方PDF列GED各145、IELTS6/各项5.5、另需能力考试；PDF能力考试表的百分比版式含糊，不编造SAT数值。"
+      },
+      "machineRules": []
+    },
+    {
+      "id": "th-kmitl",
+      "nameZh": "先皇理工学院（拉甲邦）",
+      "nameEn": "King Mongkut's Institute of Technology Ladkrabang",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "classification": "public",
+      "admissionsUrl": "https://www1.reg.kmitl.ac.th/TCAS_old/news/files/2569_1_news1_4075_2025_09_11-09-48-56_a1691.pdf",
+      "sources": [
+        {
+          "url": "https://www1.reg.kmitl.ac.th/TCAS_old/news/files/2569_1_news1_4075_2025_09_11-09-48-56_a1691.pdf",
+          "title": "International Architecture direct admission round 1-1 AY2026",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "BSc Architecture (International Program), 2026 round 1-1 only",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "必须先取得学校/泰国相关部门学历等效审核；不能仅凭分数认定缅甸Matriculation符合Grade12。旧制与新12年制分别核实。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "accepted",
+            "note": "2017年5月后四科各145并通过。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "IGCSE/GCSE/O-Level五科C及以上 + A-Level三门不同科目E及以上。"
+          }
+        },
+        "ielts": {
+          "overall": 6,
+          "bands": null,
+          "validityYears": 2,
+          "scope": "program-specific"
+        },
+        "additional": [
+          "SAT Math≥570 or CU-AAT Math≥550 or approved alternative",
+          "Portfolio/iFolio",
+          "Personal statement ≤650 words",
+          "Two references",
+          "Interview",
+          "2026 round 1-1 application closed; thresholds are reference for that intake."
+        ],
+        "evidence": "官方2026建筑本科公告规定GED四科145、A-Level三E和O-Level五C、IELTS6、数学考试及作品集。"
+      },
+      "machineRules": [
+        {
+          "scope": "2026 BSc Architecture international round 1-1",
+          "qualification": "ged",
+          "academic": {
+            "allGedSubjectsMin": 145
+          },
+          "ielts": {
+            "overall": 6
+          },
+          "otherRequired": [
+            "SAT Math 570 / CU-AAT 550 / approved alternative",
+            "Portfolio",
+            "Interview",
+            "Two references",
+            "Personal statement"
+          ],
+          "intakeClosed": true
+        }
+      ]
+    },
+    {
+      "id": "th-bangkok",
+      "nameZh": "曼谷大学",
+      "nameEn": "Bangkok University",
+      "country": "Thailand",
+      "city": "Pathum Thani",
+      "classification": "private",
+      "admissionsUrl": "https://www.bu.ac.th/en/admission-info/international-programs",
+      "sources": [
+        {
+          "url": "https://www.bu.ac.th/en/admission-info/international-programs",
+          "title": "International Programs Admissions",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "General direct academic/English entry to BU international undergraduate courses",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "必须先取得学校/泰国相关部门学历等效审核；不能仅凭分数认定缅甸Matriculation符合Grade12。旧制与新12年制分别核实。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "accepted",
+            "note": "Completed GED列直接学历选项；英文豁免另需新GED总720，不能与学历最低混淆。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "IGCSE/GCSE/O-Level五科C + A/AS-Level三科C；A-Level三科C亦为英语豁免项。"
+          }
+        },
+        "ielts": {
+          "overall": 5,
+          "bands": {
+            "listening": 5,
+            "reading": 5,
+            "writing": 5,
+            "speaking": 5
+          },
+          "validityYears": 2,
+          "scope": "general international programs"
+        },
+        "additional": [
+          "Recognized complete diploma and certified English/Thai translation",
+          "Alternative English tests or BU test accepted"
+        ],
+        "evidence": "BU官方国际本科页接受完成GED，IELTS总5且各项5；英国路径另需O-Level五C与A/AS三C。"
+      },
+      "machineRules": [
+        {
+          "scope": "BU international undergraduate direct entry",
+          "qualification": "ged",
+          "academic": {
+            "completedGed": true,
+            "allGedSubjectsMin": 145
+          },
+          "ielts": {
+            "overall": 5,
+            "listening": 5,
+            "reading": 5,
+            "writing": 5,
+            "speaking": 5
+          },
+          "otherRequired": [
+            "Complete diploma/transcript verification"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "th-assumption",
+      "nameZh": "易三仓大学",
+      "nameEn": "Assumption University of Thailand",
+      "country": "Thailand",
+      "city": "Bangkok / Samut Prakan",
+      "classification": "private",
+      "admissionsUrl": "https://www.au.edu/criteria/",
+      "sources": [
+        {
+          "url": "https://www.au.edu/criteria/",
+          "title": "Admission Criteria",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "General undergraduate application eligibility; faculties have extra assessment",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "必须先取得学校/泰国相关部门学历等效审核；不能仅凭分数认定缅甸Matriculation符合Grade12。旧制与新12年制分别核实。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "accepted",
+            "note": "四科各145，总580，交GED成绩单和毕业证。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "O-Level五科C + A/AS-Level三科C，总八科，等级内不得重复。"
+          }
+        },
+        "ielts": {
+          "overall": 5,
+          "bands": null,
+          "validityYears": 2,
+          "scope": "English placement and intensive English exemption, NOT universal mandatory minimum"
+        },
+        "additional": [
+          "English/Math placement or intensive courses unless exempt",
+          "Faculty-specific portfolio/interview/health requirements"
+        ],
+        "evidence": "学校官方页接受GED各145/总580；IELTS5明确用于免英语分班及强化课，不是未达即不可申请。"
+      },
+      "machineRules": [
+        {
+          "scope": "General undergraduate application route; faculty checks remain",
+          "qualification": "ged",
+          "academic": {
+            "allGedSubjectsMin": 145,
+            "gedTotalMin": 580
+          },
+          "ielts": {
+            "overall": 5,
+            "mode": "exemption"
+          },
+          "otherRequired": [
+            "Math placement / exemption",
+            "Faculty-specific checks"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "th-payap",
+      "nameZh": "西北大学（清迈）",
+      "nameEn": "Payap University",
+      "country": "Thailand",
+      "city": "Chiang Mai",
+      "classification": "private",
+      "admissionsUrl": "https://iit.payap.ac.th/?page_id=4730",
+      "sources": [
+        {
+          "url": "https://iit.payap.ac.th/?page_id=4730",
+          "title": "Information Technology Admissions",
+          "year": null,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://regapp.payap.ac.th/eAdmission/Home/ShowProgramInSemester/5",
+          "title": "2026 programmes open for admission",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "International College BSc Information Technology",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "必须先取得学校/泰国相关部门学历等效审核；不能仅凭分数认定缅甸Matriculation符合Grade12。旧制与新12年制分别核实。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "accepted",
+            "note": "International GED四科通过并附毕业证。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "O-Level五科C + A-Level三科C和毕业证。"
+          }
+        },
+        "ielts": {
+          "overall": 6,
+          "bands": null,
+          "scope": "program-specific"
+        },
+        "additional": [
+          "English-medium international school graduates may be exempt",
+          "Lower English: intensive English / foundation review",
+          "Qualification documents and department assessment"
+        ],
+        "evidence": "Payap IT部门官方招生页列国际GED四科通过、英国O-Level五C/A-Level三C、IELTS6；英语不足有IEP路径。"
+      },
+      "machineRules": [
+        {
+          "scope": "Payap BSc Information Technology international",
+          "qualification": "ged",
+          "academic": {
+            "allGedSubjectsMin": 145,
+            "completedGed": true
+          },
+          "ielts": {
+            "overall": 6
+          },
+          "otherRequired": [
+            "Diploma",
+            "Department review"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "th-siam",
+      "nameZh": "暹罗大学",
+      "nameEn": "Siam University",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "classification": "private",
+      "admissionsUrl": "https://globalacademy.siam.edu/entry-requirements/",
+      "sources": [
+        {
+          "url": "https://globalacademy.siam.edu/entry-requirements/",
+          "title": "Global Academy Entry Requirements",
+          "year": null,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "Global Academy bachelor Year1 / Part A only",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "必须先取得学校/泰国相关部门学历等效审核；不能仅凭分数认定缅甸Matriculation符合Grade12。旧制与新12年制分别核实。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "accepted",
+            "note": "四科各145。"
+          },
+          "alevel": {
+            "status": "unknown",
+            "note": "该页未单列A-Level门槛，不能由其他资格推断。"
+          }
+        },
+        "ielts": {
+          "overall": 5,
+          "bands": {
+            "listening": 5,
+            "reading": 5,
+            "writing": 5,
+            "speaking": 5
+          },
+          "scope": "Global Academy bachelor Part A"
+        },
+        "additional": [
+          "Three-question personal statement",
+          "Normally study gap≤5 years, no prior bachelor",
+          "Part B progression needs equivalent IELTS6–6.5 depending on partner"
+        ],
+        "evidence": "Global Academy官方入学页列GED各145、Part A本科IELTS各项5；Part B升段需要更高英语。"
+      },
+      "machineRules": [
+        {
+          "scope": "Siam Global Academy bachelor Part A only",
+          "qualification": "ged",
+          "academic": {
+            "allGedSubjectsMin": 145
+          },
+          "ielts": {
+            "overall": 5,
+            "listening": 5,
+            "reading": 5,
+            "writing": 5,
+            "speaking": 5
+          },
+          "otherRequired": [
+            "Personal statement",
+            "Normally gap <=5 years",
+            "No previous bachelor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "th-stamford",
+      "nameZh": "斯坦福国际大学（泰国）",
+      "nameEn": "Stamford International University",
+      "country": "Thailand",
+      "city": "Bangkok / Hua Hin",
+      "classification": "private",
+      "admissionsUrl": "https://www.stamford.edu/campus-life/international-students/bachelors-degree/",
+      "sources": [
+        {
+          "url": "https://www.stamford.edu/campus-life/international-students/bachelors-degree/",
+          "title": "Bachelor’s Degree International Admissions",
+          "year": null,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "General international undergraduate admissions",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "必须先取得学校/泰国相关部门学历等效审核；不能仅凭分数认定缅甸Matriculation符合Grade12。旧制与新12年制分别核实。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "accepted",
+            "note": "总580且四科各145。"
+          },
+          "alevel": {
+            "status": "conditional",
+            "note": "列至少三科A-Level，无单科成绩下限；其他资格建议联系招生办公室。"
+          }
+        },
+        "ielts": {
+          "overall": 5.5,
+          "bands": null,
+          "scope": "general international route"
+        },
+        "additional": [
+          "IELTS/TOEFL可豁免分班",
+          "英语不足学生进入Stamford English Program后再开始学位",
+          "Diploma verification"
+        ],
+        "evidence": "官方本科国际招生页接受GED总580/各科145，IELTS5.5，并给出英语预备路径。"
+      },
+      "machineRules": [
+        {
+          "scope": "Stamford international undergraduate",
+          "qualification": "ged",
+          "academic": {
+            "allGedSubjectsMin": 145,
+            "gedTotalMin": 580
+          },
+          "ielts": {
+            "overall": 5.5
+          },
+          "otherRequired": [
+            "High school qualification verification"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "my-um",
+      "nameZh": "马来亚大学",
+      "nameEn": "Universiti Malaya",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "classification": "public",
+      "admissionsUrl": "https://aasd.um.edu.my/faq-ug-international-admission",
+      "sources": [
+        {
+          "url": "https://aasd.um.edu.my/faq-ug-international-admission",
+          "title": "International Undergraduate FAQ (updated 2021)",
+          "year": 2021,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+          "title": "MQA international entry qualifications, December 2025",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "General international bachelor eligibility only; FAQ dated 2021, programme rules must be checked",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "MQA允许2024起12年制Basic Education High School/Matriculation用于本科层级；学校仍需审核资格、科目与分数等效性。旧制11年资格仅Foundation/Certificate/Diploma层级。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "unknown",
+            "note": "MQA将GED列为本科入学层级资格，但该学校/项目未明确公布GED成绩门槛及接受方式，不能当作已获学校认可。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "完成至少12年学习、通过A-Level；各专业成绩另查。"
+          }
+        },
+        "ielts": {
+          "overall": 5,
+          "bands": null,
+          "scope": "historical general baseline; many programmes explicitly require higher score",
+          "currentVerified": false
+        },
+        "additional": [
+          "Programmes in engineering/business/computer science/health/languages explicitly have higher English thresholds",
+          "Some interviews",
+          "Recognized certificate and translated transcripts"
+        ],
+        "evidence": "官方FAQ要求至少12年学习和A-Level/Grade12等；IELTS5仅一般值，列出的多个专业要求更高。2021页面不宜当2026专业完整规则。"
+      },
+      "machineRules": []
+    },
+    {
+      "id": "my-ukm",
+      "nameZh": "马来西亚国立大学",
+      "nameEn": "Universiti Kebangsaan Malaysia",
+      "country": "Malaysia",
+      "city": "Bangi, Selangor",
+      "classification": "public",
+      "admissionsUrl": "https://ftsm.ukm.my/v6/30thftsm",
+      "sources": [
+        {
+          "url": "https://ftsm.ukm.my/v6/30thftsm",
+          "title": "FTSM international undergraduate/executive programme requirements",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://www.ukm.my/portal/undergraduate-programmes/",
+          "title": "Undergraduate Programmes",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+          "title": "MQA international entry qualifications, December 2025",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "FTSM Information Science & Technology international/executive route only",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "MQA允许2024起12年制Basic Education High School/Matriculation用于本科层级；学校仍需审核资格、科目与分数等效性。旧制11年资格仅Foundation/Certificate/Diploma层级。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "unknown",
+            "note": "MQA将GED列为本科入学层级资格，但该学校/项目未明确公布GED成绩门槛及接受方式，不能当作已获学校认可。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "A-Level一次考试获得；也认可学校与马来西亚政府确认的等效资格；项目仍审核科目成绩等效。"
+          }
+        },
+        "ielts": {
+          "overall": 5,
+          "bands": null,
+          "scope": "FTSM international/executive programme page"
+        },
+        "additional": [
+          "Overall average80% including Mathematics and two science subjects and English each80%; letter-grade conversion must be approved by UKM",
+          "Application managed through UKMShape"
+        ],
+        "evidence": "FTSM官方页面列国际生A-Level/认可等效资格，整体80%和列示科目80%，IELTS5；不能给所有UKM专业套用。"
+      },
+      "machineRules": []
+    },
+    {
+      "id": "my-upm",
+      "nameZh": "马来西亚博特拉大学",
+      "nameEn": "Universiti Putra Malaysia",
+      "country": "Malaysia",
+      "city": "Serdang, Selangor",
+      "classification": "public",
+      "admissionsUrl": "https://econ.upm.edu.my/upload/dokumen/20260130172349INTERNATIONAL_BROUCHURE_30_JAN_2026.pdf",
+      "sources": [
+        {
+          "url": "https://econ.upm.edu.my/upload/dokumen/20260130172349INTERNATIONAL_BROUCHURE_30_JAN_2026.pdf",
+          "title": "School of Business and Economics trimester international brochure January 2026",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://akademik.upm.edu.my/upload/dokumen/20260421121420The_List_of_Entry_Qualifications_for_International_Student_-_December_2025_%281%29.pdf",
+          "title": "UPM copy of MQA qualification list",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "Business school trimester bachelors (BBA, Economics, Accounting, Applied Finance), January2026 brochure",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "MQA允许2024起12年制Basic Education High School/Matriculation用于本科层级；学校仍需审核资格、科目与分数等效性。旧制11年资格仅Foundation/Certificate/Diploma层级。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "unknown",
+            "note": "MQA将GED列为本科入学层级资格，但该学校/项目未明确公布GED成绩门槛及接受方式，不能当作已获学校认可。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "12年教育/A-Level等需80%或CGPA3；数学、英语及指定第三科B。A-Level等效百分比须学校核准。"
+          }
+        },
+        "ielts": {
+          "overall": 5.5,
+          "bands": {
+            "speaking": 5,
+            "listening": 5
+          },
+          "scope": "BBA/Economics trimester route; Accounting/Applied Finance require overall6 and S/L5.5"
+        },
+        "additional": [
+          "Overall80%/CGPA3 and B in Math, English and one Economics/Business/Accounting/science/geography/history",
+          "Faculty-specific eligibility"
+        ],
+        "evidence": "2026商学院资料明确BBA/经济IELTS5.5且听说5；会计/应用金融6且听说5.5，学历最低80%或CGPA3并有科目B条件。PDF部分学术条件为图像，已核实官方索引与页面。"
+      },
+      "machineRules": []
+    },
+    {
+      "id": "my-usm",
+      "nameZh": "马来西亚理科大学",
+      "nameEn": "Universiti Sains Malaysia",
+      "country": "Malaysia",
+      "city": "Penang / other campuses",
+      "classification": "public",
+      "admissionsUrl": "https://admission.usm.my/undergraduate/undergraduate-international",
+      "sources": [
+        {
+          "url": "https://admission.usm.my/undergraduate/undergraduate-international",
+          "title": "Undergraduate International Admissions",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+          "title": "MQA international entry qualifications, December 2025",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "General international bachelor eligibility",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "MQA允许2024起12年制Basic Education High School/Matriculation用于本科层级；学校仍需审核资格、科目与分数等效性。旧制11年资格仅Foundation/Certificate/Diploma层级。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "unknown",
+            "note": "MQA将GED列为本科入学层级资格，但该学校/项目未明确公布GED成绩门槛及接受方式，不能当作已获学校认可。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "至少12年学习，完整A-Level等；AS/预测/临时/模拟成绩不接受。"
+          }
+        },
+        "ielts": {
+          "overall": 5,
+          "bands": null,
+          "scope": "general baseline; each programme has specific requirements"
+        },
+        "additional": [
+          "Programme-specific subject thresholds",
+          "Some interview/test",
+          "Qualification Senate review"
+        ],
+        "evidence": "官方国际招生页要求12年学习及完整A-Level/Grade12等，排除AS/预测成绩；一般IELTS5并另查专业门槛。"
+      },
+      "machineRules": []
+    },
+    {
+      "id": "my-utm",
+      "nameZh": "马来西亚理工大学",
+      "nameEn": "Universiti Teknologi Malaysia",
+      "country": "Malaysia",
+      "city": "Johor Bahru / Kuala Lumpur",
+      "classification": "public",
+      "admissionsUrl": "https://admission.utm.my/entry-requirements-ug-international/",
+      "sources": [
+        {
+          "url": "https://admission.utm.my/entry-requirements-ug-international/",
+          "title": "Undergraduate international country requirements",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://admission.utm.my/english-language-requirements-3/",
+          "title": "English Language Requirements",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://admission.utm.my/undergraduate-international/",
+          "title": "2026/2027 direct admissions and bridging change",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+          "title": "MQA international entry qualifications, December 2025",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "Country/qualification-specific international undergraduate entry",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "明确列2024起12年资格；官网Myanmar分科要求写≥4/5，不能未经认证把100分成绩换成80%，需学校分数等效审核。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "conditional",
+            "note": "Engineering/Computer Science/Science明文Not Eligible；Social Science/Built Environment写≥175/200三科但其列示科目与GED科目不对应，需学院人工核实。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "认可Cambridge/OxfordAQA/Pearson International A-Level；普通工程Math+Physics+Chem/Bio三C；电气工程三B；Computer Science Math和指定两科C。"
+          }
+        },
+        "ielts": {
+          "overall": 5.5,
+          "bands": null,
+          "scope": "general entry table; same page enrollment table says overall6.0, clarification required",
+          "conflict": true
+        },
+        "additional": [
+          "No Bridging Programme starting Semester1 2026/27",
+          "Faculty-specific requirements",
+          "Architecture/industrial design interview",
+          "English page contains conflicting5.5/6.0 enrollment statements"
+        ],
+        "evidence": "官网国际资格表明确GED部分学科不适格；Myanmar要求4/5；A-Level按科目分门槛。英语页入学总表5.5但直接入学院表6，禁止隐藏冲突。"
+      },
+      "machineRules": [
+        {
+          "scope": "UTM engineering/computer science/science international entry",
+          "qualification": "ged",
+          "disallowed": true,
+          "reason": "GED listed Not Eligible"
+        },
+        {
+          "scope": "UTM International A-Level general engineering excluding Electrical Engineering",
+          "qualification": "alevel",
+          "academic": {
+            "subjects": [
+              {
+                "subject": "Mathematics",
+                "minGrade": "C"
+              },
+              {
+                "subject": "Physics",
+                "minGrade": "C"
+              }
+            ],
+            "anyOfSubjects": [
+              {
+                "subject": "Chemistry",
+                "minGrade": "C"
+              },
+              {
+                "subject": "Biology",
+                "minGrade": "C"
+              }
+            ]
+          },
+          "ielts": {
+            "overall": 6,
+            "conflictRequiresReview": true
+          },
+          "otherRequired": [
+            "Faculty conditions",
+            "English entry/enrollment clarification"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "my-taylor",
+      "nameZh": "泰莱大学",
+      "nameEn": "Taylor's University",
+      "country": "Malaysia",
+      "city": "Subang Jaya, Selangor",
+      "classification": "private",
+      "admissionsUrl": "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-business.html",
+      "sources": [
+        {
+          "url": "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-business.html",
+          "title": "Bachelor of Business (Honours)",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+          "title": "MQA international entry qualifications, December 2025",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "Bachelor of Business (Honours) only",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "MQA允许2024起12年制Basic Education High School/Matriculation用于本科层级；学校仍需审核资格、科目与分数等效性。旧制11年资格仅Foundation/Certificate/Diploma层级。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "unknown",
+            "note": "MQA将GED列为本科入学层级资格，但该学校/项目未明确公布GED成绩门槛及接受方式，不能当作已获学校认可。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "A-Level至少DD，并需SPM/O-Level/等效五个credit，包括数学/英语pass。"
+          }
+        },
+        "ielts": {
+          "overall": null,
+          "bands": null,
+          "scope": "International section lists MUET3 / CEFR LowB2 / English-medium pre-U; no exact IELTS numerical threshold published here"
+        },
+        "additional": [
+          "SPM/O-Level equivalent5credits incl Math/English pass",
+          "International English criteria: MUET3 or CEFR LowB2; English-medium pre-U accepted",
+          "IEN preparatory course available"
+        ],
+        "evidence": "当前官方商业本科页A-Level DD；国际英语段没有IELTS具体数字，不能把本地Taylor EET5.0误当国际IELTS5。"
+      },
+      "machineRules": []
+    },
+    {
+      "id": "my-sunway",
+      "nameZh": "双威大学",
+      "nameEn": "Sunway University",
+      "country": "Malaysia",
+      "city": "Sunway City, Selangor",
+      "classification": "private",
+      "admissionsUrl": "https://sunwayuniversity.edu.my/sunway-business-school/courses/bachelor-of-science-honours-business-studies",
+      "sources": [
+        {
+          "url": "https://sunwayuniversity.edu.my/sunway-business-school/courses/bachelor-of-science-honours-business-studies",
+          "title": "BSc (Honours) Business Studies",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+          "title": "MQA international entry qualifications, December 2025",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "BSc (Honours) Business Studies only; not Business Management or Accounting programmes",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "MQA允许2024起12年制Basic Education High School/Matriculation用于本科层级；学校仍需审核资格、科目与分数等效性。旧制11年资格仅Foundation/Certificate/Diploma层级。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "unknown",
+            "note": "MQA将GED列为本科入学层级资格，但该学校/项目未明确公布GED成绩门槛及接受方式，不能当作已获学校认可。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "至少12 points，至少两科D。官网计分A10 B8 C6 D4 E2。"
+          }
+        },
+        "ielts": {
+          "overall": 6,
+          "bands": null,
+          "scope": "program-specific"
+        },
+        "additional": [
+          "Mathematics pass at SPM or equivalent",
+          "Other qualifications assessed case by case",
+          "UEC条目只指马来西亚统考"
+        ],
+        "evidence": "当前商业研究学士页A-Level12 points且两科D、IELTS6、SPM/等效数学pass；不同专业旧宣传册14分不可覆盖此页。"
+      },
+      "machineRules": [
+        {
+          "scope": "BSc Honours Business Studies",
+          "qualification": "alevel",
+          "academic": {
+            "pointsMin": 12,
+            "pointsMap": {
+              "A": 10,
+              "B": 8,
+              "C": 6,
+              "D": 4,
+              "E": 2
+            },
+            "subjectsAtGrade": {
+              "count": 2,
+              "minGrade": "D"
+            },
+            "aStarPointsRequireReview": true
+          },
+          "ielts": {
+            "overall": 6
+          },
+          "otherRequired": [
+            "SPM/O-Level or equivalent Mathematics pass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "my-nottingham",
+      "nameZh": "诺丁汉大学马来西亚校区",
+      "nameEn": "University of Nottingham Malaysia",
+      "country": "Malaysia",
+      "city": "Semenyih, Selangor",
+      "classification": "private-branch",
+      "admissionsUrl": "https://www.nottingham.edu.my/ugstudy/course/international-business-management-bsc-hons",
+      "sources": [
+        {
+          "url": "https://www.nottingham.edu.my/ugstudy/course/international-business-management-bsc-hons",
+          "title": "International Business Management BSc (Hons) 2026 entry",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+          "title": "MQA international entry qualifications, December 2025",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "International Business Management BSc (Hons), 2026 entry",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "MQA允许2024起12年制Basic Education High School/Matriculation用于本科层级；学校仍需审核资格、科目与分数等效性。旧制11年资格仅Foundation/Certificate/Diploma层级。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "unknown",
+            "note": "MQA将GED列为本科入学层级资格，但该学校/项目未明确公布GED成绩门槛及接受方式，不能当作已获学校认可。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "BCC，排除Critical Thinking和General Studies；单独按专业要求。"
+          }
+        },
+        "ielts": {
+          "overall": 6.5,
+          "bands": {
+            "listening": 6,
+            "reading": 6,
+            "writing": 6,
+            "speaking": 6
+          },
+          "validityYears": 2,
+          "scope": "program-specific",
+          "notAccepted": [
+            "IELTS Academic Online"
+          ]
+        },
+        "additional": [
+          "Individual consideration",
+          "Mathematics B at SPM/GCSE/IGCSE/High School Diploma or equivalent; may be waived for C at higher-level Mathematics.",
+          "UEC为马来西亚统考而不是缅甸华校证书"
+        ],
+        "evidence": "2026商业管理官网列A-Level BCC，IELTS6.5各项6；高中层级数学B，可由较高层级数学C豁免。IELTS需不足两年，不接受Academic Online。"
+      },
+      "machineRules": [
+        {
+          "scope": "International Business Management BSc Honours 2026",
+          "qualification": "alevel",
+          "academic": {
+            "sortedMinGrades": [
+              "B",
+              "C",
+              "C"
+            ],
+            "excludedSubjects": [
+              "Critical Thinking",
+              "General Studies"
+            ],
+            "mathematicsPrerequisite": {
+              "oneOf": [
+                {
+                  "level": "SPM/GCSE/IGCSE/High School Diploma or equivalent",
+                  "subject": "Mathematics",
+                  "minGrade": "B"
+                },
+                {
+                  "level": "Higher-level Mathematics",
+                  "subject": "Mathematics",
+                  "minGrade": "C",
+                  "mode": "possible waiver"
+                }
+              ]
+            }
+          },
+          "ielts": {
+            "overall": 6.5,
+            "listening": 6,
+            "reading": 6,
+            "writing": 6,
+            "speaking": 6
+          },
+          "otherRequired": [
+            "Verified Mathematics prerequisite (B at secondary level or approved waiver with higher-level C)",
+            "Certificate and subject-equivalency verification"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "my-monash",
+      "nameZh": "蒙纳士大学马来西亚校区",
+      "nameEn": "Monash University Malaysia",
+      "country": "Malaysia",
+      "city": "Sunway City, Selangor",
+      "classification": "private-branch",
+      "admissionsUrl": "https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce",
+      "sources": [
+        {
+          "url": "https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce",
+          "title": "Bachelor of Business and Commerce",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://www.monash.edu.my/study/entry-requirements/english/tests",
+          "title": "English proficiency tests",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://www.monash.edu.my/study/entry-requirements/academic/undergraduate/calculating-entry-scores",
+          "title": "Calculating undergraduate entry scores",
+          "year": 2026,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        },
+        {
+          "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+          "title": "MQA international entry qualifications, December 2025",
+          "year": 2025,
+          "checkedAt": "2026-10-08",
+          "authority": "official"
+        }
+      ],
+      "requirements": {
+        "scope": "Bachelor of Business and Commerce only",
+        "qualifications": {
+          "matriculation": {
+            "status": "conditional",
+            "note": "MQA允许2024起12年制Basic Education High School/Matriculation用于本科层级；学校仍需审核资格、科目与分数等效性。旧制11年资格仅Foundation/Certificate/Diploma层级。"
+          },
+          "chineseSchool": {
+            "status": "unknown",
+            "note": "未找到学校对缅甸华文学校自颁毕业证的明确认可规则；不是马来西亚UEC，必须审核颁证机构与学历等效性。"
+          },
+          "ged": {
+            "status": "unknown",
+            "note": "MQA将GED列为本科入学层级资格，但该学校/项目未明确公布GED成绩门槛及接受方式，不能当作已获学校认可。"
+          },
+          "alevel": {
+            "status": "accepted",
+            "note": "GCE A-Level分数≥7；取2年内最多最佳3科，A*/A5 B4 C3 D2 E1，A*最多加1bonus；通常至少两科D，先修科至少D。"
+          }
+        },
+        "ielts": {
+          "overall": 6.5,
+          "bands": {
+            "listening": 6,
+            "reading": 6,
+            "writing": 6,
+            "speaking": 6
+          },
+          "validityYears": 2,
+          "scope": "standard undergraduate English; nutrition/medicine different"
+        },
+        "additional": [
+          "Australian Year11 equivalent Mathematics prerequisite",
+          "Minimum age and recognized qualification",
+          "Prerequisite Math equivalency must be reviewed"
+        ],
+        "evidence": "课程页A-Level7 points和Year11数学先修；计分页给最佳三科、映射及D等级要求；官方英语页一般本科IELTS6.5且各项6。"
+      },
+      "machineRules": [
+        {
+          "scope": "Bachelor of Business and Commerce",
+          "qualification": "alevel",
+          "academic": {
+            "pointsMin": 7,
+            "bestSubjectsCount": 3,
+            "pointsMap": {
+              "A*": 5,
+              "A": 5,
+              "B": 4,
+              "C": 3,
+              "D": 2,
+              "E": 1,
+              "U": 0
+            },
+            "aStarMaxBonus": 1,
+            "subjectsAtGrade": {
+              "count": 2,
+              "minGrade": "D"
+            },
+            "sittingsWithinYears": 2
+          },
+          "ielts": {
+            "overall": 6.5,
+            "listening": 6,
+            "reading": 6,
+            "writing": 6,
+            "speaking": 6
+          },
+          "otherRequired": [
+            "Year11 equivalent Mathematics",
+            "Age",
+            "Subject equivalency"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "checkedAt": "2026-10-08",
+    "coverage": "9 Thailand universities and 9 Malaysia universities; qualified programme routes and general catalog entries, not exhaustive national directories.",
+    "matchingPolicy": "Sources supply eligibility screens only. Missing/uncertain qualification acceptance, programme subject requirements, recognized diploma, equivalency, interview, portfolio or extra exams must return review required. Never label admission guaranteed.",
+    "countryPolicies": [
+      {
+        "country": "Malaysia",
+        "sources": [
+          {
+            "url": "https://www.mqa.gov.my/new/document/2025/The%20List%20of%20Entry%20Qualifications%20for%20International%20Student%20-%20December%202025.pdf",
+            "title": "MQA international entry qualifications, December 2025",
+            "year": 2025,
+            "checkedAt": "2026-10-08",
+            "authority": "official"
+          },
+          {
+            "url": "https://www.mqa.gov.my/new/nilai_taraf.cfm",
+            "title": "International qualification equivalency principles",
+            "year": 2026,
+            "checkedAt": "2026-10-08",
+            "authority": "official"
+          }
+        ],
+        "evidence": "MQA2025表将Myanmar旧11年资格列Foundation/Certificate/Diploma，将2024起12年资格列Bachelor；GED列Bachelor但学校可增加条件。MQA不审核科目/成绩等效，由大学负责。"
+      },
+      {
+        "country": "Thailand",
+        "evidence": "各校各项目单独审核学历。没有找到可覆盖所有泰国学校的Myanmar Matriculation新旧制认可统一结论。"
+      }
+    ],
+    "qualificationLabels": {
+      "myanmarLegacy": "Old Matriculation called Grade10 locally; MQA describes total11 years of schooling. Capture exam year AND curriculum AND study years.",
+      "myanmarNew": "Basic Education High School Examination and Matriculation Examination starting2024,12years per MQA.",
+      "chineseSchool": "Myanmar Chinese school diploma; do not equate with Malaysia UEC, China Gaokao, or Taiwan high school."
+    }
+  }
+}
