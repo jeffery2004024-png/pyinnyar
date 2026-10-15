@@ -1,0 +1,2 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {legacyTarget} from '../scripts/legacy-redirect.mjs';import {SITE} from '../dist/site-config.mjs';
+test('legacy routes retain their language and matching page',()=>{for(const [old,expected] of [['/','zh/'],['/my/','my/'],['/en/match','en/match/'],['/my/scholarships.html','my/scholarships/'],['/universities','zh/universities/'],['/en/index.html','en/']])assert.equal(legacyTarget(old,SITE.url),SITE.url+expected);});
