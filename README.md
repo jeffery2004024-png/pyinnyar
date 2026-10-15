@@ -55,9 +55,9 @@ GitHub Actions 从 `main` 构建、运行检查并将 `dist/` 上传到 GitHub P
 
 ### 站长本人后续操作
 
-1. Google Search Console 添加 URL-prefix 属性 `https://jeffery2004024-png.github.io/pyinnyar/`，使用 Google 返回的新 HTML 验证文件或 meta（填写 `config/seo.json` 后重建）。旧站的验证标记不代表新站已验证。
-2. 提交 `https://jeffery2004024-png.github.io/pyinnyar/sitemap.xml`，可分别请求收录三语首页及主要功能页。
-3. Bing Webmaster Tools 添加新站并验证、提交同一个 sitemap（也可按其流程从已验证的 Google 属性导入）。
+1. Google Search Console 的新网址前缀资源已于2026-10-15通过 HTML 文件验证。保留 `dist/google88310a339681c59b.html`，后续构建不能删除该文件；它是公开的所有权验证文件，不是登录凭据。
+2. 已提交 `https://jeffery2004024-png.github.io/pyinnyar/sitemap.xml`，Google接受了提交，但本轮首次读取显示“Couldn’t fetch”。线上文件实测HTTP200、application/xml、XML有效且有15条页面地址。默认缅文首页 `/my/` 的索引请求已确认加入优先抓取队列；实际收录仍需等待Google处理。
+3. Bing Webmaster Tools 本轮未完成：Safari中的控制台入口跳回介绍页并持续空白，未能确认可用的登录会话。待本人可以进入已登录的Bing控制台后，添加新站并验证、提交同一个sitemap；也可按其流程从已验证的Google属性导入。
 4. Facebook专页“网站”栏及其他公开简介、宣传材料改成新网址。保留旧站，供旧链接和搜索引擎逐步迁移。
 
 搜索引擎需要自行抓取并更新索引；静态站发布和跳转不代表已经收录或达到特定排名。
